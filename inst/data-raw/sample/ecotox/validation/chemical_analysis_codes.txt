@@ -1,0 +1,10 @@
+code|description
+--|Unspecified
+C|Calculated
+M|Measured
+MULT|Multiple methods (for terrestrial rollup)
+NC|Not coded
+NR|Not reported
+U|Unmeasured
+X|Unmeasured values (some measured values reported in article)
+Z|Chemical analysis reported

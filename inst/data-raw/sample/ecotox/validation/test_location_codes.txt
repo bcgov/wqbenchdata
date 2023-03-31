@@ -1,0 +1,7 @@
+code|description
+--|Unspecified
+FIELDA|Field artificial
+FIELDN|Field natural
+FIELDU|Field undeterminable
+LAB|Lab
+NR|Not reported

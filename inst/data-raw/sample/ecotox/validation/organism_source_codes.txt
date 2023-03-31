@@ -1,0 +1,13 @@
+code|description
+--|Unspecified
+CBC|Captive breeding colony
+COM|Commercial
+DOM|Domestic
+GAM|Game farm
+GO|Government agency
+GOV|Government agency
+LAB|Laboratory
+MLT|Multiple sources
+NC|Not coded
+NR|Not reported
+WLD|Wild

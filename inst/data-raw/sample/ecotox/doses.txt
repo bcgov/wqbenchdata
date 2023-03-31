@@ -1,0 +1,11 @@
+dose_id|test_id|dose_number|dose_conc_unit|dose_comments|control_type|number_organisms_mean_op|number_organisms_mean|number_organisms_min_op|number_organisms_min|number_organisms_max_op|number_organisms_max|dose1_conc_type|dose1_mean_op|dose1_mean|dose1_min_op|dose1_min|dose1_max_op|dose1_max|dose1_stat_method|dose1_stat_value|dose2_conc_type|dose2_mean_op|dose2_mean|dose2_min_op|dose2_min|dose2_max_op|dose2_max|dose2_stat_method|dose2_stat_value|dose3_conc_type|dose3_mean_op|dose3_mean|dose3_min_op|dose3_min|dose3_max_op|dose3_max|dose3_stat_method|dose3_stat_value
+1|1|1|mg/kg||C|||||||A||0||NR||NR|NR|NR||||||||||||||||||
+2|1|2|mg/kg|||||||||A||5||NR||NR|NR|NR||||||||||||||||||
+3|1|3|mg/kg|||||||||A||25||NR||NR|NR|NR||||||||||||||||||
+4|1|4|mg/kg|||||||||A||125||NR||NR|NR|NR||||||||||||||||||
+5|2|1|mg/kg||C|||||||A||0||NR||NR|NR|NR||||||||||||||||||
+6|2|2|mg/kg|||||||||A||150||NR||NR|NR|NR||||||||||||||||||
+7|3|1|ppm||C|||||||F||0||NR||NR|NR|NR||||||||||||||||||
+8|3|2|ppm|||||||||F||10||NR||NR|NR|NR||||||||||||||||||
+9|3|3|ppm|||||||||F||20||NR||NR|NR|NR||||||||||||||||||
+10|3|4|ppm|||||||||F||30||NR||NR|NR|NR||||||||||||||||||

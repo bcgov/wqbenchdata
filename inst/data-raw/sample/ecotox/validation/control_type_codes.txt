@@ -1,0 +1,16 @@
+code|description
+B|Baseline control
+C|Concurrent control
+D|Exposure dose level identifier
+E|Endpoint link identifier
+H|Historical control
+I|Insufficient
+M|Multiple types of controls were reported by the author
+NA|Unspecified
+NR|Not reported
+O|Control outside of primary exposure system
+OK|Used to group mults from reference manager conversion
+P|Positive controls were used
+S|Satisfactory
+U|Unsatisfactory
+V|Carrier or solvent

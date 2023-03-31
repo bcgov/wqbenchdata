@@ -1,0 +1,604 @@
+code|description
+--|Unspecified
+AB|Aboveground portion
+ABD|Abdomen
+ABP|Abdominal process
+AD|Adipose tissue
+ADC|Auditory center
+AF|Amniotic fluid
+AG|Accessory gland
+AL|Albumen (egg white)
+ALG|Albumen gland
+AM|Adductor muscle
+AMG|Amygdala
+AMO|Amebocyte
+ANG|Antennal gland
+ANT|Antenna (antennae)
+AO|Anogenital
+AP|Appendage
+AR|Adrenal gland
+ARC|Aerenchyma 
+ART|Artery
+ARX|Area X (Avian brain)
+AS|Air sac
+AT|Alimentary tract
+ATA|Aorta
+ATH|Abdomen and thorax
+ATM|Atrium
+ATR|Anther
+AX|Axons
+BA|Bark
+BB|Bulb
+BBL|Barbel
+BC|Buccal mass
+BCT|Bract
+BD|Bud
+BDT|Bile duct
+BDW|Body wall
+BF|Bursa of fabricius
+BG|Breeding (nuptial) gland
+BI|Bile
+BIL|Bill
+BIT|Biliary tract
+BK|Beak
+BL|Blood
+BLA|Bulbus arteriosus
+BLC|Blood cell
+BM|Bone marrow
+BMC|Bone marrow cells
+BMP|Bone marrow plasma
+BO|Bone
+BOL|Boll (cotton)
+BR|Brain
+BRN|Branches
+BRS|Brain stem
+BSG|Basal ganglia
+BT|Breast
+BU|Bursa
+BV|Blood vessel
+BW|Bees wax
+BY|Byssus
+CA|Cartilage
+CAE|Caecum
+CAN|Canopy
+CAP|Cap, mushroom
+CB|Cob
+CBC|Cerebral cortex
+CBH|Cerebral hemisphere
+CBM|Cerebrum
+CC|Cocoon
+CCM|Cecum
+CDB|Caudal bone
+CDP|Caudal peduncle
+CDV|Caudal vertebrae
+CE|Coelomic fluid
+CEL|Cell
+CG|Cloacal gland
+CGG|Coagulating gland
+CH|Spinal cord
+CHC|Chloragogen
+CHL|Cochlea
+CHN|Choana
+CHO|Chorion
+CHP|Choroid plexus
+CIL|Cilia
+CL|Claw
+CLC|Cloaca
+CLM|Coelomocytes
+CLN|Colon
+CLT|Clitoris, clitoral gland
+CLU|Clitellum
+CLV|Calvarium
+CM|Crown to rump
+CMB|Comb
+CMG|Cement gland
+CN|Cotyledon
+CNS|Central nervous system
+CO|Collagen
+COL|Coleoptile
+COR|Corm
+COS|Corpuscles of stannius
+CP|Capat
+CPA|Corpus allatum
+CPG|Cowper's gland
+CPR|Clasper
+CPS|Carpus
+CPT|Chloroplast
+CR|Crop
+CRB|Cerebellum
+CRG|Cerebral ganglion
+CRI|Cervical rib
+CRM|Cerebrum
+CRN|Cornea
+CRP|Carapace
+CRR|Cerebellar region
+CRX|Cortex 
+CS|Chromosome
+CSF|Cerebrospinal fluid
+CST|Cisternae
+CT|Cephalothorax
+CTE|Ctenidium
+CU|Culture cells
+CUT|Cuticle
+CV|Caudal vertebra
+CVM|Calvarium
+CVV|Cervical vertebrae
+CVX|Cervix
+CX|Caudex
+CY|Cytosol
+CYT|Cytoplasm
+DG|Digestive gland
+DGT|Digit
+DI|Diaphragm
+DN|Diencephalon
+DO|Duodenum
+DT|Digestive tract
+EAL|Ear leaf
+EAR|Ear
+EBP|External body parts
+EC|Excreta
+ED|Endometrium
+EF|Efferent ducts
+EG|Egg
+EL|Elytrom
+ELE|Eleocyte
+EM|Embryo
+EMS|Embryonic shoot cells
+EN|Entrails
+EO|Endothelium
+EP|Endoplasmic reticulum
+EPD|Epididymis
+EPF|Extrapallial fluid
+ER|Erythrocyte
+ES|Esophagus
+ET|Edible tissue
+EU|Egg cuticle
+EV|Exuviae
+EX|Exoskeleton
+EXC|Extracellular
+EY|Eye
+EYS|Eyestalk
+EZ|Enzyme
+F1|F1 generation
+FAC|Face
+FB|Frontal bone
+FBR|Forebrain
+FC|Feces
+FD|Frond
+FE|Feathers
+FET|Fetus
+FG|Foregut
+FI|Fin
+FIB|Fibula
+FL|Fillet
+FLB|Flower bud
+FLW|Flower/inflorescence
+FM|Femur
+FMD|Femur diaphysis
+FME|Femur epiphysis
+FML|Left femur
+FMM|Femur  metaphysis
+FO|Foot
+FOD|Fodder
+FOL|Foliage
+FOR|Forage
+FP|Fatpad
+FR|Fruit
+FRL|Forelimb
+FX|Frontal cortex
+GA|Granum (plural grana)
+GB|Gall bladder
+GC|Gland complex
+GE|Germarium
+GF|Green forage
+GG|Green gland
+GI|Gill(s)
+GL|Ganglion
+GMT|Germ tube
+GNP|Genital papillae
+GNT|Gnathopod
+GO|Gonad(s)
+GOL|Golgi apparatus
+GP|Gills+palps
+GPD|Gonopodium
+GR|Grain
+GS|Germinated seed
+GT|Gastrointestinal tract
+GU|Gut
+GY|Gametophyte
+GZ|Gizzard
+HA|Hair
+HAP|Haptonema
+HAY|Hay
+HB|Hindbrain
+HC|Hypocotyl callus cell
+HD|Head
+HDG|Hindgut
+HDK|Head kidney (pronephros)
+HE|Heart
+HIP|Hippocampus
+HK|Heart and kidneys
+HKG|Husks and grain
+HL|Hemolymph
+HLA|Hyalinocyte
+HLB|Hindlimb
+HM|Humerus
+HMC|Hemocyte
+HMG|Hemoglobin
+HO|Honey
+HOD|Hyoid
+HP|Hepatopancreas
+HPG|Hypopharyngeal gland
+HSC|Hypocotyl (or Stem) Cortex 
+HSK|Husk
+HSS|Hypocotyl (or Stem) Stele 
+HTC|Heterocyst
+HTG|Hatching gland
+HVC|HVC Region (Avian brain)
+HY|Hypothalamus
+HYA|Hypha
+HYD|Hypodermis
+HYP|Hypocotyl
+IB|Interparietal bone
+IBP|Internal body parts
+ICL|Inclusions
+IE|Ileum
+IL|Ilium
+IN|Intestinal tract
+IR|Interrenal gland
+IT|Internode
+JA|Jaw
+JE|Jejunum
+JV|Juvenile
+KI|Kidney
+KIL|Kidney, left
+KIR|Kidney, right
+KR|Kernal
+LAL|Lateral line
+LAM|Laminae
+LC|Leaf chloroplast
+LD|Lipid, fat
+LE|Leaf/needle
+LEI|Leaf index
+LEN|Lens
+LEO|Leaf, old
+LEU|Leukocytes
+LEY|Leaf, young
+LG|Leg
+LGT|Ligament
+LI|Liver
+LIG|Leibleins gland
+LIM|Liver microsomes
+LIN|Large intestine
+LIP|Lip
+LIT|Litters
+LM|Limb
+LMP|Lymphocyte
+LMV|Lumbar vertebrae
+LMW|Low molecular weight biomolecules (e.g., amino acids)
+LN|Lymph node
+LNX|Larynx
+LP|Labial palps
+LTB|Left tibia
+LU|Lung(s)
+LYM|Lymph
+LYS|Lysosome
+MA|Mantle
+MB|Muscle+bone
+MBR|Midbrain
+MC|Microsome
+MD|Mullerian duct
+MDP|Madreporite
+ME|Meristem
+MES|Mesentery
+MI|Midgut or midgut gland
+MIT|Mitochondria
+MK|Milk, lactating female
+ML|Melanophore
+MM|Mammary tissue
+MNS|Manus
+MO|Mucous
+MOB|Medulla oblongata
+MOM|Mother cells, pollen
+MP|Metanephridium
+MPG|Macrophage
+MPT|Malpighian tubule
+MR|Membrane
+MRC|Motor cortex
+MS|Mesenteric lymph node
+MSC|Mesencephalon
+MSI|Mucosa of the small intestine
+MSS|Microsomal supernatant
+MT|Multiple tissue/organ
+MTC|Metacarpus
+MTH|Mouth
+MTM|Mentum
+MU|Muscle
+MV|Microvilli
+MYC|Mycellium
+MYM|Myometrium
+NAC|Nucleus accumbens
+NAL|Nail
+NB|Nasal bone
+NC|Not coded
+ND|Nodule, root
+NE|Nervous tissue
+NEM|Neuromasts
+NG|Nasal gland
+NI|Nipple
+NK|Neck
+NL|Needle
+NOC|Notochord
+NOD|Node
+NP|Nuptial pad
+NR|Not reported
+NRN|Neuron
+NSE|Nose
+NT|Neural tube
+NTR|Nectar
+NU|Nuclei
+NVC|Nerve cord
+NVL|Navel
+NY|Nymph
+OC|Oocyte
+OCL|Occipital lobe
+OD|Oviduct
+OF|Orifice
+OG|Organ
+OL|Olfactory
+OPN|Optic nerve
+OPR|Operculum
+OR|Organelle
+OS|Osphradium
+OT|Opisthaptor
+OTO|Otoliths
+OTV|Otic vesicle
+OV|Ovaries
+OVF|Ovarian follicle
+OVP|Ovipositor
+OVT|Ovotestis
+PA|Palps
+PAN|Panicle
+PAT|Parathyroid gland
+PB|Pseudobranch
+PBD|Projectile body
+PC|Pyloric ceca
+PCL|Peduncle
+PD|Pod
+PDG|Pedal ganglion
+PE|Penis
+PEH|Penis sheath
+PEL|Peel
+PEP|Pecten epipharyngis
+PES|Petiole and stem
+PF|Pseudofeces
+PG|Prostate gland
+PGL|Preening gland
+PHG|Pheromone gland
+PHL|Phalanges
+PHO|Phloem
+PI|Pituitary gland
+PL|Plasma
+PLA|Platelet
+PLC|Placenta
+PLG|Phellogen 
+PLL|Pellicle
+PLN|Popliteal node
+PLP|Pulp
+PLT|Palate
+PLU|Pleura
+PLV|Pelvis
+PLY|Polysaccharide
+PM|Pons + medulla
+PNG|Pineal gland
+PO|Pollen, pollen grains
+POS|Pod + seed
+PPD|Parapodium
+PPG|Preputial gland
+PR|Proventriculus
+PRC|Pericardium
+PRF|Particulate fraction
+PRG|Progeny
+PRO|Protein
+PRT|Peritoneum
+PS|Pancreas
+PSG|Plastglobuli
+PSL|Pistil
+PT|Petiole
+PTB|Parietal bone
+PTG|Parotid gland
+PTL|Petal
+PTU|Plant, unspecified
+PU|Pollen tube
+PV|Perivitelline space
+PX|Pharynx
+PXS|Peroxisome
+PYR|Pyrenoid
+RA|Radius
+RAC|Rachis
+RAD|Radius, distal
+RAN|RA (Avian brain)
+RB|Rib
+RC|Rectum
+RD|Radicle
+RDL|Radiole
+RE|Retina
+RFM|Right femur
+RG|Rectal gland
+RH|Rhizome
+RL|Root, lateral
+RLP|Root, primary lateral
+RLS|Root, second lateral
+RM|Retractor muscle
+RNC|Renal cortex
+RNM|Renal medulla
+RO|Root
+ROC|Root cortex
+ROE|Root epidermis
+ROI|Root, inner cortex
+ROO|Root , outer cortex
+ROS|Root, stele
+RP|Root, primary
+RPP|Renal papilla
+RR|Residual, remnant, carcass
+RS|Root + stem
+RST|Rostrum
+RT|Reproductive tissue
+RTB|Right tibia
+RTC|Root tip cells
+RTE|Rete testis
+RTP|Root tips
+RU|Radius-ulna
+RV|Right ventricle
+RZ|Root + rhizome
+SA|Salt gland
+SAC|Striatum-accumbens
+SAP|Sap
+SB|Shell, membrane
+SB2|Stem/stalk,lower half
+SC|Scale
+SCH|Starch
+SCM|Scrotum
+SCP|Scapula
+SCV|Sacral vertebrae
+SCY|Spermatocyte
+SD|Seed
+SDL|Seedling
+SDM|Subdermis
+SE|Sensory organs
+SEM|Semen
+SG|Shell gland
+SGM|Segment
+SH|Stomach
+SHF|Stomach or rumen fluid
+SI|Siphon
+SIN|Small intestine
+SINS|Small intestine serosa
+SK|Skin, epidermis
+SKL|Skull
+SKM|Skeletal muscle
+SLG|Silk gland
+SLK|Silk
+SLL|Shell
+SLV|Stem to leaves
+SM|Sperm
+SMM|Stomach mucosa
+SMT|Spermatheca
+SMW|Stomach wall
+SN|Skeleton
+SO|Shoot
+SOM|Somite
+SOT|Shoot tip
+SP|Spleen
+SPB|Sphenoid bone
+SPC|Superior colliculus
+SPI|Spine, backbone
+SPK|Spikelet
+SPL|Sepal
+SPR|Sporophyte
+SPS|Spines, protuberant structures
+SPT|Spermatid
+SR|Serum
+SRB|Strobilus
+SRC|Secretory cell
+SS|Stem
+SSC|Somatosensory center
+SSI|Serosa of the small intestines
+SSP|Stems plus petioles
+ST|Soft tissue
+STA|Setae
+STB|Semeniferous tubules
+STE|Sternum or sternebrae
+STG|Straw and grain
+STH|Straw and husk
+STL|Stolon
+STM|Striatum
+STN|Stamen
+STO|Stoma
+STR|Straw
+STV|Stover
+SU|Stalk/stem,upper half
+SV|Seminal vesicle
+SVA|Saliva
+SVG|Salivary gland
+SVN|Sinus venosus
+SWB|Swim bladder
+SX|Submaxillary gland
+TA|Tail
+TAK|Thylakoid
+TB|Tibia
+TBC|Tubercles
+TCH|Trachea
+TCV|Thoracic vertebrae
+TD|Transudate
+TE|Testes
+TEL|Testicle, left
+TER|Testicle, right
+TF|Tuber flesh
+TG|Thigh muscle
+TH|Thorax
+THA|Thorax and abdomen
+TI|Tissue
+TIL|Tillers
+TK|Trunk
+TKK|Trunk kidney
+TLE|Trifoliate leaves
+TLI|Thalli
+TLM|Thalamus
+TLN|Telencephalon
+TLS|Talus
+TM|Tarsus-metatarsus
+TMR|Tumor
+TN|Tentacles
+TO|Tongue
+TOP|Tops (plants)
+TOR|Torso
+TP|Tuber peeling
+TR|Tarsus
+TRD|Tear duct
+TS|Thymus
+TSC|Thymus cortex
+TSL|Tassel
+TSM|Thymus medulla
+TT|Tibiotarsus
+TTH|Tooth, teeth
+TU|Tuber
+TY|Thyroid
+UB|Urinary bladder
+UBG|Ultimobranchial gland
+UG|Uropygial gland
+UL|Ulna
+ULE|Unifoliate leaves
+UNT|Urinary tract
+UP|Urogenital papillae
+UR|Urine
+URT|Ureter
+UT|Uterus
+UTH|Urethra
+VA|Vagina
+VAS|Vasculature
+VC|Visual center
+VCL|Vacuole
+VD|Vas deferens
+VE|Vertebra
+VEN|Vein
+VG|Vegetative portion
+VGL|Visceral ganglion
+VI|Viscera
+VL|Villi
+VN|Vine
+VNT|Ventricle
+VNTL|Ventricle, left
+VSC|Vesicle
+VT|Vitellarium
+VV|Valve
+WD|Wolffian duct
+WI|Wings
+WL|Wall, body
+WM|White matter
+WO|Whole organism
+WR|Wrist
+XY|Xylem
+YO|Yolk
+YS|Yolk sac
+ZP|Zona pellucida

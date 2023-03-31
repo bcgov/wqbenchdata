@@ -1,0 +1,49 @@
+code|description
+--|Unspecified
+ACC|Accumulation
+AVO|Avoidance
+BCM|Biochemistry
+BEH|Behavior
+CEL|Cell(s)
+DVP|Development
+ENZ|Enzyme(s)
+FDB|Feeding behavior
+GEN|Genetics
+GRO|Growth
+HIS|Histology
+HRM|Hormone(s)
+IMM|Immunological
+INJ|Injury
+ITX|Intoxication
+MLT|Multiple
+MOR|Mortality
+MPH|Morphology
+NER|Unspecified
+NR|Not reported
+PHY|Physiology
+POP|Population
+PRS|Ecosystem process
+REP|Reproduction
+~ACC|Accumulation
+~AVO|Avoidance
+~BCM|Biochemistry
+~BEH|Behavior
+~CEL|Cell(s)
+~DVP|Development
+~ENZ|Enzyme(s)
+~FDB|Feeding behavior
+~GEN|Genetics
+~GRO|Growth
+~HIS|Histology
+~HRM|Hormone(s)
+~IMM|Immunological
+~INJ|Injury
+~ITX|Intoxication
+~MLT|Multiple
+~MOR|Mortality
+~MPH|Morphology
+~NR|Not reported
+~PHY|Physiology
+~POP|Population
+~PRS|Ecosystem process
+~REP|Reproduction

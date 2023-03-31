@@ -1,0 +1,10 @@
+code|description
+--|Unspecified
+CI|Confidence Interval
+CL|Confidence Limit
+CV|Confidence Value
+FL|Fuducial Limit
+NR|Not Reported
+R|Range
+SD|Standard Deviation
+SE|Standard Error

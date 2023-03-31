@@ -1,0 +1,172 @@
+code|description
+--|Unspecified
+-X|Pretreatment, time unknown
+BLM|Bloom stage
+LSI|Larval stage index
+MULT|Multiple durations (for terrestrial rollup)
+NA|Not applicable
+NC|Not coded
+NR|Not reported
+ZGS|Zadoks growth stage
+abs|Until abscission
+ac|Age class
+alv|Alevin
+ant|Until anthesis
+b0.25|0.25 bloom stage
+bbch|BBCH Scale
+brd|Brood or litter
+brs|Breeding season
+bt|Boot stage
+cd|Colony diameter
+cfs|Commercial flowering stage
+clv|Until cleavage
+crs|Crab stage
+cs|Cell stage
+d|Day(s)
+dapu|Days after pupation
+dbh|Days pre-hatch
+dd|Degree days
+dge|Days gestation
+dh|Degree hours
+dla|Days lactation
+dpe|Days post-emergence
+dpel|Days post egg laying
+dpf|Days post fertilization
+dpfg|Days post fledging
+dpfl|Days post flowering
+dpgm|Days post germination
+dph|Days post-hatch
+dphv|Days post harvest
+dpm|Days post-moult
+dpmm|Days post metamorphosis
+dpn|Days post-natal
+dpo|Days post-oviposition
+dpp|Days post planting/sowing
+dpr|Days post-release
+dpref|Days pre-fertilization
+dps|Days post-spawn
+dpu|Days post-swim up
+dpw|Days post-swimming
+dpys|Days post yolk sac absorption
+ea|To earing or heading
+eb|Early bloom stage
+ej|Egg to juvenile
+el|Egg(s) laid
+em|Emergence
+ep|Egg to pupation
+epa|Egg to pre-adult
+eslk|Early silk stage
+eso|End of shooting stage
+eta|Egg to adult
+ey|Eyed stage
+f5|50% flowering
+fb|Full bloom stage
+fd|Frond
+fi|Floral initiation
+fl|Flower stage
+flg|Fledging
+fr|Fruit stage
+frt|To fertilization
+fry|Fry
+fs|Flowering stage
+gds|Gallien and durocher stage
+ge|Generation
+ges|Gestation
+gm|Germination
+go|Gosner stage
+gs|Growing season
+gts|Gastrula stage
+h|Hour(s)
+hbf|Hours pre-fertilization
+hbh|Hours pre-hatch
+hns |Haun stage
+hpe|Hours post-emergence
+hpel|Hours post egg laying
+hpf|Hours post fertilization
+hph|Hours post hatch
+hpp|Hours post planting/sowing
+hpr|Hours post release
+hps|hours post-spawn
+hs|Harrison stage
+ht|Until hatch
+hv|Harvest
+i2|Intermolt to 2nd molt
+ins|Instar
+inst|Instantaneous
+it|Intermolt to molt
+js|jointing stage
+kh|Knee-high stage
+lf|Lifetime;no associated numeric value
+lfd|Leaf drop
+lgp|To lag phase
+lhv15-20|Leaf harvest, 15-20 cm
+lhv20-25|Leaf harvest, 20-25 cm
+log|To log phase
+ls|Leaf stage
+ls4-6|4-6 leaf stage
+ls6|Six leaf stage
+ls9-10|9-10 leaf stage
+lva|Larva to adult
+lvp|Larva to pupa
+lvsa|Larva to subadult
+ma|Maturity
+mi|Minute(s)
+mmph|Until metamorphosis
+mo|Month(s)
+mope|Months post-emergence
+mopf|Months post-fertilization
+moph|Months post-hatch
+mopm|Months post-metamorphosis
+mopres|Months pre-smolt
+mopswm|Months post swim-up
+mpf|Minutes post-fertilization
+mpgm|Months post-germination
+mph|Minutes post-hatch
+mpp|Months post planting/sowing
+myp|Mysis - post-larvae
+nf|Nieuwkoop-faber-stage
+pa|Pupa to adult
+pan|Panicle formation stage
+pci|Phytochron index
+pd|1st pod set
+pgm|Post germination
+pm|Post molt
+pr|Priming
+pro|Propagation stage
+rhv3|Root harvest, 3 grams
+s|Second(s)
+sds|seedling stage
+slk|Silk stage
+sms|Somite stage
+so|Shooting stage
+spf|Seconds post-fertilization
+spref|Seconds pre-fertilization
+ss|Squaring stage
+sss|Seed set stage
+sst|Substage
+stg|Stage
+su|Summer
+swm|Swim-up
+tls|Tiller stage
+tr|1st trifoliate leaf
+ts|Time to tassle
+ubi|Until birth
+utl|Until larva
+utp|Until pupa
+vg|Vegatative stage
+wbh|Weeks pre-hatch
+wk|Week(s)
+wkpm|Weeks post metamorphosis
+wkprf|Weeks pre-fertilization
+wpe|Weeks post-emergence
+wph|Weeks post-hatch
+wphv|Weeks pre harvest
+wpp|Weeks post planting/sowing
+wps|Weeks post-swim-up
+wpv3|Weeks post V3 stage
+wpv5|Weeks post V5 stage
+yc|Year class
+yph|Years post-hatch
+yr|Year(s)
+zm|Zoeae - megalop
+zmy|Zoeae - mysis

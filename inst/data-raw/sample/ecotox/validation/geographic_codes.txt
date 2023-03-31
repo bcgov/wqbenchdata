@@ -1,0 +1,248 @@
+code|description
+--|Unspecified
+AR|Argentina
+AS|Australia
+AS02|New South Wales
+AS03|Northern Territory
+AS04|Queensland
+AS05|South Australia
+AS06|Tasmania
+AS07|Victoria
+AU|Austria
+BA|Baharain
+BB|Barbados
+BC|Botswana
+BD07|Saint George's
+BE|Belgium
+BG|Bangladesh
+BH|Belize
+BH01|Belize (District)
+BK|Bosnia and Herzegovina
+BL|Bolivia
+BN|Benin
+BR|Brazil
+BR15|Minas Gerais
+BR27|Sao Paulo
+BT|Bhutan
+BU|Bulgaria
+BX|Brunei
+CA|Canada
+CA01|Alberta
+CA02|British Columbia
+CA03|Manitoba
+CA04|New Brunswick
+CA05|Newfoundland
+CA07|Nova Scotia
+CA08|Ontario
+CA09|Prince Edward Island
+CA10|Quebec
+CA11|Saskatchewan
+CB11|Phnum Penh
+CE|Sri Lanka
+CH|China
+CH04|Jiangsu
+CH08|Heilongjiang
+CH24|Shanxi
+CH25|Shandong
+CH31|Hainan
+CI|Chile
+CM|Cameroon
+CO|Colombia
+CS|Costa Rica
+CY|Cyprus
+DA|Denmark
+DR33|San Cristobal
+EC|Ecuador
+EG|Egypt
+EI|Ireland
+ET|Ethiopia
+EZ|Czech Republic
+FI|Finland
+FR|France
+FRA9|Languedoc-Roussillon
+G1ZA|Zambia
+GH|Ghana
+GM|Germany
+GM03|Bremen
+GM06|Niedersachsen
+GQ|Guam
+GR|Greece
+GT|Guatemala
+HK|Hong Kong
+HO|Honduras
+HR|Croatia
+HU|Hungary
+ID|Indonesia
+ID06|Jawa Barat
+IM|Man, Isle of
+IN|India
+IN02|Andhra Pradesh
+IN03|Assam
+IN07|Dehli
+IN09|Gujarat
+IN10|Haryana
+IN12|Jammu and Kashmir
+IN15|Madhya Pradesh
+IN16|Maharashtra
+IN19|Karnataka
+IN23|Punjab
+IN24|Rajasthan
+IN26|Tripura
+IN27|Uttar Pradesh
+IN28|West Bengal
+IR|Iran
+IS|Israel
+IT|Italy
+IT15|Sicilia
+IV|Cote D'Ivoire
+IV39|Bouafle
+IZ|Iraq
+JA|Japan
+JA14|Ibaraki
+JO|Jordan
+KE|Kenya
+KS|Korea, Republic of
+KT|Christmas Island
+LA02|Champasak
+LA04|Khammouan
+LE04|Beirut
+LH|Lithuania
+LO|Slovakia
+MA|Madagascar
+MB|Martinique
+MG|Mongolia
+MI|Malawi
+MK|Macedonia
+MO|Morocco
+MX|Mexico
+MX05|Chiapas
+MX24|San Luis Potosi
+MX28|Tamaulipas
+MY|Malaysia
+MZ06|Nampula
+MZ10|Manica
+NC|Not Coded
+NG|Niger
+NI|Nigeria
+NL|Netherlands
+NO|Norway
+NP|Nepal
+NR|Not Reported
+NU|Nicaragua
+NZ|New Zealand
+PE|Peru
+PK|Pakistan
+PL|Poland
+PL25|Bielsko
+PL35|Katowice
+PM|Panama
+PO|Portugal
+PP|Papua New Guinea
+RO|Romania
+RO09|Brasov
+RP|Philippines
+RP33|Laguna
+RP37|Leyte
+RQ|Puerto Rico
+RS|Russia
+RW|Rwanda
+SA|Saudi Arabia
+SF|South Africa
+SG|Senegal
+SI|Slovenia
+SN|Singapore
+SO|Somalia
+SP|Spain
+SP58|Galicia
+SR|Serbia
+ST|St. Lucia
+SU|Sudan
+SW|Sweden
+SY|Syria
+SZ|Switzerland
+SZ25|Zurich
+TD|Trinidad and Tobago
+TH|Thailand
+TH20|Sakon Nakhon
+TH58|Chumphon
+TO|Togo
+TS|Tunisia
+TU|Turkey
+TW|Taiwan
+TZ|Tanzania
+TZ18|Tanga
+UG|Uganda
+UK|United Kingdom
+UK03|Berkshire
+UK08|Cornwall
+UK12|Dorset
+UK19|Hampshire
+UK24|Kent
+UK29|Norfolk
+UK30|North Yorkshire
+UK34|Oxford
+UK35|Shropshire
+UK36|Somerset
+UK39|Suffolk
+UK85|Orkney
+UP|Ukraine
+US|United States
+US01|Alabama
+US02|Alaska
+US04|Arizona
+US05|Arkansas
+US06|California
+US08|Colorado
+US09|Conneticut
+US10|Delaware
+US11|District of Columbia
+US12|Florida
+US13|Georgia
+US15|Hawaii
+US16|Idaho
+US17|Illinois
+US18|Indiana
+US19|Iowa
+US20|Kansas
+US21|Kentucky
+US22|Louisiana
+US23|Maine
+US24|Maryland
+US25|Massachusetts
+US26|Michigan
+US27|Minnesota
+US28|Mississippi
+US29|Missouri
+US30|Montana
+US31|Nebraska
+US32|Nevada
+US33|New Hampshire
+US34|New Jersey
+US35|New Mexico
+US36|New York
+US37|North Carolina
+US38|North Dakota
+US39|Ohio
+US40|Oklahoma
+US41|Oregon
+US42|Pennsylvania
+US44|Rhode Island
+US45|South Carolina
+US46|South Dakota
+US47|Tennessee
+US48|Texas
+US49|Utah
+US50|Vermont
+US51|Virginia
+US53|Washington
+US54|West Virginia
+US55|Wisconsin
+US56|Wyoming
+UV|Burkina
+UY|Uruguay
+UZ|Uzbekistan
+VM|Vietnam
+VM56|Can Tho
+VQ|Virgin Islands
+WZ|Swaziland
+ZI|Zimbabwe

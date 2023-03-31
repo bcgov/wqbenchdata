@@ -1,0 +1,8 @@
+code|description
+--|Unspecified
+AU|Autumn
+NC|Not Coded
+NR|Not Reported
+SP|Spring
+SU|Summer
+WI|Winter

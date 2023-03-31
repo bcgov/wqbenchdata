@@ -1,0 +1,22 @@
+code|description
+--|Unspecified
+AE|Aerial, unspecified
+AG|Aerial, granular 
+AS|Spray, aerial
+DA|Direct application
+DW|Drop wise application
+EN|Environmental, unspecified
+FD|Chemical incorporated into food
+GG|Ground, granular
+GS|Spray, ground
+HS|Spray, hand
+IP|Intraperitoneal
+IS|In situ
+MU|Multiple
+NC|Not coded
+NR|Not reported
+PT|Painted
+PU|Pump
+RB|Imbedded in rubber
+SP|Spray, unspecified
+SS|Soil slurry

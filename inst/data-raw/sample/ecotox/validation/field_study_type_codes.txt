@@ -1,0 +1,11 @@
+code|description
+--|Unspecified
+ARTIFICIAL|Artificial
+CAGE|Cage
+CHANNEL|Channel
+ENCLOSURE|Enclosure
+LITTORAL|Littoral
+MESOCOSM|Mesocosm
+MICROCOSM|Microcosm
+NC|Not coded
+NR|Not reported

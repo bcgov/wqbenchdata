@@ -1,0 +1,14 @@
+code|description
+--|Unspecified
+ACTELS|Acute early life stage
+ACUTE|Acute
+CHRELS|Chronic early life stage
+CHRONIC|Chronic
+ELS|Early life stage
+FLC|Full life cycle
+GEN|Generational
+NC|Not coded
+NR|Not reported
+PLC|Partial life cycle
+SBACUTE|Subacute
+SBCHRON|Subchronic

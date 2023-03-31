@@ -1,0 +1,183 @@
+code|description
+--|Unspecified
+24D|2,4-Dichlorophenoxyacetic
+AE|Acid equivalent
+Ac|Actinium
+Ag|Silver
+Al|Aluminum
+Am|Americium
+Ar|Argon
+As|Arsenic
+As2O3|Arsenic trioxide
+AsO2|Arsenite
+AsO4|Arsenate
+At|Astatine
+Au|Gold
+B|Boron
+B2O3|Borate
+B4O7|Borate
+BO3|Borate
+Ba|Barium
+Be|Beryllium
+Bi|Bismuth
+Bk|Berkelium
+Br|Bromine
+Br2|Bromine
+BrO3|Bromate
+C|Carbon
+CN|Cyanide
+CNO|Cyanate
+CO3|Carbonate
+CPOX|Chlorine produced oxidant
+Ca|Calcium
+Cd|Cadmium
+Ce|Cerium
+Cf|Californium
+Cl|Chlorine
+Cl2|Chlorine
+ClO-|Hypochlorite
+ClO2|Chlorite
+ClO3|Chlorate
+ClO4|Perchlorate
+Cm|Curium
+Co|Cobalt
+Cr|Chromium
+Cr2O7|Dichromate
+Cr3|Chromium (+3)
+CrO3|Chromium trioxide
+CrO4|Chromate
+CrVI|Chromium (+6)
+Cs|Cesium
+Cu|Copper
+D|Deuterium
+DETC|Diethyldithiocarbamate
+DQT|Diquat
+Dy|Dysprosium
+Er|Erbium
+Es|Einsteinium
+Eu|Europium
+F|Fluorine
+Fe|Iron
+Fm|Fermium
+Fr|Francium
+Ga|Gallium
+Gd|Gadolinium
+Ge|Germanium
+H|Hydrogen
+H2PO4|Dihydrogen phosphate
+H2S|Hydrogen sulfide
+HCN|Hydrogen cyanide
+HCO3|Bicarbonate
+HPO4|Hydrogen phosphate
+HS-|Hydrogen sulfide ion
+HSO3|Bisulfite
+He|Helium
+Hf|Hafnium
+Hg|Mercury
+Ho|Holmium
+I|Iodine
+I2|Iodine
+IO3|Iodate
+In|Indium
+Ir|Iridium
+K|Potassium
+Kr|Krypton
+La|Lanthanum
+Li|Lithium
+Lr|Lawrencium
+Lu|Lutetium
+Md|Mendelevium
+MeHg|Methylmercury
+Mg|Magnesium
+Mn|Manganese
+MnO4|Manganate
+Mo|Molybdenum
+MoO4|Molybdate
+N|Nitrogen
+N3|Azide
+NC|Not Coded
+NH3|Ammonia (un-ionized)
+NH4|Ammonium (total)
+NO2|Nitrite
+NO3-|Nitrate
+NR|Not Reported
+Na|Sodium
+NaN3|Sodium azide
+Nb|Niobium
+Nd|Neodymium
+Ne|Neon
+Ni|Nickel
+No|Nobelium
+Np|Neptunium
+O|Oxygen
+OH|Hydroxide
+Os|Osmium
+P|Phosphorus
+P2O3|Phosphorus oxide
+P2O5|Phosphate
+PCP|Pentachlorophenate
+PFBS|Perflurooctanesulfonic acid
+PFOA|Perfluorooctanoic acid
+PFOS|Perflurooctanesulfonic acid
+PHC|Petroleum hydrocarbon
+PO4|Phosphate
+PPHN|Phosphine
+PQT|Paraquat
+Pa|Protactinium
+Pb|Lead
+Pb3E|Triethyl lead
+Pd|Palladium
+Pm|Promethium
+Po|Polonium
+Pr|Praseodymium
+Pt|Platinum
+Pu|Plutonium
+Ra|Radium
+Rb|Rubidium
+Re|Rhenium
+Rh|Rhodium
+Rn|Radon
+Ru|Ruthenium
+S|Sulfur
+S2O3|Thiosulfate
+SCN|Thiocyanate
+SO2|Sulfur dioxide
+SO3|Sulfite
+SO4|Sulfate
+Sb|Antimony
+SbO4|Antimonate
+Sc|Scandium
+Se|Selenium
+SeO3|Selenite
+SeO4|Selenate
+Si|Silicon
+SiO2|Silicate
+Sm|Samarium
+Sn|Tin
+Sr|Strontium
+TBT|Tributyltin
+TBTO|Tributyltin oxide
+TPT|Triphenyltin
+TRBr|Total Residual Bromine
+TRCl|Total Residual Chlorine
+TROX|Total residual oxidant
+Ta|Tantalum
+Tb|Terbium
+Tc|Technetium
+TcO4|Pertechnetate
+Te|Tellurium
+Th|Thorium
+Ti|Titanium
+Tl|Thallium
+Tm|Thulium
+U|Uranium
+UO2|Uranium oxide (Uraninite)
+V|Vanadium
+VO3|Vanadate
+W|Wolfram
+WO4|Tungstate
+Xe|Xenon
+Y|Yttrium
+Yb|Ytterbium
+Zn|Zinc
+Zr|Zirconium

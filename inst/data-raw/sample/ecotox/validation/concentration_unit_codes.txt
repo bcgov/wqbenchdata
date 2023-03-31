@@ -1,0 +1,2505 @@
+code|description
+%|percent
+%  INHIB|percent inhibition
+% * g|percent multiplied by weight in grams
+% AE|percent acid equivalent
+% CEC|percent of soil cation exchange capacity
+% CNTL RI|percent of control Ratcliff Index
+% DT|percent of digestive tract
+% FATL|percent of total fatty acids
+% PC|percent of positive control
+% PLIPD|percent of total phospholipid
+% PRTL|percent of total protein
+% RI|percent Ratcliff Index
+% S/ppm Zn|percent sulfur per parts per million zinc
+% TIME|percent of time
+% WSF|percent water soluble fraction
+% act|percent activity
+% arb|percent arbuscularity
+% ash|percent ash
+% bt|percent bait
+% cell volume|percent cell volume
+% change|percent change
+% clitellate|percent clitellate
+% corn|percent corn pollen
+% cortex|percent of cortex
+% dev CNTL|percent deviation from control
+% diet|percent diet
+% dose ret|percent dose retained
+% dose/g TI|percent of dose per gram of tissue
+% dose/h|percent dose per hour
+% dry wght|percent of dry weight
+% earliness|percent earliness
+% fertile|percent fertile
+% g|percent grams
+% g/g|percent gram per gram
+% g/g bdwt|percent gram per gram body weight
+% ingested|percent of ingested
+% intake|percent of intake
+% lit|percent of litter
+% m|percent mass
+% m/v diet|percent mass per volume diet
+% mg|percent milligrams
+% mg/g bdwt|percent milligrams per gram body weight
+% of CNTL|percent of control value
+% of bdwt|percent of body weight
+% of diet|percent of diet
+% of initial|percent of initial value
+% of max yld|percent of maximum yield
+% of total|percent of total value
+% org|percent of organisms
+% prod|percent production [(# eggs/# hen days)*100]
+% sat|percent saturation
+% soil|percent soil
+% soln|percent solution
+% sperm|percent sperm
+% tolerance|percent tolerance
+% total dose|percent total dose
+% total oil|percent of total oil content
+% v/v|percent volume per volume
+% v/v diet|percent volume per volume diet
+% v/v in 100% O2|percent volume per volume in 100% oxygen
+% v/w|percent volume per weight
+% vol|percent volume
+% w/v|percent weight per volume
+% w/w|percent weight per weight
+% w/w diet|percent weight per wieght diet
+% wet wght|percent wet weight
+% wght|percent of weight
+% wght/org|percent weight per organism
+%/d|percent per day
+%/g|percent per gram
+%/g TI|percent per gram tissue
+%/min|percent per minute
+%/ml|percent per milliliter
+%/org/d|percent per organism per day
+%/wk|percent per week
+%FM|percent female
+%ML|percent male
+%NaCl|percent sodium chloride
+%RBC|percent red blood cells
+%succ br/fm|percent successful broods per female
+--|Unspecified
+0/00|parts per thousand
+0/00 diet|parts per thousand diet
+0/00 v/v|parts per thousand volume per volume
+1 mg/10 ml|1 milligram per 10 milliliters
+10x6/ul|10x6 microliters
+1e+1 kg|1 X 10 +1 kilograms
+1e+1 ug/g|1 X 10 +1 micrograms per gram
+1e+12 no/L|1 X 10 +12 number/l
+1e+12/l|1 X 10 +12/liter
+1e+2 cal/g|1 X 10 +2 calories per gram
+1e+2 mm|1 X 10 +2 millimeters
+1e+2 no/mm2|1 X 10 +2 per square millimeter
+1e+2 no/mm3|1 X 10 +2 per cubic millimeter
+1e+2 ug/g|1 X 10 +2 micrograms per gram
+1e+3 RA|1 X 10 +3 ratio
+1e+3 RNA/TCA/DNA|1 X 10 +3 (counts per minute RNA per milligram TCA) per milligra
+1e+3 cell/mg TI|1 X 10 +3 cells per milligram tissue
+1e+3 cells|1 X 10 +3 cells
+1e+3 cells/mm3|1 X 10 +3 cells per cubic millimeter
+1e+3 cells/ul|1 X 10 +3 cells per microliter
+1e+3 cm|1 X 10 +3 number per centimeter
+1e+3 cm/d|1 X 10 +3 centimeters per day
+1e+3 counts|1 X 10 +3 counts
+1e+3 cpm|1 X 10 +3 counts per minute
+1e+3 dpm/TI|1 X 10 +3 disintegrations per minute per tissue
+1e+3 dpm/g org|1 X 10 +3 disintegrations per minute per gram of organism
+1e+3 dpm/mg DNA|1 x 10+3 disintegrations per minute per milligram DNA
+1e+3 dpm/mg RNA|1 x 10+3 disintegrations per minute per milligram RNA
+1e+3 dpm/ml|1 X 10 +3 disintegrations per minute per milliliter
+1e+3 dpm/org|1 X 10 +3/disintegrations per minute per organism
+1e+3 ng|1 X 10 +3 nanograms
+1e+3 ng/g|1 X 10 +3 nanograms per gram
+1e+3 no|1 X 10 +3 number
+1e+3 no/cm|1 X 10 +3 number per centimeter
+1e+3 no/cm3|1 X 10 +3 number per cubic centimeter
+1e+3 no/g TI|1 X 10 +3 number per gram tissue
+1e+3 no/mg SP|1 X 10 +3 number per milligram spleen
+1e+3 no/ul|1 X 10 +3 no/microliter
+1e+3 org/acre|1 X 10+3 organisms per acre
+1e+3 sigma u/g|1 X 10+3 sigma units per gram
+1e+3 um2|1 X 10 +3 square micrometers
+1e+3/ml|1 X 10 +3/milliliter
+1e+3/mm3|1 X 10 +3/cubic millimeter
+1e+3/ul|1 X 10 +3/microliter
+1e+4 IU/TI|1 X 10 +4 International units per tissue
+1e+4 IU/g|1 X 10 +4 International units per gram
+1e+4 no/mg TI|1 X 10 +4 number per gram tissue
+1e+4 no/ml|1 X 10 +4 number per milliliter
+1e+4 no/mm2|1 X 10 +4 per square millimeter
+1e+4 no/mm3|1 X 10 +4 per cubic millimeter
+1e+4 ug/TI|1 X 10+4 micrograms per tissue
+1e+4 ug/g|1 X 10+4 micrograms per gram
+1e+4/mm|1 x 10+4 per millimeter
+1e+4/mm3|1 x 10+4 per cubic millimeter
+1e+5 no|1 X 10 +5 number
+1e+5 no/g TI|1 X 10 +5 number per gram tissue
+1e+6 cells|1 X 10 +6 cells
+1e+6 cells/mm3|1 X 10 +6 cells per cubic millimeter
+1e+6 cm|1 X 10 +6 centimeters
+1e+6 cpm|1 X 10 +6 counts per minute
+1e+6 cpm/g TI|1 X 10 +6 counts per minute per gram tissue
+1e+6 mm3|1 X 10 +6 per cubic millimeter
+1e+6 no|1 X 10 +6 number
+1e+6 no/cm3|1 X 10 +6 number per cubic centimeter
+1e+6 no/g|1 X 10 +6 number per gram
+1e+6 no/g TI|1 X 10 +6 number per gram tissue
+1e+6 no/mg TI|1 X 10 +6 number per milligram tissue
+1e+6 no/ml|1 X 10 +6 number per milliliter
+1e+6 no/mm3|1 X 10 +6 number per cubic millimeter
+1e+6 no/org|1 X 10+6 number per organism
+1e+6 no/ul|1 X 10 +6 number per microliter
+1e+6/cm3|1 X 10 +6/cubic centimeter
+1e+6/ml|1 X 10 +6/milliliter
+1e+6/mm3|1 X 10 +6/cubic millimeter
+1e+6/ul|1 X 10 +6/microliter
+1e+7 cells|1 X 10+7 cells
+1e+7/ml sperm|1 X 10+7 cells per milliliter sperm
+1e+8 no|1 X 10 +8 number
+1e+8/mm3|1 X 10 +8 per cubic millimeter
+1e+9 no|1 X 10 +9 number
+1e+9 no/l|1 X 10 +9 number per liter
+1e+9 no/ml|1 X 10 +9 number per milliliter
+1e-1 mg|1 X 10 -1 milligrams
+1e-1 mg/mg/d|1 X 10 -1 milligrams per milligrams per day
+1e-1 ug|1 X 10 -1 micrograms
+1e-2 J/beat/kg|1 x 10 -2 Joules per beat per kilogram
+1e-2 Nm|1 X 10-2 nanometers
+1e-2 g/l|1 X 10 -2 grams per liter
+1e-2 mM|1 X 10 -2 millimolar
+1e-2 mg|1 X 10 -2 milligrams
+1e-2 mm|1 X 10 -2 millimeters
+1e-2 no/ul|1 X 10 -2 number per microliter
+1e-2 ug/g|1 X 10 -2 micrograms per gram
+1e-2 umol Hg/g|1 X 10 -2 micromoles hemaglobin bound per g tissue
+1e-2 umol/g TI|1 X 10 -2 micromoles per gram tissue
+1e-3 *dyn*s*cm-5|1 X 10 -3 X dynes X seconds per centimeters to the fifth power
+1e-3 RA|1 X 10 -3 ratio
+1e-3 cm/d|1 X 10 -3 centimeters per day
+1e-3 cpm|1 X 10 -3 counts per minute
+1e-3 g/l|1 X 10-3 grams per liter
+1e-3 g/ml|1 X 10 -3 grams per milliliter
+1e-3 mg|1 X 10 -3 milligrams
+1e-3 mg/mg/d|1 X 10 -3 milligrams per milligrams per day
+1e-4 dpm/g|1 x 10-4 disintegrations per minute per gram
+1e-4 dpm/mg Pi|1 x 10-4 disintegrations per minute per milligram Pi
+1e-4 g/l|1 X 10 -4 grams per liter
+1e-4 g/ml|1 X 10 -4 grams per milliliter
+1e-4 in|1 X 10 -4 inches
+1e-4 mM|1 X 10 -4 millimolar
+1e-4 mg|1 X 10 -4 milligrams
+1e-4 mg/cm3|1 X 10 -4 milligrams per cubic centimeter
+1e-4 no|1 X 10 -4 number
+1e-4 uM|1 X 10 -4 micromolar
+1e-4/0.5 ml|1 X 10 -4 milligrams per 0.5 milliliters
+1e-5 g/l|1 X 10 -5 grams per milliliter
+1e-5 mM|1 X 10 -5 millimolar
+1e-5 mg|1 X 10 -5 milligrams
+1e-5 mg/10 ml|1 X 10 -5 milligrams per 10 milliliters
+1e-5/mm3|1 X 10 -5/cubic millimeter
+1e-6 g/l|1 X 10 -6 grams per liter
+1e-6 mol/mi/gTI|1 X 10 -6 moles per minute per gram tissue
+1e-7 mg/10 ml|1 X 10 -7 milligrams per 10 milliliter
+1e-9/l|1 X 10 -9/liter
+25 mg/40 l|25 milligrams per 40 liters
+AE|Acid equivalent
+AI|active ingredient
+AI %|Active Ingredient percent
+AI % bt|active ingredient percent bait
+AI % diet|active ingredient percent diet
+AI % v/v|active ingredient percent volume per volume
+AI % w/v|active ingredient percent weight per volume
+AI % w/w|active ingredient percent weight per weight
+AI % w/w bt|active ingredient percent weight per weight bait
+AI %/100 kg sd|active ingredient percent per 100 kilograms seed
+AI %/786 L|active ingredient percent per 786 liters
+AI %/L|active ingredient percent per L
+AI %/ha|active ingredient percent per hectare
+AI %/wt sd|Active ingredient percent per weight seed
+AI 0/00|active ingredient parts per thousand
+AI 4.7 L/42.1 L/ha|active ingredient 4.7 liters per 42.1 liters per hectare
+AI L/16 L H2O/243 m2|active ingredient liters per 16 liters water per 243 meters squared
+AI L/42.1 L/ha|active ingredient liters per 42.1 liters per hectare
+AI L/eu|active ingredient liters per experimental unit
+AI L/feddan|active ingredient liters per feddan
+AI L/ha|active ingredient liters per hectare
+AI L/ha/m|active ingredient liters per hectare per meter
+AI M|active ingredient molar
+AI cm3/eu|active ingredient cubic centimeters per experimental unit
+AI cm3/kg|active ingredient cubic centimeters per kilogram
+AI fl oz/acre|active ingredient fluid ounces per acre
+AI g|active ingredient grams
+AI g bt|active ingredient grams bait
+AI g/0.4 ha|active ingredient grams per 0.4 hectare
+AI g/0.405 ha|active ingredient grams per 0.405 hectare
+AI g/10 L|active ingredient grams per 10 liters
+AI g/10 acres|active ingredient grams per 10 acres
+AI g/10 kg sd|Active ingredient gram per 10 kilograms seed
+AI g/10 m|active ingredient grams per 10 meter
+AI g/100 L|active ingredient grams per 100 liters
+AI g/100 g bt|active ingredient grams per 100 grams bait
+AI g/100 g sd|active ingredient grams per 100 grams of seed
+AI g/100 gal|active ingredient grams per 100 gallons
+AI g/100 kg|active ingredient grams per 100 kilograms
+AI g/100 kg sd|Active ingredient gram per 100 kilograms seed
+AI g/100 m|active ingredient grams per 100 meters
+AI g/100 m2|active ingredient grams per 100 square meters
+AI g/100 ml|active ingredient grams per 100 milliliters
+AI g/1000 L|active ingredient grams per 1000 liters
+AI g/100000 sd|active ingredient grams per 100000 seed
+AI g/1100 L|active ingredient grams per 1100 liters
+AI g/2 L/ha|active ingredient grams per 2 liter per hectare
+AI g/2.24 L/ha|active ingredient grams per 2.24 liters per hectare
+AI g/2.5 cm dbh|Active ingredient grams per 2.5 centimeter of diameter at breast height
+AI g/2.54 cm dbh|active ingredient grams per 2.54 centimeter of diameter at breast height
+AI g/2.54 cm tkdi|active ingredient grams per 2.54 centimeters trunk diameter
+AI g/200 L|active ingredient grams per 200 liters
+AI g/2000 cm3 soil|active ingredient grams per 2000 cubic centimeters soil
+AI g/25 ml/m|active ingredient grams per 25 milliliters per meter
+AI g/3 ml/m|active ingredient grams per 3 milliliters per meter
+AI g/30.5 cm ht|Active ingredient grams per 30.5 centimeters plant height
+AI g/300 L|active ingredient grams per 300 liters
+AI g/304.8 m|active ingredient grams per 304.8 meters
+AI g/305 m|active ingredient grams per 305 meters
+AI g/378 L|active ingredient grams per 378 liters
+AI g/378.5 L|active ingredient grams per 378.5 liters
+AI g/379 L|active ingredient grams per 379 liters
+AI g/400 m2|active ingredient grams per 400 square meters
+AI g/454.6 L/0.4 ha|active ingredient grams per 454.6 liters per 0.4 hectares 
+AI g/500 g|active ingredient grams per 500 grams
+AI g/500 g soil|active ingredient grams per 500 grams soil
+AI g/6 L|active ingredient grams per 6 liters
+AI g/60000 sd|active ingredient grams per 60000 seeds
+AI g/93 m2|active ingredient grams per 93 square meters
+AI g/L diet|Active ingredient grams per liter diet
+AI g/L soil|active ingredient grams per liter soil
+AI g/acre|active ingredient grams per acre
+AI g/bushel|active ingredient grams per bushel
+AI g/cm|active ingredient grams per centimeter
+AI g/cm caliper|active ingredient grams per centimeter caliper
+AI g/cm of dbh|active ingredient grams per centimeter of diameter breast height
+AI g/cm2|active ingredient grams per square centimeter
+AI g/dm3|active ingredient grams per cubic decimeter
+AI g/dn(Cyprus)|Active Ingredient grams per dunam, dunum or donum (Cyprus1338m2)
+AI g/dn(Iraq)|Active Ingredient grams per dunam, dunum or donum (Iraq 2500m2)
+AI g/dn(Std)|Active Ingredient grams per dunam, dunum or donum (Std 1000m2)
+AI g/eu|active ingredient grams per experimental unit
+AI g/feddan|active ingredient grams per feddan
+AI g/ft org|active ingredient grams per foot of organism
+AI g/g dry soil|active ingredient grams per gram dry soil
+AI g/ha|active ingredient grams per hectare
+AI g/hl|active ingredient grams per hectoliter
+AI g/hm2|active ingredient grams per square hectometer
+AI g/in dia|active ingredient grams per inch diameter
+AI g/kg|active ingredient grams per kilogram
+AI g/kg bdwt|active ingredient grams per kilogram body weight
+AI g/kg diet|active ingredient grams per kilogram diet
+AI g/kg plt|active ingredient grams per kilogram pellet
+AI g/kg soil|active ingredient grams per kilogram soil
+AI g/m|active ingredient grams per meter
+AI g/m2|active ingredient grams per sq m
+AI g/m2 canopy|active ingredient grams per square meter canopy
+AI g/m3|active ingredient grams per cubic meter
+AI g/ml|active ingredient grams per milliliter
+AI g/org|active ingredient grams per organism
+AI g/t|active ingredient grams per ton
+AI g/ton sd|active ingredient grams per ton seed
+AI g/unit|active ingredient grams per unit
+AI gal/100 gal/acre|active ingredient gallons per 100 gallons per acre
+AI gal/acre|active ingredient gallons per acre
+AI kg|active ingredient kilograms
+AI kg/0.4 ha|active ingredient kilograms per 0.4 hectares
+AI kg/100 L|active ingredient kilograms per 100 liters
+AI kg/100 kg sd|active ingredient kilograms per 100 kilograms seed
+AI kg/1000 m|active ingredient kilograms per 1000 meters
+AI kg/1122 L/ha|active ingredient kilograms per 1122 liters per hectare
+AI kg/227.3 l/0.4 ha|active ingredient kilograms per 227.3 liters per 0.4 hectares
+AI kg/2338 L/ha|active ingredient kilograms per 2338 liters per hectare
+AI kg/25 L/ha|active ingredient kilograms per 25 liters per hectare
+AI kg/3.74 L/ha|active ingredient kilograms per 3.74 liters per hectare
+AI kg/3741 L/ha|active ingredient kilograms per 3741 liters per hectare
+AI kg/378 L|active ingredient kilograms per 378 liters
+AI kg/378.5 L|active ingredient kilograms per 378.5 liters
+AI kg/93.5 L|active ingredient kilograms per 93.5 liters
+AI kg/L|active ingredient kilograms per liter
+AI kg/acre|active ingredient kilograms per acre
+AI kg/eu|active ingredient kilograms per experimental unit
+AI kg/feddan|active ingredient kilograms per feddan, or faddan (1 feddan = 1.038 acres)
+AI kg/ha|active ingredient kilograms per hectare
+AI kg/ha soil|active ingredient kilograms per hectare soil
+AI lb/10 gal|active ingredient pounds per 10 gallons
+AI lb/100 ft2|active ingredient pounds per 100 square feet
+AI lb/100 gal|active ingredient pounds per 100 gallons
+AI lb/100 gal/acre|active ingredient pounds per 100 gallons per acre
+AI lb/11 gal/acre|Active Ingredient pounds per 11 gallons per acre
+AI lb/acre|active ingredient pounds per acre
+AI lb/cwt sd|active ingredient pounds per hundred weight seed
+AI lb/eu|active ingredient pounds per experimental unit
+AI lb/ga|active ingredient pounds per gallon
+AI lb/gal/acre|active ingredient pounds per gallon per acre
+AI mL/eu|active ingredient milliliter per experimental unit
+AI mL/hl|active ingredient milliliters per hectoliter
+AI mM|active ingredient milliMolar
+AI mg|active ingredient milligrams
+AI mg/0.1 m2|active ingredient milligrams per 0.1 square meters
+AI mg/100 cm3|active ingredient milligrams per 100 cubic centimeters
+AI mg/100 kg|active ingredient milligrams per 100 kilograms
+AI mg/1800 g|active ingredient milligrams per 1800 grams
+AI mg/2 L diet|active ingredient milligrams per 2 liters diet
+AI mg/2.5 g|active ingredient milligrams per 2.5 grams
+AI mg/250 ml soil|active ingredient milligrams per 250 milliliters soil
+AI mg/300 ml|active ingredient milligrams per 300 millilters
+AI mg/4.41 m2|active ingredient milligrams per 4.41 square meters
+AI mg/50 ml H2O|active ingredient milligrams per 50 milliliters water
+AI mg/60000 sd|active ingredient milligrams per 60000 seeds
+AI mg/L|active ingredient milligram per Liter
+AI mg/L diet|active ingredient milligrams per liter diet
+AI mg/cm2|active ingredient milligrams per square centimeter
+AI mg/cm3|active ingredient milligrams per cubic centimeter
+AI mg/d|active ingredient milligrams per day
+AI mg/dm3|active ingredient milligrams per cubic decimeter
+AI mg/eu|active ingredient milligrams per experimental unit
+AI mg/g|active ingredient milligrams per gram
+AI mg/g diet|active ingredient milligrams per gram diet
+AI mg/g sd|Active ingredient milligrams per gram seed
+AI mg/g wet wt diet|active ingredient milligrams per gram wet weight diet
+AI mg/ha|active ingredient milligrams per hectare
+AI mg/kg|active ingredient milligrams per kilogram
+AI mg/kg bdwt|active ingredient milligrams per kilogram body weight
+AI mg/kg bdwt EU|active ingredient milligrams per kilogram body weight of experimental unit
+AI mg/kg bdwt/d|active ingredient milligrams per kilograms body weight per day
+AI mg/kg diet|active ingredient milligrams per kilogram diet
+AI mg/kg dry soil|active ingredient milligrams per kilogram dry soil
+AI mg/kg egg wt|active ingredient milligrams per kilogram egg weight
+AI mg/kg soil|active ingredient milligrams per kilogram soil
+AI mg/kg wet wt soil|Active ingredient milligrams per kilogram wet weight soil
+AI mg/kg/d|active ingredient milligrams per kilogram per day
+AI mg/m|Active ingredient milligrams per meter
+AI mg/m2|active ingredient milligrams per square meter
+AI mg/ml|active ingredient milligrams per milliliter
+AI mg/ml diet|active ingredient milligrams per milliliter diet
+AI mg/org|active ingredient milligrams per organism
+AI mg/sd|active ingredient milligrams per seed
+AI ml/100 L|active ingredient milliliters per 100 liters
+AI ml/100 g sd|active ingredient milliliters per 100 grams seed
+AI ml/100 g soil|active ingredient milliliters per 100 grams soil
+AI ml/100 gal|active ingredient milliliters per 100 gallons
+AI ml/100 kg|active ingredient milliliters per 100 kilograms
+AI ml/100 kg seed|active ingredient milliliters per 100 kilograms seed
+AI ml/1000 L|active ingredient milliliters per 1000 liters
+AI ml/378 L|active ingredient milliliters per 378 liters
+AI ml/500 g|active ingredient milliliter per 500 grams
+AI ml/L|active ingredient milliliters per liter
+AI ml/ha|active ingredient milliliters per hectare
+AI ml/kg|Active Ingredient milliliters per kilogram
+AI ml/kg diet|Active Ingredient milliliters per kilogram diet
+AI ml/kg sd|Active ingredient milliliters per kilograms seed
+AI ml/m|active ingredient milliliters per meter
+AI ml/m2|active ingredient milliliters per square meter
+AI ml/m2 canopy|active ingredient milliliters per square meter canopy
+AI ml/mi|active ingredient milliliters per minute
+AI ml/org|Active Ingredient milliliters per organism
+AI ml/t|active ingredient milliliters per ton
+AI mmol/L|active ingredient millimoles per liter
+AI mmol/dm3|active ingredient millimoles per cubic decimeter
+AI mol/eu|active ingredient moles per experimental unit
+AI mol/kg|Active ingredient moles per kilogram
+AI nL/L|active ingredient nanoliters per liter
+AI ng|active ingredient nanograms
+AI ng/L|active ingredient nanograms per liter
+AI ng/L diet|active ingredient nanograms per liter diet
+AI ng/cm2|active ingredient. nanograms per square centimeter
+AI ng/cm2 lf|active ingredient nanograms per square centimeter leaf
+AI ng/eu|active ingredient nanograms per experimental unit
+AI ng/g|active ingredient nanograms per gram
+AI ng/g bdwt|active ingredient nanograms per gram bodyweight
+AI ng/g diet|active ingredient nanograms per gram diet
+AI ng/g org|active ingredient nanograms per gram organism
+AI ng/kg diet|active ingredient nanograms per kilogram diet
+AI ng/mL|active ingredient nanograms per milliliter
+AI ng/mg bdwt|active ingredient nanograms per milligrams body weight
+AI ng/mg diet|active ingredient nanograms per milligram diet
+AI ng/ml diet|active ingredient nanograms per milliliter diet
+AI ng/org|active ingredient nanograms per organism
+AI ng/org/d|active ingredient nanograms per organism per day
+AI ng/ul|active ingredient nanograms per microliter
+AI ng/ul diet|Active ingredient nanograms per microliter diet
+AI oz/100 gal|active ingredient ounces per 100 gallons
+AI oz/100 lb sd|active ingredient ounces per 100 pounds seed
+AI oz/1000 ft|active ingredient ounces per 1000 feet
+AI oz/1000 ft2|active ingredient ounces per 1000 square feet
+AI oz/25 lbs bdwt|active ingredient ounces per 25 pounds body weight
+AI oz/40 gal|active ingredient ounces per 40 gallons
+AI oz/acre|active ingredient ounces per acre
+AI oz/cwt sd|active ingredient ounces per hundredweight seed
+AI oz/gal|active ingredient ounces per gallon
+AI oz/in dbh|active ingredient ounces per inches diameter at breast height
+AI oz/lb seed|active ingredient ounces per pound seed
+AI ppb|active ingredient parts per billion
+AI ppb diet|active ingredient parts per billion diet
+AI ppm|active ingredient parts per million
+AI ppm H2O|active ingredient parts per million water
+AI ppm diet|active ingredient parts per million diet
+AI ppm dry soil|active ingredient parts per million dry soil
+AI ppm soil|active ingredient parts per million soil
+AI ppm soil w/w|active ingredient parts per million soil weight per weight basis
+AI ppm w/v bt|active ingredient parts per million weight per volume bait
+AI ppm w/w|active ingredient parts per million weight per weight
+AI ppm w/w bt|active ingredient parts per million weight per weight bait
+AI ppm w/w dry bt |active ingredient parts per million weight per weight dry bait
+AI ppmw/soil vol|active ingredient parts per million by weight per soil volume
+AI ppt|Active ingredient parts per trillion
+AI pt/acre|active ingredient pints per acre
+AI uM|active ingredient microMolar
+AI ug|active ingredient micrograms
+AI ug/0.5 ul|active ingredient micrograms per 0.5 microliters
+AI ug/10 ul|active ingredient micrograms per 10 microliters
+AI ug/100 cm2|active ingredient micrograms per 100 square centimeters
+AI ug/100 org|active ingredient micrograms per 100 organisms
+AI ug/120 g soil|active ingredient micrograms per 120 grams soil
+AI ug/40 ml diet|active ingredient micrograms per 40 milliliters diet
+AI ug/L|active ingredient micrograms per Liter
+AI ug/L diet|active ingredient micrograms per liter diet
+AI ug/cm2|active ingredient micrograms per square centimeter
+AI ug/cm2 diet|active ingredient micrograms per square centimeters diet
+AI ug/cm2 media|active ingredient micrograms per square centimeter of media
+AI ug/eu|active ingredient micrograms per experimental unit
+AI ug/g|active ingredient micrograms per gram
+AI ug/g bdwt|active ingredient micrograms per gram body weight
+AI ug/g diet|active ingredient micrograms per gram diet
+AI ug/g dry diet|active ingredient micrograms per gram dry diet
+AI ug/g dry soil|active ingredient micrograms per gram dry soil
+AI ug/g egg|active ingredient micrograms per gram egg
+AI ug/g eu|active ingredient micrograms per gram experimental unit
+AI ug/g org|active ingredient micrograms per gram organism
+AI ug/g soil|active ingredient micrograms per gram soil
+AI ug/g wet media|active ingredient micrograms per gram wet media
+AI ug/kg|active ingredient micrograms per kilogram
+AI ug/kg bdwt/d|active ingredient micrograms per kilogram body weight per day
+AI ug/kg diet|active ingredient micrograms per kilogram diet
+AI ug/kg dry media|active ingredient micrograms per kilogram dry media
+AI ug/kg dry soil|active ingredient micrograms per kilogram dry soil
+AI ug/kg soil|active ingredient micrograms per kilogram soil
+AI ug/kg wet media|active ingredient micrograms per kilogram wet media
+AI ug/mg 100 ml solv|active ingredient micrograms per milligram in 100 milliliters of solvent
+AI ug/mg bdwt|active ingredient micrograms per milligram body weight
+AI ug/ml|active ingredient micrograms per milliliter
+AI ug/ml diet|active ingredient micrograms per milliliter diet
+AI ug/org|active ingredient micrograms per organism
+AI ug/org/d|active ingredient micrograms per organism per day
+AI ug/sd |active ingredient micrograms per seed
+AI ug/ul|active ingredient micrograms per microliter
+AI ul/10 ul|active ingredient microliters per 10 microliters
+AI ul/L|active ingredient microliters per Liter
+AI ul/g diet|active ingredient microliters per gram diet
+AI ul/kg dry soil|active ingredient microliters per kilogram dry soil
+AI ul/ml|active ingredient microliters per milliliter
+AI umol/kg dry soil|active ingredient micromoles per kilogram dry soil
+ALB:YK|albumen to yolk ratio
+AU|arbitrary units
+B'|Chromatid break
+B''|Isochromatid break
+BB units|BB units
+BO:LI|bone to liver ratio
+BR:BL|ratio of brain to blood
+BU|Bessey Units
+Bq|Becquerels
+Bq/L|Becquerels per liter
+Bq/g|Becquerels per gram
+Bq/kg|Becquerels per kilogram
+Bq/mg|Becquerels per milligram
+Bq/ml|Becquerels per milliliter
+Bq/org|Becquerels per organism
+C|Centigrade, degrees
+CHLA:CHLB|ratio of chlorophyll a to chlorophyll b
+CI|color index
+CRB:BR|ratio of cerebellum to brain
+CRM:BR|ratio of cerebrum to brain
+CWU|CW units
+Ci/L|Curies per liter
+Ci/mmol|Curies per millimole
+Ci/mol|Curies per mole
+DB/mg pro|lipid aliphatic double bonds per milligram protein
+DNA:Protein|ratio of DNA to protein
+DNA:RNA|DNA to RNA ratio
+Draize score|Draize score
+EU/g|enzyme unit (amt of enzyme needed to catalyze)/g
+FER|feed efficiency ratio
+FM|female
+FM/lit|females per litter
+FM:ML|female to male ratio
+FTS:PLC|fetus to placenta ratio
+FU/g|fluorescence units per gram
+G'|Chromatid gap
+G''|Isochromatid gap
+Gain:diet|ratio of weight gained to weight of diet consumed
+H'|Shannon-Weiner Diversity index
+HA units|Hemaglutinating units
+Haugh U|Haugh units
+ICU/kg diet|International chick unit per kilogram diet
+IU|International Units
+IU/100 g bdwt|International Units per 100 grams body weight
+IU/L|International units per liter
+IU/d|International Units per day
+IU/g|International Units per gram
+IU/g TI|International Units per gram tissue
+IU/g diet|International units per gram diet
+IU/kg|International Units per kilogram
+IU/kg bdwt|International Units per kilogram body weight
+IU/kg diet|International units per kilogram diet
+IU/mg|International Units per milligram
+IU/mg Hb|International Units per milligram hemoglobin
+IU/mg TI|International Units per milligram tissue
+IU/mg pro|International Units per milligram pro
+IU/ml|International Units per milliliter
+IU/orgwt|International Units per organ weight
+J/beat|Joules per beat
+J/d|Joules per day
+K units|Karmen units
+K/ml|karmen units per milliliter
+KA units|King/Armstrong units
+KA/100 ml|King/Armstrong units per 100 milliliters
+KA/g|King/Armstrong units per gram
+KI:BR|kidney to brain ratio
+Kunit/ml|k unit per milliliter
+L|Liters
+L/0.4 ha|liter per 0.4 ha
+L/1.4 m3 soil|liters per 1.4 cubic meters soil
+L/1.5 cm3 soil|liters per 1.5 cubic centimeters soil
+L/10 ac|liters per 10 acres
+L/100 kg sd |liters per 100 kilograms seed
+L/100 lbs sd|liters per 100 pounds seed
+L/1000 L|liters per 1000 liters
+L/1000 bu|liters per 1000 bushels
+L/1041 L/ha|liters per 1041 liters per hectare
+L/160 m soil|liters per 160 meters soil
+L/161 m soil|liters per 161 meters soil
+L/80 kg N/ha|liters per 80 kilograms nitrogen per hectare
+L/feddan|liters per feddan
+L/g|liters per gram
+L/ha|Liters per hectare
+L/kg|liters per kilogram
+L/km|liters per kilometer
+L/m2|Liters per square meter
+L/m3|liters per cubic meter
+L/mg|liters per milligram
+L/ton sd|liters per ton seed
+LGTH/s|length per second
+LGTH:THIK|length to thickness ratio
+LI:BR|liver to brain ratio
+LU:BR|lung to brain ratio
+M|molar
+M diet|Molar diet
+M/dm3|molar per cubic decameter
+M/m3|molar per cubic meter
+MBq|Megabecquerel
+MK:SR|milk to serum ratio
+ML|male
+ML/lit|males per litter
+ML/total|males per total population
+ML:FM|male to female ratio
+MPa|megaPascals
+N|Normal
+NA|not applicable
+NC|not coded
+NR|Not Reported
+OD|optical density
+OD/100 % RBC|optical density of 100% red blood cells
+OD/50 mg pro|optical density per 50 milligrams protein
+OD/WGHT|optical density per unit weight
+OD/g pro|units of optical density change per gram protein
+OD/mg pro|optical density per milligram protein
+OD/mi/mg pro|optical density per minute per milligram protein
+OT|optical transmission
+OT/1 cm WDTH|optical transmission per 1 centimeter bone width
+OT/1 mm CCT|optical transmission per 1 millimeter combined cortical thicknes
+OT/10 cm BO|optical transmission per 10 centimeters bone
+OT/10 kg WGHT|optical transmission per 10 kilograms weight
+OV:BR|ovary to brain ratio
+Odx10x3|optical density x10x3
+PCI|plastochron index
+PIg/L|PI grams per liter
+PL:BL|plasma to blood ratio
+PLC:BL|placenta to blood ratio
+PSU|practical salinity units
+R|weight/(lenght x width)
+RA|ratio
+RA 1e-3|ratio X 1e-3
+RA/wk|ratio per week
+RF units|RF units
+RI|Ratcliffe index
+RNA:DNA|RNA to DNA ratio
+RNA:Protein|RNA to protein ratio
+RR|Centric fusions
+RSA/TI|relative specific activity per tissue
+RV:TV|ratio of right ventricle to total ventricle
+SA|Specific activity
+SFU|sigma Frankel units
+SL units|SL units
+SL:ME|slice to median ratio
+SP:BR|spleen to brain ratio
+T3:T4|Ratio of triidothyronine (T3) to thyroxine (T4)
+TE:BR|testes to brain ratio
+TI:BL|Ratio of tissue to blood
+TS:BR|thymus to brain ratio
+Tbsp/100 gal |Tablespoons per 100 gallons
+Tbsp/eu|Tablespoons per experimental unit
+Tbsp/gal|Tablespoons per gallon
+U of fl|Units of fluorescence
+U/0.2 ml|units per 0.2 milliliters
+U/100 mg TI|Units per 100 milligram tissue
+U/kg|Units per kilogram
+U/kg dry diet|units per kilogram dry diet
+USP/org|USP units per organism
+V|value
+W units|Wrobleski units
+WER|water efficiency ratio
+WO:LI|Whole organism to liver ratio
+Wijs number|Wijs number
+[%inhib]|[percent inhibition:  % is unit, inhib is measurement]
+a-amino N/24 h|alpha aminonitrogen per 24 hours
+absrb|absorbance
+acre foot|acre foot
+act|activity
+act/g TI|activity per gram tissue
+act/g pro|activity per gram protein
+activ/nonactiv|activated to non-activated ratio
+acts/3 mi|acts per 3 minutes
+ad|adults
+ad/jv|adults per juvenile
+ae M|acid equivalents molar
+ae g/100 m2|acid equivalents grams per 100 square meters
+ae g/200 L|acid equivalents grams per 200 liters
+ae g/L|acid equivalents grams per liter
+ae g/ha|grams acid equivalents per hectare
+ae kg/ha|acid equivalents kilograms per hectare
+ae lb/100 gal|acid equivalent pounds per 100 gallons
+ae lb/acre|acid equivalents pounds per acre
+ae lb/gal|acid equivalent pounds per gallons
+ae mg/L|acid equivalents milligrams per liter
+ae mg/L diet|acid equivalents milligrams per liter diet
+ae mg/kg|acid equivalents milligrams per kiligrams
+ae mg/kg bdwt/d|acid equivalents milligrams per kilograms body weight per day
+ae mg/kg diet|acid equivalents milligrams per kilogram diet
+ae mg/kg diet/d|acid equivalents milligrams per kilogram diet per day
+ae mg/kg dry soil|acid equivalents milligrams per kilogram dry soil
+ae mg/kg/d|acid equivalents milligrams per kilogram per day
+ae mg/m2|acid equivalents milligrams per square meter
+ae mg/org|acid equivalents milligrams per organism
+ae mmol/kg soil|acid equivalents millimoles per kilogram soil
+ae ng/org|acid equivalents nanograms per organism
+ae oz/100 gal/acre|acid equivalents ounces per 100 gallons per acre
+ae ppb|acid equivalents parts per billion
+ae ppm|acid equivalents parts per million
+ae uM|acid equivalents micromolar
+ae ug/L|acid equivalents micrograms per liter
+ae ug/cm2|acid equivalents micrograms per square centimeter
+ae ug/ml|acid equivalents micrograms per milliliter
+ae ug/org|acid equivalents micrograms per organism
+ae ug/org/d|acid equivalents micrograms per organism per day
+ai g/L|active ingredient grams per liter
+ai g/kg sd|active ingredient grams per kilogram seed
+ai kg/379 l|active ingredient kilograms per 379 liters
+ai lb/ha|active ingredient pounds per hectare
+ai mg/kg org|active ingredient milligrams per kilogram organism
+ai mg/kg seed|Active ingredient milligrams per kilogram seed
+ai ml/100 m2|active ingredient milliliters per 100 square meters
+ai oz/bu|active ingredient ounces per bushel
+ai oz/bu sd|active ingredient ounces per bushel of seed
+amend:unamend|amended to unamended treatments ratio
+amol/cell|attomoles per cell
+b/ml|billions per milliliter
+beats*ml/mi2|beats*milliliters per square minute
+beats/mi|beats per minute
+bees/d|bees per day
+births|births
+bits|bits
+branches/org|number of branches per organism
+bt/mi|<beats per minute>
+bud/org|buds per organism
+burrows|burrows
+bushel/acre|bushels per acre
+bushels|bushels
+cRNA/mgRNA/DNA|(counts per minute RNA per milligram RNA) per milligram DNA
+cal|calories
+cal/d|calories per day
+castings|castings
+casts/eu|casts per experimental unit
+casts/m2/d|casts per square meter per day
+casts/pl|casts per plot
+cc|cocoons
+cc/10 ad|cocoons per 10 adults
+cc/ad|cocoons per adult
+cc/cntr|cocoons per container
+cc/eu|cocoons per experimental unit
+cc/org|cocoons per organism
+cc/org/8 wk|cocoons per organism per 8 weeks
+cc/org/wk|cocoons per organism per week
+cc/sad|cocoons per surviving adult
+cc/unit|cocoons per unit
+cell/8 srtl cel|cells per 8 sertoli cells
+cell/mi x10x3|cells per minute x10x3
+cell/mm3|cells per cubic millimeter
+cell/u.a.|cells per unit area
+cell:nuclei|cells to nuclei ratio
+cells|cells
+cells/100 clm|cells per 100 coelomocytes
+cells/1e+6 cell|cells per 1 X 10 +6 cells
+cells/50 mg|cells per 50 milligrams
+cells/TI|cells per tissue
+cells/area|cells per area
+cells/mg TI|cells per milligram tissue
+cells/ml|cells per milliliter
+cells/mm cortex|cells per millimeter cortex
+cells/mm folium|cells per millimeter folium
+cells/mm2|cells per square millimeter
+cells/tubule|cells per tubule
+cellx10x2/ul|cells x10x2 per microliter
+cfu/mg|colony forming units per milligram
+cfu/ml|colony forming units per milliliter
+chem/d|chemical per day
+clusters|clusters
+clutches|clutches
+cm|centimeters
+cm diet|centimeters of diet
+cm/cm3|centimeters per cubic centimeter
+cm/d|centimeters per day
+cm/dm3|centimeters per cubic decimeter
+cm/g bdwt/h|centimeters per gram bodyweight per hour
+cm/g soil|centimeters per gram soil
+cm/org|centimeters per organisms
+cm/wk|centimeters per week
+cm2|centimeters squared
+cm2/100 bees|centimeters squared per 100 bees
+cm2/kg|square centimeters per kilogram
+cm2/org|square centimeters per organism
+cm3|cubic centimeters
+cm3 O2 evolved|cubic centimeters of oxygen evolved
+cm3 O2/g/h|cubic centimeters of O2 per gram per hour
+cm3/0.7 ha|cubic centimeters per 0.7 hectare
+cm3/100 L|cubic centimeters per 100 liters
+cm3/100 g bdwt|cubic centimeters per 100 grams body weight  
+cm3/100 g sd|cubic centimeters per 100 grams seed
+cm3/1000 L|cubic centimeters per 1000 liters
+cm3/4 L|cubic centimeters per 4 liters
+cm3/600 cm3 H2O|cubic centimeters per 600 cubic centimeters of water
+cm3/cm3|cubic centimeters per cubic centimeters
+cm3/dm3|cubic centimeters per cubic decimeter
+cm3/eu|cubic centimeters per experimental unit
+cm3/feddan|cubic centimeters per feddan (1 feddan = 1.038 acres)
+cm3/ft|cubic centimeters per foot
+cm3/ft2|cubic centimeters per square foot
+cm3/hL|cubic centimeters per hectoliter
+cm3/ha|cubic centimeters per hectare
+cm3/kg|cubic centimeters per kilogram
+cm3/kg bdwt|cubic centimeters per kilogram body weight
+cm3/kg sd|cubic centimeters per kilogram seed
+cm3/l|cubic centimeters per liter
+cm3/m2|cubic centimeters per cubic meter
+cm3/org|cubic centimeters per organism
+cm3/yd|cubic centimeters per yard
+cmol/kg|centimoles of charges/kilogram
+cmol/kg dry soil|centimoles per kilograms dry soil
+cpm|counts per minute
+cpm 1e-4|counts per minute * 1 X 10-4
+cpm x 1000|counts per minute X 1000
+cpm/1e+5 cells|counts per minute per 1X10+5 cells
+cpm/L|counts per minute per liter
+cpm/cc|counts per minute per coccoon
+cpm/g TI|counts per minute per gram tissue
+cpm/mg|counts per minute per milligram
+cpm/mg DNA|counts per minute per milligram DNA
+cpm/mg RNA|counts per minute per milligram RNA
+cpm/mg UA|counts per minute per milligram uronic acid
+cpm/mg pro|counts per minute per milligram protein
+cpm/ml|counts per minute per milliliter
+cpm/org|counts per minute per organism
+cwt/acre|hundredweights per acre
+cyc/deg|cycles per degree
+d|day
+dS/m|deciSiemens per meter
+dead:live|dead to live organisms ratio
+degree|degree
+diet:Gain|ratio of weight of diet consumed to weight gained
+diet:WTR|diet to diet ratio
+divisions/cell|divisions per cell
+dm2|decimeters squared
+dm3/ha|cubic decimeter per hectare
+dn(Cyprus)|dunam, dunum or donum (Cyprus = 1338 square meters)
+dn(Iraq)|dunam, dunum or donum (Iraq = 2500 square meters)
+dn(Std)|dunam, dunum or donum (Standard metric = 1000 square meters)
+dpm|disintegrations per minute
+dpm 1e-3/ml|disintegrations per minute * 1 X 10-3 per milliliter
+dpm treat:cntl|ratio of disintegrations per minute treated to control
+dpm/167 mg TI|disintegrations per minute per 167 milligrams tissue
+dpm/800 g soil|disintegrations per 800 grams soil
+dpm/EU|disintegrations per minute per experimental unit
+dpm/g|disintegrations per minute per gram of tissue
+dpm/g*100|disintegrations per minute per gram*100
+dpm/mg|disintegrations per minute per milligram
+dpm/mg FA|disintegrations per minute per milligram fatty acid
+dpm/mg GH|disintegrations per minute per milligram growth hormone
+dpm/mg GH*100|disintegrations per minute per milligram growth hormone*100
+dpm/mg pro|disintegrations per minute per milligram protein
+dpm/ml|disintegrations per minute per milliliter
+dpm/n|disintegrations per minute per N
+e/100 hd|eggs per 100 hen days
+e/hd|eggs per hen day
+ea/eu|ears per experimental unit
+egg cap/org|egg capsules per organism
+egg/100 ad|eggs per 100 adults
+eggs|egg(s)
+eggs/10 wks|eggs per 10 weeks
+eggs/8 wks|eggs per 8 weeks
+eggs/BDAY|eggs per bird-day
+eggs/d|eggs per day
+eggs/fm|eggs per female
+eggs/fm/8 wk|eggs per female per 8 weeks
+eggs/fm/d|eggs per female per day
+eggs/fm/wk|eggs per female per week
+eggs/org|eggs per organism
+eggs/org/d|eggs per organism per day
+eggs/org/wk|eggs per organism per week
+eggs/pair|eggs per pair
+eggs/raft|eggs per raft
+em|embryos
+em/FM|embryos per female
+enz act|enzyme activity or enzyme activity unit
+enz act/mg|enzyme activity per milligram
+eq/l|equivalents per liter
+eu|enzyme unit
+failures|failures
+fet|fetuses
+fetuses/litter|fetuses per litter
+fg|femtogram
+fg/org|femtograms per organism
+fibers/L|fibers per liter
+final:initial|ratio of initial parameter to final parameter
+fl|femtoliters
+fl oz|fluid ounces
+fl oz mat/cwt|fluid ounces material per hundredweight
+fl oz/10 gal|fluid ounces per 10 gallons
+fl oz/10 gal/1k sqft|fluid ounces per 10 gallons per 1000 square feet
+fl oz/100 gal|fluid ounces per 100 gallons
+fl oz/1000 ft|fluid ounces per 1000 feet
+fl oz/1000 ft2|fluid ounces per 1000 square feet
+fl oz/50 gal/acre|fluid ounces per 50 gallons per acre
+fl oz/acre|fluid ounces per acre
+fl oz/cwt|fluid ounces per hundredweight
+fl oz/eu|fluid ounces per experimental unit
+fl oz/gal|fluid ounces per gallon
+fl oz/in dbh|fluid ounces per inches diameter at breast height
+fledge/pair|fledglings/pair or young fledged/pair
+fmol|femtomol
+fmol/mg|femtomol per milligram
+fmol/mg pro|femtomol per milligram protein
+fr|frames (bees)
+g|grams
+g GAIN/g diet/d|grams weight gained per gram diet per day
+g GAIN/kg diet|grams weight gained per kilogram diet
+g H2O/dm2/h|grams H2O per squared decameter per hour
+g TI/100 g bdwt|grams tissue per 100 grams bodyweight
+g bt|grams bait
+g bt/eu|grams bait per experimental unit
+g bt/m2|grams bait per square meter
+g d/m3|grams day per cubic meter
+g diet|grams diet
+g h/m3|grams hours per cubic meter
+g%|gram percent
+g% w/v|gram percent on a weight per volume basis
+g/0.1 ha|grams per 0.1 hectare
+g/0.25 acre|grams per 0.25 acres
+g/0.4 ha|grams per 0.4 hectare
+g/0.5 m2|grams per 0.5 meters squared
+g/0.76 m3 soil|grams per 0.76 cubic meter soil
+g/1.2 kg soil|grams per 1.2 kilograms soil
+g/1.4 kg soil|grams per 1.4 kilograms soil
+g/1.6 kg soil|grams per 1.6 kilograms soil
+g/1.7 kg soil|grams per 1.7 kilograms soil
+g/1.8 kg sd|grams per 1.8 kilograms seed
+g/1.8 kg soil|grams per 1.8 kilograms soil
+g/10 L|grams per 10 liters
+g/10 L soil|grams per 10 liters soil
+g/10 acre|grams per 10 acres
+g/10 ft|grams per 10 feet
+g/10 g diet|grams per 10 grams diet
+g/10 gal/acre|grams per 10 gallons per acre
+g/10 kg diet|grams per 10 kilograms diet
+g/10 kg eu|grams per 10 kilograms experimental unit
+g/10 m|grams per 10 meters
+g/10.2 L|grams per 10.2 liters
+g/100 L|grams per 100 liters
+g/100 L diet|grams per 100 liters diet
+g/100 cm3|grams per 100 cubic centimeters
+g/100 g|grams per 100 grams
+g/100 g BW|grams per 100 grams body weight
+g/100 g BW/d|grams per 100 grams body weight per day
+g/100 g bdwt/h|grams per 100 grams per bodyweight/hour
+g/100 g diet|grams per 100 grams diet
+g/100 g org|grams per 100 grams organism
+g/100 g sd|grams per 100 grams seed
+g/100 gal|grams per 100 gallons
+g/100 kg|grams per 100 kilograms
+g/100 kg org|grams per 100 kilograms organism
+g/100 kg sd|grams per 100 kilograms seed
+g/100 le|grams per 100 leaves
+g/100 m|grams per 100 meters
+g/100 m2|grams per 100 square meters
+g/100 ml|grams per 100 milliliters
+g/100 sd|grams per 100 seeds
+g/100 stl|grams per 100 stolons
+g/1000 L|grams per 1000 liters
+g/1000 ft|grams per 1000 feet
+g/1000 ft2|grams per 1000 square feet
+g/1000 ft3|grams per 1000 cubic feet
+g/1000 g|grams per 1000 grams
+g/1000 g diet|grams per 1000 grams diet
+g/1000 gr|grams per 1000 grains
+g/1000 kg diet|grams per 1000 kilograms diet
+g/1000 lb|grams per 1000 pounds
+g/1000 ml|grams per 1000 milliliters
+g/1000 org|grams per 1000 organisms
+g/13.5 L|grams per 13.5 liters
+g/13125 ft2|grams per 13125 square feet
+g/15 cm|grams per 15 centimeters
+g/150 sd|grams per 150 seeds
+g/16 L|grams per 16 liters
+g/1600 org|grams per 1600 organisms
+g/170 ml|grams per 170 milliliters
+g/189.25 L|grams per 189.25 liters
+g/2 L|grams per 2 liters
+g/2.25 m2|grams per 2.25 square meters
+g/2.5 kg soil|grams per 2.5 kilograms soil
+g/20 L|grams per 20 liters
+g/20 L diet|grams per 20 liters diet
+g/200 L|grams per 200 liters
+g/200 kg sd |grams per 200 kilograms seed
+g/200 m2|grams per 200 square meters
+g/200 ml|grams per 200 milliliters
+g/250 L|grams per 250 liters
+g/2500 cm2|grams per 2500 centimeters squared
+g/27 kg sd|grams per 27 kilograms seed
+g/3 gal soil |grams per 3 gallons soil
+g/3 kg seed|grams per 3 kilograms seed
+g/3.75 L|grams per 3.75 liters
+g/3.78 L|grams per 3.78 liters 
+g/3.79 L|grams per 3.79 liters
+g/30.5 cm ht|grams per 30.5 centimeters plant height
+g/30.5 m|grams per 30.5 meters
+g/300 L/ha|grams per 300 liters per hectare
+g/300 g seed|grams per 300 grams seed
+g/305 m|grams per 305 meters
+g/37.9 L/0.1 ha|grams per 37.9 liters per 0.1 hectare
+g/379 L|grams per 379 liters
+g/387.5 L|grams per 387.5 liters
+g/4 d|grams per 4 days
+g/400 m|grams per 400 meters
+g/4000 cm3 soil|grams per 4000 cubic centimeters soil
+g/45.4 kg bdwt/d|grams per 45.4 kilograms body weight per day
+g/45.4 kg seed|grams per 45.4 kilograms seed
+g/454 g seed|grams per 454 grams seed
+g/4719 cm3 soil|grams per 4719 cubic centimeters soil
+g/4719 m3 soil|grams per 4719 cubic meters soil
+g/5 L|grams per 5 liters
+g/5 kg soil|grams per 5 kilograms soil
+g/5 m2|grams per 5 meters squared
+g/50 ml|grams per 50 milliliters
+g/50 org|grams per 50 organisms
+g/50 seeds|grams per 50 seeds
+g/500 g diet|grams per 500 grams diet
+g/500 ml|grams per 500 milliliters
+g/500 sd|grams per 500 seeds
+g/60 cm|grams per 60 centimeters
+g/7 kg|grams per 7 kilograms
+g/70 d|grams per 70 days
+g/800 ml|grams per 800 milliliters
+g/946 ml|grams per 946 milliliters
+g/BDAY|grams per bird-day
+g/FM|grams per female
+g/L|grams per liter
+g/L H2O|grams per liter water
+g/L diet|grams per liter diet
+g/L soil|grams per liter soil
+g/LE|grams per leaf
+g/LIT|grams per litter
+g/ML|grams per male
+g/acre|grams per acre
+g/acre/100 L|grams per acre per 100 liters
+g/bdwt e0.75|grams per body weight * 1e0.75
+g/bee|grams per bee
+g/bushel|grams per bushel
+g/cc|grams per cocoon
+g/cm|grams per centimeter
+g/cm dbh|grams per centimeter diameter at breast height
+g/cm2|grams per square centimeter
+g/cm3|grams per cubic centimeter
+g/d|grams per day
+g/d/100 g bdwt|grams per day per 100 grams body weight
+g/d/100 kg org|grams per day per 100 kilograms organism
+g/d/org|grams per day per organism
+g/d/wght|grams per day per weight
+g/dl|grams per deciliter
+g/dm3|grams per cubic decimeter
+g/dn(Std)|grams per dunam, dunum or donum (Std 1000m2)
+g/eu|grams per experimental unit
+g/eu/d|gramss per experimental unit per day
+g/feddan|grams per feddan (1 feddan = 1.038 acres)
+g/fish|grams per fish
+g/fruit|grams per fruit
+g/ft org|grams per foot of organism
+g/ft2|grams per square foot
+g/ft3|grams per cubic foot
+g/g TI|grams per gram tissue
+g/g bdwt|grams per gram body weight
+g/g bdwt/d|grams per gram body weight per day
+g/g diet|grams per gram diet
+g/g dry humus|grams per gram dry humus
+g/g org|grams per gram organism
+g/gal|grams per gallon
+g/h|grams per hour
+g/hL|grams per hectoliter
+g/ha|grams per hectare
+g/hd|grams per hen day
+g/in dbh|grams per inch of diameter at breast height
+g/jv|grams per juvenile
+g/kg|grams per kilogram
+g/kg bdwt|grams per kilogram body weight
+g/kg bdwt/d|grams per kilogram body weight per day
+g/kg bdwt/h|grams per kilogram body weight per hour
+g/kg diet|grams per kilogram diet
+g/kg dry diet|grams per kilogram dry diet
+g/kg dry sd|grams per kilogram dry seed
+g/kg sd|grams per kilograms seed
+g/kg soil|grams per kilogram soil
+g/kg*e0.75 bdwt|grams per kg * 1e0.75 body weight
+g/kg/d|grams per kilogram per day
+g/km|grams per kilometer
+g/l/eu|grams per liter per experimental unit
+g/l/m2|grams per liter per square meter
+g/lb seed|grams per pound of seed
+g/linear ft|grams per linear foot
+g/m|grams per meter
+g/m2|grams per square meter
+g/m2 soil|grams per square meter soil
+g/m3|grams per cubic meter
+g/ml|grams per milliliter
+g/ml/100 L|grams per milliliter per 100 liters
+g/ml/eu|grams per milliliter per experimental unit
+g/org|grams per organism
+g/org/42 d|grams per organism per 42 days
+g/org/d|grams per organism per day
+g/org/eu|grams per organism per experimental unit
+g/org/wk|grams per organism per week
+g/org/yr|grams per organism per year
+g/plot|grams per plot
+g/quadrant|grams per quadrant
+g/sample|grams per sample
+g/sd|grams per seed
+g/shell|grams per shell
+g/ton|grams per ton
+g/ug|grams per microgram
+g/wk|grams per week
+g/yd2|grams per square yard
+g/yr|grams per year
+gal|gallons
+gal/0.5 rod2|gallons per 0.5 square rods
+gal/100 gal|gallons per 100 gallons
+gal/ac f|gallons per acre foot
+gal/acre|gallons per acre
+gal/cwt|gallons per 100 weight
+gal/gal|gallon per gallon
+gamma/day|gamma/day (Von Bertalanffy growth)
+gamma/g TI|gamma counts per gram tissue
+gg|gamma gamma
+gila:neuron|gila to neuron ratio
+grade|grade
+grain/panicle|grains per panicle
+granules|granules
+granules/kg bwt|granules per kilogram body weight
+h|hour
+hatchability|hatchability
+hsk:gr|ratio plant husk to grain
+hz|hertz
+hz/s|hertz per second
+implants|implants
+in|inches
+in2|inches squared
+inclusion|internuclear inclusion body
+index|index
+jv|juveniles
+jv/ad|juveniles per adult
+jv/cc|juveniles per cocoon
+jv/eu|juveniles per experimental unit
+jv/fm|juveniles per female
+jv/ftcc|juveniles per fertile cocoon
+jv/lit|juveniles per litter
+jv/mated fm|juvenile per mated female
+jv/nest|juveniles per nest
+jv/org|juveniles per organism
+jv/org/wk|juveniles per organisms per week
+k2/d|elimination rate constant 2 per day
+kBq|kiloBecquerels
+kBq/L|kiloBecquerels per liter
+kBq/dm3|kiloBecquerels per cubic decimeter
+kBq/eu|KiloBecquerels per experimental unit
+kBq/kg soil|kiloBecquerels per kilogram soil
+kBq/ml|kiloBecquerels per milliliter
+kJ/d/org|kiloJoules per day per organism
+kJ/kg bdwt|kiloJoules per kilogram body weight
+kJ/kg bdwt/d|kiloJoules per kilogram body weight per day
+ka/d|elimination rate constant a per day
+kcal|kilocalories
+kcal/100 g|kilocalories per 100 grams
+kcal/d|kilocalories per day
+kg|kilograms
+kg bt/ha|kilograms bait per hectare
+kg bt/m2|kilograms bait per square meter
+kg conc/d|kilograms of concentrate per day
+kg plt/ha|kilograms pellet per hectare
+kg silage/d|kilograms of silage per day
+kg/0.5 m2|kilograms per 0.5 square meters
+kg/10 ac|kilograms per 10 acres
+kg/100 L|kilograms per 100 liters
+kg/100 kg sd|kilograms per 100 kilograms seed
+kg/100 m2|kilograms per 100 square meters
+kg/11 m|kilograms per 11 meters
+kg/2000 L|kilograms per 2000 liters
+kg/3.78 L|kilograms per 3.78 liters
+kg/50 m|kilograms per 50 meters
+kg/500 m2|kilograms per 500 square meters
+kg/9.3 m2|kilograms per 9.3 square meters
+kg/9.9 m2|kilograms per 9.9 square meters
+kg/L|kilograms per liter
+kg/ac|kilograms per acre
+kg/cwt sd|kilograms per hundredweight seed
+kg/d|kilograms per day
+kg/eu|kilograms per experimental unit
+kg/feddan|kilograms per feddan (1 feddan = 1.038 acres)
+kg/hL|kilograms per hektoliter (hectoliter)
+kg/ha|kilograms per hectare
+kg/ha/yr|kilograms per hectare per year
+kg/m|kilograms per meter
+kg/m2|kilograms per square meter
+kg/m3|kilograms per cubic meter
+kg/mi2/mo|kilograms per square mile per month
+kg/mm|kilograms per millimeter
+kg/mu|kilograms per mu
+kg/org|kilograms per organism
+kg/org/d|kilograms per organism per day
+kg/ton sd|kilograms per ton seed
+kg/ton tubers|kilograms per ton of tubers
+kg/wk|kilograms per week
+kmol/m3|kilomoles per cubic meter
+l/24 h|liters per 24 hours
+l/hl|liters per hectoliter
+l/l|liter per liter
+l/mi|liter per minute
+l/s|liter per second
+lamellae/axon|lamellae per axon
+layers|layers
+lb|pounds
+lb bt/acre|pounds bait per acre
+lb/100 ft2|pounds per 100 square feet
+lb/100 gal|pounds per 100 gallons
+lb/100 gal/acre|pounds per 100 gallons per acre
+lb/100 lb sd|pounds per 100 pounds seed
+lb/100 yd2|pounds per 100 square yards
+lb/1000 ft2|pounds per 1000 square feet
+lb/1000 ft3|pounds per 1000 cubic feet
+lb/11 gal/acre|pound per 11 gallons per acre
+lb/40 gal|pounds per 40 gallons
+lb/5 gal/acre|pounds per 5 gallons per acre
+lb/90 ft2|pounds per 90 square feet
+lb/ac ft|pounds per acre foot
+lb/acre|pounds per acre
+lb/cwt sd|pounds per hundred weight seed
+lb/d|pound per day
+lb/eu|ponuds per experimental unit
+lb/ft2|pounds per square feet
+lb/ft3|pounds per cubic foot
+lb/gal|pounds per gallon
+lb/gal/acre|pounds per gallon per acre
+lb/org/d|pounds per organism per day
+lb/plot|pounds per plot
+lb/rod2|pounds per square rod
+lbs ae/ac|pounds acid equivalent per acre
+lf prog/lf intl|ratio of live females per live females initial
+lit|litters
+lit/pr|litters per pair
+litter %|litter percent
+lm prog/lm intl|ratio of live males per live males initial
+ln(Wf/Wi)|natural log(mean survivor weight/mean initial weight)
+log 10 ug/g org|log 10 micrograms per gram organism
+log rel|log relative activity/intensity
+log s|log time in seconds
+log2|log squared
+log2 titers|log2 titers
+lprog/lprog itl|ratio of live progeny per live progeny initial
+m enz act/mg|millienzyme activity per milligram
+m/m|mass per mass
+m/s|meters per second
+m3|cubic meters
+m3/ha|cubic meters per hectare
+mBq|milliBecquerels
+mBq/ml|milliBecquerels per milliliter
+mCi|milliCuries
+mCi mg|milliCuries milligram
+mCi/kg|microCurie per kilogram
+mCi/mg|milliCuries per milligram
+mCi/ml|milliCuries per milliliter
+mCi/mmol|milliCuries per millimoles
+mIU/kg bdwt/h|milliInternational Units per kilogram body weight per hour
+mIU/kg/h|milliInternational Units per kilogram per hour
+mM|milliMolar (millimoles per liter)
+mM diet|milliMolar diet
+mM/kg|millimolar per kilogram
+mN|millinormal
+mOsm|milliosmoles
+mOsm/kg|milliosmoles per kilogram
+mS/cm|milli Siemens per centimeter
+mU|International milliunits (nmol substrate transformed/min/ml)
+mU/24 h|milliUnits per 24 hours
+mU/24 h/kg|milliunit per 24 hours per kilogram
+mU/d|microunits per day
+mU/g|milliUnits per gram organism
+mU/mg pro|microUnits per milligram protein
+mU/ml|milliunit per milliliter
+mU/org|milliunit per organism
+mW|milliwatts
+maturity index|maturity index
+meq|milliequivalents
+meq/100 g|milliequivalents per 100 grams
+meq/100 g soil|milliequivalents per 100 grams soil
+meq/L|milliequivalents per liter
+meq/eu|milliequivalents per experimental unit
+meq/g|milliequivalents per gram
+meq/kg|milliequivalents per kilogram
+metric t/ha|metric tons per hectare
+mg|milligrams
+mg %|milligrams percent
+mg C/g OM|milligrams carbon per gram organic matter
+mg C2H4/eu/d|milligrams of ethylene produced per experimental unit per day
+mg C2H4/eu/h|milligrams of ethylene produced per experimental unit per hour
+mg CO2/100 g soil|milligrams carbon dioxide per 100 grams of soil
+mg CO2/dm2/h|milligrams carbon dioxide per square decameter per hour
+mg CO2/h/g|milligrams carbon dioxide per hour per gram
+mg CO2/m2/sec|milligrams carbon dioxide per square meter per second
+mg N/100 ml|milligrams nitrogen per 100 milliliter
+mg NH3/g org|milligrams ammonia per gram organism
+mg NH3/g org/h|milligrams ammonia per gram of organism per day
+mg O2/g org|milligrams oxygen per gram organism
+mg O2/g org/h|milligrams oxygen per gram of organism per day
+mg P/100 g|milligrams phosphorus per 100 grams
+mg P/h/g TI|milligrams phosphorus per hour per gram tissue
+mg TI/g bdwt|milligrams tissue per gram body weight
+mg TI/kg bdwt|milligrams tissue per kilogram body weight
+mg co2/hr/g ndl|milligrams carbon dioxide per hour per gram of needles
+mg diet|milligrams diet
+mg diet/d|milligrams diet per day
+mg h/L|milligrams hours per liter
+mg pro/g|milligrams protein per gram
+mg pro/mi|milligrams protein per minute
+mg urea/g org|milligrams urea per gram organism
+mg urea/g org/h|milligrams urea per gram of organism per day
+mg%|milligram %
+mg/%|milligrams per percent
+mg/0.5 cm3|milligrams per 0.5 cubic centimeters
+mg/1.2 kg soil|milligrams per 1.2 kilograms soil
+mg/10 L|milligrams per 10 liters
+mg/10 g|milligrams per 10 grams
+mg/10 g bdwt|milligrams per 10 grams body weight
+mg/10 g diet|milligrams per 10 grams diet
+mg/10 g org|milligrams per 10 grams organism
+mg/10 g sd|milligrams per 10 grams seed
+mg/10 g soil|milligrams per 10 grams soil
+mg/10 ml|milligrams per 10 milliliters
+mg/100 L|milligrams per 100 liters
+mg/100 cm2|milligrams per 100 square centimeters
+mg/100 g|milligrams per 100 grams
+mg/100 g bw|milligrams per 100 grams body weight
+mg/100 g bw/d|milligrams per 100 grams body weight/day
+mg/100 g diet|milligrams per 100 grams diet
+mg/100 g org|milligrams per 100 grams organism
+mg/100 g sd|milligrams per 100 grams seed
+mg/100 g soil|milligrams per 100 grams soil
+mg/100 g/d|milligrams per 100 grams per day
+mg/100 kg bdwt|milligrams per 100 kilograms body weight
+mg/100 kg org|milligrams per 100 kilograms of organism
+mg/100 lb/d|milligrams per 100 pounds per day
+mg/100 lbs|milligrams per 100 pounds
+mg/100 mg TI|milligrams per 100 milligrams tissue
+mg/100 ml|milligrams per 100 milliliters
+mg/100 ml diet|milligrams per 100 milliliters diet
+mg/100 ul|milligrams per 100 microliters
+mg/12 h|milligrams per 12 hours
+mg/15 cm3|milligrams per 15 cubic centimeters
+mg/15 g diet|milligrams per 15 grams diet
+mg/150 ml|milligrams per 150 milliliters
+mg/2.5 cm dia|milligrams per 2.5 centimeter diameter
+mg/20 cm3|milligrams per 20 cubic centimeters
+mg/200 ml|milligrams per 200 milliliters
+mg/24 h|milligrams per 24 hours
+mg/24 h/kg|milligrams per 24 hours per kilogram
+mg/25 mL|milligrams per 25 milliliters
+mg/250 g bdwt|milligrams per 250 grams body weight
+mg/250 ml|milligrams per 250 milliliters
+mg/3 L soil|milligrams per 3 liters soil
+mg/3 kg|milligrams per 3 kilograms
+mg/3 kg soil|milligrams per 3 kilograms soil
+mg/3 ml|milligrams per 3 milliliters
+mg/300 g|milligrams per 300 grams
+mg/454 g|milligrams per 454 grams
+mg/454 g diet|milligrams per 454 grams diet
+mg/5 g soil|milligrams per 5 grams soil
+mg/50 cm2|milligrams per 50 centimeters squared
+mg/500 g soil|milligrams per 500 grams soil
+mg/500 ml|milligrams per 500 milliliters
+mg/60 g egg|milligrams per 60 grams egg
+mg/60 ml|milligrams per 60 milliliters
+mg/650 g soil |milligrams per 650 grams soil
+mg/70 g|milligrams per 70 grams
+mg/L|miligram per liter
+mg/L 10 mi|milligrams per liter 10 minutes
+mg/L diet|milligrams per liter diet
+mg/L media|milligrams per liter media
+mg/L/d|milligrams per liter per day
+mg/L/h|milligrams per liter per hour
+mg/TI|milligrams per tissue
+mg/bee|milligrams per bee
+mg/cc|milligrams per coccoon
+mg/cm|milligrams per centimeter
+mg/cm2|milligrams per square centimeter
+mg/cm2*Torr|milligrams per square centimeters*Torr
+mg/cm2/d|milligrams per square centimeter per day
+mg/cm3|milligrams per cubic centimeter
+mg/cntr|milligrams per container
+mg/d|milligrams per day
+mg/d/100 lbs|milligrams per day per 100 pounds
+mg/d/100 mg org|milligrams per day per 100 grams organisms
+mg/d/bdwt|milligrams per day per body weight
+mg/d/wght|milligrams per day per weight
+mg/dl|milligrams per deciliter
+mg/dm2/h|milligrams per square decimeter per hour
+mg/dm3|milligrams per cubed decimeter
+mg/dose|milligrams per dose
+mg/egg|milligrams per egg
+mg/eu|milligrams per experimental unit
+mg/fish|milligrams per fish
+mg/ft2|milligrams per square foot
+mg/ft3|milligrams per cubic foot
+mg/g|milligrams per gram
+mg/g CRTN|milligrams per gram creatinine
+mg/g MIT|micrograms per gram mitochondria
+mg/g N|milligrams per gram nitrogen
+mg/g TI|milligrams per gram tissue
+mg/g TI/h|milligrams per gram tissue per hour
+mg/g ash|milligrams per gram ash
+mg/g bdwt|milligrams per gram body weight
+mg/g bdwt/d|milligrams per gram body weight per day
+mg/g clay|milligram per gram clay
+mg/g diet|milligrams per gram diet
+mg/g dry wt|milligrams per gram dry weight
+mg/g fluid|milligram per gram fluid
+mg/g humus|milligrams per gram humus
+mg/g in solvent|milligrams per gram in solvent
+mg/g org|milligrams per gram of organism
+mg/g pod|milligrams per gram of pod
+mg/g pro|milligrams per gram protein
+mg/g sd|milligrams per gram seed
+mg/g soil|milligrams per gram soil
+mg/g wet wt diet|milligrams per gram wet weight diet
+mg/g/d|milligrams per gram per day
+mg/gal|milligrams per gallon
+mg/gland/g bdwt|milligrams per gland per gram body weight
+mg/h|milligrams per hour
+mg/h/g bdwt|milligrams per hour per gram body weight
+mg/ha|milligrams per hectare
+mg/in2/d|milligrams per square inch per day
+mg/jv|milligrams per juvenile
+mg/kg|milligrams per kilogram
+mg/kg TI|milligrams per kilogram tissue
+mg/kg bdwt|milligrams per kilogram body weight
+mg/kg bdwt/d|milligrams per kilogram body weight per day
+mg/kg bdwt/wk|milligrams per kilogram body weight per week
+mg/kg diet|milligrams per kilogram diet
+mg/kg diet/d|milligrams per kilogram diet per day
+mg/kg dry diet|milligrams per kilogram dry diet
+mg/kg dry soil|milligrams per kilogram dry soil
+mg/kg dry wt|milligram per kilogram dry weight
+mg/kg dw org/d|milligrams per kilogram dry weight organism per day
+mg/kg egg|milligrams per kilograms egg
+mg/kg humus|milligrams per kilogram humus
+mg/kg litter|milligrams per kilogram litter
+mg/kg media|milligrams per kilogram media
+mg/kg org|milligrams per kilogram organism
+mg/kg org/d|milligrams per kilogram organism per day
+mg/kg p/d|milligrams per kilograms parent per day
+mg/kg seed|milligrams per kilogram seed
+mg/kg soil|milligrams per kilogram soil
+mg/kg wet diet|milligrams per kilogram wet diet
+mg/kg wet wt|milligrams per kilogram wet weight
+mg/kg wet wt media|milligrams per kilogram wet weight media
+mg/kg wt|milligrams per kilogram weight
+mg/kg wt/d|milligrams per kilogram weight per day
+mg/kg/C|milligrams per kilograms per degree celcius
+mg/kg/L|milligrams per kilogram per liter
+mg/kg/d|milligrams per kilogram per day
+mg/kg/fish|milligrams per kilogram per fish
+mg/kg/h|milligrams per kilograms per hour
+mg/kg/min|milligrams per kilogram per minute
+mg/kg/org|milligrams per kilogram per organism
+mg/kg/wk|milligrams per kilogram per week
+mg/lb|milligrams per pound
+mg/m2|milligrams per square meter
+mg/m3|milligrams per cubic meter
+mg/mg|milligrams per milligrams
+mg/mg CREA|milligrams per milligrams creatinine
+mg/mg node|milligrams per milligram nodules
+mg/mg wet bdwt|milligrams per milligram wet body weight
+mg/mi|milligrams per minute
+mg/ml|milligrams per milliliter
+mg/ml diet|milligrams per milliliter diet
+mg/ml/g wt|milligrams per milliliter per gram weight
+mg/mm2|milligrams per square milliliter
+mg/org|milligrams per organism
+mg/org/d|milligrams per organism per day
+mg/org/wk|milligrams per organism per week
+mg/orwt|milligrams per organ weight
+mg/quintal|miligrams per quintal
+mg/sd|milligrams per seed
+mg/tuber|milligrams per tuber
+mg/vol|milligrams per volume
+mg/wk|milligrams per week
+mg1/3|milligrams to the 1/3 power
+mgdrydiet/gwetbdwt/d|milligrams dry diet per gram wet body weight per day
+mgdrydiet/mgwetbdwt/d|milligrams dry diet per milligram wet body weight per day
+mi|minute
+mi/12 h|minutes per 12 hours
+mi/d|minutes per day
+mi/nmol Rh|minutes per nanomoles rhodopsin
+mi/org|minutes per organism
+micronaires|micronaires
+microns|microns
+ml|milliliters
+ml CO2/mi|milliliters CO2 per minute
+ml O2|milliliters O2
+ml O2/mg TI|milliliters O2 per milligram tissue
+ml/0.1 ha|milliliters per 0.1 hectare
+ml/10 L|milliliter per 10 liters
+ml/10 L soil |milliliter per 10 liters soil
+ml/10 L/100 m2|milliliters per 10 liters per 100 square meters
+ml/10 g bdwt|milliliters per 10 grams body weight
+ml/10 kg diet|milliliters per 10 kilograms diet
+ml/10.2 L|milliliters per 10.2 liters
+ml/100 L|milliliters per 100 liters
+ml/100 L H2O/acre|milliliters per 100 liters water per acre
+ml/100 L diet|milliliters per 100 liters diet
+ml/100 g|milliliters per 100 grams
+ml/100 g bdwt|milliliter per 100 grams body weight
+ml/100 g bdwt/d|milliliter per 100 grams body weight per day
+ml/100 g sd|milliliters per 100 grams seed
+ml/100 gal|milliliters per 100 gallons
+ml/100 kg diet|milliliters per 100 kilograms diet
+ml/100 kg sd|milliliters per 100 kilograms seed
+ml/100 lb sd|milliliters per 100 pounds seed
+ml/100 m|milliliters per 100 meters
+ml/100 m2|milliliters per 100 square meters
+ml/100 ml|milliliters per 100 milliliters
+ml/1000 L|milliliters per 1000 liters
+ml/1000 ft|milliliters per 1000 foot
+ml/1000 ml H2O|milliliters per 1000 milliliters water
+ml/1000 org|milliliters per 1000 organisms
+ml/11 L H2O|milliliters per 11 liters water
+ml/1150 ml|milliliters per 1150 milliliters
+ml/15.1 L|milliliters per 15.1 liters
+ml/16 h|milliliters per 16 hours
+ml/189.25 L|milliliters per 189.25 liters
+ml/2 gal|milliliters per 2 gallons
+ml/2.5 cm eu|milliliters per 2.5 centimeters experimental unit
+ml/2.54 cm tkdi|milliliters per 2.54 cm trunk diameter
+ml/20 L|milliliters per 20 liters
+ml/20 L diet|milliliters per 20 liters diet
+ml/2000 L|milliliters per 2000 liters
+ml/24 h|milliliters per 24 hours
+ml/25 L|milliliters per 25 liters
+ml/25 ft|milliliters per 25 feet
+ml/25 ml|milliliters per 25 milliliters
+ml/250 ml|milliliters per 250 milliliters
+ml/3 gal soil |milliliters per 3 gallons soil
+ml/3.75 L|milliliters per 3.75 liters
+ml/3.78 L|milliliters per 3.78 liters
+ml/3.79 L|milliliters per 3.79 liters
+ml/3.8 L|milliliters per 3.8 liters
+ml/30.5 cm ht|milliliters per 30.5 centimeters plant height
+ml/30.5 m|milliliters per 30.5 meters
+ml/300 L/ha|milliliters per 300 liters per hectare
+ml/300 g bdwt|milliliters per 300 grams body weight
+ml/305 m|milliliters per 305 meters
+ml/35 L|milliliters per 35 liters
+ml/37.8 L|milliliters per 37.8 liters
+ml/378.5 L|milliliters per 378.5 liters
+ml/4.5 L/0.003 ha|milliliters per 4.5 liters per 0.003 hectares
+ml/45 mi|milliliters per 45 minutes
+ml/45.35 kg sd|milliliters per 45.35 kilograms seed
+ml/454 g diet|milliliters per 454 grams diet
+ml/5 L H2O/8.75 m2|milliliters per 5 liters water per 8.75 square meters
+ml/5 l|milliliters per 5 liters
+ml/50 gal|milliliters per 50 gallons
+ml/50 kg seed|milliliters per 50 kilograms seed
+ml/50 ml|milliliters per 50 milliliters
+ml/500 g sd|milliliters per 500 grams seed
+ml/500 ml|milliliters per 500 milliliters
+ml/600 ml|milliliters per 600 milliliters
+ml/64 m2|milliliters per 64 square meters
+ml/70 d|milliliters per 70 days
+ml/70 ml |milliliters per 70 milliliters
+ml/8 L|milliliters per 8 liters
+ml/8.5 L|milliliters per 8.5 liters
+ml/81.8 kg wet media|milliliters per 81.8 kilograms wet media
+ml/92.9 m2|milliliters per 92.9 square meters
+ml/929 cm2|milliliters per 929 square centimeters
+ml/946 ml|milliliters per 946 milliliters
+ml/L|milliliters per liter
+ml/L/1000 ft2|milliliters per liter per 1000 square foot
+ml/L/org|milliliters per liter per organism
+ml/acre|milliliters per acre
+ml/body wt|milliliter per body weight
+ml/cm circ|milliliters per centimeter circumference
+ml/cntr|milliliters per container
+ml/d|milliliters per day
+ml/d/100 g BW|milliliters per day per 100 grams body weight
+ml/d/kg BW|milliliters per day per kilogram body weight
+ml/d/org|milliliters per day per organism
+ml/dm2|milliliters per square decimeter
+ml/eu|milliters per experimental unit
+ml/eu/d|milliliters per experimental unit per day
+ml/ft|milliliters per foot
+ml/ft2|milliliters per square foot
+ml/ft3|milliliter per cubic foot
+ml/g|milliliters per gram
+ml/g bdwt|milliliters per gram body weight
+ml/g diet|milliliters per gram diet
+ml/g soil|milliliters per gram soil
+ml/g/h|milliliters per gram per hour
+ml/gal|milliliters per gallon
+ml/gal/ft3 soil|milliliters per gallon per cubic foot soil
+ml/h|milliliters per hour
+ml/h/g bdwt|milliliters per hour per gram body weight
+ml/ha|milliliters per hectare
+ml/hl|milliliter per hectoliter
+ml/in tkdi|milliliters per inch trunk diameter
+ml/injection|milliliters per injection
+ml/kg|milliliters per kilogram
+ml/kg bdwt|milliliters per kilogram body weight
+ml/kg diet|milliliters per kilogram diet
+ml/kg dry seed|milliliters per kilogram dry seed
+ml/kg org/d|milliliters per kilogram organism per day
+ml/kg sd|milliliters per kilograms seed
+ml/kg soil|milliliters per kilogram soil
+ml/kg/d|milliliters per kilogram per day
+ml/l diet|milliliters per liter diet
+ml/l/eu|milliliters per liter per experimental unit 
+ml/m|milliliters per meter
+ml/m2|milliliters per square meter
+ml/m3|milliliters per cubic meter
+ml/mg|milliliters per milligram
+ml/mi|milliliter per minute
+ml/mi/100 g|milliliters per minute per 100 grams
+ml/mi/kg|milliliters per minute per kilogram
+ml/ng|milliliters per nanogram
+ml/org|milliliters per organism
+ml/org/d|milliliters per organism per day
+ml/plot|milliliters per plot
+ml/quintal|milliliters per quintal
+ml/s|milliliters per second
+ml/wk|milliliters per week
+ml/yd2|milliliters per square yard
+mlcl/actin mlcl|molecules per actin molecule
+mm|millimeters
+mm X 100|millimetes X 100
+mm/d|millimeters per day
+mm/h|millimeters per hour
+mm/org|millimeters per organism
+mm/ug pro|millimeters per microgram protein
+mm2|square millimeters
+mm2/mm3 * 1e-9|square millimeters per cubic millimeter X 1 X 10 -9
+mm2/org/d|square millimeters per organism per day
+mm3|cubic millimeters
+mm3/100 g dry soil|cubic millimeters per 100 grams dry soil
+mm3/L|cubic millimeter per liter
+mm3/dm3|cubic millimeters per cubic decimeter
+mm3/l|cubic millimeters per liter
+mm3/mg/h|cubic millimeters per milligram per hour
+mm3/mm3|cubic millimeters per cubic millimeter
+mmHg|millimeters mercury
+mmHg/beat/mi*-3|millimeters mercury per beat per minute * 1 X 10-3
+mmHg/s|millimeters mercury/second
+mmg|micromilligrams
+mmol|millimoles
+mmol NO2/kg|millimoles nitrogen dioxide per kilogram
+mmol/ g diet|millimoles per gram diet
+mmol/100 g|millimoles per 100 grams
+mmol/100 g bdwt|millimoles per 100 grams body weight
+mmol/L|millimoles per liter
+mmol/L soil|millimoles per liter soil
+mmol/d|millimoles per day
+mmol/dm3|millimoles per cubic decimeter
+mmol/g|millimoles per gram
+mmol/g dry wt|millimoles per gram dry weight
+mmol/h/g TI|millimoles per hour per gram tissue
+mmol/kg|millimoles per kilogram
+mmol/kg bdwt|millimoles per kilogram body weight
+mmol/kg bdwt/d|millimoles per kilogram body weight per day
+mmol/kg diet|millimoles per kilogram diet
+mmol/kg dry bdwt/d|millimoles per kilogram dry body weight per day
+mmol/kg dry diet/d|millimoles per kilogram dry diet per day
+mmol/kg egg|millimoles per kilogram egg
+mmol/kg media|millimoles per kilogram media
+mmol/kg soil|millimoles per kilogram soil
+mmol/kg/d|millimoles per kilogram per day
+mmol/kg/h|millimoles per kilogram per hour
+mmol/m2|millimoles per square meter
+mmol/m2/s|millimoles per square meter per second
+mmol/m3|millimoles per cubic meter
+mmol/mg/mi|millimoles per milligram per minute
+mmol/mi/mg|millimoles per minute per milligram
+mmol/ml/h|millimoles per milliliter per hour
+mmu|absolute milli-mass units
+mo|month
+mol|moles
+mol NO2/h/g|moles nitrogen dioxide per hour per gram
+mol/1000 ft3|moles per 1000 cubic feet
+mol/9.29 m2|moles per 9.29 square meters
+mol/L|moles per liter
+mol/L/day|moles per liter per day
+mol/dm3|moles per cubic decimeter
+mol/egg|moles per egg
+mol/g|moles per gram
+mol/g bdwt|moles per gram body weight
+mol/g soil|moles per gram soil
+mol/ha|moles per hectare
+mol/kg|moles per kilogram
+mol/kg bdwt|moles per kilogram body weight
+mol/m3|moles per cubic meter
+mol/ml|moles per milliliter
+mol/org|moles per organism
+mol/umol|moles per micromole
+molal|Molality
+mole %|mole percent
+morph/org|ectomycorrhizal morphotypes per organism
+mosmols/l|mosmoles (conc osmotic particles in solution) per liter
+mouse unit/ml|mouse units per milliliter
+mp/mg pro/15 mi|microsomal proteins/milligram protein per 15 minutes
+ms|milliseconds
+mu/24 h|milliunit per 24 hours
+mu/mg|milliunit per milligram
+mu/mi/ml|milliunit per minute per milliliter
+mumol/0.5 ul|millimicromoles per 0.5 microliter
+mumol/g|mumoles per gram
+mumol/g/mi|mumoles per gram per minute
+munits|milliunits
+munits/org|milliunits per organism
+nCi|nanoCuries
+nCi/L|nanoCuries per liter
+nCi/g org|nanocuries per gram organism
+nM|nanoMolar (nanomoles per liter)
+nM DSMN:uM LYSI|nanomoles desmosine to micromoles lysine ratio
+nM diet|nanomolar diet
+nM/L|nanoMolar per liter
+nM/g|nanoMolar per gram
+neq/g|nanoequivalents per gram
+ng|nanograms
+ng ATP/g dry soil|nanograms ATP per grams dry soil
+ng days/L|nanogram days per liter
+ng diet|nanograms diet
+ng eq/ml|nanograms equivalents per milliliter
+ng/0.3 L|nanograms per 0.3 liters
+ng/0.5 ml|nanograms per 0.5 milliliters
+ng/100 g bdwt|nanograms per 100 grams per bodyweight
+ng/100 ml|nanograms per 100 milliliters
+ng/100 ml diet|nanograms per 100 milliliters diet
+ng/20 ul diet|nanograms per 20 microliters diet
+ng/200 mg diet|nanograms per 200 milligrams diet
+ng/24 h|nanograms per 24 hours
+ng/25 mL|nanograms per 25 milliliters
+ng/3 ul diet|nanograms per 3 microliters diet
+ng/45 ml|nanograms per 45 milliliters
+ng/L|nanograms per liter
+ng/TI|nanograms per tissue
+ng/cm|nanograms per centimeter
+ng/cm2|nanograms per square centimeter
+ng/d|nanograms per day
+ng/dl|nanograms per deciliter
+ng/egg|nanograms per egg
+ng/eu|nanograms per experimental unit
+ng/fish|nanograms per fish
+ng/g|nanograms per gram
+ng/g TE|nanograms per gram Toxic Equivalences
+ng/g TI|nanograms per gram tissue
+ng/g TI/4 h|nanograms per gram tissue per 4 hours
+ng/g bdwt|nanograms per gram body weight
+ng/g bdwt/d|nanograms per gram body weight per day
+ng/g diet|nanograms per gram diet
+ng/g dry diet|nanograms per gram dry diet
+ng/g dry wt|nanograms per gram dry weight
+ng/g dw soil|nanograms per gram dry weight soil
+ng/g egg|nanograms per gram egg
+ng/g org|nanograms per gram organism
+ng/g org/d|nanograms per gram organism per day
+ng/g soil|nanograms per gram soil
+ng/g wet bdwt/d|nanograms per gram wet bodyweight per day
+ng/g wet wt|nanograms per gram wet weight
+ng/g wet wt diet|nanograms per gram wet weight diet
+ng/g wet wt/d/pair|nanograms per gram wet weight per day per pair
+ng/g/d|nanogram per gram per day
+ng/gland|nanograms per gland
+ng/h|nanograms per hour
+ng/kg|nanograms per kilogram
+ng/kg bdwt/d|nanograms per kilogram body weight per day
+ng/kg diet|nanograms per kilogram diet
+ng/kg soil|nanograms per kilogram soil
+ng/kg/wk|nanograms per kilogram per week
+ng/mg|nanograms per milligram
+ng/mg bdwt|nanograms per milligram body weight
+ng/mg diet|nanograms per milligram diet
+ng/mg pro|nanograms per milligram protein
+ng/mg/mi|nanograms per milligram per minute
+ng/mi/kg bdwt|nanograms per minute per kilograms body weight
+ng/min|nanograms per minute
+ng/ml|nanograms per milliliter
+ng/ml blood/d|nanograms per milliliter blood per day
+ng/ml diet|nanograms per milliliter diet
+ng/ml/h|nanograms per milliliter per hour
+ng/ml/mi|nanograms per milliliter per minute
+ng/mm/day|nanograms per millimeter per day
+ng/nl|nanograms per nanoliter
+ng/org|nanograms per organism
+ng/org/d|nanograms per org per day
+ng/orwt|nanograms per organ weight
+ng/ul|nanograms per microliter
+ng/ul diet|nanograms per microliter diet
+ng/ul/org|nanograms per microliter per organism
+ngTEQ/kg bdwt/d|nanograms Toxic Equivalency Conc per kilogram body weight perday
+nkat/mg pro|nanokatals per milligrams protein
+nl/L|nanoliter per liter
+nl/cm2|nanoliter per square centimeter
+nl/ml|nanoliters per milliliter
+nl/org|nanoliters per organism
+nmol|nanomoles
+nmol ATP/g soil|nanomoles adenosine triphosphate per gram of soil
+nmol DOPA/g/h|nanomoles DOPA per gram  per hour
+nmol H2O2/mi/mg|nanomoles of peroxide per minute per milligram protein
+nmol MDA/mg pro|nanomoles malonaldehyde per milligram protein
+nmol PBG/g TI/h|nanomoles porphobilinogen per gram tissue per hour
+nmol PBG/h/ml|nanomoles porphobilinogen per hour per milliliter
+nmol enz/hr|nanomoles enzyme per hour
+nmol mdhyde/g|nanomoles malondialdehyde per gram
+nmol/100 mg pro|nanomoles per 100 milligrams protein
+nmol/100 mg pro/h|nanomoles per 100 milligrams protein per hour
+nmol/L|nanomoles per liter
+nmol/L diet|nanomoles per liter diet
+nmol/TI|nanomoles per tissue
+nmol/cm2|nanomoles per square centimeter
+nmol/egg|nanomoles per egg
+nmol/eu |nanomoles per experimental unit
+nmol/g|nanomoles per gram
+nmol/g TI|nanomoles per gram tissue
+nmol/g TI/h|nanomoles per g tissue per hour
+nmol/g bw|nanomoles per gram body weight
+nmol/g diet|nanomoles per gram diet
+nmol/g dry wt|nanomoles per gram dry weight
+nmol/g humus|nanomoles per gram humus
+nmol/g lipid|nanomoles per gram lipid
+nmol/g org|nanomoles per gram organism
+nmol/g pro|nanomoles per gram protein
+nmol/g pro/mi|nanomoles per gram protein per minute
+nmol/g ro/4 h|nanomoles per gram root per 4 hours
+nmol/g soil|nanomoles per gram soil
+nmol/g wet wt|nanomoles per gram wet weight
+nmol/g/30 mi|nanomoles per gram per 30 minutes
+nmol/g/4 mi|nanomoles per gram per 4 minutes
+nmol/g/h|nanomoles per gram per hour
+nmol/g/mi|nanomoles per gram per minute
+nmol/h/mg pro|nanomoles per hour per milligram protein
+nmol/h/ml RBC|nanomoles per hour per milliliter red blood cells
+nmol/kg|nanomoles per kilogram
+nmol/kg bdwt|nanomoles per kilogram body weight
+nmol/kg/mi|nanomoles per kilogram per minute
+nmol/mg|nanomoles per milligram
+nmol/mg TI|nanomoles per milligram tissue
+nmol/mg pro|nanomoles per milligram per protein
+nmol/mg pro/h|nanomoles per milligram protein per hour
+nmol/mg pro/mi|nanomoles per milligram protein per minute
+nmol/mg/15 mi|nanomoles per milligram protein per 15 minutes
+nmol/mg/20 mi|nanomoles per milligram protein per 20 minutes
+nmol/mg/h|nanomoles per milligram per hour
+nmol/mg/mi|nanomoles per milligram per minute
+nmol/mgpro/30 mi|nanomoles per milligram protein per 30 minutes
+nmol/mi/g|nanomoles per minute per gram
+nmol/mi/mg|nanomoles per minute per milligram
+nmol/mi/mg pro|nanomoles per minute per milligram protein
+nmol/mi/ml|nanomoles per minute per milliliter
+nmol/mi/ml RBC|nanomoles per minute per milliliter red blood cells
+nmol/mi/org|nanomoles per minute per organism
+nmol/ml|nanomoles per milliliter
+nmol/ml RBC/h|nanomoles per milliliter red blood cells per hour
+nmol/mlpro/30 mi| nanomoles per milliliter protein per 30 minutes
+nmol/mol|nanomoles per mole
+nmol/nm p450/mi|nanomoles per nanomol cytochrome P450 per minute
+nmol/org|nanomoles per organism
+nmol/org/0.5 h|nanomoles per organism per 0.5 hours
+nmol/org/h|nanomoles per organism per hour
+no|number
+no >15 cm|number that are greater than 15 centimeters
+no errors|no errors
+no follicles|number of follicles
+no sites|number of sites
+no/1 mi|number per 1 minute
+no/10 mi|number per 10 minutes
+no/100 WBC|number per 100 white blood cells
+no/100 blsm clt|number per 100 blossom cluster
+no/100 u2|number per 100 square microns
+no/100 um2|number per 100 square micrometers
+no/1000|number per 1000
+no/1000 RBCE|number per 1000 red blood cells
+no/1000 sperm|number per 1000 sperm
+no/1000 um2|number per 1000 square micrometers
+no/12 h|number per 12 hours
+no/15 mi|number per 15 minutes
+no/15000x field|number per 15000x field
+no/2.8 mm2|number per 2.8 square millimeters
+no/200 cells|number per 200 cells
+no/30 mi|number per 30 minutes
+no/33 lbs|number per 33 pounds
+no/5 mi|number per 5 minutes
+no/5000 cells|number per 5000 cells
+no/area|number per area
+no/cell|number per cell
+no/cm|number per centimeter
+no/d|number per day
+no/eu|number per experimental unit
+no/fm|number per female
+no/g|number per gram
+no/g soil|number per gram soil
+no/h|number per hour
+no/ha|number per hectare
+no/litter|number of organisms per litter
+no/m|number per meter
+no/m2|number per square meter
+no/mg TI|number per milligram tissue
+no/mi|number per minute
+no/mm2|number per square millimeter
+no/mm2 * 1e-4|number per square millimeter X 1 X 10-4
+no/mm3|number per cubic millimeter
+no/mm3 * 1e-4|number per cubic millimeter X 1 X 10 -4
+no/mm3 * 1e-8|number per cubic millimeter X 1 X 10 -8
+no/mo|number per month
+no/neuron *1e-3|number per neuron X 1 X 10 -3
+no/nuclei|number per nuclei
+no/org|number per organism
+no/org/d|number per organism per day
+no/panicle|numbers per panicle
+no/plot|number per plot
+no/preg FM|number per pregnant female
+no/sec|number per second
+no/section|number per section
+no/seed|number per seed
+no/sertoli cell|number per sertoli cells
+no/so|number per shoot
+nuclei:nucleoi|nuclei to nucleoi ratio
+oocytes|oocytes
+open bol/org|opened bolls per organism
+org|organism
+org conc/soil c|organism concentration per soil concentration
+org/0.25 ft2|organisms per 0.25 square feet
+org/0.25 m2|organisms per 0.25 square meters
+org/0.3 m|organisms per 0.3 meters
+org/10 m|organisms per 10 meters
+org/100 g soil|organisms per 100 grams soil
+org/200 cm3 soil|number of organisms per 200 cubic centimeters of soil
+org/200 m2|organisms per 200 square meters
+org/50 cm2|organisms per 50 square centimeters
+org/60 leaves|organisms per 60 leaves
+org/cm ro|organisms per centimeter root
+org/cntr|organisms per container
+org/d/cntr|organisms per day per container
+org/eu|organisms per experimental unit
+org/fm|organisms per female
+org/ft2|organisms per square foot
+org/g|organisms per gram
+org/g dry soil|organisms per gram dry soil
+org/g humus|organisms per gram humus
+org/g root|organisms per gram root
+org/g soil|organisms per gram soil
+org/ha|organisms per hectare
+org/kg soil|organisms per kilogram soil
+org/km2|organisms per square kilometer
+org/lit|organisms per litter
+org/m|organisms per meter
+org/m2|organisms per square meter
+org/mi|organisms per minute
+org/plot|organisms per plot
+org/sample|organisms per sample
+org/sector|number of organisms per sector
+org/site|organisms per site
+org/trap|organism per trap
+org/trap/d|organisms per trap per day
+org/tree|organisms per tree
+org/w>150 mmHg|organisms with blood pressure >150 millimeters mercury
+org/w>160 mmHg|organisms with blood pressure >160 millimeters mercury
+org/wk|organisms per week
+oz|ounces
+oz/10 gal/acre|ounces per 10 gallons per acre
+oz/100 gal|ounces per 100 gallons
+oz/100 gal/acre|ounces per 100 gallons per acre
+oz/100 lb seed|ounces per 100 pound seed
+oz/1000 ft|ounces per 1000 feet
+oz/1000 ft2|ounces per 1000 square feet
+oz/1000 ft3|ounces per 1000 cubic feet
+oz/2.5 gal|ounces per 2.5 gallons
+oz/20 gal/acre|ounces per 20 gallons per acre
+oz/3 gal|ounces per 3 gallons
+oz/305 m|ounces per 305 meters
+oz/60 gal/acre|ounces per 60 gallons per acre
+oz/acre|ounces per acre
+oz/bu|ounces per bushel
+oz/cwt|ounces per hundred weight
+oz/cwt sd|ounces per hundred weight seed
+oz/ft2|ounces per square feet
+oz/gal|ounces per gallon
+oz/lb|ounces per pound
+oz/lb sd|ounces per pound seed
+oz/org|ounces per organism
+pCi/L|picoCuries per liter
+pCi/g|picoCuries per gram
+pCi/ml|picoCuries per milliliter
+pH|pH
+pM|picoMolar
+pair|pair
+pc|permeability constant
+pecks/s|pecks per second
+pellet/d|pellets per day
+pellet/org/d|pellets per organism per day
+pellets|pellets
+pg|picograms
+pg TE/g egg|picograms Toxic Equivalent per gram egg
+pg/L|picograms per liter
+pg/TI|picograms per tissue
+pg/cell|picograms per cell
+pg/cm2|picograms per square centimeter
+pg/dm3|picograms per cubic decimeter
+pg/g|picograms per gram
+pg/g TI|picograms per gram tissue
+pg/g diet|picograms per gram diet
+pg/g egg|picograms per gram egg
+pg/g wet wt|picograms per gram wet weight
+pg/kg bdwt/d|picograms per kilogram body weight per day
+pg/kg egg|picograms per kilogram egg
+pg/mg TE|picograms per milligram Toxic Equivalences
+pg/mg org|picograms per milligram org
+pg/mi|picograms per minute
+pg/ml|picograms per milliliter
+pg/org|picograms per organism
+pg/ul|picograms per microliter
+pmol|picomoles
+pmol/L|picomoles per liter
+pmol/cell|picomoles per cell
+pmol/egg|picomoles per egg
+pmol/g|picomoles per gram
+pmol/g bdwt|picomoles per gram body weight
+pmol/g egg|picomoles per gram egg
+pmol/g/mi|picomoles per gram per minute
+pmol/hr/mg|picomoles per hour per milligram
+pmol/kg egg|picomoles per kilogram egg
+pmol/mg|picomoles per milligram
+pmol/mg pro|picomoles per milligram protein
+pmol/mg pro/h|picomoles per milligram protein per hour
+pmol/mg pro/mi|picomoles per milligram protein per minute
+pmol/mg/10 mi|picomoles per milligram per 10 minutes
+pmol/mg/30 mi|picomoles per milligram protein per 30 minutes
+pmol/mg/d|picomoles per milligram per day
+pmol/mg/h|picomoles per milligram per hour
+pmol/mg/mi|picomoles per milligram per minute
+pmol/mg/nmol r|picomoles per milligram per nanomol rhodopsin
+pmol/mi/g TI|picomoles per minute per gram tissue
+pmol/mi/mg pro|picomoles per minute per milligram protein
+pmol/ml|picomoles per milliliter
+pmol/nl|picomoles per nanoliter
+pmol/nm p450/mi|picomoles per nanomol cytochrome P450 per minute
+pmol/org|picomoles per organism
+ppb|parts per billion
+ppb diet|parts per billion diet
+ppb dry wt |parts per billion dry weight
+ppb/2 H/org|parts per billion per two hours per organism
+ppb/ml|parts per billion per milliliter
+pphr|parts per hundred rubber
+ppm|parts per million
+ppm H2O|parts per million water
+ppm diet|parts per million diet
+ppm diet/d|parts per million diet per day
+ppm dry wt|parts per million dry weight
+ppm dw diet|parts per million dry weight diet
+ppm for 36 hr|parts per million per 36 hours
+ppm soil|parts per million soil
+ppm solvent|parts per million in solvent
+ppm w/w|parts per million weight per weight
+ppm w/w diet|parts per million weight per weight diet
+ppm wet wt diet|parts per million wet weight diet
+ppm-d|parts per million day
+ppm-hour|parts per million hour
+ppm/100 g bdwt/d|parts per million per 100 grams body weight per day
+ppm/L|parts per million per liter
+ppm/d|parts per million per day
+ppm/d/kg bdwt|parts per million per day per kilogram body weight
+ppm/eu|parts per million per experimental unit
+ppm/g bdwt|parts per million per gram body weight
+ppm/g diet|parts per million per gram diet
+ppm/gal|parts per million per gallon
+ppm/mi|parts per million per minute
+ppm/ml|parts per million per milliter
+ppm/org|parts per million per organism
+ppmv|parts per million by volume
+ppmv/eu|parts per million by weight per pot
+ppmw|parts per million by weight
+ppmw diet|parts per million by weight diet
+ppt|parts per trillion
+prdt/mi/mg pro|product formed per minute per milligram protein
+pt|pints
+pt/100 ft2|pints per 100 square feet
+pt/100 gal|pints per 100 gallons
+pt/acre|pints per acre
+pt/gal|pints per gallon
+ptm|parts per thousand million
+q/ha|quintals per hectare
+qt/100 gal|quarts per 100 gallons
+qt/acre|quarts per acre
+qt/gal|quarts per gallon
+rate/100 org|rate per 100 organisms
+rate/mi|rate per minute
+rev|revolutions
+rev/5 h|revolutions per 5 hours
+rgv|relative gray value
+ro:so|root to shoot ratio
+rpm|revolutions per minute
+s|seconds
+s/12 rpm|seconds per 12 revolutions per minute
+s/16 rpm|seconds per 16 revolutions per minute
+s/8 rpm|seconds per 8 revolutions per minute
+s/g|seconds per gram
+s/h|seconds per hour
+sd/org/d|seeds per organism per day
+sessions|sessions
+sgth:thik|Strength to thickness ratio
+sgth:wght|Strength to weight ratio
+sigma u/100 ml|sigma units per 100 milliliters
+so/ft2|shoots per square foot
+so:gr|ratio plant shoot to grain
+so:ro|shoot to root ratio
+spec gravity|specific gravity
+species|species
+spines/u area|spines per unit area
+spots/le|spots per leaf
+str:gr|plant straw to grain ratio
+succ br|successful broods
+succ br/fm|successful broods per female
+t/ha gr/t/ha gr|tons per hectare grain over tons per hectare grains plus straw [
+taxa|taxa
+tillers/m2|tillers per square meter
+tons|tons
+tons/acre|tons per acre
+tons/ha|tons per hectare
+top:root|ratio plant top to roots
+treated:cntl|ratio treated to control
+trials|trials
+tsp/2.5 gal|teaspoons per 2.5 gallons
+tsp/in dbh|teaspoons per inch of diameter at breast height
+tsp/mound|teaspoons per mound
+u act|unit activity (an increase in absorbance at 555 nm of 0.100, wit
+u act/h|unit activity per hour
+u-atoms/egg|microatoms per egg
+u/TI|units per tissue
+u/co2/50 mg/10 mi|units per carbon dioxide per 50 milligrams per 10 minutes
+u/d|units per day
+u/g|units per gram
+u/mg N2|units per mg N2
+u/mg TI|units per milligram tissue
+u2|square microns
+u2/300,000 u2|square micrometers per 300,000 micrometers squared
+u3|cubic microns
+uBq|microBecquerels
+uCI/g org|microcuries per gram organism
+uCi|microCuries
+uCi/100 g org|microCuries per 100 grams organism
+uCi/3.6 mg|microCuries per 3.6 milligrams
+uCi/30 mg|microCuries per 30 milligrams
+uCi/L|microCuries per liter
+uCi/g|microCuries per gram
+uCi/g soil|microcuries per gram soil
+uCi/kg|microCuries per kilogram
+uCi/mg|microCuries per milligram
+uCi/ml|microCuries per milliliter
+uCi/nmol|microCuries per nanomoles
+uCi/org|microCuries per organism
+uCi/ug|microCuries per micrograms
+uCi/ul|microCuries per microliter
+uIU/ml|microInternational units per milliliter
+uL/100 L|microliters per 100 liters
+uM|microMolar
+uM B-naph/h/mgP|micromoles beta-naphthalene per hour per milligram protein
+uM B-naph/h/ml|micromoles beta-naphthalene per hour per milliliter
+uM BAPNA/mi/mgP|micromoles of BAPNA inhibited per minute per milligram protein
+uM BAPNA/mi/ml|micromoles of BAPNA inhibited per minute per milliliter
+uM BTEE/mi/mgP|micromoles BTEE per minute per milligram protein
+uM P/g|micromoles Phosphorous per gram
+uM SAPNA/mi/mgP|micromoles of SAPNA inhibited per minute per milligram protein
+uM SAPNA/mi/ml|micromoles of SAPNA inhibited per minute per milliliter
+uM TAME/mi/mgP|micromoles TAME per minute per milligram protein
+uM diet|micromoles diet
+uM/100 g|microMolar per 100 grams
+uM/L|microMolar per liter
+uM/TI|micromoles per tissue
+uM/cm3|microMolar per cubed centimeter
+uM/h|micromoles per hour
+uM/h/l RBC|micromoles per hour per liter red blood cells
+uM/h/mg pro|micromolar per hour per milligram protein
+uM/kg|microMolar per kilogram
+uM/kg wght|micromoles per kilogram weight
+uM/kg/mi|microMolar per kilogram per minute
+uM/mg pro|microMolar per milligram protein
+uM/min/g|microMolar per minute per gram
+uM/ml|micromolar per milliliter
+uS/cm|micro Siemens per centimeter
+uU/ml|microunits per milliliter
+uV|microVolts
+ueq/L|microequivalents per liter
+ueq/g|microequivalents per gram
+ueq/g pro/mi|microatom equivalents per gram protein per minute
+ug|micrograms
+ug %|micrograms percent
+ug CO2/g dry soil/h|micrograms carbon dioxide per grams dry soil per hour
+ug GHA/1e+6 c/h|micrograms gamma-glutamylhydroximate per 1X10 +6 cells per hour
+ug Hg203/g TI|micrograms Hg203 per gram tissue
+ug N/g|micrograms nitrogen per gram
+ug NANA/TI|micrograms N-acetyl neuraminic acid per tissue
+ug O/g pro/mi|micrograms oxygen per gram protein per minute
+ug PAP/g/20 mi|micrograms peroxidase-anti-peroxidase (PAP) per gram per 20 min
+ug PAP/g/30 mi|micrograms peroxidase-anti-peroxidase (PAP) per gram per 30 min
+ug POH/mg pro/m|micrograms phenol per milligrams protein per minute
+ug Pi/mg|micrograms Pi/milligram
+ug Pi/mg MIT|micrograms Pi/milligram mitochondria
+ug Pi/mg TI|micrograms Pi/milligram tissue
+ug TE/kg|micrograms Toxic Equivalent per kilogram
+ug TEQ/kg bw/wk|micrograms Toxic Equivalency Concentration per kg bdwt per week
+ug TTC/mg pro/h|micrograms triphenyl tetrazolium chloride reduced per milligram
+ug chl/cm2|micrograms chlorophyll per square centimeter
+ug chl/mg leaf|micrograms chlorophyll per milligram of leaf
+ug dry diet/d|micrograms dry diet per day
+ug enz/g/h|microgram enzyme per gram per hour
+ug frmzn/100 g|micrograms formazan formed per 100 grams tissue
+ug pro ld/ne|ug proteolipid per nerve pair
+ug%|microgram percent
+ug-atoms/L|micrograms atoms per liter
+ug/0.1 ml/d/org|micrograms per 0.1 milliliter per day per organism
+ug/0.2 ml diet|micrograms per 0.2 milliliters diet
+ug/0.5 g|micrograms per 0.5 grams
+ug/10 L|micrograms per 10 liters
+ug/10 g bdwt|micrograms per 10 grams body weight
+ug/100 g|micrograms per 100 grams
+ug/100 g bdwt|micrograms per 100 grams body weight
+ug/100 g bdwt/d|micrograms per 100 grams body weight per day
+ug/100 g org/d|micrograms per 100 grams organism per day
+ug/100 g/d|micrograms per 100 grams per day
+ug/100 mg|micrograms per 100 milligrams
+ug/100 mg TI|micrograms per 100 milligram tissue
+ug/100 mg/30mi|micrograms per 100 milligrams per 30 minutes
+ug/100 mg/h|micrograms per 100 milligrams per hour
+ug/100 ml|micrograms per 100 milliliters
+ug/100 ml RBC|micrograms per 100 milliliters red blood cells
+ug/100 ml diet|micrograms per 100 milliliters diet
+ug/2 ml diet |Micrograms per 2 milliliters diet
+ug/2 org/d|micrograms per 2 organisms per day
+ug/2.5 ul/h|micrograms per 2.5 microliters per hour
+ug/200 mg/30 mi|micrograms per 200 milligrams per 30 minutes
+ug/24 h|micrograms per 24 hours
+ug/24 h/org|micrograms per 24 hours per organism
+ug/25 mL|micrograms per 25 milliliters
+ug/250 g bdwt|micrograms per 250 grams body weight
+ug/3.5 L|micrograms per 3.5 liters
+ug/300 g bdwt|micrograms per 300 grams body weight
+ug/4 d|micrograms per 4 days
+ug/5 ml|micrograms per 5 milliliters
+ug/50 g bdwt|micrograms per 50 grams body weight
+ug/50 ml|micrograms per 50 milliliters
+ug/50 ul|micrograms per 50 microliters
+ug/500 g|micrograms per 500 grams
+ug/72 h|micrograms per 72 hours
+ug/L|micrograms per liter
+ug/L diet|micrograms per liter diet
+ug/L/d|micrograms per liter per day
+ug/L/hr|microgram per liter per hour
+ug/TI|micrograms per tissue
+ug/bee|micrograms per bee
+ug/branch|micrograms per branch
+ug/cell|micrograms per cell
+ug/cm2|micrograms per square centimeter
+ug/cm2 lf|micrograms per square centimeter leaf
+ug/cm2 org|micrograms per square centimeter of organism
+ug/cm2/d|micrograms per square centimeter per day
+ug/cm3|micrograms per cubic centimeter
+ug/d|micrograms per day
+ug/d/org|micrograms per day per organism
+ug/disk|micrograms per disk
+ug/dl|micrograms per deciliter
+ug/dm3|micrograms per cubic decimeter
+ug/dm3 diet|micrograms per cubic decimeter diet
+ug/egg|micrograms per egg
+ug/em|micrograms per embryo
+ug/eu|micrograms per experimental unit
+ug/eu/d|micrograms per experimental unit per day
+ug/fish|micrograms per fish
+ug/g|micrograms per gram
+ug/g CREA|micrograms per gram creatinine
+ug/g LD wt|micrograms per gram lipid weight
+ug/g OC|micrograms per gram Organic Carbon
+ug/g TI|micrograms per gram tissue
+ug/g agar|micrograms per gram agar
+ug/g ash|micrograms per gram ash
+ug/g bdwt|micrograms per gram body weight
+ug/g bdwt/d|micrograms per gram body weight per day
+ug/g bdwt/h|micrograms per gram body weight per hour
+ug/g bdwt/wk|micrograms per gram body weight per week
+ug/g diet|micrograms per gram diet
+ug/g dry cmpst|micrograms per gram dry compost
+ug/g dry diet|micrograms per gram dry diet
+ug/g dry diet/d|micrograms per gram dry diet per day
+ug/g dry soil|micrograms per gram dry soil
+ug/g dry soil/h|micrograms per gram dry soil per hour
+ug/g dry wt|micrograms per gram dry weight
+ug/g egg|micrograms per gram egg
+ug/g eu|micrograms per gram experimental unit
+ug/g lipid diet|micrograms per gram lipid in diet
+ug/g media|micrograms per gram media
+ug/g npro|micrograms per gram nonprotein
+ug/g om|micrograms per gram organic matter
+ug/g org|micrograms per gram organism
+ug/g org x 10+2|micrograms per gram organism multiplied by 10+2
+ug/g org x 1E2|micrograms per gram organism x 1E2
+ug/g org/d|micrograms per gram organism per day
+ug/g org/wk|micrograms per gram organism per week
+ug/g pellet|micrograms per gram pellet
+ug/g pro|micrograms per gram protein
+ug/g pro/mi|micrograms per gram protein per minute
+ug/g sd|micrograms per gram seed
+ug/g soil|micrograms per gram soil
+ug/g wet bdwt|micrograms per gram wet bodyweight
+ug/g wet diet/d|micrograms per gram wet diet per day
+ug/g wet media|micrograms per gram wet media
+ug/g wet soil|micrograms per gram wet soil
+ug/g wet wt|micrograms per gram wet weight
+ug/g wet wt TI|micrograms per gram wet weight tissue
+ug/g wet wt diet|micrograms per gram wet weight diet
+ug/g/30 min|micrograms per gram per 30 minutes
+ug/g/d|micrograms per gram per day
+ug/g/kg bdwt|micrograms per gram per kilogram body weight
+ug/g/wk|micrograms per gram per week
+ug/h|micrograms per hour
+ug/h/100 g|micrograms per hour per 100 grams
+ug/h/100 ml|micrograms per hour per 100 milliliters
+ug/kg|micrograms per kilogram
+ug/kg LD|micrograms per kilogram lipid
+ug/kg TI|micrograms per kilograms tissue
+ug/kg bdwt|micrograms per kilogram body weight
+ug/kg bdwt/d|micrograms per kilogram body weight per day
+ug/kg bdwt/h|micrograms per kilogram body weight per hour
+ug/kg bdwt/wk|micrograms per kilogram body weight per week
+ug/kg diet|microgram per kilogram diet
+ug/kg dry soil|micrograms per kilogram dry soil
+ug/kg dry wt org|micrograms per kilogram dry weight organism
+ug/kg egg|micrograms per kilogram egg
+ug/kg org|micrograms per kilogram organism
+ug/kg org/d|micrograms per kilogram organism per day
+ug/kg soil|micrograms per kilogram soil
+ug/kg wet media |micrograms per kilogram wet media
+ug/kg/d|micrograms per kilogram per day
+ug/kg/mi|micrograms per kilogram per minute
+ug/kg/wk|micrograms per kilogram per week
+ug/l soil|micrograms per liter soil
+ug/lf|micrograms per leaf
+ug/m2|micrograms per square meter
+ug/m3|micrograms per cubic meter
+ug/mg|micrograms per milligram
+ug/mg MIT|micrograms per milligram mitochondria
+ug/mg TI|micrograms per milligram tissue
+ug/mg bdwt|micrograms per milligram body weight
+ug/mg diet|micrograms per milligram diet
+ug/mg org|micrograms per milligram organism
+ug/mg pro|micrograms per milligram protein
+ug/mg pro/hr|micrograms per milligram protein per hour
+ug/mi|micrograms per minute
+ug/mi/mg pro|micrograms per minute per milligram protein
+ug/min/ml|micrograms per minute per milliliter
+ug/ml|micrograms per milliliter
+ug/ml H2O|micrograms per milliliter water
+ug/ml diet|micrograms per milliliter diet
+ug/mm3|micrograms per cubic millimeter
+ug/org|micrograms per organism
+ug/org dry wt|micrograms per organism dry weight
+ug/org/d|micrograms per organism per day
+ug/org/wk|micrograms per organism per week
+ug/sample|micrograms per sample
+ug/tank/wk|micrograms per tank per week
+ug/ul|micrograms per microliter
+ug/ul diet|micrograms per microliter diet
+ul|microliters
+ul Eq/ml|microliters equivalents per milliliter
+ul O2/g/h|microliters O2 per gram per hour
+ul O2/hr/g|microliters oxygen per hour per gram
+ul O2/mi/g|microliters oxygen per minute per gram
+ul diet|microliters diet
+ul/0.5 m2|microliters per 0.5 square meters
+ul/1.2 kg soil|microliters per 1.2 kilograms soil
+ul/10 ml |microliters per 10 milliliters
+ul/100 g bdwt|microliters per 100 grams body weight
+ul/100 ml|microliter per 100 milliliter
+ul/100 ml diet|microliters per 100 milliliters diet
+ul/160 ml|microliters per 160 milliliters
+ul/2 ml diet|Microliters per 2 milliliters diet
+ul/2.7 cm2|microliters per 2.7 square centimeters
+ul/20 ml|microliter per 20 milliliter
+ul/200 ml|microliters per 200 milliliters
+ul/300 ml|microliters per 300 milliliters
+ul/720 ml|microliter per 720 milliliter
+ul/L|microliters per liter
+ul/L diet|microliters per liter diet
+ul/L soil|microliters per liter soil
+ul/L/24 h|microliters per liter per 24 hours
+ul/L/7 h|microliters per liter per 7 hours
+ul/L/9 h|microliters per liter per 9 hours
+ul/L/h|microliters per liter per hour
+ul/beat|microliters per beat
+ul/beat/kg|microliters per beat per kilogram
+ul/cm2|microliter per square centimeter
+ul/d|microliters per day
+ul/egg|microliter per egg
+ul/eu|microliters per experimental unit
+ul/g|microliter per gram
+ul/g bdwt|microliter per gram body weight
+ul/g dry soil|microliters per gram dry soil
+ul/g/d|microliters per gram per day
+ul/g/h|microliters per gram per hour
+ul/kg|microliter per kilogram
+ul/kg bdwt|microliter per kilogram body weight
+ul/kg diet|microliters per kilogram diet
+ul/m2|microliters per square meter
+ul/mg|microliters per milligram
+ul/ml|microliter per milliliter
+ul/ml diet|microliters per milliliter diet
+ul/org|microliter per organism
+ul/sd|microliters per seed
+ul3|cubic microliters
+ulCO2/50 mgTI/10|microliters carbon dioxide per 50 milligrams tissue per 10 minut
+um|micrometers
+um/s|micrometers per second
+um/um2|micrometers per square micrometer
+um2|square micrometers
+um3|cubic micrometers
+um3/cell|cubic micrometers per cell
+umol|micromoles
+umol C2H4/g/h|micromoles of ethylene produced per gram per hour
+umol C2H4/org/h|micromoles of ethylene produced per organism per hour
+umol CO2/g ch/s|micromoles carbon dioxide per gram chlorophyll per second
+umol CO2/g/s|micromoles CO2 per gram per second
+umol CO2/m2/s|micromoles CO2 per square meter per second
+umol GH/mgpro/m|micromoles reduced glutathione per milligrams protein per minute
+umol HA/mg pro|micromoles hippuric acid per milligram protein
+umol NADPH/mg P|micromoles NADPH per milligram protein per minute
+umol P/g/20 mi|micromol phosphorus per gram per 20 minutes
+umol P/g/h|micromoles phosphorus per gram per hour
+umol P/mg pro/h|micromoles phosphorus per milligram protein per hour
+umol Pbg/h/g|micromoles of porphobilinogen per hour per gram tissue
+umol Pi/mgp/30 m|micromoles Pi per milligram protein  per 30 minutes
+umol Pi/mgpro/h|micromoles Pi per milligram protein per hour
+umol pyv mg p/h|micromoles pyruvate per milligram protein per hour
+umol/10 g/h|micromoles per 10 grams per hour
+umol/10 mg/h|micromoles per 10 milligrams per hour
+umol/100 g|micromoles per 100 grams
+umol/100 g org|micromoles per 100 grams organism
+umol/100 ml|micromoles per 100 milliliters
+umol/L|micromoles per liter
+umol/TI|micromoles per tissue
+umol/cm2|micromoles per square centimeter
+umol/dl/h|micromoles per decaliter per hour
+umol/dm3|micromoles per cubic decimeter
+umol/egg|micromoles per egg
+umol/eu|micromoles per experimental unit
+umol/g|micromoles per gram
+umol/g LD|micromoles per gram lipid
+umol/g TI|micromoles per gram tissue
+umol/g TI/h|micromoles per gram tissue per hour
+umol/g ash|micromoles per gram ash
+umol/g diet|micromoles per gram diet
+umol/g dry wt|micromoles per gram dry weight
+umol/g dry wt diet|micromoles per gram dry weight diet
+umol/g org|micromoles per gram organism
+umol/g pro/h|micromoles per gram protein per hour
+umol/g soil|micromoles per gram soil
+umol/g wet wt|micromoles per gram wet weight
+umol/g/15 mi|micromoles per gram per 15 minutes
+umol/g/30 mi|micromoles per gram per 30 minutes
+umol/g/h|micromoles per gram per hour
+umol/g/mi|micromoles per gram per minute
+umol/h/TI|micromoles per hour per tissue
+umol/h/g TI|micromoles per hour per gram tissue
+umol/h/g pro|micromols per hour per grams protein
+umol/h/mg TI|micromols per hour per milligram tissue
+umol/h/mg pro|micromoles per hour per milligram protein
+umol/kg|micromoles per kilogram
+umol/kg LD|micromoles per kilogram lipid
+umol/kg bdwt|micromoles per kilogram body weight
+umol/kg dry soil|micromoles per kilogram dry soil
+umol/kg egg|micromoles per kilogram egg
+umol/kg media|micromoles per kilogram media
+umol/kg org|micromoles per kilogram organism
+umol/kg soil|micromoles per kilogram soil
+umol/kg wet bdwt|micromoles per kilogram wet body weight
+umol/kg/d|micromoles per kilogram per day
+umol/kg/h|micromole per kilogram per hour
+umol/kg/mi|micromoles per kilogram per minute
+umol/l RBC/mi|micromoles per liter red blood cells per minute
+umol/mg pro|micromoles per mg protein
+umol/mg pro/h|micromoles per mg protein per hour
+umol/mg pro/mi|micromoles per mg protein per minute
+umol/mg/15 mi|micromol per milligram per 15 minutes
+umol/mg/h|micromoles per milligram per hour
+umol/mg/mi|micromoles per milligram per minute
+umol/mgpro/20 mi|micromoles per mg protein per 20 minutes
+umol/mgpro/30 mi|micromoles per mg protein per 30 minutes
+umol/mi|micromoles per minute
+umol/mi/g|micromoles per minute per gram
+umol/mi/g TI|micromoles per minute per gram of tissue
+umol/mi/l|micromoles per minute per liter
+umol/mi/mg|micromoles per minute per milligram
+umol/mi/mg pro|micromoles per minute per mg protein
+umol/mi/ml|micromoles per minute per milliliter
+umol/ml|micromoles per milliliter
+umol/ml/h|micromole per milliliter per hour
+umol/ml/mi|micromoles per milliliter per minute
+umol/mol|micromoles per mole
+umol/mol C|micromoles per mole Carbon
+umol/org|micromoles per organism
+umolASCA/mg pro|micromols ascorbic acid per milligram protein
+umolNH3/1e+6 c/h|micromoles NH3 per 1X10+6 cells per hour
+umoles/l agar|micromoles per liter agar
+unit/mg pro/mi|enzyme unit per milligram protein per minute
+units|units
+units/g diet|units per gram diet
+units/l|units per liter
+units/mg|units per milligram
+units/mg pro|units per milligram protein
+units/ml|units per milliliter
+units/ml RBC|units per milliliter red blood cells
+v/v|volume per volume
+wght/lit|weight per litter
+wk|Week

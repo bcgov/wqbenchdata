@@ -1,0 +1,179 @@
+code|description
+%|percent
+% Sat|percent saturation
+--|Unspecified
+0/00|parts per thousand
+C|Celsius
+F|Fahrenheit
+FS|French Hardness
+HARD|Hard water
+HARD*|Hard water
+HCO3|Hydrogen carbonate
+K|Kelvin
+KG/HA|KG/HA
+LOW|Low
+M|Molar
+M NaCl|Molar Sodium Chloride
+MM|MM
+MMOL/L|MMOL/L
+MOD|Moderate
+Mod Hard|Moderately hard water
+N|Normal
+NC|Not coded
+NR|Not reported
+PPM|PPM
+PSU|practical salinity units
+RA|Ratio
+S|Siemens
+S/cm|Siemens per centimeter
+S/m|Siemens per meter
+SAT|Saturated
+SAT*|Saturated
+SOFT|Soft water
+SOFT*|Soft water
+UG/L|UG/L
+UM|UM
+UMOL/L|UMOL/L
+V HARD|Very hard
+V SOFT|Very soft
+cc/L|cubic centimeters per liter
+cm|centimeters
+cmol P+/kg|centimoles P+ per kilogram soil
+cmol+/100 g|centimoles +ions per 100 grams soil
+cmol+/kg|centimoles + ions per kilogram s
+cmol/dm3|centimoles per cubic decimeter
+cmol/g|centimoles per gram soil
+cmol/kg|centimoles per kilogram soil
+cmol/kg        |cmol/kg        
+cmol/kg d soil|centimoles per kilograms dry soil
+dH|degrees hardness
+dS/m|deciSiemens per meter
+dag/kg|decagrams per kilogram
+ft|feet
+g|grams
+g CaCO3|grams Calcium carbonate
+g/100g|grams per 100 grams
+g/3.5L|g/3.5L
+g/L|grams per liter
+g/L CaCO3|grams per liter Calcium carbonate
+g/dm3|grams per cubic decimeter
+g/kg|grams per kilogram
+g/kg soil|grams per kilogram soil
+g/m2|grams per square meter
+g/m3|grams per cubic meter
+g/m3 CaCO3|grams per cubic meter Calcium Carbonate
+in|inches
+kDa|kilo Daltons
+kg/ha|kilograms per hectare
+m|meters
+mM|millimolar
+mM CaCO3|millimolar Calcium carbonate
+mN|millinormal
+mN             |mN             
+mOhm|milliohms
+mOsm|milliosmoles
+mS|milli Siemens
+mS/cm|milli Siemens per centimeter
+mS/cm2|milli Siemens per square centimeter
+mS/cm3|milli Siemens per cubic centimeter
+mS/m|milli Siemens per meter
+mV|millivolts
+me/100g|milliequivalents per 100 grams s
+meq|milli equivalents
+meq A/100g|milliequivalents NH4per 100g
+meq mg/g|milliequivalent milligrams per g
+meq/100 cm3|milliequivalents per 100 cubic centimeters
+meq/100 g|meq/100 g
+meq/100g|milliequivalents per 100 grams s
+meq/100ml|milliequivalents per 100 milliliters
+meq/L|milli equivalents per liter
+meq/g|milliequivalents per gram 
+meq/kg|milliequivalents per kilogram
+mg/100 g soil|milligrams per 100 grams soil
+mg/15 ml|milligrams per 15 milliliters
+mg/15 ml       |mg/15 ml       
+mg/L|milligrams per liter
+mg/L C|milligrams per liter Carbon
+mg/L CO3|milligrams per liter carbonate
+mg/L CaCO3|milligrams per liter Calcium carbonate
+mg/L CaO|milligrams per liter Calcium oxide
+mg/L FA|milligrams per liter Fulvic Acid
+mg/L HA|milligrams per liter Humic Acid
+mg/L HCO3|milligrams per liter Hydrogen Ca
+mg/L HCO3      |mg/L HCO3      
+mg/L MO|milligrams per liter Methyl Orange
+mg/L Mg|miligrams per liter Magnesium
+mg/L, Ca|milligrams per liter, Calcium
+mg/L, Ca       |mg/L, Ca       
+mg/dm3|milligram per cubic decimeter
+mg/dm3 CaCO3|milligrams per cubic decimeter Calcium carbonate
+mg/g soil|milligrams per gram soil
+mg/kg|milligrams per kilogram
+mg/kg soil|milligrams per kilogram soil
+mg/l EDTA|milligrams per liter EDTA
+mg/ml|milligrams per milliliter
+mg/ml CaCO3|milligrams per milliliter CaCO3
+mgL|mgL
+mho|mho
+mho/cm|mho per centimeter
+ml N/100 HCl|milliliters nitrogen per 100 HCl
+ml/L|milliliter per liter
+mm|millimeters
+mm Hg|millimeters mercury
+mmhos|millimhos
+mmhos/cm|millimhos per centimeter
+mmol|millimoles
+mmol           |mmol           
+mmol K+/kg|millimoles K+ per kilogram soil
+mmol/100g|millimoles per 100 grams soil
+mmol/L|millimoles per liter
+mmol/L CaCO3|millimoles per L Calcium Carbonate
+mmol/L OH|millimoles per liter Hydroxide
+mmol/dm3|millimoles per cubic decimeter
+mmol/kg|millimoles per kilogram soil
+mol/kg|moles per kilogram
+mol/l|moles per liter
+mval/100g|millivalue per 100 grams
+ohm/cm|ohm per centimeter
+ohm/cm2/mol|ohms per square centimeters per mole
+ohms|ohms
+ppb phenolphth|parts per billion phenolphthalein
+ppm|parts per million
+ppm CaCO3|parts per million Calcium Carbon
+ppm CaCO3/|parts per million Calcium Carbon
+ppm MO|parts per million Methyl Orange
+pptr|Parts per trillion
+uM|micro molar
+uM/L           |uM/L           
+uM/cm|micromolar per centimeter
+uS|micro Siemens
+uS/L|microSiemens per liter
+uS/cm|micro Siemens per centimeter
+uS/cm2|microSiemens per square centimet
+uS/cm3|microSiemens per cubic centimete
+uS/m|microSiemens per meter
+uS/mm|microSiemens per millimeter
+uS/s|microSiemens per second
+uV|microvolts
+ueq/L|micro equivalents per liter
+ug|micrograms
+ug/L|micrograms per liter
+ug/L CaCO3|micrograms per liter Calcium carbonate
+ug/dm3|micrograms per cubic decimeter
+ug/ml|micrograms per milliliter
+umho/sec2x1E-3|microohms per second2 x 1E-3
+umhos|micro ohms
+umhos/L|microohms per liter
+umhos/cm|micro ohms per centimeter
+umhos/cm2|micro ohms per square centimeter
+umhos/cm3|micro ohms per cubic centimeter
+umhos/s|micromhos per second
+umhos/um|micromhos per micrometer
+umol/L|micromoles per liter
+umol/L CaCO3|micromoles per liter Calcium Car
+umol/cm|micromoles per centimeter
+umol/g LIT|micromoles per gram litter
+umol/kg|micromoles per kilogram
+umol/ml|micromoles per milliliter
+uohm/cm|micro ohms per centimeter
+usec|microsecond

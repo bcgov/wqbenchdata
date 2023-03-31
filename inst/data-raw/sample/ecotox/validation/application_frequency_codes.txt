@@ -1,0 +1,226 @@
+code|description
+--|Unspecified
+1X, for X H|1 time for x hours
+2 DLY for X D|2 times daily for x days
+ADL|Ad libitum
+CON|Continual; non-pulsed
+D/WK, 10-13 WK|X times per week for 10 to 13 weeks
+DLY|Daily; dosing regime not specified
+DLY X WK, 8 WK apt|Daily for X weeks, 8 weeks apart
+DLY for 2 H|Daily for 2 hours
+DLY for 5 D|Daily for 5 days
+DLY for X D|Daily for x days
+DLY for X MO|Daily for x months
+E X D|Every x days
+E X D for 6 D|Every x days for 6 days
+E X D for 60 D|Every x days for 60 days 
+E X H|Every x hours
+E X H for 20 D|Every x hours for 20 days
+E X MI|Every x minutes
+E X MO|Every x months
+E X WK|Every x weeks
+EOD|Every other day
+EXD for 10 D|Every x days for 10 days
+G per D|Grams per day
+H|Hour
+H/D for 8 D|X hours per day for 8 days
+HED|X hours every day
+NC|Not coded
+NR|Not reported
+RES|Restricted diet
+STG|Stage
+WK, 1X/wk|Weeks, 1 time per week
+WKY|Weekly
+X|Dosed x time(s) per study period
+X D per WK|X days per week
+X D per WK for 6 MO|X days per week for 6 months
+X D, 1X per H|X days, one time per hour
+X E 3.3-5 D|X times every 3.3 to 5 days
+X E 7-15 D|X times every 7 to 15 days
+X E10D|X times every 10 days
+X E2D|X times every 2 days
+X E7D|X times every 7 days
+X H E10D|X hours every 10 days
+X H E12H|X hours every 12 hours
+X H E3D|X hours every 3 days
+X H E5D|X hours every 5 days
+X H E6H|X hours every 6 hours
+X H E7D|X hours every 7 days
+X H E8H|X hours every 8 hours
+X H EOD|X hours every other day
+X H WKY|X hours weekly
+X H per D|X hours per day
+X H, 2X/WK|X hours, 2 times per week
+X H, 3X/WK  |X hours, 3 times per week
+X H, 4X/WK|X hours, 4 times per week
+X H, 5X/WK|X hours, 5 times per week
+X MI|X minutes
+X MI E8H|X minutes every 8 hours
+X MI EOD|X minutes every other day
+X MI per D|X minutes per day
+X MI, 1X/WK|X minutes, 1 time per week
+X MI, 2X/WK|X minutes, 2 times per week
+X MI, 3D|X minutes per day, for 3 days
+X MI, 3X/WK|X minutes, 3 times per week
+X MI, 4D|X minutes per day for 4 days
+X MI, 5X/WK|X minutes, 5 times per week
+X S per D|X seconds per day
+X S, 1|X seconds, 1 time
+X for 1 H|X times for 1 hour
+X for 1 MI|X times for 1 minute
+X for 10 MI|X times for 10 minutes
+X for 12 D|X times for 12 days
+X for 12 H|X times for 12 hours
+X for 14 H|X times for 14 hours
+X for 15 MI|X times for 15 minutes
+X for 18 H|X times for 18 hours
+X for 2 D|X times for 2 days
+X for 2 H|X times for 2 hours
+X for 20 MI|X times for 20 minutes
+X for 20 MI, E3D |X times for 20 minutes, every 3 days
+X for 24 H|X times for 24 hours
+X for 3 D|X times for 3 days
+X for 3 H|X times for 3 hours
+X for 3.5 H|X times for 3.5 hours
+X for 30 MI|X times for 30 minutes
+X for 4 D, 5 D apt|X times for 4 days, 5 days apart
+X for 4 H|X times for 4 hours
+X for 48 H|X times for 48 hours
+X for 5 D|X times for 5 days
+X for 5 D, 5 D apt|X times for 5 days, 5 days apart
+X for 5 H|X times for 5 hours
+X for 5 MI|X times for 5 minutes
+X for 6 H|X times for 6 hours
+X for 60 MI|X times for 60 minutes
+X for 7 D|X time for 7 days
+X for 7 H|X times for 7 hours
+X for 8 D|X times for 8 days
+X for 84 H|X times for 84 hours
+X for 90 MI|X times for 90 minutes
+X for 96 H|X times for 96 hours
+X in 12 H|X times in 12 hours
+X in 14 D|X times in 14 days
+X in 24-72 H|X times in 24 to 72 hours
+X in 48 H|X times in 48 hours
+X per 12 D|X times per 12 days
+X per 14 D|X times per 14 days
+X per 2 wk|X times per 2 weeks
+X per 24 H|X times per 24 hours
+X per 2D|X times per 2 days
+X per 3 D|X times per 3 days
+X per 4D|X times per 4 days
+X per 5 D|X times per 5 days
+X per 6 H|X times per 6 hours
+X per 6 WK|X times per 6 weeks
+X per D|X times per day
+X per D for12WK|X times per day for 12 weeks
+X per D, 1 WK|X times per day, 1 week
+X per D, 10 X|X times per day, 10 times
+X per D, 5 D/MO|X times per day, 5 days per month
+X per D, 5 D/WK|X times per day, 5 days per week
+X per D, 6 D/WK|X times per day, 6 days per week
+X per FI|Times per floral initiation
+X per H|X times per hour
+X per MO|X times per month
+X per WK|X times per week
+X per WK, EOW|X times per week, every other week
+X per Y|X times per year
+X per wk/10 wk|X times per week per 10 weeks
+X, 1/11D|X times, 1 time per 11 days
+X, 1/2 to 4 WK|X times, 1 time per 2 to 4 weeks
+X, 1/3or4 D|X times, 1 time per 3 or 4 days
+X, 1/3to 5 D|X times, 1 time per 3 to 5 days
+X, 1X per 3 WK|X times, 1 time per 3 week
+X, 1X per 7-10 D|X times, 1 time per 7 to 10 days
+X, 1X/20 D|X times, 1 time per 20 days
+X, 1X/24 H|X times, 1 time per 24 hours
+X, 1X/2D|X times, 1 time per 2 days
+X, 1X/2WK|X times, 1 time per 2 weeks
+X, 1X/4 WK|X times, 1 time per 4 weeks
+X, 1X/D|X times, 1 time per day
+X, 1X/Y|X times, 1 time per year
+X, 1X/wk|X times, 1 time per week
+X, 1Xper9-13 D|X times, 1 time per 9-13 days
+X, 2 H apt|X times, 2 hours apart
+X, 24 H per 14 D|X times, 24 hours per 14 days
+X, 2X in 14 H|X times, 2 times in 14 hours
+X, 2X per D|X times, 2 times per day
+X, 2X per WK|X times, 2 times per week
+X, 48H apt E14D|X times, 48 hours apart every 14 days
+X, 4X per D|X times, 4 times per day
+X, 5X per WK|X times, 5 times per week
+X, 7 D apt|X times, 7 days apart
+X, 96 H apart|X times, 96 hours apart
+X,1 X E 15 D|X times, 1 time every 15 days
+X,1 X per 15 D|X times, 1 time per 15 days
+X,10 D apt|X times 10 days apart
+X,1X per 2to3D|X times, 1 time per 2 to 3 days
+X,1X per 3 D|X times, 1 time per 3 days
+X,1X per 4 D|X times, 1 time per 4 days
+X,20 D apt|X times 20 days apart
+X/D for 6 D|X times per day for 6 days
+X/WK for 3 WK|X times per week for 3 weeks
+X/WK for 4 WK|X times per week for 4 weeks
+X/WK for 5 WK|X times per week for 5 weeks
+X/WK for 90 d|X times per week for 90 days
+X/Y for 3 Y|X times per year for 3 years
+XH/D,5D/WKfor3W|X hours per day, 5 days a week for 3 weeks
+Xfor0.5H,48H apt|X times for 0.5 hours, 48 hours apart 
+Xfor1.5H,24Hapt|X times for 1.5 hours, 24 hours apart
+Xfor10H,5D apt|X times for 10 hours, 5 days apart
+Xfor12H,12H apt|X times for 12 hours, 12 hours apart
+Xfor12H,14D apt|X times for 12 hours, 14 days apart
+Xfor12H,24H apt|X times for 12 hours, 24 hours apart
+Xfor12H,3D apt|X times for 12 hours, 3 days apart
+Xfor12H,48H apt|X times for 12 hours, 48 hours apart
+Xfor12H,4D apt|X times for 12 hours, 4 days apart
+Xfor12H,6D apt|X times for 12 hours, 6 days apart
+Xfor12H,7D apt|X times for 12 hours, 7 days apart
+Xfor12H,8D apt|X times for 12 hours, 8 days apart
+Xfor14D,14D apt|X times for 14 days, 14 days apart
+Xfor15MI,48H apt|X times for 15 minutes, 48 hours apart
+Xfor1H,24H apt|X times for 1 hour, 24 hours apart
+Xfor1H,48H apt|X times for 1 hour, 48 hours apart
+Xfor2.5H,8H apt|X times for 2.5 hours, 8 hours apart
+Xfor24H,11D apt|X times for 24 hours, 11 days apart
+Xfor24H,12H apt|X times for 24 hours, 12 hours apart
+Xfor24H,24H apt|X times for 24 hours, 24 hours apart
+Xfor24H,48H apt|X times for 24 hours, 48 hours apart
+Xfor24H,4D apt|X times for 24 hours, 4 days apart
+Xfor24H,5D apt|X times for 24 hours, 5 days apart
+Xfor24H,6D apt|X times for 24 hours, 6 days apart
+Xfor24H,72H apt|X times for 24 hours, 72 hours apart
+Xfor2H,24H apt|X times for 2 hours, 24 hours apart
+Xfor2H,48H apt|X times for 2 hours, 48 hours apart
+Xfor3H, 6D apt|X times for 3 hours, 6 days apart
+Xfor3H,15D apt|X times for 3 hours, 15 days apart
+Xfor3H,24H apt|X times for 3 hours, 24 hours apart
+Xfor3H,48H apt|X times for 3 hours, 48 hours apart
+Xfor3H,6H apt|X times for 3 hours, 6 hours apart
+Xfor3H,96H apt|X times for 3 hours, 96 hours apart
+Xfor4H,12H apt|X times for 4 hours, 12 hours apart
+Xfor4H,24H apt|X times for 4 hours, 24 hours apart
+Xfor4H,2D apt|X times for 4 hours, 2 days apart
+Xfor4H,48H apt|X times for 4 hours, 48 hours apart
+Xfor4H,4D apt|X times for 4 hours, 4 days apart
+Xfor4H,7D apt|X times for 4 hours, 7 days apart
+Xfor4H,8H apt|X times for 4 hours, 8 hours apart
+Xfor5D,42D apt|X times for 5 days, 42 days apart
+Xfor5H,3or5Dapt|X times for 5 hours, 3 or 5 days apart
+Xfor6H,12H apt|X times for 6 hours, 12 hours apart
+Xfor6H,14D apt|X times for 6 hours, 14 days apart
+Xfor6H,24H apt|X times for 6 hours, 24 hours apart
+Xfor6H,3D apt|X times for 6 hours, 3 days apart
+Xfor6H,48H apt|X times for 6 hours, 48 hours apart
+Xfor6H,6D apt|X times for 6 hours, 6 days apart
+Xfor6H,72H apt|X times for 6 hours, 72 hours apart
+Xfor6H,7D apt|X times for 6 hours, 7 days apart
+Xfor6H,96H apt|X times for 6 hours, 96 hours apart
+Xfor90MI,2H apt|X times for 90 minutes, 2 hours apart
+XperD for 3 D|X times per day for 3 days
+XperD for 30 D|X times per day for 30 days
+XperD for 7 D|X times per day for 7 days
+XperD for 90 D|X times per day for 90 days
+XperD, 1WK|X times per day for one week
+XperD,10X|X times per day, 10 times
+XperWK for 6 WK|X times per week for 6 weeks

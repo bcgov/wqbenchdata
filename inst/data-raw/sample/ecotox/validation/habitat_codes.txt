@@ -1,0 +1,13 @@
+code|description
+--|Unspecified
+D|Desert
+E|Estuarine
+F|Forest
+G|Grasslands
+L|Lacustrine
+M|Marine
+NC|Not Coded
+NR|Not Reported
+P|Palustrine
+R|Riverine
+T|Tundra

@@ -1,0 +1,963 @@
+species_number|common_name|latin_name|kingdom|phylum_division|subphylum_div|superclass|class|tax_order|family|genus|species|subspecies|variety|ecotox_group|ncbi_taxid
+1|Fathead Minnow|Pimephales promelas|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Cypriniformes|Cyprinidae|Pimephales|promelas|||FishStandard Test Species|90988
+2|Bluegill|Lepomis macrochirus|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Perciformes|Centrarchidae|Lepomis|macrochirus|||FishStandard Test Species|13106
+3|Brook Trout|Salvelinus fontinalis|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Salmoniformes|Salmonidae|Salvelinus|fontinalis|||FishStandard Test Species|8038
+4|Rainbow Trout|Oncorhynchus mykiss|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Salmoniformes|Salmonidae|Oncorhynchus|mykiss|||FishStandard Test SpeciesU.S. Threatened and Endangered Species|8022
+5|Water Flea|Daphnia magna|Animalia|Arthropoda|Crustacea||Branchiopoda|Diplostraca|Daphniidae|Daphnia|magna|||CrustaceansStandard Test Species|35525
+6|Scud|Gammarus lacustris|Animalia|Arthropoda|Crustacea||Malacostraca|Amphipoda|Gammaridae|Gammarus|lacustris|||CrustaceansStandard Test Species|52639
+7|Scud|Gammarus fasciatus|Animalia|Arthropoda|Crustacea||Malacostraca|Amphipoda|Gammaridae|Gammarus|fasciatus|||CrustaceansStandard Test Species|315707
+8|Water Flea|Daphnia pulex|Animalia|Arthropoda|Crustacea||Branchiopoda|Diplostraca|Daphniidae|Daphnia|pulex|||CrustaceansStandard Test Species|6669
+9|Diatom|Nitzschia linearis|Chromista|Bacillariophyta|||Bacillariophyceae|Pennales|Bacillariaceae|Nitzschia|linearis|||Algae|303401
+10|Green Crab|Carcinus maenas|Animalia|Arthropoda|Crustacea||Malacostraca|Decapoda|Portunidae|Carcinus|maenas|||CrustaceansStandard Test SpeciesU.S. Invasive Species|6759
+11|Sand Shrimp|Crangon crangon|Animalia|Arthropoda|Crustacea||Malacostraca|Decapoda|Crangonidae|Crangon|crangon|||Crustaceans|491138
+12|Cockle|Cerastoderma edule|Animalia|Mollusca|||Bivalvia|Veneroida|Cardiidae|Cerastoderma|edule|||Molluscs|55710
+13|Hooknose|Agonus cataphractus|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Scorpaeniformes|Agonidae|Agonus|cataphractus|||Fish|508607
+14|Harlequinfish, Red Rasbora|Rasbora heteromorpha|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Cypriniformes|Cyprinidae|Rasbora|heteromorpha|||Fish|432397
+15|Stickleback Family|Gasterosteidae|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Gasterosteiformes|Gasterosteidae|||||Fish|69291
+16|Western Mosquitofish|Gambusia affinis|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Cyprinodontiformes|Poeciliidae|Gambusia|affinis|||Fish|33528
+17|Bullhead, Catfish|Ictalurus sp.|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Siluriformes|Ictaluridae|Ictalurus|sp.|||Fish|7997
+18|Creek Chub|Semotilus atromaculatus|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Cypriniformes|Cyprinidae|Semotilus|atromaculatus|||Fish|67558
+19|Pinfish|Lagodon rhomboides|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Perciformes|Sparidae|Lagodon|rhomboides|||FishStandard Test Species|50351
+20|Channel Catfish|Ictalurus punctatus|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Siluriformes|Ictaluridae|Ictalurus|punctatus|||FishStandard Test Species|7998
+21|Common Carp|Cyprinus carpio|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Cypriniformes|Cyprinidae|Cyprinus|carpio|||FishStandard Test Species|7962
+22|Chinook Salmon|Oncorhynchus tshawytscha|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Salmoniformes|Salmonidae|Oncorhynchus|tshawytscha|||FishStandard Test SpeciesU.S. Threatened and Endangered Species|74940
+23|Silver Salmon|Oncorhynchus kisutch|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Salmoniformes|Salmonidae|Oncorhynchus|kisutch|||FishStandard Test SpeciesU.S. Threatened and Endangered Species|8019
+24|Ostracod, Seed Shrimp|Cypridopsis vidua|Animalia|Arthropoda|Crustacea||Ostracoda|Podocopa|Cypridopsidae|Cypridopsis|vidua|||Crustaceans|230730
+25|Goldfish|Carassius auratus|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Cypriniformes|Cyprinidae|Carassius|auratus|||FishStandard Test Species|7957
+26|Dinoflagellate|Gymnodinium nelsonii|Chromista|Pyrrophycophyta|||Dinophyceae|Gymnodiniales|Gymnodiniaceae|Gymnodinium|nelsonii|||Algae|
+27|Scud|Gammarus pseudolimnaeus|Animalia|Arthropoda|Crustacea||Malacostraca|Amphipoda|Gammaridae|Gammarus|pseudolimnaeus|||CrustaceansStandard Test Species|315709
+28|Guppy|Poecilia reticulata|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Cyprinodontiformes|Poeciliidae|Poecilia|reticulata|||FishStandard Test Species|8081
+29|Pouch Snail|Physa sp.|Animalia|Mollusca|||Gastropoda|Basommatophora|Physidae|Physa|sp.|||Molluscs|109670
+30|Green Sunfish|Lepomis cyanellus|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Perciformes|Centrarchidae|Lepomis|cyanellus|||FishStandard Test Species|201691
+31|Green Algae|Chlorella ovalis|Plantae|Chlorophyta|||Chlorophyceae|Chlorococcales|Oocystaceae|Chlorella|ovalis|||Algae|3071
+32|Cod|Gadus sp.|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Gadiformes|Gadidae|Gadus|sp.|||Fish|8048
+34|Cutthroat Trout|Oncorhynchus clarkii|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Salmoniformes|Salmonidae|Oncorhynchus|clarkii|||Fish|30962
+36|Caddisfly|Brachycentrus americanus|Animalia|Arthropoda|Hexapoda||Insecta|Trichoptera|Brachycentridae|Brachycentrus|americanus|||Insects/Spiders|177646
+37|Aesop Shrimp|Pandalus montagui|Animalia|Arthropoda|Crustacea||Malacostraca|Decapoda|Pandalidae|Pandalus|montagui|||Crustaceans|397978
+38|Yellow Perch|Perca flavescens|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Perciformes|Percidae|Perca|flavescens|||Fish|8167
+39|Grass Shrimp,Freshwater Prawn|Palaemonetes kadiakensis|Animalia|Arthropoda|Crustacea||Malacostraca|Decapoda|Palaemonidae|Palaemonetes|kadiakensis|||Crustaceans|6700
+40|Polychaete|Glycera dibranchiata|Animalia|Annelida|Polychaeta||Errantia|Aciculata|Glyceridae|Glycera|dibranchiata|||Worms|6350
+41|Acorn Or Rock Barnacle|Balanus crenatus|Animalia|Arthropoda|Crustacea||Maxillopoda|Sessilia|Balanidae|Balanus|crenatus|||Crustaceans|164412
+42|Roach|Rutilus rutilus|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Cypriniformes|Cyprinidae|Rutilus|rutilus|||Fish|48668
+43|Tench|Tinca tinca|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Cypriniformes|Cyprinidae|Tinca|tinca|||Fish|27717
+44|Perch|Perca fluviatilis|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Perciformes|Percidae|Perca|fluviatilis|||FishStandard Test Species|8168
+45|Dace|Leuciscus leuciscus|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Cypriniformes|Cyprinidae|Leuciscus|leuciscus|||Fish|58325
+46|Crayfish|Procambarus blandingii|Animalia|Arthropoda|Crustacea||Malacostraca|Decapoda|Cambaridae|Procambarus|blandingii|||Crustaceans|1937831
+47|Green Algae|Scenedesmus sp.|Plantae|Chlorophyta|||Chlorophyceae|Chlorococcales|Scenedesmaceae|Scenedesmus|sp.|||Algae|3087
+48|Water Flea|Daphnia hyalina|Animalia|Arthropoda|Crustacea||Branchiopoda|Diplostraca|Daphniidae|Daphnia|hyalina|||Crustaceans|42846
+49|Brown Trout|Salmo trutta|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Salmoniformes|Salmonidae|Salmo|trutta|||FishStandard Test Species|8032
+50|Aquatic Sowbug|Caecidotea brevicauda|Animalia|Arthropoda|Crustacea||Malacostraca|Isopoda|Asellidae|Caecidotea|brevicauda|||Crustaceans|
+51|Stonefly|Acroneuria lycorias|Animalia|Arthropoda|Hexapoda||Insecta|Plecoptera|Perlidae|Acroneuria|lycorias|||Insects/Spiders|466553
+52|Scud|Hyalella azteca|Animalia|Arthropoda|Crustacea||Malacostraca|Amphipoda|Hyalellidae|Hyalella|azteca|||CrustaceansStandard Test Species|294128
+53|Crayfish|Orconectes nais|Animalia|Arthropoda|Crustacea||Malacostraca|Decapoda|Cambaridae|Orconectes|nais|||Crustaceans|306179
+54|Water Flea|Simocephalus serrulatus|Animalia|Arthropoda|Crustacea||Branchiopoda|Diplostraca|Daphniidae|Simocephalus|serrulatus|||Crustaceans|117539
+55|Northern Quahog Or Hard Clam|Mercenaria mercenaria|Animalia|Mollusca|||Bivalvia|Veneroida|Veneridae|Mercenaria|mercenaria|||MolluscsStandard Test Species|6596
+56|Starfish|Asterias rubens|Animalia|Echinodermata|Eleutherozoa||Asteroidea|Forcipulatida|Asteriidae|Asterias|rubens|||Invertebrates|7604
+57|Mummichog|Fundulus heteroclitus|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Cyprinodontiformes|Cyprinodontidae|Fundulus|heteroclitus|||FishStandard Test Species|8078
+58|Polychaete Worm|Nereis virens|Animalia|Annelida|Polychaeta||Errantia|Aciculata|Nereididae|Nereis|virens|||WormsStandard Test Species|926033
+59|Striped Bass|Morone saxatilis|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Perciformes|Moronidae|Morone|saxatilis|||Fish|34816
+60|Crayfish|Procambarus hayi|Animalia|Arthropoda|Crustacea||Malacostraca|Decapoda|Cambaridae|Procambarus|hayi|||Crustaceans|1937865
+61|Mayfly|Hexagenia rigida|Animalia|Arthropoda|Hexapoda||Insecta|Ephemeroptera|Ephemeridae|Hexagenia|rigida|||Insects/Spiders|197160
+62|Logperch|Percina caprodes|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Perciformes|Percidae|Percina|caprodes|||Fish|
+63|Riverine Grass Shrimp|Palaemonetes paludosus|Animalia|Arthropoda|Crustacea||Malacostraca|Decapoda|Palaemonidae|Palaemonetes|paludosus|||Crustaceans|338208
+64|Crucian Carp|Carassius carassius|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Cypriniformes|Cyprinidae|Carassius|carassius|||Fish|217509
+65|Orangespotted Sunfish|Lepomis humilis|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Perciformes|Centrarchidae|Lepomis|humilis|||Fish|255468
+66|Trout Family|Salmonidae|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Salmoniformes|Salmonidae|||||Fish|8015
+67|American Or Virginia Oyster|Crassostrea virginica|Animalia|Mollusca|||Bivalvia|Ostreoida|Ostreidae|Crassostrea|virginica|||MolluscsStandard Test Species|6565
+68|Atlantic Salmon|Salmo salar|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Salmoniformes|Salmonidae|Salmo|salar|||FishStandard Test SpeciesU.S. Threatened and Endangered Species|8030
+69|Brook Silverside|Labidesthes sicculus|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Atheriniformes|Atherinidae|Labidesthes|sicculus|||Fish|300304
+70|Water Flea|Daphnia sp.|Animalia|Arthropoda|Crustacea||Branchiopoda|Diplostraca|Daphniidae|Daphnia|sp.|||Crustaceans|6668
+71|Striped Mullet|Mugil cephalus|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Mugiliformes|Mugilidae|Mugil|cephalus|||Fish|48193
+72|Marsh Grass Shrimp|Palaemonetes vulgaris|Animalia|Arthropoda|Crustacea||Malacostraca|Decapoda|Palaemonidae|Palaemonetes|vulgaris|||CrustaceansStandard Test Species|294125
+73|Sailfin Molly|Poecilia latipinna|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Cyprinodontiformes|Poeciliidae|Poecilia|latipinna|||Fish|48699
+74|Brown Shrimp|Penaeus aztecus|Animalia|Arthropoda|Crustacea||Malacostraca|Decapoda|Penaeidae|Penaeus|aztecus|||CrustaceansStandard Test Species|
+76|Blue Crab|Callinectes sapidus|Animalia|Arthropoda|Crustacea||Malacostraca|Decapoda|Portunidae|Callinectes|sapidus|||CrustaceansStandard Test Species|6763
+77|Northern White Shrimp|Penaeus setiferus|Animalia|Arthropoda|Crustacea||Malacostraca|Decapoda|Penaeidae|Penaeus|setiferus|||CrustaceansStandard Test Species|
+78|Korean Or Oriental Shrimp|Palaemon macrodactylus|Animalia|Arthropoda|Crustacea||Malacostraca|Decapoda|Palaemonidae|Palaemon|macrodactylus|||Crustaceans|390956
+79|Stonefly|Pteronarcella badia|Animalia|Arthropoda|Hexapoda||Insecta|Plecoptera|Pteronarcyidae|Pteronarcella|badia|||Insects/Spiders|466579
+80|Bluehead Wrasse|Thalassoma bifasciatum|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Perciformes|Labridae|Thalassoma|bifasciatum|||Fish|76338
+81|Midge|Chironomus plumosus|Animalia|Arthropoda|Hexapoda||Insecta|Diptera|Chironomidae|Chironomus|plumosus|||Insects/Spiders|33397
+82|Lake Trout, Siscowet|Salvelinus namaycush|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Salmoniformes|Salmonidae|Salvelinus|namaycush|||FishStandard Test Species|8040
+84|Sea Lamprey|Petromyzon marinus|Animalia|Chordata|Vertebrata|Agnatha|Cephalaspidomorphi|Petromyzontiformes|Petromyzontidae|Petromyzon|marinus|||FishU.S. Invasive Species|7757
+85|Midge|Chironomus tentans|Animalia|Arthropoda|Hexapoda||Insecta|Diptera|Chironomidae|Chironomus|tentans|||Insects/SpidersStandard Test Species|7153
+86|Sheepshead Minnow|Cyprinodon variegatus|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Cyprinodontiformes|Cyprinodontidae|Cyprinodon|variegatus|||FishStandard Test Species|28743
+87|Mayfly|Stenonema candidum|Animalia|Arthropoda|Hexapoda||Insecta|Ephemeroptera|Heptageniidae|Stenonema|candidum|||Insects/Spiders|
+88|Striped Killifish|Fundulus majalis|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Cyprinodontiformes|Cyprinodontidae|Fundulus|majalis|||Fish|76053
+89|Largemouth Bass|Micropterus salmoides|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Perciformes|Centrarchidae|Micropterus|salmoides|||Fish|27706
+90|Sockeye Salmon|Oncorhynchus nerka|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Salmoniformes|Salmonidae|Oncorhynchus|nerka|||FishU.S. Threatened and Endangered Species|8023
+91|Mayfly|Callibaetis sp.|Animalia|Arthropoda|Hexapoda||Insecta|Ephemeroptera|Baetidae|Callibaetis|sp.|||Insects/Spiders|172518
+92|Caddisfly|Limnephilus sp.|Animalia|Arthropoda|Hexapoda||Insecta|Trichoptera|Limnephilidae|Limnephilus|sp.|||Insects/Spiders|177674
+93|Stonefly|Taeniopteryx nivalis|Animalia|Arthropoda|Hexapoda||Insecta|Plecoptera|Taeniopterygidae|Taeniopteryx|nivalis|||Insects/Spiders|466583
+94|Two-Spot Or Tic Tac Toe Barb|Barbus ticto|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Cypriniformes|Cyprinidae|Barbus|ticto|||Fish|
+95|Scissor Tail Rasbora|Rasbora trilineata|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Cypriniformes|Cyprinidae|Rasbora|trilineata|||Fish|27715
+96|Redear Sunfish|Lepomis microlophus|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Perciformes|Centrarchidae|Lepomis|microlophus|||Fish|270331
+97|Threespine Stickleback|Gasterosteus aculeatus|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Gasterosteiformes|Gasterosteidae|Gasterosteus|aculeatus|||FishStandard Test Species|69293
+98|Diatom|Navicula seminulum|Chromista|Bacillariophyta|||Bacillariophyceae|Pennales|Naviculaceae|Navicula|seminulum|||Algae|
+99|Golden Stonefly, Willow Fly|Hesperoperla pacifica|Animalia|Arthropoda|Hexapoda||Insecta|Plecoptera|Perlidae|Hesperoperla|pacifica|||Insects/Spiders|143766
+100|White Crappie|Pomoxis annularis|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Perciformes|Centrarchidae|Pomoxis|annularis|||Fish|201697
+101|Flagfish|Jordanella floridae|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Cyprinodontiformes|Cyprinodontidae|Jordanella|floridae|||FishStandard Test Species|28745
+102|Red Swamp Crayfish|Procambarus clarkii|Animalia|Arthropoda|Crustacea||Malacostraca|Decapoda|Cambaridae|Procambarus|clarkii|||Crustaceans|6728
+103|Mud Crab|Rhithropanopeus harrisii|Animalia|Arthropoda|Crustacea||Malacostraca|Decapoda|Panopeidae|Rhithropanopeus|harrisii|||Crustaceans|108123
+104|Midge|Tanytarsus dissimilis|Animalia|Arthropoda|Hexapoda||Insecta|Diptera|Chironomidae|Tanytarsus|dissimilis|||Insects/Spiders|
+105|Eastern Mudminnow|Umbra pygmaea|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Esociformes|Umbridae|Umbra|pygmaea|||Fish|75934
+106|Smallmouth Bass|Micropterus dolomieu|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Perciformes|Centrarchidae|Micropterus|dolomieu|||Fish|147949
+107|Spottail Shiner|Notropis hudsonius|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Cypriniformes|Cyprinidae|Notropis|hudsonius|||Fish|254296
+108|Caddisfly|Hydropsyche californica|Animalia|Arthropoda|Hexapoda||Insecta|Trichoptera|Hydropsychidae|Hydropsyche|californica|||Insects/Spiders|1107662
+109|Japanese Medaka|Oryzias latipes|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Beloniformes|Adrianichthyidae|Oryzias|latipes|||FishStandard Test Species|8090
+110|Spot|Leiostomus xanthurus|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Perciformes|Sciaenidae|Leiostomus|xanthurus|||FishStandard Test Species|59837
+111|Pewter Physa, Snail|Physella heterostropha|Animalia|Mollusca|||Gastropoda|Basommatophora|Physidae|Physella|heterostropha|||Molluscs|109671
+112|Golden Shiner|Notemigonus crysoleucas|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Cypriniformes|Cyprinidae|Notemigonus|crysoleucas|||Fish|28800
+113|Walking Catfish|Clarias batrachus|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Siluriformes|Clariidae|Clarias|batrachus|||Fish|59899
+114|Rotifer|Philodina acuticornis|Animalia|Rotifera|||Bdelloidea|Bdelloida|Philodinidae|Philodina|acuticornis|||Invertebrates|44582
+115|Oligochaete|Nais sp.|Animalia|Annelida|||Oligochaeta|Haplotaxida|Naididae|Nais|sp.|||Worms|74730
+116|Spire Snail|Amnicola sp.|Animalia|Mollusca|||Gastropoda|Neotaenioglossa|Hydrobiidae|Amnicola|sp.|||Molluscs|
+117|Pouch Snail|Physa gyrina|Animalia|Mollusca|||Gastropoda|Basommatophora|Physidae|Physa|gyrina|||Molluscs|175860
+118|Scud, Amphipod|Gammarus sp.|Animalia|Arthropoda|Crustacea||Malacostraca|Amphipoda|Gammaridae|Gammarus|sp.|||Crustaceans|45625
+119|Mayfly|Drunella grandis ssp. grandis|Animalia|Arthropoda|Hexapoda||Insecta|Ephemeroptera|Ephemerellidae|Drunella|grandis|ssp. grandis||Insects/Spiders|248223
+120|Scud Family|Talitridae|Animalia|Arthropoda|Crustacea||Malacostraca|Amphipoda|Talitridae|||||Crustaceans|92169
+121|Hydroid|Campanularia flexuosa|Animalia|Cnidaria|||Hydrozoa|Hydroida|Campanulariidae|Campanularia|flexuosa|||Invertebrates|
+122|Midge|Chironomus sp.|Animalia|Arthropoda|Hexapoda||Insecta|Diptera|Chironomidae|Chironomus|sp.|||Insects/SpidersStandard Test Species|7152
+123|Northern Pikeminnow|Ptychocheilus oregonensis|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Cypriniformes|Cyprinidae|Ptychocheilus|oregonensis|||Fish|71769
+124|Banded Killifish|Fundulus diaphanus|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Cyprinodontiformes|Cyprinodontidae|Fundulus|diaphanus|||Fish|54267
+125|White Perch|Morone americana|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Perciformes|Moronidae|Morone|americana|||Fish|46260
+126|Pumpkinseed|Lepomis gibbosus|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Perciformes|Centrarchidae|Lepomis|gibbosus|||Fish|270329
+127|American Eel|Anguilla rostrata|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Anguilliformes|Anguillidae|Anguilla|rostrata|||Fish|7938
+128|Tilapia|Tilapia sp.|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Perciformes|Cichlidae|Tilapia|sp.|||Fish|30879
+129|Plaice, Sand Dab|Pleuronectes platessa|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Pleuronectiformes|Pleuronectidae|Pleuronectes|platessa|||Fish|8262
+130|Starry, European Flounder|Platichthys flesus|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Pleuronectiformes|Pleuronectidae|Platichthys|flesus|||Fish|8260
+131|Northern Pike|Esox lucius|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Esociformes|Esocidae|Esox|lucius|||FishStandard Test Species|8010
+132|Mud Dab|Limanda limanda|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Pleuronectiformes|Pleuronectidae|Limanda|limanda|||Fish|27771
+133|Black Bullhead|Ameiurus melas|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Siluriformes|Ictaluridae|Ameiurus|melas|||Fish|219545
+134|Mozambique Tilapia|Oreochromis mossambicus|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Perciformes|Cichlidae|Oreochromis|mossambicus|||Fish|8127
+135|Desert Pupfish|Cyprinodon macularius|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Cyprinodontiformes|Cyprinodontidae|Cyprinodon|macularius|||FishU.S. Threatened and Endangered Species|69138
+136|Florida Pompano|Trachinotus carolinus|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Perciformes|Carangidae|Trachinotus|carolinus|||Fish|173342
+137|Tilapia|Tilapia leucosticta|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Perciformes|Cichlidae|Tilapia|leucosticta|||Fish|
+138|Tilapia|Tilapia rendalli|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Perciformes|Cichlidae|Tilapia|rendalli|||Fish|8129
+139|Dolly Varden|Salvelinus malma|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Salmoniformes|Salmonidae|Salvelinus|malma|||Fish|8039
+140|Shiner Perch|Cymatogaster aggregata|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Perciformes|Embiotocidae|Cymatogaster|aggregata|||FishStandard Test Species|50794
+141|Dwarf Perch|Micrometrus minimus|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Perciformes|Embiotocidae|Micrometrus|minimus|||Fish|50814
+142|Opossum Shrimp|Americamysis bahia|Animalia|Arthropoda|Crustacea||Malacostraca|Mysida|Mysidae|Americamysis|bahia|||CrustaceansStandard Test Species|110441
+143|Emerald Shiner|Notropis atherinoides|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Cypriniformes|Cyprinidae|Notropis|atherinoides|||Fish|67550
+144|American Shad|Alosa sapidissima|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Clupeiformes|Clupeidae|Alosa|sapidissima|||Fish|34773
+145|Scud|Parhyale hawaiensis|Animalia|Arthropoda|Crustacea||Malacostraca|Amphipoda|Hyalidae|Parhyale|hawaiensis|||Crustaceans|317513
+146|Ide, Silver Or Golden Orfe|Leuciscus idus|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Cypriniformes|Cyprinidae|Leuciscus|idus|||Fish|69811
+147|Green Algae|Spirogyra crassa|Plantae|Chlorophyta|||Chlorophyceae|Zygnematales|Zygnemataceae|Spirogyra|crassa|||Algae|
+148|Rotifer Phylum|Rotifera|Animalia|Rotifera||||||||||Invertebrates|10190
+149|Bay Shrimp|Crangon franciscorum|Animalia|Arthropoda|Crustacea||Malacostraca|Decapoda|Crangonidae|Crangon|franciscorum|||Crustaceans|307031
+150|Thick-Lipped Grey Mullet|Chelon labrosus|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Mugiliformes|Mugilidae|Chelon|labrosus|||Fish|48171
+152|Cyclopoid Copepod|Acanthocyclops vernalis|Animalia|Arthropoda|Crustacea||Maxillopoda|Cyclopoida|Cyclopidae|Acanthocyclops|vernalis|||Crustaceans|245077
+153|Caddisfly|Leptocerus aterrimus|Animalia|Arthropoda|Hexapoda||Insecta|Trichoptera|Leptoceridae|Leptocerus|aterrimus|||Insects/Spiders|
+154|Caddisfly|Phryganea striata|Animalia|Arthropoda|Hexapoda||Insecta|Trichoptera|Phryganeidae|Phryganea|striata|||Insects/Spiders|
+155|Caddisfly|Limnephilus stigma|Animalia|Arthropoda|Hexapoda||Insecta|Trichoptera|Limnephilidae|Limnephilus|stigma|||Insects/Spiders|260544
+156|Mayfly|Baetis sp.|Animalia|Arthropoda|Hexapoda||Insecta|Ephemeroptera|Baetidae|Baetis|sp.|||Insects/SpidersStandard Test Species|189838
+157|Mayfly|Cloeon dipterum|Animalia|Arthropoda|Hexapoda||Insecta|Ephemeroptera|Baetidae|Cloeon|dipterum|||Insects/Spiders|197152
+158|Mayfly|Siphlonurus linnaeanus|Animalia|Arthropoda|Hexapoda||Insecta|Ephemeroptera|Siphlonuridae|Siphlonurus|linnaeanus|||Insects/Spiders|
+159|Stonefly|Nemoura marginata|Animalia|Arthropoda|Hexapoda||Insecta|Plecoptera|Nemouridae|Nemoura|marginata|||Insects/Spiders|2014037
+160|Water Beetle|Acilius sulcatus|Animalia|Arthropoda|Hexapoda||Insecta|Coleoptera|Dytiscidae|Acilius|sulcatus|||Insects/Spiders|107768
+161|Beetle|Illybius angustior|Animalia|Arthropoda|Hexapoda||Insecta|Coleoptera|Dytiscidae|Illybius|angustior|||Insects/Spiders|
+162|Beetle|Dytiscus marginalis|Animalia|Arthropoda|Hexapoda||Insecta|Coleoptera|Dytiscidae|Dytiscus|marginalis|||Insects/Spiders|398601
+163|White-Legged Damselfly|Platycnemis pennipes|Animalia|Arthropoda|Hexapoda||Insecta|Odonata|Platycnemididae|Platycnemis|pennipes|||Insects/Spiders|126231
+164|Damselfly|Coenagrion pulchellum|Animalia|Arthropoda|Hexapoda||Insecta|Odonata|Coenagrionidae|Coenagrion|pulchellum|||Insects/Spiders|196756
+165|Damselfly|Lestes dryas|Animalia|Arthropoda|Hexapoda||Insecta|Zygoptera|Lestidae|Lestes|dryas|||Insects/Spiders|411057
+166|Blue-Green Dragonfly|Aeshna cyanea|Animalia|Arthropoda|Hexapoda||Insecta|Odonata|Aeshnidae|Aeshna|cyanea|||Insects/Spiders|12921
+167|Dragonfly|Sympetrum flaveolum|Animalia|Arthropoda|Hexapoda||Insecta|Odonata|Libellulidae|Sympetrum|flaveolum|||Insects/Spiders|126069
+168|Blackfly|Eusimulium sp.|Animalia|Arthropoda|Hexapoda||Insecta|Diptera|Simuliidae|Eusimulium|sp.|||Insects/Spiders|47352
+169|Water Flea|Sida crystallina|Animalia|Arthropoda|Crustacea||Branchiopoda|Cladocera|Sididae|Sida|crystallina|||Crustaceans|77656
+170|Water Flea|Daphnia longispina|Animalia|Arthropoda|Crustacea||Branchiopoda|Diplostraca|Daphniidae|Daphnia|longispina|||Crustaceans|42846
+171|Water Flea|Chydorus sphaericus|Animalia|Arthropoda|Crustacea||Branchiopoda|Diplostraca|Chydoridae|Chydorus|sphaericus|||Crustaceans|77745
+172|Water Flea|Bosmina coregoni|Animalia|Arthropoda|Crustacea||Branchiopoda|Diplostraca|Bosminidae|Bosmina|coregoni|||Crustaceans|186181
+173|Water Flea|Ceriodaphnia pulchella|Animalia|Arthropoda|Crustacea||Branchiopoda|Diplostraca|Daphniidae|Ceriodaphnia|pulchella|||Crustaceans|381655
+174|Clam Shrimp|Lynceus brachyurus|Animalia|Arthropoda|Crustacea||Branchiopoda|Diplostraca|Lynceidae|Lynceus|brachyurus|||Crustaceans|202087
+175|Mosquito|Aedes cyprius|Animalia|Arthropoda|Hexapoda||Insecta|Diptera|Culicidae|Aedes|cyprius|||Insects/Spiders|
+176|Phantom Midge|Cryophila lapponica|Animalia|Arthropoda|Hexapoda||Insecta|Diptera|Chaoboridae|Cryophila|lapponica|||Insects/Spiders|
+177|Phantom Midge|Mochlonyx culiciformis|Animalia|Arthropoda|Hexapoda||Insecta|Diptera|Chaoboridae|Mochlonyx|culiciformis|||Insects/Spiders|
+178|Midge|Orthocladius sp.|Animalia|Arthropoda|Hexapoda||Insecta|Diptera|Chironomidae|Orthocladius|sp.|||Insects/Spiders|288845
+179|Mosquito|Anopheles maculipennis|Animalia|Arthropoda|Hexapoda||Insecta|Diptera|Culicidae|Anopheles|maculipennis|||Insects/Spiders|
+180|Phantom Midge|Chaoborus crystallinus|Animalia|Arthropoda|Hexapoda||Insecta|Diptera|Chaoboridae|Chaoborus|crystallinus|||Insects/Spiders|41813
+181|Pile Perch|Rhacochilus vacca|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Perciformes|Embiotocidae|Rhacochilus|vacca|||Fish|50905
+182|Water Bug|Sigara striata|Animalia|Arthropoda|Hexapoda||Insecta|Heteroptera|Corixidae|Sigara|striata|||Insects/Spiders|1249915
+183|Water Strider|Gerris lacustris|Animalia|Arthropoda|Hexapoda||Insecta|Heteroptera|Gerridae|Gerris|lacustris|||Insects/Spiders|108914
+184|Midge|Pentaneura monilis|Animalia|Arthropoda|Hexapoda||Insecta|Diptera|Chironomidae|Pentaneura|monilis|||Insects/Spiders|
+185|Midge|Psectrocladius sp.|Animalia|Arthropoda|Hexapoda||Insecta|Diptera|Chironomidae|Psectrocladius|sp.|||Insects/Spiders|288848
+186|Tipulid Fly|Triogma sp.|Animalia|Arthropoda|Hexapoda||Insecta|Diptera|Tipulidae|Triogma|sp.|||Insects/Spiders|
+187|Flower Fly|Eristalis sp.|Animalia|Arthropoda|Hexapoda||Insecta|Diptera|Syrphidae|Eristalis|sp.|||Insects/Spiders|198633
+188|Backswimmer|Notonecta glauca|Animalia|Arthropoda|Hexapoda||Insecta|Heteroptera|Notonectidae|Notonecta|glauca|||Insects/Spiders|260537
+189|Waterbug|Ilyocoris cimicoides|Animalia|Arthropoda|Hexapoda||Insecta|Heteroptera|Naucoridae|Ilyocoris|cimicoides|||Insects/Spiders|280203
+190|Beetle|Haliplus flavicollis|Animalia|Arthropoda|Hexapoda||Insecta|Coleoptera|Haliplidae|Haliplus|flavicollis|||Insects/Spiders|446441
+191|Water Scavenger Beetle|Hydrobius fuscipes|Animalia|Arthropoda|Hexapoda||Insecta|Coleoptera|Hydrophilidae|Hydrobius|fuscipes|||Insects/Spiders|290645
+192|Beetle|Gyrinus marinus|Animalia|Arthropoda|Hexapoda||Insecta|Coleoptera|Gyrinidae|Gyrinus|marinus|||Insects/Spiders|1323538
+193|Water Beetle|Hygrotus novemlineatus|Animalia|Arthropoda|Hexapoda||Insecta|Coleoptera|Dytiscidae|Hygrotus|novemlineatus|||Insects/Spiders|1267246
+194|Water Mite|Limnesia maculata|Animalia|Arthropoda|Chelicerata||Arachnida|Trombidiformes|Limnesiidae|Limnesia|maculata|||Insects/Spiders|
+195|Chiselmouth|Acrocheilus alutaceus|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Cypriniformes|Cyprinidae|Acrocheilus|alutaceus|||Fish|67537
+196|Bluntnose Minnow|Pimephales notatus|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Cypriniformes|Cyprinidae|Pimephales|notatus|||Fish|51138
+197|Water Mite|Hygrobates longipalpis|Animalia|Arthropoda|Chelicerata||Arachnida|Trombidiformes|Hygrobatidae|Hygrobates|longipalpis|||Insects/Spiders|673102
+198|Water Mite|Hydrachna marita|Animalia|Arthropoda|Chelicerata||Arachnida|Trombidiformes|Hydrachnidae|Hydrachna|marita|||Insects/Spiders|
+199|Mud Snail|Cipangopaludina malleata|Animalia|Mollusca|||Gastropoda|Architaenioglossa|Viviparidae|Cipangopaludina|malleata|||Molluscs|
+200|Water Mite|Limnesia undulata|Animalia|Arthropoda|Chelicerata||Arachnida|Trombidiformes|Limnesiidae|Limnesia|undulata|||Insects/Spiders|673106
+201|Grass Carp|Ctenopharyngodon idella|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Cypriniformes|Cyprinidae|Ctenopharyngodon|idella|||FishU.S. Invasive Species|7959
+202|Rohu|Labeo rohita|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Cypriniformes|Cyprinidae|Labeo|rohita|||Fish|84645
+203|Dinoflagellate|Gonyaulax sp.|Chromista|Pyrrophycophyta|||Dinophyceae|Gonyaulacales|Gonyaulacaceae|Gonyaulax|sp.|||Algae|2912
+204|Isopod|Eurydice longicornis|Animalia|Arthropoda|Crustacea||Malacostraca|Isopoda|Cirolanidae|Eurydice|longicornis|||Crustaceans|
+205|Blue-Green Algae|Oscillatoria limnetica|Monera|Cyanophycota|||Cyanophyceae|Nostocales|Oscillatoriaceae|Oscillatoria|limnetica|||Algae|54310
+206|African Clawed Frog|Xenopus laevis|Animalia|Chordata|Vertebrata||Amphibia|Anura|Pipidae|Xenopus|laevis|||AmphibiansStandard Test Species|8355
+207|Sea Urchin|Echinometra mathaei|Animalia|Echinodermata|Echinozoa||Echinoidea|Echinoida|Echinometridae|Echinometra|mathaei|||Invertebrates|31178
+208|Common Bay Mussel,Blue Mussel|Mytilus edulis|Animalia|Mollusca|||Bivalvia|Mytiloida|Mytilidae|Mytilus|edulis|||MolluscsStandard Test Species|6550
+209|Turbellarian, Flatworm|Dugesia dorotocephala|Animalia|Platyhelminthes|||Turbellaria|Tricladida|Planariidae|Dugesia|dorotocephala|||Worms|135777
+210|Northern House Mosquito|Culex pipiens|Animalia|Arthropoda|Hexapoda||Insecta|Diptera|Culicidae|Culex|pipiens|||Insects/Spiders|7175
+211|Bleak|Alburnus alburnus|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Cypriniformes|Cyprinidae|Alburnus|alburnus|||FishStandard Test Species|54556
+212|Harpacticoid Copepod|Nitocra spinipes|Animalia|Arthropoda|Crustacea||Maxillopoda|Harpacticoida|Ameiridae|Nitocra|spinipes|||CrustaceansStandard Test Species|
+213|Crab|Paratelphusa jacquemontii|Animalia|Arthropoda|Crustacea||Malacostraca|Decapoda|Parathelphusidae|Paratelphusa|jacquemontii|||Crustaceans|
+214|Barnacle|Balanus eburneus|Animalia|Arthropoda|Crustacea||Maxillopoda|Sessilia|Balanidae|Balanus|eburneus|||Crustaceans|637417
+216|Caddisfly|Rhyacophila dorsalis|Animalia|Arthropoda|Hexapoda||Insecta|Trichoptera|Rhyacophilidae|Rhyacophila|dorsalis|||Insects/Spiders|1178152
+217|Water Mite|Eylais hamata|Animalia|Arthropoda|Chelicerata||Arachnida|Trombidiformes|Eylaidae|Eylais|hamata|||Insects/Spiders|
+218|Zebra Mussel|Dreissena polymorpha|Animalia|Mollusca|||Bivalvia|Veneroida|Dreissenidae|Dreissena|polymorpha|||MolluscsU.S. Invasive Species|45954
+219|Pink Salmon|Oncorhynchus gorbuscha|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Salmoniformes|Salmonidae|Oncorhynchus|gorbuscha|||Fish|8017
+220|Shrimp|Eualus sp.|Animalia|Arthropoda|Crustacea||Malacostraca|Decapoda|Hippolytidae|Eualus|sp.|||Crustaceans|397946
+221|Humpy Shrimp|Pandalus goniurus|Animalia|Arthropoda|Crustacea||Malacostraca|Decapoda|Pandalidae|Pandalus|goniurus|||Crustaceans|397976
+222|Cyclopoid Copepod|Macrocyclops albidus|Animalia|Arthropoda|Crustacea||Maxillopoda|Cyclopoida|Cyclopidae|Macrocyclops|albidus|||Crustaceans|281258
+223|Caddisfly|Hydropsyche pellucidula|Animalia|Arthropoda|Hexapoda||Insecta|Trichoptera|Hydropsychidae|Hydropsyche|pellucidula|||Insects/Spiders|869943
+224|Polychaete Worm|Neanthes arenaceodentata|Animalia|Annelida|Polychaeta||Errantia|Aciculata|Nereididae|Neanthes|arenaceodentata|||WormsStandard Test Species|604281
+225|Mayfly|Drunella grandis|Animalia|Arthropoda|Hexapoda||Insecta|Ephemeroptera|Ephemerellidae|Drunella|grandis|||Insects/Spiders|248223
+226|Opossum Shrimp|Leptomysis mediterranea|Animalia|Arthropoda|Crustacea||Malacostraca|Mysida|Mysidae|Leptomysis|mediterranea|||Crustaceans|419523
+227|Caddisfly|Arctopsyche grandis|Animalia|Arthropoda|Hexapoda||Insecta|Trichoptera|Hydropsychidae|Arctopsyche|grandis|||Insects/Spiders|121162
+228|Blackfly|Simulium ornatum|Animalia|Arthropoda|Hexapoda||Insecta|Diptera|Simuliidae|Simulium|ornatum|||Insects/Spiders|
+229|Blue-Green Algae|Aulosira prolifica|Monera|Cyanophycota|||Cyanophyceae|Nostocales|Nostocaceae|Aulosira|prolifica|||Algae|
+230|Yellow Fever Mosquito|Aedes aegypti|Animalia|Arthropoda|Hexapoda||Insecta|Diptera|Culicidae|Aedes|aegypti|||Insects/SpidersStandard Test Species|7159
+231|Rotifer|Philodina roseola|Animalia|Rotifera|||Bdelloidea|Bdelloida|Philodinidae|Philodina|roseola|||Invertebrates|96448
+232|Fresh-Water Mussel|Anodonta piscinalis|Animalia|Mollusca|||Bivalvia|Unionoida|Unionidae|Anodonta|piscinalis|||Molluscs|
+233|Tubificid Worm, Oligochaete|Limnodrilus hoffmeisteri|Animalia|Annelida|||Oligochaeta|Haplotaxida|Naididae|Limnodrilus|hoffmeisteri|||Worms|76587
+234|Mussel|Unio pictorum|Animalia|Mollusca|||Bivalvia|Unionoida|Unionidae|Unio|pictorum|||Molluscs|55837
+235|Brown Mystery Snail|Campeloma decisum|Animalia|Mollusca|||Gastropoda|Architaenioglossa|Viviparidae|Campeloma|decisum|||Molluscs|93137
+236|Flatly Coiled Gyraulus|Gyraulus circumstriatus|Animalia|Mollusca|||Gastropoda|Basommatophora|Planorbidae|Gyraulus|circumstriatus|||Molluscs|1720690
+237|Marsh Snail|Lymnaea palustris|Animalia|Mollusca|||Gastropoda|Basommatophora|Lymnaeidae|Lymnaea|palustris|||Molluscs|55699
+238|Mosquito|Aedes nigromaculis|Animalia|Arthropoda|Hexapoda||Insecta|Diptera|Culicidae|Aedes|nigromaculis|||Insects/Spiders|767023
+239|Pouch Snail|Physa integra|Animalia|Mollusca|||Gastropoda|Basommatophora|Physidae|Physa|integra|||MolluscsStandard Test Species|109671
+240|Water Flea|Daphnia carinata|Animalia|Arthropoda|Crustacea||Branchiopoda|Diplostraca|Daphniidae|Daphnia|carinata|||Crustaceans|120202
+241|Water Flea|Daphnia pulicaria|Animalia|Arthropoda|Crustacea||Branchiopoda|Diplostraca|Daphniidae|Daphnia|pulicaria|||Crustaceans|35523
+242|Copepod Subclass|Copepoda|Animalia|Arthropoda|Crustacea||Maxillopoda|Copepoda||||||Crustaceans|6830
+243|Aquatic Sowbug|Asellus communis|Animalia|Arthropoda|Crustacea||Malacostraca|Isopoda|Asellidae|Asellus|communis|||Crustaceans|
+244|Mussel|Unio tumidus|Animalia|Mollusca|||Bivalvia|Unionoida|Unionidae|Unio|tumidus|||Molluscs|143298
+245|European Fingernail Clam|Sphaerium corneum|Animalia|Mollusca|||Bivalvia|Veneroida|Pisidiidae|Sphaerium|corneum|||Molluscs|98288
+246|Ditch Fencing Crayfish|Faxonella clypeata|Animalia|Arthropoda|Crustacea||Malacostraca|Decapoda|Cambaridae|Faxonella|clypeata|||Crustaceans|1240944
+247|Crayfish|Orconectes limosus|Animalia|Arthropoda|Crustacea||Malacostraca|Decapoda|Cambaridae|Orconectes|limosus|||Crustaceans|28379
+248|Rusty Crayfish|Orconectes rusticus|Animalia|Arthropoda|Crustacea||Malacostraca|Decapoda|Cambaridae|Orconectes|rusticus|||CrustaceansU.S. Invasive Species|258719
+249|Shrimp|Trypaea australiensis|Animalia|Arthropoda|Crustacea||Malacostraca|Decapoda|Callianassidae|Trypaea|australiensis|||Crustaceans|1593259
+250|Mayfly|Ephemerella subvaria|Animalia|Arthropoda|Hexapoda||Insecta|Ephemeroptera|Ephemerellidae|Ephemerella|subvaria|||Insects/Spiders|248228
+251|Mayfly|Hexagenia bilineata|Animalia|Arthropoda|Hexapoda||Insecta|Ephemeroptera|Ephemeridae|Hexagenia|bilineata|||Insects/SpidersStandard Test Species|433278
+252|Jumbo Tiger Prawn|Penaeus monodon|Animalia|Arthropoda|Crustacea||Malacostraca|Decapoda|Penaeidae|Penaeus|monodon|||Crustaceans|6687
+253|Stonefly|Claassenia sabulosa|Animalia|Arthropoda|Hexapoda||Insecta|Plecoptera|Perlidae|Claassenia|sabulosa|||Insects/Spiders|143764
+254|Damselfly|Ischnura verticalis|Animalia|Arthropoda|Hexapoda||Insecta|Odonata|Coenagrionidae|Ischnura|verticalis|||Insects/Spiders|88053
+255|Damselfly|Ischnura sp.|Animalia|Arthropoda|Hexapoda||Insecta|Odonata|Coenagrionidae|Ischnura|sp.|||Insects/Spiders|79456
+256|Midge Family|Chironomidae|Animalia|Arthropoda|Hexapoda||Insecta|Diptera|Chironomidae|||||Insects/Spiders|7149
+257|Caddisfly|Clistoronia magnifica|Animalia|Arthropoda|Hexapoda||Insecta|Trichoptera|Limnephilidae|Clistoronia|magnifica|||Insects/Spiders|1646332
+258|Caddisfly|Hydropsyche betteni|Animalia|Arthropoda|Hexapoda||Insecta|Trichoptera|Hydropsychidae|Hydropsyche|betteni|||Insects/Spiders|761588
+259|Caddisfly Order|Trichoptera|Animalia|Arthropoda|Hexapoda||Insecta|Trichoptera||||||Insects/Spiders|30263
+260|Alewife|Alosa pseudoharengus|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Clupeiformes|Clupeidae|Alosa|pseudoharengus|||FishU.S. Invasive Species|34774
+261|Gizzard Shad|Dorosoma cepedianum|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Clupeiformes|Clupeidae|Dorosoma|cepedianum|||Fish|336262
+262|Cisco, Lake Herring|Coregonus artedii|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Salmoniformes|Salmonidae|Coregonus|artedii|||Fish|36181
+263|Lake Whitefish|Coregonus clupeaformis|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Salmoniformes|Salmonidae|Coregonus|clupeaformis|||Fish|59861
+264|Bloater|Coregonus hoyi|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Salmoniformes|Salmonidae|Coregonus|hoyi|||Fish|59862
+265|Deepwater Cisco|Coregonus johannae|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Salmoniformes|Salmonidae|Coregonus|johannae|||Fish|
+266|Kiyi|Coregonus kiyi|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Salmoniformes|Salmonidae|Coregonus|kiyi|||Fish|59863
+267|Cisco, Whitefish|Coregonus sp.|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Salmoniformes|Salmonidae|Coregonus|sp.|||Fish|
+268|Round Whitefish|Prosopium cylindraceum|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Salmoniformes|Salmonidae|Prosopium|cylindraceum|||Fish|348696
+269|Damselfly Suborder|Zygoptera|Animalia|Arthropoda|Hexapoda||Insecta|Zygoptera||||||Insects/Spiders|50488
+270|Rainbow Smelt|Osmerus mordax|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Osmeriformes|Osmeridae|Osmerus|mordax|||Fish|8014
+271|Mottled Sculpin|Cottus bairdi|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Scorpaeniformes|Cottidae|Cottus|bairdi|||Fish|
+272|Slimy Sculpin|Cottus cognatus|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Scorpaeniformes|Cottidae|Cottus|cognatus|||Fish|147210
+273|Fourhorn Sculpin|Myoxocephalus quadricornis|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Scorpaeniformes|Cottidae|Myoxocephalus|quadricornis|||Fish|200680
+274|Longfin Dace|Agosia chrysogaster|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Cypriniformes|Cyprinidae|Agosia|chrysogaster|||Fish|86938
+275|Central Stoneroller|Campostoma anomalum|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Cypriniformes|Cyprinidae|Campostoma|anomalum|||Fish|61318
+276|Striped Shiner|Luxilus chrysocephalus|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Cypriniformes|Cyprinidae|Luxilus|chrysocephalus|||Fish|33536
+277|Northern Redbelly Dace|Phoxinus eos|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Cypriniformes|Cyprinidae|Phoxinus|eos|||Fish|42663
+278|Harpacticoid Copepod|Canthocamptus sp.|Animalia|Arthropoda|Crustacea||Maxillopoda|Harpacticoida|Canthocamptidae|Canthocamptus|sp.|||Crustaceans|1322215
+279|Blacknose Dace|Rhinichthys atratulus|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Cypriniformes|Cyprinidae|Rhinichthys|atratulus|||Fish|67556
+280|Speckled Dace|Rhinichthys osculus|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Cypriniformes|Cyprinidae|Rhinichthys|osculus|||FishU.S. Threatened and Endangered Species|86924
+281|Copepod Order|Cyclopoida|Animalia|Arthropoda|Crustacea||Maxillopoda|Cyclopoida||||||Crustaceans|84308
+282|White, Longnose Sucker|Catostomus catostomus|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Cypriniformes|Catostomidae|Catostomus|catostomus|||Fish|43956
+283|White Sucker|Catostomus commersoni|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Cypriniformes|Catostomidae|Catostomus|commersoni|||FishStandard Test Species|7971
+284|Redhorse, Sucker|Moxostoma sp.|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Cypriniformes|Catostomidae|Moxostoma|sp.|||Fish|117934
+285|Aquatic Moss|Platyhypnidium riparoides|Plantae|Bryophyta|||Bryopsida|Hypnales|Brachytheciaceae|Platyhypnidium|riparoides|||Moss, Hornworts|
+286|Burbot|Lota lota|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Gadiformes|Gadidae|Lota|lota|||Fish|69944
+287|Southern Platyfish|Xiphophorus maculatus|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Cyprinodontiformes|Poeciliidae|Xiphophorus|maculatus|||Fish|8083
+288|Brook Stickleback|Culaea inconstans|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Gasterosteiformes|Gasterosteidae|Culaea|inconstans|||Fish|240156
+289|Rock Bass|Ambloplites rupestris|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Perciformes|Centrarchidae|Ambloplites|rupestris|||Fish|109273
+290|Longear Sunfish|Lepomis megalotis|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Perciformes|Centrarchidae|Lepomis|megalotis|||Fish|270330
+291|Black Crappie|Pomoxis nigromaculatus|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Perciformes|Centrarchidae|Pomoxis|nigromaculatus|||Fish|8182
+292|Rainbow Darter|Etheostoma caeruleum|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Perciformes|Percidae|Etheostoma|caeruleum|||Fish|54319
+293|Orangethroat Darter|Etheostoma spectabile|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Perciformes|Percidae|Etheostoma|spectabile|||Fish|54343
+294|Great Pond Snail|Lymnaea stagnalis|Animalia|Mollusca|||Gastropoda|Basommatophora|Lymnaeidae|Lymnaea|stagnalis|||MolluscsStandard Test Species|6523
+295|Freshwater Drum|Aplodinotus grunniens|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Perciformes|Sciaenidae|Aplodinotus|grunniens|||Fish|225389
+297|River Snail|Viviparus sp.|Animalia|Mollusca|||Gastropoda|Architaenioglossa|Viviparidae|Viviparus|sp.|||Molluscs|54977
+298|Green Algae|Dunaliella tertiolecta|Plantae|Chlorophyta|||Chlorophyceae|Volvocales|Dunaliellaceae|Dunaliella|tertiolecta|||Standard Test SpeciesAlgae|3047
+299|Diatom|Thalassiosira guillardii|Chromista|Bacillariophyta|||Coscinodiscophyceae|Thalassiosirales|Thalassiosiraceae|Thalassiosira|guillardii|||Algae|159748
+300|Green Algae|Chlorococcum sp.|Plantae|Chlorophyta|||Chlorophyceae|Chlorococcales|Chlorococcaceae|Chlorococcum|sp.|||Algae|44649
+301|Diatom|Nitzschia sp.|Chromista|Bacillariophyta|||Bacillariophyceae|Pennales|Bacillariaceae|Nitzschia|sp.|||Standard Test SpeciesAlgae|2857
+302|Daggerblade Grass Shrimp|Palaemonetes pugio|Animalia|Arthropoda|Crustacea||Malacostraca|Decapoda|Palaemonidae|Palaemonetes|pugio|||CrustaceansStandard Test Species|221654
+303|Cryptomonad|Chilomonas paramecium|Plantae|Cryptophycophyta|||Cryptophyceae|Cryptomonadales|Cryptomonadaceae|Chilomonas|paramecium|||Algae|2898
+304|Balthica Macoma Or Clam|Macoma balthica|Animalia|Mollusca|||Bivalvia|Veneroida|Tellinidae|Macoma|balthica|||Molluscs|1903275
+305|Golden-brown Algae|Synura uvella|Chromista|Chrysophyta|||Chrysophyceae|Ochromonadales|Synuraceae|Synura|uvella|||Algae|52557
+306|Murex|Murex brandaris|Animalia|Mollusca|||Gastropoda|Neogastropoda|Muricidae|Murex|brandaris|||Molluscs|181909
+307|Hermit Crab|Pagurus sp.|Animalia|Arthropoda|Crustacea||Malacostraca|Decapoda|Paguridae|Pagurus|sp.|||Crustaceans|6746
+308|Striped Catfish|Mystus vittatus|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Siluriformes|Bagridae|Mystus|vittatus|||Fish|337539
+309|Diatom|Skeletonema costatum|Chromista|Bacillariophyta|||Coscinodiscophyceae|Thalassiosirales|Skeletonemaceae|Skeletonema|costatum|||Standard Test SpeciesAlgae|2843
+310|Diatom|Nitzschia angularis|Chromista|Bacillariophyta|||Bacillariophyceae|Pennales|Bacillariaceae|Nitzschia|angularis|||Algae|
+311|Green Algae|Chlorella sp.|Plantae|Chlorophyta|||Chlorophyceae|Chlorococcales|Oocystaceae|Chlorella|sp.|||Algae|3079
+312|Green Algae|Neochloris sp.|Plantae|Chlorophyta|||Chlorophyceae|Chlorococcales|Chlorococcaceae|Neochloris|sp.|||Algae|
+313|Diatom|Navicula incerta|Chromista|Bacillariophyta|||Bacillariophyceae|Pennales|Naviculaceae|Navicula|incerta|||Algae|63141
+314|Red Algae|Porphyridium cruentum|Plantae|Rhodophycota|||Rhodophyceae|Porphyridiales|Porphyridiaceae|Porphyridium|cruentum|||Algae|35688
+315|Water Mite|Piona nodata|Animalia|Arthropoda|Chelicerata||Arachnida|Trombidiformes|Pionidae|Piona|nodata|||Insects/Spiders|
+316|Barb|Barbus barbus ssp. plebejus|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Cypriniformes|Cyprinidae|Barbus|barbus|ssp. plebejus||Fish|
+317|Diatom|Fragilaria capucina|Chromista|Bacillariophyta|||Fragilariophyceae|Fragilariales|Fragilariaceae|Fragilaria|capucina|||Algae|185980
+318|Green Algae|Chlamydomonas reinhardtii|Plantae|Chlorophyta|||Chlorophyceae|Volvocales|Chlamydomonadaceae|Chlamydomonas|reinhardtii|||Standard Test SpeciesAlgae|3055
+319|Water Mite|Piona coccinea|Animalia|Arthropoda|Chelicerata||Arachnida|Trombidiformes|Pionidae|Piona|coccinea|||Insects/Spiders|1046330
+320|Water Mite|Hydryphantes ruber|Animalia|Arthropoda|Chelicerata||Arachnida|Trombidiformes|Hydryphantidae|Hydryphantes|ruber|||Insects/Spiders|
+321|Water Mite|Limnochares aquatica|Animalia|Arthropoda|Chelicerata||Arachnida|Trombidiformes|Limnocharidae|Limnochares|aquatica|||Insects/Spiders|
+322|Water Mite|Mideopsis orbicularis|Animalia|Arthropoda|Chelicerata||Arachnida|Trombidiformes|Mideopsidae|Mideopsis|orbicularis|||Insects/Spiders|
+323|Water Mite|Arrenurus globator|Animalia|Arthropoda|Chelicerata||Arachnida|Trombidiformes|Arrenuridae|Arrenurus|globator|||Insects/Spiders|1783291
+324|Prasinophyte|Tetraselmis maculata|Plantae|Chlorophyta|||Chlorodendrophyceae|Chlorodendrales|Chlorodendraceae|Tetraselmis|maculata|||Algae|41887
+325|Coccolithophorid|Coccolithus huxleyi|Chromista|Haptophyta|||Prymnesiophyceae|Prymnesiales|Coccolithaceae|Coccolithus|huxleyi|||Algae|
+326|Haptophyte|Isochrysis galbana|Chromista|Haptophyta|||Prymnesiophyceae|Isochrysidales|Isochrysidaceae|Isochrysis|galbana|||Algae|37099
+327|Green Algae|Stichococcus bacillaris|Plantae|Chlorophyta|||Chlorophyceae|Prasiolales|Prasiolaceae|Stichococcus|bacillaris|||Algae|37433
+328|Yellow Green Algae|Nannochloropsis oculata|Chromista|Ochrophyta|||Eustigmatophyceae|Eustigmatales|Monodopsidaceae|Nannochloropsis|oculata|||Algae|43925
+330|Diatom|Phaeodactylum tricornutum|Chromista|Bacillariophyta|||Bacillariophyceae|Naviculales|Phaeodactylaceae|Phaeodactylum|tricornutum|||Standard Test SpeciesAlgae|2850
+331|Diatom|Thalassiosira weissflogii|Chromista|Bacillariophyta|||Coscinodiscophyceae|Thalassiosirales|Thalassiosiraceae|Thalassiosira|weissflogii|||Algae|67004
+332|Diatom|Cyclotella cryptica|Chromista|Bacillariophyta|||Coscinodiscophyceae|Thalassiosirales|Thalassiosiraceae|Cyclotella|cryptica|||Algae|29204
+333|Diatom|Bellerochea polymorpha|Chromista|Bacillariophyta|||Coscinodiscophyceae|Hemiaulales|Bellerocheaceae|Bellerochea|polymorpha|||Algae|
+334|Cryptomonad|Chroomonas salina|Plantae|Cryptophycophyta|||Cryptophyceae|Cryptomonadales|Cryptomonadaceae|Chroomonas|salina|||Algae|402395
+335|Cryptomonad|Rhodomonas lens|Plantae|Cryptophycophyta|||Cryptophyceae|Cryptomonadales|Cryptomonadaceae|Rhodomonas|lens|||Algae|354590
+336|Dinoflagellate|Amphidinium carterae|Chromista|Pyrrophycophyta|||Dinophyceae|Gymnodiniales|Gymnodiniaceae|Amphidinium|carterae|||Algae|2961
+337|Blue-Green Algae|Agmenellum quadruplicatum|Monera|Cyanophycota|||Cyanophyceae|Chroococcales|Chroococcaceae|Agmenellum|quadruplicatum|||Algae|32049
+338|Blue-Green Algae|Anacystis marina|Monera|Cyanophycota|||Cyanophyceae|Chroococcales|Chroococcaceae|Anacystis|marina|||Algae|
+339|Dungeness Or Edible Crab|Cancer magister|Animalia|Arthropoda|Crustacea||Malacostraca|Decapoda|Cancridae|Cancer|magister|||Crustaceans|29965
+340|Water Mite|Hydrodroma despiciens|Animalia|Arthropoda|Chelicerata||Arachnida|Trombidiformes|Hydrodromidae|Hydrodroma|despiciens|||Insects/Spiders|
+341|Inland Silverside|Menidia beryllina|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Atheriniformes|Atherinidae|Menidia|beryllina|||FishStandard Test Species|269057
+342|Beetle|Eretes sticticus|Animalia|Arthropoda|Hexapoda||Insecta|Coleoptera|Dytiscidae|Eretes|sticticus|||Insects/Spiders|107803
+343|Scud|Elasmopus pectenicrus|Animalia|Arthropoda|Crustacea||Malacostraca|Amphipoda|Gammaridae|Elasmopus|pectenicrus|||Crustaceans|
+344|Flat, Native European Oyster|Ostrea edulis|Animalia|Mollusca|||Bivalvia|Ostreoida|Ostreidae|Ostrea|edulis|||Molluscs|37623
+345|Rotifer|Brachionus plicatilis|Animalia|Rotifera|||Monogononta|Ploima|Brachionidae|Brachionus|plicatilis|||InvertebratesStandard Test Species|10195
+346|American Lobster|Homarus americanus|Animalia|Arthropoda|Crustacea||Malacostraca|Decapoda|Nephropidae|Homarus|americanus|||Crustaceans|6706
+347|Bay Shrimp, Sand Shrimp|Crangon septemspinosa|Animalia|Arthropoda|Crustacea||Malacostraca|Decapoda|Crangonidae|Crangon|septemspinosa|||CrustaceansStandard Test Species|587144
+348|Snail|Aplexa hypnorum|Animalia|Mollusca|||Gastropoda|Basommatophora|Physidae|Aplexa|hypnorum|||Molluscs|271031
+349|Sand Gaper, Soft Shell Clam|Mya arenaria|Animalia|Mollusca|||Bivalvia|Myoida|Myidae|Mya|arenaria|||Molluscs|6604
+350|Caddisfly|Limnephilus flavicornis|Animalia|Arthropoda|Hexapoda||Insecta|Trichoptera|Limnephilidae|Limnephilus|flavicornis|||Insects/Spiders|292572
+351|Climbing Perch|Anabas testudineus|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Perciformes|Anabantidae|Anabas|testudineus|||Fish|64144
+352|Indian Catfish|Heteropneustes fossilis|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Siluriformes|Heteropneustidae|Heteropneustes|fossilis|||Fish|93621
+353|Motsuga, Stone Moroko|Pseudorasbora parva|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Cypriniformes|Cyprinidae|Pseudorasbora|parva|||Fish|51549
+354|Green Algae|Tetraedron sp.|Plantae|Chlorophyta|||Chlorophyceae|Chlorococcales|Chlorococcaceae|Tetraedron|sp.|||Algae|302392
+355|Crested Newt|Triturus cristatus|Animalia|Chordata|Vertebrata||Amphibia|Caudata|Salamandridae|Triturus|cristatus|||Amphibians|8323
+356|Australian Barnacle|Elminius modestus|Animalia|Arthropoda|Crustacea||Maxillopoda|Sessilia|Balanidae|Elminius|modestus|||Crustaceans|1732093
+357|Frog|Microhyla ornata|Animalia|Chordata|Vertebrata||Amphibia|Anura|Microhylidae|Microhyla|ornata|||Amphibians|143526
+358|Leopard Frog|Lithobates pipiens|Animalia|Chordata|Vertebrata||Amphibia|Anura|Ranidae|Lithobates|pipiens|||AmphibiansStandard Test Species|8404
+360|Caddisfly|Cheumatopsyche sp.|Animalia|Arthropoda|Hexapoda||Insecta|Trichoptera|Hydropsychidae|Cheumatopsyche|sp.|||Insects/Spiders|177865
+361|Crayfish|Orconectes virilis|Animalia|Arthropoda|Crustacea||Malacostraca|Decapoda|Cambaridae|Orconectes|virilis|||Crustaceans|60966
+362|Mayfly|Stenonema terminatum|Animalia|Arthropoda|Hexapoda||Insecta|Ephemeroptera|Heptageniidae|Stenonema|terminatum|||Insects/Spiders|248246
+363|Squid|Loligo pealeii|Animalia|Mollusca|||Cephalopoda|Teuthida|Loliginidae|Loligo|pealeii|||Molluscs|1051067
+365|Sea Bass|Dicentrarchus labrax|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Perciformes|Moronidae|Dicentrarchus|labrax|||FishStandard Test Species|13489
+366|Brine Shrimp|Artemia salina|Animalia|Arthropoda|Crustacea||Branchiopoda|Anostraca|Artemiidae|Artemia|salina|||Crustaceans|85549
+367|Damselfly|Enallagma sp.|Animalia|Arthropoda|Hexapoda||Insecta|Odonata|Coenagrionidae|Enallagma|sp.|||Insects/Spiders|78523
+368|Indian Bullfrog|Hoplobatrachus tigerinus|Animalia|Chordata|Vertebrata||Amphibia|Anura|Ranidae|Hoplobatrachus|tigerinus|||Amphibians|103373
+370|Green Algae|Chlamydomonas globosa|Plantae|Chlorophyta|||Chlorophyceae|Volvocales|Chlamydomonadaceae|Chlamydomonas|globosa|||Algae|51694
+371|Killifish, Topminnow Family|Cyprinodontidae|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Cyprinodontiformes|Cyprinodontidae|||||Fish|8076
+372|Scud|Gammarus pulex|Animalia|Arthropoda|Crustacea||Malacostraca|Amphipoda|Gammaridae|Gammarus|pulex|||CrustaceansStandard Test Species|52641
+373|Water Spider|Argyroneta aquatica|Animalia|Arthropoda|Chelicerata||Arachnida|Araneae|Argyronetidae|Argyroneta|aquatica|||Insects/Spiders|375087
+374|Lamp-Mussel|Lampsilis siliquoidea|Animalia|Mollusca|||Bivalvia|Unionoida|Unionidae|Lampsilis|siliquoidea|||Molluscs|52396
+375|Atlantic Silverside|Menidia menidia|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Atheriniformes|Atherinidae|Menidia|menidia|||FishStandard Test Species|238744
+376|Calanoid Copepod|Acartia tonsa|Animalia|Arthropoda|Crustacea||Maxillopoda|Calanoida|Acartiidae|Acartia|tonsa|||CrustaceansStandard Test Species|136180
+377|Mayfly|Ephemera danica|Animalia|Arthropoda|Hexapoda||Insecta|Ephemeroptera|Ephemeridae|Ephemera|danica|||Insects/Spiders|1049336
+379|Calanoid Copepod|Diaptomus sp.|Animalia|Arthropoda|Crustacea||Maxillopoda|Calanoida|Diaptomidae|Diaptomus|sp.|||Crustaceans|398979
+380|Aquatic Sowbug|Saduria entomon|Animalia|Arthropoda|Crustacea||Malacostraca|Isopoda|Chaetiliidae|Saduria|entomon|||Crustaceans|341131
+381|Hydra|Hydra sp.|Animalia|Cnidaria|||Hydrozoa|Hydroida|Hydridae|Hydra|sp.|||Invertebrates|6083
+382|Scud|Gammarus duebeni|Animalia|Arthropoda|Crustacea||Malacostraca|Amphipoda|Gammaridae|Gammarus|duebeni|||Crustaceans|178002
+383|Minnow|Phoxinus phoxinus|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Cypriniformes|Cyprinidae|Phoxinus|phoxinus|||Fish|58324
+384|Cyclopoid Copepod|Eucyclops sp.|Animalia|Arthropoda|Crustacea||Maxillopoda|Cyclopoida|Cyclopidae|Eucyclops|sp.|||Crustaceans|84316
+385|Mediterranean Mussel|Mytilus galloprovincialis|Animalia|Mollusca|||Bivalvia|Mytiloida|Mytilidae|Mytilus|galloprovincialis|||MolluscsStandard Test Species|29158
+386|Milkfish, Salmon-Herring|Chanos chanos|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Gonorhynchiformes|Chanidae|Chanos|chanos|||Fish|29144
+387|Sand Shrimp|Metapenaeus monoceros|Animalia|Arthropoda|Crustacea||Malacostraca|Decapoda|Penaeidae|Metapenaeus|monoceros|||Crustaceans|1211424
+388|Kuruma Shrimp|Penaeus japonicus|Animalia|Arthropoda|Crustacea||Malacostraca|Decapoda|Penaeidae|Penaeus|japonicus|||Crustaceans|
+389|Horseshoe Crab|Limulus polyphemus|Animalia|Arthropoda|Chelicerata||Merostomata|Xiphosura|Limulidae|Limulus|polyphemus|||Crustaceans|6850
+390|Fish Louse|Argulus sp.|Animalia|Arthropoda|Crustacea||Maxillopoda|Arguloida|Argulidae|Argulus|sp.|||Crustaceans|179104
+391|Japanese Eel|Anguilla japonica|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Anguilliformes|Anguillidae|Anguilla|japonica|||Fish|7937
+393|Shrimp|Caridina denticulata|Animalia|Arthropoda|Crustacea||Malacostraca|Decapoda|Atyidae|Caridina|denticulata|||Crustaceans|274642
+394|Polychaete|Nereis glandicincta|Animalia|Annelida|Polychaeta||Errantia|Aciculata|Nereididae|Nereis|glandicincta|||Worms|
+395|Horn Shell|Cerithidea cingulata|Animalia|Mollusca|||Gastropoda|Neotaenioglossa|Potamididae|Cerithidea|cingulata|||Molluscs|334427
+396|Blue-Green Algae|Oscillatoria sp.|Monera|Cyanophycota|||Cyanophyceae|Nostocales|Oscillatoriaceae|Oscillatoria|sp.|||Algae|1159
+397|Southern House Mosquito|Culex quinquefasciatus|Animalia|Arthropoda|Hexapoda||Insecta|Diptera|Culicidae|Culex|quinquefasciatus|||Insects/Spiders|7176
+398|Phantom Midge|Chaoborus sp.|Animalia|Arthropoda|Hexapoda||Insecta|Diptera|Chaoboridae|Chaoborus|sp.|||Insects/Spiders|41812
+399|Mayfly|Cloeon sp.|Animalia|Arthropoda|Hexapoda||Insecta|Ephemeroptera|Baetidae|Cloeon|sp.|||Insects/Spiders|197151
+400|Arctic Grayling|Thymallus arcticus|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Salmoniformes|Salmonidae|Thymallus|arcticus|||Fish|70285
+401|Bent-Nosed Clam|Macoma nasuta|Animalia|Mollusca|||Bivalvia|Veneroida|Tellinidae|Macoma|nasuta|||Molluscs|244423
+402|Aquatic Sowbug|Idotea sp.|Animalia|Arthropoda|Crustacea||Malacostraca|Isopoda|Idoteidae|Idotea|sp.|||Crustaceans|82762
+403|Eastern Lampmussel|Lampsilis radiata|Animalia|Mollusca|||Bivalvia|Unionoida|Unionidae|Lampsilis|radiata|||Molluscs|227612
+404|Blue-Green Algae|Schizothrix calcicola|Monera|Cyanophycota|||Cyanophyceae|Nostocales|Oscillatoriaceae|Schizothrix|calcicola|||Algae|240295
+406|White River Crayfish|Procambarus acutus ssp. acutus|Animalia|Arthropoda|Crustacea||Malacostraca|Decapoda|Cambaridae|Procambarus|acutus|ssp. acutus||Crustaceans|1859085
+407|Asiatic Knifefish|Notopterus notopterus|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Osteoglossiformes|Notopteridae|Notopterus|notopterus|||Fish|103479
+408|Marine Sowbug|Cirolana borealis|Animalia|Arthropoda|Crustacea||Malacostraca|Isopoda|Cirolanidae|Cirolana|borealis|||Crustaceans|
+409|Longnose Killifish|Fundulus similis|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Cyprinodontiformes|Cyprinodontidae|Fundulus|similis|||FishStandard Test Species|76055
+410|Ciliate|Colpidium campylum|Animalia|Ciliophora|||Ciliatea|Hymenostomatida|Tetrahymenidae|Colpidium|campylum|||Invertebrates|5927
+411|Calanoid Copepod|Calanus sp.|Animalia|Arthropoda|Crustacea||Maxillopoda|Calanoida|Calanidae|Calanus|sp.|||Crustaceans|6836
+412|Green Algae|Oedogonium cardiacum|Plantae|Chlorophyta|||Chlorophyceae|Oedogoniales|Oedogoniaceae|Oedogonium|cardiacum|||Algae|55995
+413|Ramshorn Snail|Helisoma sp.|Animalia|Mollusca|||Gastropoda|Basommatophora|Planorbidae|Helisoma|sp.|||Molluscs|1856808
+414|Floater, Mussel|Anodonta grandis|Animalia|Mollusca|||Bivalvia|Unionoida|Unionidae|Anodonta|grandis|||Molluscs|
+415|Bivalve|Elliptio dilatata|Animalia|Mollusca|||Bivalvia|Unionoida|Unionidae|Elliptio|dilatata|||Molluscs|52377
+416|Mud Crab|Neopanope texana|Animalia|Arthropoda|Crustacea||Malacostraca|Decapoda|Xanthidae|Neopanope|texana|||Crustaceans|
+417|Diatom|Melosira granulata|Chromista|Bacillariophyta|||Bacillariophyceae|Centrales|Melosiraceae|Melosira|granulata|||Algae|
+418|Snake-Head Catfish|Channa punctata|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Perciformes|Channidae|Channa|punctata|||Fish|304456
+419|Aquatic Sowbug|Asellus militaris|Animalia|Arthropoda|Crustacea||Malacostraca|Isopoda|Asellidae|Asellus|militaris|||Crustaceans|
+420|Mussel|Mytilus californianus|Animalia|Mollusca|||Bivalvia|Mytiloida|Mytilidae|Mytilus|californianus|||Molluscs|6549
+421|Brine Shrimp|Artemia sp.|Animalia|Arthropoda|Crustacea||Branchiopoda|Anostraca|Artemiidae|Artemia|sp.|||Crustaceans|6660
+422|Carp, Hawk Fish|Cirrhinus mrigala|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Cypriniformes|Cyprinidae|Cirrhinus|mrigala|||Fish|683832
+423|Atlantic Menhaden|Brevoortia tyrannus|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Clupeiformes|Clupeidae|Brevoortia|tyrannus|||Fish|224708
+424|Aquatic Sowbug|Asellus sp.|Animalia|Arthropoda|Crustacea||Malacostraca|Isopoda|Asellidae|Asellus|sp.|||Crustaceans|92524
+425|Minnow,Carp Family|Cyprinidae|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Cypriniformes|Cyprinidae|||||Fish|7953
+426|Green Algae|Chlorella pyrenoidosa|Plantae|Chlorophyta|||Chlorophyceae|Chlorococcales|Oocystaceae|Chlorella|pyrenoidosa|||Algae|3078
+427|Scud|Gammarus aequicauda|Animalia|Arthropoda|Crustacea||Malacostraca|Amphipoda|Gammaridae|Gammarus|aequicauda|||Crustaceans|732107
+428|Blue-Green Algae|Anacystis nidulans|Monera|Cyanophycota|||Cyanophyceae|Chroococcales|Chroococcaceae|Anacystis|nidulans|||Algae|
+429|Polychaete|Nerilla antennata|Animalia|Annelida|Polychaeta||Errantia|Aciculata|Nerillidae|Nerilla|antennata|||Worms|47108
+430|Flagellate Euglenoid|Euglena gracilis|Plantae|Euglenophycota|||Euglenophyceae|Euglenales|Euglenaceae|Euglena|gracilis|||Algae|3039
+431|Ciliate|Paramecium bursaria|Animalia|Ciliophora|||Ciliatea|Hymenostomatida|Parameciidae|Paramecium|bursaria|||Invertebrates|74790
+432|Giant Danio|Danio malabaricus|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Cypriniformes|Cyprinidae|Danio|malabaricus|||Fish|46780
+433|Gulf Killifish|Fundulus grandis|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Cyprinodontiformes|Cyprinodontidae|Fundulus|grandis|||Fish|34779
+434|Green Algae|Dictyosphaerium sp.|Plantae|Chlorophyta|||Chlorophyceae|Chlorococcales|Dictyosphaeriaceae|Dictyosphaerium|sp.|||Algae|
+436|Mysid, Opossum Shrimp|Bowmaniella dissimilis|Animalia|Arthropoda|Crustacea||Malacostraca|Mysida|Mysidae|Bowmaniella|dissimilis|||Crustaceans|419506
+437|Diatom|Aulacoseira granulata var. angustissima|Chromista|Bacillariophyta|||Coscinodiscophyceae|Aulacoseirales|Aulacoseiraceae|Aulacoseira|granulata|var. angustissima||Algae|555748
+438|Chrysophyte|Ochromonas vallesiaca|Chromista|Chrysophyta|||Chrysophyceae|Ochromonadales|Ochromonadaceae|Ochromonas|vallesiaca|||Algae|
+439|Calanoid Copepod|Calanus plumchrus|Animalia|Arthropoda|Crustacea||Maxillopoda|Calanoida|Calanidae|Calanus|plumchrus|||Crustaceans|
+440|Calanoid Copepod|Metridia pacifica|Animalia|Arthropoda|Crustacea||Maxillopoda|Calanoida|Metridinidae|Metridia|pacifica|||Crustaceans|114067
+441|Krill|Euphausia pacifica|Animalia|Arthropoda|Crustacea||Malacostraca|Euphausiacea|Euphausiidae|Euphausia|pacifica|||Crustaceans|102976
+442|Comb-Jelly|Pleurobrachia pileus|Animalia|Ctenophora|||Tentaculata|Cydippida|Pleurobrachiidae|Pleurobrachia|pileus|||Invertebrates|140457
+443|Jellyfish|Phialidium sp.|Animalia|Cnidaria|||Hydrozoa|Hydroida|Campanulariidae|Phialidium|sp.|||Invertebrates|258838
+444|Dragonfly|Orthetrum albistylum ssp. speciosum|Animalia|Arthropoda|Hexapoda||Insecta|Odonata|Libellulidae|Orthetrum|albistylum|ssp. speciosum||Insects/Spiders|
+445|Agohaze, Goby|Chasmichthys dolichognathus|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Perciformes|Gobiidae|Chasmichthys|dolichognathus|||Fish|1231918
+446|Damselfly|Calopteryx sp.|Animalia|Arthropoda|Hexapoda||Insecta|Zygoptera|Calopterygidae|Calopteryx|sp.|||Insects/Spiders|52611
+447|Chiton|Lepidochitona cinerea|Animalia|Mollusca|||Polyplacophora|Neoloricata|Ischnochitonidae|Lepidochitona|cinerea|||Molluscs|256056
+448|Bryozoan|Hyalinella punctata|Animalia|Bryozoa|||Phylactolaemata|Plumatellida|Plumatellidae|Hyalinella|punctata|||Invertebrates|350064
+449|Bryozoa|Plumatella casmiana|Animalia|Bryozoa|||Phylactolaemata|Plumatellida|Plumatellidae|Plumatella|casmiana|||Invertebrates|480604
+450|Bryozoa|Lophopodella carteri|Animalia|Bryozoa|||Phylactolaemata|Plumatellida|Lophopodidae|Lophopodella|carteri|||Invertebrates|361475
+451|Danio|Danio sp.|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Cypriniformes|Cyprinidae|Danio|sp.|||Fish|7954
+452|Crayfish|Procambarus alleni|Animalia|Arthropoda|Crustacea||Malacostraca|Decapoda|Cambaridae|Procambarus|alleni|||Crustaceans|643729
+453|Green Algae|Gonium pectorale|Plantae|Chlorophyta|||Chlorophyceae|Volvocales|Volvocaceae|Gonium|pectorale|||Algae|33097
+454|Green Algae|Eudorina elegans|Plantae|Chlorophyta|||Chlorophyceae|Volvocales|Volvocaceae|Eudorina|elegans|||Algae|47282
+455|Loach|Misgurnus fossilis|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Cypriniformes|Cobitidae|Misgurnus|fossilis|||Fish|7984
+456|Saw-Grass|Cladium jamaicense|Plantae|Magnoliophyta|||Liliopsida|Cyperales|Cyperaceae|Cladium|jamaicense|||Flowers, Trees, Shrubs, Ferns|58222
+458|Killifish|Fundulus sp.|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Cyprinodontiformes|Cyprinodontidae|Fundulus|sp.|||Fish|8077
+459|Dragonfly|Macromia sp.|Animalia|Arthropoda|Hexapoda||Insecta|Odonata|Corduliidae|Macromia|sp.|||Insects/Spiders|126163
+460|Water Strider|Gerris remigis|Animalia|Arthropoda|Hexapoda||Insecta|Heteroptera|Gerridae|Gerris|remigis|||Insects/Spiders|36163
+461|Whirligig Beetle|Dineutus americanus|Animalia|Arthropoda|Hexapoda||Insecta|Coleoptera|Gyrinidae|Dineutus|americanus|||Insects/Spiders|1978417
+463|Scud|Gammarus limnaeus|Animalia|Arthropoda|Crustacea||Malacostraca|Amphipoda|Gammaridae|Gammarus|limnaeus|||Crustaceans|
+464|Green Algae|Dunaliella sp.|Plantae|Chlorophyta|||Chlorophyceae|Volvocales|Dunaliellaceae|Dunaliella|sp.|||Algae|3044
+465|Black Tetra, Blackamoor|Gymnocorymbus ternetzi|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Characiformes|Characidae|Gymnocorymbus|ternetzi|||Fish|42494
+466|Common Shiner|Luxilus cornutus|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Cypriniformes|Cyprinidae|Luxilus|cornutus|||Fish|33539
+467|Spotfin Shiner|Cyprinella spiloptera|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Cypriniformes|Cyprinidae|Cyprinella|spiloptera|||Fish|13477
+468|White Bass|Morone chrysops|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Perciformes|Moronidae|Morone|chrysops|||Fish|46259
+469|Sauger|Sander canadensis|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Perciformes|Percidae|Sander|canadensis|||Fish|283034
+470|Green Algae|Chlorella autotrophica|Plantae|Chlorophyta|||Chlorophyceae|Chlorococcales|Oocystaceae|Chlorella|autotrophica|||Algae|
+471|Blue-Green Algae|Anabaena flosaquae|Monera|Cyanophycota|||Cyanophyceae|Nostocales|Nostocaceae|Anabaena|flosaquae|||Standard Test SpeciesAlgae|
+472|Green Algae|Dunaliella primolecta|Plantae|Chlorophyta|||Chlorophyceae|Volvocales|Dunaliellaceae|Dunaliella|primolecta|||Algae|257627
+473|Chrysophyte|Pavlova lutheri|Chromista|Chrysophyta|||Chrysophyceae|Ochromonadales|Ochromonadaceae|Pavlova|lutheri|||Algae|2832
+474|Snail|Goniobasis sp.|Animalia|Mollusca|||Gastropoda|Neotaenioglossa|Pleuroceridae|Goniobasis|sp.|||Molluscs|53554
+475|Trout, Charr|Salvelinus sp.|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Salmoniformes|Salmonidae|Salvelinus|sp.|||Fish|8033
+476|Diatom|Nitzschia longissima|Chromista|Bacillariophyta|||Bacillariophyceae|Pennales|Bacillariaceae|Nitzschia|longissima|||Algae|309721
+477|Diatom|Chaetoceros socialis|Chromista|Bacillariophyta|||Bacillariophyceae|Centrales|Chaetocerotaceae|Chaetoceros|socialis|||Algae|163503
+478|Gray Tree Frog|Hyla versicolor|Animalia|Chordata|Vertebrata||Amphibia|Anura|Hylidae|Hyla|versicolor|||Amphibians|30343
+479|Green Algae|Chlorella vulgaris|Plantae|Chlorophyta|||Chlorophyceae|Chlorococcales|Oocystaceae|Chlorella|vulgaris|||Standard Test SpeciesAlgae|3077
+480|Swan Mussel|Anodonta cygnea|Animalia|Mollusca|||Bivalvia|Unionoida|Unionidae|Anodonta|cygnea|||Molluscs|47528
+481|Common Spiny Loach|Lepidocephalichthys thermalis|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Cypriniformes|Cobitidae|Lepidocephalichthys|thermalis|||Fish|
+482|Algae|Algae|Plantae|||||||Algae||||Algae|
+483|Phantom Midge|Chaoborus punctipennis|Animalia|Arthropoda|Hexapoda||Insecta|Diptera|Chaoboridae|Chaoborus|punctipennis|||Insects/Spiders|204566
+484|Ciliate|Tetrahymena pyriformis|Animalia|Ciliophora|||Ciliatea|Hymenostomatida|Tetrahymenidae|Tetrahymena|pyriformis|||InvertebratesStandard Test Species|5908
+485|Nile Tilapia|Oreochromis niloticus|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Perciformes|Cichlidae|Oreochromis|niloticus|||Fish|8128
+487|Green Algae|Scenedesmus quadricauda|Plantae|Chlorophyta|||Chlorophyceae|Chlorococcales|Scenedesmaceae|Scenedesmus|quadricauda|||Standard Test SpeciesAlgae|3089
+488|Invertebrates|Invertebrates|Animalia|||||||Invertebrates||||Invertebrates|
+489|Common Starfish|Asterias forbesii|Animalia|Echinodermata|Eleutherozoa||Asteroidea|Forcipulatida|Asteriidae|Asterias|forbesii|||Invertebrates|
+490|Longwrist Hermit Crab|Pagurus longicarpus|Animalia|Arthropoda|Crustacea||Malacostraca|Decapoda|Paguridae|Pagurus|longicarpus|||Crustaceans|111067
+491|Scup|Stenotomus chrysops|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Perciformes|Sparidae|Stenotomus|chrysops|||Fish|35579
+492|Eastern Mud Snail|Nassarius obsoletus|Animalia|Mollusca|||Gastropoda|Neogastropoda|Nassariidae|Nassarius|obsoletus|||Molluscs|34582
+493|Tilapia|Tilapia aurea|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Perciformes|Cichlidae|Tilapia|aurea|||Fish|27751
+494|Snail|Biomphalaria alexandrina|Animalia|Mollusca|||Gastropoda|Basommatophora|Planorbidae|Biomphalaria|alexandrina|||Molluscs|50959
+495|Snail|Bulinus truncatus|Animalia|Mollusca|||Gastropoda|Cephalaspidea|Bullinidae|Bulinus|truncatus|||Molluscs|55810
+496|Liver Elimia, River Snail|Elimia livescens|Animalia|Mollusca|||Gastropoda|Neotaenioglossa|Pleuroceridae|Elimia|livescens|||Molluscs|362874
+497|Green Algae|Ankistrodesmus falcatus|Plantae|Chlorophyta|||Chlorophyceae|Chlorococcales|Oocystaceae|Ankistrodesmus|falcatus|||Algae|52960
+498|Blue-Green Algae|Microcoleus vaginatus|Monera|Cyanophycota|||Cyanophyceae|Nostocales|Oscillatoriaceae|Microcoleus|vaginatus|||Algae|119532
+499|Sheepshead|Archosargus probatocephalus|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Perciformes|Sparidae|Archosargus|probatocephalus|||Fish|119682
+500|Ostracod|Heterocypris incongruens|Animalia|Arthropoda|Crustacea||Ostracoda|Podocopida|Cyprididae|Heterocypris|incongruens|||Crustaceans|425018
+502|Curled Pondweed|Potamogeton crispus|Plantae|Magnoliophyta|||Liliopsida|Najadales|Potamogetonaceae|Potamogeton|crispus|||Flowers, Trees, Shrubs, FernsU.S. Invasive Species|55318
+503|Pondweed|Potamogeton foliosus|Plantae|Magnoliophyta|||Liliopsida|Najadales|Potamogetonaceae|Potamogeton|foliosus|||Flowers, Trees, Shrubs, Ferns|292609
+504|Water-Milfoil|Myriophyllum sp.|Plantae|Magnoliophyta|||Magnoliopsida|Haloragales|Haloragaceae|Myriophyllum|sp.|||Flowers, Trees, Shrubs, Ferns|24952
+505|Giant Burreed|Sparganium eurycarpum|Plantae|Magnoliophyta|||Liliopsida|Typhales|Sparganiaceae|Sparganium|eurycarpum|||Flowers, Trees, Shrubs, Ferns|35871
+507|Duckweed|Lemna minor|Plantae|Magnoliophyta|||Liliopsida|Arales|Lemnaceae|Lemna|minor|||Standard Test SpeciesFlowers, Trees, Shrubs, FernsU.S. Invasive Species|4472
+508|Coon-Tail|Ceratophyllum demersum|Plantae|Magnoliophyta|||Magnoliopsida|Nymphaeales|Ceratophyllaceae|Ceratophyllum|demersum|||Flowers, Trees, Shrubs, Ferns|4428
+509|Green Algae|Cladophora sp.|Plantae|Chlorophyta|||Ulvophyceae|Cladophorales|Cladophoraceae|Cladophora|sp.|||Algae|34125
+510|Common Bladderwort|Utricularia vulgaris|Plantae|Magnoliophyta|||Magnoliopsida|Scrophulariales|Lentibulariaceae|Utricularia|vulgaris|||Flowers, Trees, Shrubs, Ferns|192324
+511|Butterfish, Whitefish|Lactarius lactarius|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Perciformes|Lactariidae|Lactarius|lactarius|||Fish|445388
+512|Red Leech|Erpobdella punctata|Animalia|Annelida|||Clitellata|Arhynchobdellida|Erpobdellidae|Erpobdella|punctata|||Worms|60951
+513|Crayfish|Orconectes immunis|Animalia|Arthropoda|Crustacea||Malacostraca|Decapoda|Cambaridae|Orconectes|immunis|||Crustaceans|306176
+514|Orb Snail Family|Planorbidae|Animalia|Mollusca|||Gastropoda|Basommatophora|Planorbidae|||||Molluscs|6524
+515|Backswimmer Family|Notonectidae|Animalia|Arthropoda|Hexapoda||Insecta|Heteroptera|Notonectidae|||||Insects/Spiders|50616
+516|Scud|Pontoporeia affinis|Animalia|Arthropoda|Crustacea||Malacostraca|Amphipoda|Haustoriidae|Pontoporeia|affinis|||Crustaceans|
+517|Water Flea|Bosmina longirostris|Animalia|Arthropoda|Crustacea||Branchiopoda|Diplostraca|Bosminidae|Bosmina|longirostris|||Crustaceans|27403
+518|Calanoid Copepod|Diacyclops thomasi|Animalia|Arthropoda|Crustacea||Maxillopoda|Cyclopoida|Cyclopidae|Diacyclops|thomasi|||Crustaceans|516366
+519|Fairy Shrimp|Streptocephalus seali|Animalia|Arthropoda|Crustacea||Branchiopoda|Anostraca|Streptocephalidae|Streptocephalus|seali|||Crustaceans|270791
+520|Clam Shrimp|Lynceus sp.|Animalia|Arthropoda|Crustacea||Branchiopoda|Diplostraca|Lynceidae|Lynceus|sp.|||Crustaceans|77665
+521|Crayfish|Procambarus simulans ssp. simulans|Animalia|Arthropoda|Crustacea||Malacostraca|Decapoda|Cambaridae|Procambarus|simulans|ssp. simulans||Crustaceans|
+522|Common Rangia Or Clam|Rangia cuneata|Animalia|Mollusca|||Bivalvia|Veneroida|Mactridae|Rangia|cuneata|||Molluscs|43053
+523|Frog|Rana breviceps|Animalia|Chordata|Vertebrata||Amphibia|Anura|Ranidae|Rana|breviceps|||Amphibians|
+524|Aholehole|Kuhlia sandvicensis|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Perciformes|Kuhliidae|Kuhlia|sandvicensis|||Fish|242929
+525|Nehu|Encrasicholina purpurea|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Clupeiformes|Engraulidae|Encrasicholina|purpurea|||Fish|
+526|Diatom|Leptocylindrus sp.|Chromista|Bacillariophyta|||Coscinodiscophyceae|Leptocylindrales|Leptocylindraceae|Leptocylindrus|sp.|||Algae|163515
+527|Prawn|Penaeus kerathurus|Animalia|Arthropoda|Crustacea||Malacostraca|Decapoda|Penaeidae|Penaeus|kerathurus|||Crustaceans|
+528|Snake-Head Catfish|Channa striata|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Perciformes|Channidae|Channa|striata|||Fish|64152
+529|Green Flagellate|Platymonas subcordiformis|Plantae|Prasinophyta|||Prasinophyceae|Pyramimonadales|Platymonadaceae|Platymonas|subcordiformis|||Algae|3161
+530|Mayfly|Hexagenia sp.|Animalia|Arthropoda|Hexapoda||Insecta|Ephemeroptera|Ephemeridae|Hexagenia|sp.|||Insects/Spiders|197159
+532|Tubificid Worm|Tubifex tubifex|Animalia|Annelida|||Oligochaeta|Haplotaxida|Naididae|Tubifex|tubifex|||WormsStandard Test Species|6386
+533|Oligochaete|Lumbriculus inconstans|Animalia|Annelida|||Clitellata|Lumbriculida|Lumbriculidae|Lumbriculus|inconstans|||Worms|
+534|Fresh-Water Leech Family|Erpobdellidae|Animalia|Annelida|||Clitellata|Arhynchobdellida|Erpobdellidae|||||Worms|57110
+535|Crayfish|Orconectes sp.|Animalia|Arthropoda|Crustacea||Malacostraca|Decapoda|Cambaridae|Orconectes|sp.|||CrustaceansStandard Test Species|28378
+536|Stonefly|Paragnetina sp.|Animalia|Arthropoda|Hexapoda||Insecta|Plecoptera|Perlidae|Paragnetina|sp.|||Insects/Spiders|178292
+537|Dragonfly|Ophiogomphus sp.|Animalia|Arthropoda|Hexapoda||Insecta|Odonata|Gomphidae|Ophiogomphus|sp.|||Insects/Spiders|126204
+538|Water Boatman Family|Corixidae|Animalia|Arthropoda|Hexapoda||Insecta|Heteroptera|Corixidae|||||Insects/Spiders|236405
+539|Mayfly|Stenonema sp.|Animalia|Arthropoda|Hexapoda||Insecta|Ephemeroptera|Heptageniidae|Stenonema|sp.|||Insects/Spiders|178296
+540|Caddisfly|Hydropsyche sp.|Animalia|Arthropoda|Hexapoda||Insecta|Trichoptera|Hydropsychidae|Hydropsyche|sp.|||Insects/Spiders|50443
+541|Caddisfly|Helicopsyche sp.|Animalia|Arthropoda|Hexapoda||Insecta|Trichoptera|Helicopsychidae|Helicopsyche|sp.|||Insects/Spiders|177802
+542|Blackfly|Simulium sp.|Animalia|Arthropoda|Hexapoda||Insecta|Diptera|Simuliidae|Simulium|sp.|||Insects/Spiders|7191
+543|Snipefly|Atherix sp.|Animalia|Arthropoda|Hexapoda||Insecta|Diptera|Athericidae|Atherix|sp.|||Insects/Spiders|124299
+544|Dobsonfly|Corydalus sp.|Animalia|Arthropoda|Hexapoda||Insecta|Megaloptera|Corydalidae|Corydalus|sp.|||Insects/Spiders|50555
+545|River Snail|Pleurocera sp.|Animalia|Mollusca|||Gastropoda|Neotaenioglossa|Pleuroceridae|Pleurocera|sp.|||Molluscs|53554
+546|Blue-Green Algae|Anabaena sp.|Monera|Cyanophycota|||Cyanophyceae|Nostocales|Nostocaceae|Anabaena|sp.|||Algae|1163
+547|Green Algae|Cosmarium botrytis|Plantae|Charophyta|||Conjugatophyceae|Desmidiales|Desmidiaceae|Cosmarium|botrytis|||Algae|33101
+548|Diatom|Navicula pelliculosa|Chromista|Bacillariophyta|||Bacillariophyceae|Pennales|Naviculaceae|Navicula|pelliculosa|||Standard Test SpeciesAlgae|913975
+549|Shrimp Or Prawn|Hippolyte sp.|Animalia|Arthropoda|Crustacea||Malacostraca|Decapoda|Hippolytidae|Hippolyte|sp.|||Crustaceans|294140
+551|Dinoflagellate|Olisthodiscus luteus|Plantae|Xanthophyta|||Xanthophyceae|Chloramoebales|Heterochloridaceae|Olisthodiscus|luteus|||Algae|83000
+552|Blue-Green Algae|Anabaena variabilis|Monera|Cyanophycota|||Cyanophyceae|Nostocales|Nostocaceae|Anabaena|variabilis|||Algae|1172
+553|Green Algae|Pleodorina californica|Plantae|Chlorophyta|||Chlorophyceae|Volvocales|Volvocaceae|Pleodorina|californica|||Algae|47285
+554|Green Algae|Pediastrum biradiatum|Plantae|Chlorophyta|||Chlorophyceae|Chlorococcales|Hydrodictyaceae|Pediastrum|biradiatum|||Algae|160063
+555|Green Algae|Chlorella ellipsoidea|Plantae|Chlorophyta|||Chlorophyceae|Chlorococcales|Oocystaceae|Chlorella|ellipsoidea|||Algae|
+556|Green Algae|Scenedesmus obtusiusculus|Plantae|Chlorophyta|||Chlorophyceae|Chlorococcales|Scenedesmaceae|Scenedesmus|obtusiusculus|||Algae|
+557|Green Algae|Ankistrodesmus sp.|Plantae|Chlorophyta|||Chlorophyceae|Chlorococcales|Oocystaceae|Ankistrodesmus|sp.|||Algae|3108
+558|Water Flea|Polyphemus pediculus|Animalia|Arthropoda|Crustacea||Branchiopoda|Diplostraca|Polyphemidae|Polyphemus|pediculus|||Crustaceans|77662
+559|Water Flea|Bythotrephes longimanus|Animalia|Arthropoda|Crustacea||Branchiopoda|Diplostraca|Cercopagididae|Bythotrephes|longimanus|||CrustaceansU.S. Invasive Species|77748
+560|Calanoid Copepod|Acanthodiaptomus denticornis|Animalia|Arthropoda|Crustacea||Maxillopoda|Calanoida|Diaptomidae|Acanthodiaptomus|denticornis|||Crustaceans|595357
+561|Cyclopoid Copepod|Cyclops vicinus|Animalia|Arthropoda|Crustacea||Maxillopoda|Cyclopoida|Cyclopidae|Cyclops|vicinus|||Crustaceans|1314695
+562|Calanoid Copepod|Eudiaptomus gracilis|Animalia|Arthropoda|Crustacea||Maxillopoda|Calanoida|Diaptomidae|Eudiaptomus|gracilis|||Crustaceans|251517
+563|Ostracod|Cypris pubera|Animalia|Arthropoda|Crustacea||Ostracoda|Podocopida|Cyprididae|Cypris|pubera|||Crustaceans|
+564|Bladder Snail|Physa fontinalis|Animalia|Mollusca|||Gastropoda|Basommatophora|Physidae|Physa|fontinalis|||Molluscs|146087
+565|Wandering Pond Snail|Lymnaea ovata|Animalia|Mollusca|||Gastropoda|Basommatophora|Lymnaeidae|Lymnaea|ovata|||Molluscs|
+566|River Snail|Viviparus viviparus|Animalia|Mollusca|||Gastropoda|Architaenioglossa|Viviparidae|Viviparus|viviparus|||Molluscs|54978
+567|Snail|Bithynia tentaculata|Animalia|Mollusca|||Gastropoda|Neotaenioglossa|Bithyniidae|Bithynia|tentaculata|||Molluscs|6478
+569|Ramshorn Snail|Planorbis planorbis|Animalia|Mollusca|||Gastropoda|Basommatophora|Planorbidae|Planorbis|planorbis|||Molluscs|191805
+570|Fresh-Water Mussel|Anodonta complanata|Animalia|Mollusca|||Bivalvia|Unionoida|Unionidae|Anodonta|complanata|||Molluscs|
+571|Spotted Seatrout|Cynoscion nebulosus|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Perciformes|Sciaenidae|Cynoscion|nebulosus|||Fish|13029
+572|Catla|Gibelion catla|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Cypriniformes|Cyprinidae|Gibelion|catla|||Fish|72446
+573|Calanoid Copepod|Undinula vulgaris|Animalia|Arthropoda|Crustacea||Maxillopoda|Calanoida|Calanidae|Undinula|vulgaris|||Crustaceans|184747
+574|Common Eel|Anguilla anguilla|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Anguilliformes|Anguillidae|Anguilla|anguilla|||Fish|7936
+575|Pacific Oyster|Crassostrea gigas|Animalia|Mollusca|||Bivalvia|Ostreoida|Ostreidae|Crassostrea|gigas|||MolluscsStandard Test Species|29159
+576|Floater|Anodonta cataracta|Animalia|Mollusca|||Bivalvia|Unionoida|Unionidae|Anodonta|cataracta|||Molluscs|55827
+577|Snail|Biomphalaria glabrata|Animalia|Mollusca|||Gastropoda|Basommatophora|Planorbidae|Biomphalaria|glabrata|||Molluscs|6526
+578|Blueback Herring|Alosa aestivalis|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Clupeiformes|Clupeidae|Alosa|aestivalis|||Fish|224703
+579|Smooth-Breasted Snakefish|Channa orientalis|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Perciformes|Channidae|Channa|orientalis|||Fish|64150
+580|Sea Bass|Serranus scriba|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Perciformes|Serranidae|Serranus|scriba|||Fish|349661
+581|Fish|Labeo boga|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Cypriniformes|Cyprinidae|Labeo|boga|||Fish|643323
+582|European Lobster|Homarus gammarus|Animalia|Arthropoda|Crustacea||Malacostraca|Decapoda|Nephropidae|Homarus|gammarus|||Crustaceans|6707
+583|Bluespotted Sunfish|Enneacanthus gloriosus|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Perciformes|Centrarchidae|Enneacanthus|gloriosus|||Fish|201696
+584|Green Algae|Chlorella sorokiniana|Plantae|Chlorophyta|||Chlorophyceae|Chlorococcales|Oocystaceae|Chlorella|sorokiniana|||Algae|3076
+585|Shore Crab|Hemigrapsus nudus|Animalia|Arthropoda|Crustacea||Malacostraca|Decapoda|Grapsidae|Hemigrapsus|nudus|||Crustaceans|88210
+586|Green Mussel|Perna viridis|Animalia|Mollusca|||Bivalvia|Mytiloida|Mytilidae|Perna|viridis|||Molluscs|73031
+589|Golden Trout|Oncorhynchus aguabonita|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Salmoniformes|Salmonidae|Oncorhynchus|aguabonita|||Fish|857568
+590|Bivalve|Scrobicularia plana|Animalia|Mollusca|||Bivalvia|Veneroida|Semelidae|Scrobicularia|plana|||Molluscs|665965
+591|Diatom|Ditylum brightwellii|Chromista|Bacillariophyta|||Coscinodiscophyceae|Lithodesmiales|Lithodesmiaceae|Ditylum|brightwellii|||Algae|49249
+592|Mayfly|Hexagenia limbata|Animalia|Arthropoda|Hexapoda||Insecta|Ephemeroptera|Ephemeridae|Hexagenia|limbata|||Insects/SpidersStandard Test Species|244977
+593|Mayfly|Ephemera simulans|Animalia|Arthropoda|Hexapoda||Insecta|Ephemeroptera|Ephemeridae|Ephemera|simulans|||Insects/Spiders|219458
+594|Flat Topshell|Gibbula umbilicalis|Animalia|Mollusca|||Gastropoda|Archaeogastropoda|Trochidae|Gibbula|umbilicalis|||Molluscs|148342
+595|Common Or Edible Winkle|Littorina littorea|Animalia|Mollusca|||Gastropoda|Neotaenioglossa|Littorinidae|Littorina|littorea|||Molluscs|31216
+596|Snail|Purpura lapillus|Animalia|Mollusca|||Gastropoda|Neogastropoda|Muricidae|Purpura|lapillus|||Molluscs|
+597|Hermit Crab|Clibanarius misanthropus|Animalia|Arthropoda|Crustacea||Malacostraca|Decapoda|Diogenidae|Clibanarius|misanthropus|||Crustaceans|
+598|Scud|Hyalella sp.|Animalia|Arthropoda|Crustacea||Malacostraca|Amphipoda|Hyalellidae|Hyalella|sp.|||Crustaceans|199487
+599|Fresh-Water Mussel|Ligumia sp.|Animalia|Mollusca|||Bivalvia|Unionoida|Unionidae|Ligumia|sp.|||Molluscs|96929
+600|Pea Cockle|Pisidium sp.|Animalia|Mollusca|||Bivalvia|Veneroida|Pisidiidae|Pisidium|sp.|||Molluscs|98305
+601|Orb Cockle, Fingernail Clam|Sphaerium sp.|Animalia|Mollusca|||Bivalvia|Veneroida|Pisidiidae|Sphaerium|sp.|||Molluscs|55713
+602|Crayfish|Orconectes propinquus|Animalia|Arthropoda|Crustacea||Malacostraca|Decapoda|Cambaridae|Orconectes|propinquus|||Crustaceans|197198
+603|Mayfly|Stenonema frontale|Animalia|Arthropoda|Hexapoda||Insecta|Ephemeroptera|Heptageniidae|Stenonema|frontale|||Insects/Spiders|
+604|Mayfly|Stenonema luteum|Animalia|Arthropoda|Hexapoda||Insecta|Ephemeroptera|Heptageniidae|Stenonema|luteum|||Insects/Spiders|
+605|Mayfly|Tricorythodes sp.|Animalia|Arthropoda|Hexapoda||Insecta|Ephemeroptera|Leptohyphidae|Tricorythodes|sp.|||Insects/Spiders|248192
+606|White Mullet|Valamugil engeli|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Mugiliformes|Mugilidae|Valamugil|engeli|||Fish|1111464
+607|Cyclopoid Copepod|Mesocyclops edax|Animalia|Arthropoda|Crustacea||Maxillopoda|Cyclopoida|Cyclopidae|Mesocyclops|edax|||Crustaceans|245082
+608|Harpacticoid Copepod|Tisbe bulbisetosa|Animalia|Arthropoda|Crustacea||Maxillopoda|Harpacticoida|Tisbidae|Tisbe|bulbisetosa|||Crustaceans|
+609|Aquatic Sowbug|Asellus aquaticus|Animalia|Arthropoda|Crustacea||Malacostraca|Isopoda|Asellidae|Asellus|aquaticus|||Crustaceans|92525
+610|Rush|Juncus roemerianus|Plantae|Magnoliophyta|||Liliopsida|Juncales|Juncaceae|Juncus|roemerianus|||Flowers, Trees, Shrubs, Ferns|879918
+611|Mayfly|Baetisca obesa|Animalia|Arthropoda|Hexapoda||Insecta|Ephemeroptera|Baetiscidae|Baetisca|obesa|||Insects/Spiders|603554
+612|Mayfly|Paraleptophlebia sp.|Animalia|Arthropoda|Hexapoda||Insecta|Ephemeroptera|Leptophlebiidae|Paraleptophlebia|sp.|||Insects/Spiders|202397
+613|Mayfly|Drunella cornuta|Animalia|Arthropoda|Hexapoda||Insecta|Ephemeroptera|Ephemerellidae|Drunella|cornuta|||Insects/Spiders|
+614|Mayfly|Isonychia bicolor|Animalia|Arthropoda|Hexapoda||Insecta|Ephemeroptera|Isonychiidae|Isonychia|bicolor|||Insects/Spiders|603693
+615|Stonefly|Paragnetina media|Animalia|Arthropoda|Hexapoda||Insecta|Plecoptera|Perlidae|Paragnetina|media|||Insects/Spiders|178293
+616|Stonefly|Isoperla slossonae|Animalia|Arthropoda|Hexapoda||Insecta|Plecoptera|Perlodidae|Isoperla|slossonae|||Insects/Spiders|1056681
+617|Stonefly|Pteronarcys dorsata|Animalia|Arthropoda|Hexapoda||Insecta|Plecoptera|Pteronarcyidae|Pteronarcys|dorsata|||Insects/Spiders|1485930
+618|Alderfly|Chauliodes sp.|Animalia|Arthropoda|Hexapoda||Insecta|Megaloptera|Corydalidae|Chauliodes|sp.|||Insects/Spiders|336003
+619|Caddisfly|Lepidostoma sp.|Animalia|Arthropoda|Hexapoda||Insecta|Trichoptera|Lepidostomatidae|Lepidostoma|sp.|||Insects/Spiders|158438
+620|Caddisfly|Chimarra obscura|Animalia|Arthropoda|Hexapoda||Insecta|Trichoptera|Philopotamidae|Chimarra|obscura|||Insects/Spiders|178329
+621|Crayfish|Pontastacus leptodactylus ssp. leptodactylus|Animalia|Arthropoda|Crustacea||Malacostraca|Decapoda|Astacidae|Pontastacus|leptodactylus|ssp. leptodactylus||Crustaceans|
+622|Caddisfly|Macrostemum sp.|Animalia|Arthropoda|Hexapoda||Insecta|Trichoptera|Hydropsychidae|Macrostemum|sp.|||Insects/Spiders|147300
+623|Crane Fly|Pedicia sp.|Animalia|Arthropoda|Hexapoda||Insecta|Diptera|Tipulidae|Pedicia|sp.|||Insects/Spiders|472374
+624|Blackfly|Simulium pugetense|Animalia|Arthropoda|Hexapoda||Insecta|Diptera|Simuliidae|Simulium|pugetense|||Insects/Spiders|
+625|Oligochaete Family|Lumbricidae|Animalia|Annelida|||Clitellata|Lumbriculida|Lumbricidae|||||Worms|
+626|Horsefly|Chrysops carbonarius|Animalia|Arthropoda|Hexapoda||Insecta|Diptera|Tabanidae|Chrysops|carbonarius|||Insects/Spiders|124303
+627|Amphipod|Crangonyx richmondensis ssp. laurentianus|Animalia|Arthropoda|Crustacea||Malacostraca|Amphipoda|Crangonyctidae|Crangonyx|richmondensis|ssp. laurentianus||Crustaceans|
+628|Cyprinid Fish|Rasbora neilgherriensis|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Cypriniformes|Cyprinidae|Rasbora|neilgherriensis|||Fish|
+629|Crayfish|Procambarus sp.|Animalia|Arthropoda|Crustacea||Malacostraca|Decapoda|Cambaridae|Procambarus|sp.|||CrustaceansStandard Test Species|6726
+630|Rotifer|Keratella cochlearis|Animalia|Rotifera|||Monogononta|Ploima|Brachionidae|Keratella|cochlearis|||Invertebrates|204738
+631|Rotifer|Brachionus angularis|Animalia|Rotifera|||Monogononta|Ploima|Brachionidae|Brachionus|angularis|||Invertebrates|396692
+632|Rotifer|Keratella americana|Animalia|Rotifera|||Monogononta|Ploima|Brachionidae|Keratella|americana|||Invertebrates|885371
+633|Crab|Oziotelphusa senex ssp. senex|Animalia|Arthropoda|Crustacea||Malacostraca|Decapoda|Grapsidae|Oziotelphusa|senex|ssp. senex||Crustaceans|
+634|Apple Snail|Pila globosa|Animalia|Mollusca|||Gastropoda|Architaenioglossa|Ampullariidae|Pila|globosa|||Molluscs|759386
+635|Mussel|Lamellidens marginalis|Animalia|Mollusca|||Bivalvia|Unionoida|Unionidae|Lamellidens|marginalis|||Molluscs|644998
+636|Diatom|Cylindrotheca closterium|Chromista|Bacillariophyta|||Bacillariophyceae|Pennales|Bacillariaceae|Cylindrotheca|closterium|||Algae|2856
+637|Long Fingernail Clam|Musculium transversum|Animalia|Mollusca|||Bivalvia|Veneroida|Pisidiidae|Musculium|transversum|||Molluscs|192225
+638|Green Algae|Chlorella salina|Plantae|Chlorophyta|||Chlorophyceae|Chlorococcales|Oocystaceae|Chlorella|salina|||Algae|289237
+639|Mullet Family|Mugilidae|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Mugiliformes|Mugilidae|||||Fish|8189
+640|Oligochaete, Worm|Lumbriculus variegatus|Animalia|Annelida|||Clitellata|Lumbriculida|Lumbriculidae|Lumbriculus|variegatus|||WormsStandard Test Species|61662
+641|Black Sea Turbot|Psetta maeotica|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Pleuronectiformes|Scophthalmidae|Psetta|maeotica|||Fish|
+642|Barnacle|Balanus variegatus ssp. variegatus|Animalia|Arthropoda|Crustacea||Maxillopoda|Sessilia|Balanidae|Balanus|variegatus|ssp. variegatus||Crustaceans|
+643|Barnacle|Balanus amphitrite ssp. amphitrite|Animalia|Arthropoda|Crustacea||Maxillopoda|Sessilia|Balanidae|Balanus|amphitrite|ssp. amphitrite||Crustaceans|
+644|Calanoid Copepod|Acartia simplex|Animalia|Arthropoda|Crustacea||Maxillopoda|Calanoida|Acartiidae|Acartia|simplex|||Crustaceans|
+645|Calanoid Copepod|Paracalanus parvus|Animalia|Arthropoda|Crustacea||Maxillopoda|Calanoida|Paracalanidae|Paracalanus|parvus|||Crustaceans|187406
+646|Harpacticoid Copepod|Scutellidium sp.|Animalia|Arthropoda|Crustacea||Maxillopoda|Harpacticoida|Tisbidae|Scutellidium|sp.|||Crustaceans|2172647
+647|Mosquito|Culex tarsalis|Animalia|Arthropoda|Hexapoda||Insecta|Diptera|Culicidae|Culex|tarsalis|||Insects/Spiders|7177
+648|Giant River Prawn|Macrobrachium rosenbergii|Animalia|Arthropoda|Crustacea||Malacostraca|Decapoda|Palaemonidae|Macrobrachium|rosenbergii|||Crustaceans|79674
+649|Calanoid Copepod|Eurytemora affinis|Animalia|Arthropoda|Crustacea||Maxillopoda|Calanoida|Temoridae|Eurytemora|affinis|||CrustaceansStandard Test Species|88015
+650|Bowfin|Amia calva|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Amiiformes|Amiidae|Amia|calva|||Fish|7924
+651|White Dotted Mosquito|Culex restuans|Animalia|Arthropoda|Hexapoda||Insecta|Diptera|Culicidae|Culex|restuans|||Insects/Spiders|38742
+652|Grass Shrimp,Freshwater Prawn|Palaemonetes sp.|Animalia|Arthropoda|Crustacea||Malacostraca|Decapoda|Palaemonidae|Palaemonetes|sp.|||Crustaceans|117982
+653|Polychaete|Ophryotrocha diadema|Animalia|Annelida|Polychaeta||Errantia|Aciculata|Dorvilleidae|Ophryotrocha|diadema|||Worms|169117
+654|Snail|Oncomelania nosophora|Animalia|Mollusca|||Gastropoda|Mesogastropoda|Pomatiopsidae|Oncomelania|nosophora|||Molluscs|
+655|American Frog's-Bit|Egeria densa|Plantae|Magnoliophyta|||Liliopsida|Hydrocharitales|Hydrocharitaceae|Egeria|densa|||Flowers, Trees, Shrubs, FernsU.S. Invasive Species|55453
+656|Waterweed|Elodea sp.|Plantae|Magnoliophyta|||Liliopsida|Hydrocharitales|Hydrocharitaceae|Elodea|sp.|||Flowers, Trees, Shrubs, Ferns|26324
+657|Blue-Green Algae|Lyngbya sp.|Monera|Cyanophycota|||Cyanophyceae|Nostocales|Oscillatoriaceae|Lyngbya|sp.|||Algae|28073
+658|Water-Hyacinth|Eichhornia crassipes|Plantae|Magnoliophyta|||Liliopsida|Liliales|Pontederiaceae|Eichhornia|crassipes|||Flowers, Trees, Shrubs, FernsU.S. Invasive Species|44947
+659|Alligator-Weed|Alternanthera philoxeroides|Plantae|Magnoliophyta|||Magnoliopsida|Caryophyllales|Amaranthaceae|Alternanthera|philoxeroides|||Flowers, Trees, Shrubs, FernsU.S. Invasive Species|381410
+660|Scud|Grandidierella sp.|Animalia|Arthropoda|Crustacea||Malacostraca|Amphipoda|Aoridae|Grandidierella|sp.|||Crustaceans|429031
+661|Atlantic Cod|Gadus morhua|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Gadiformes|Gadidae|Gadus|morhua|||Fish|8049
+662|Stone Loach|Noemacheilus barbatulus|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Cypriniformes|Balitoridae|Noemacheilus|barbatulus|||Fish|
+663|Central Mudminnow|Umbra limi|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Esociformes|Umbridae|Umbra|limi|||Fish|75935
+664|Yellowfish|Barbus holubi|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Cypriniformes|Cyprinidae|Barbus|holubi|||Fish|
+665|Winter Flounder|Pleuronectes americanus|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Pleuronectiformes|Pleuronectidae|Pleuronectes|americanus|||Fish|8265
+666|Mudfish, Scalie, Yellowfish|Labeo capensis|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Cypriniformes|Cyprinidae|Labeo|capensis|||Fish|2135814
+667|Mussel, Eastern Elliptio|Elliptio complanata|Animalia|Mollusca|||Bivalvia|Unionoida|Unionidae|Elliptio|complanata|||Molluscs|55832
+668|Cichlid|Herotilapia multispinosa|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Perciformes|Cichlidae|Herotilapia|multispinosa|||Fish|63170
+669|Fairy Shrimp|Streptocephalus proboscideus|Animalia|Arthropoda|Crustacea||Branchiopoda|Anostraca|Streptocephalidae|Streptocephalus|proboscideus|||Crustaceans|59188
+670|Dinoflagellate|Scrippsiella faeroense|Chromista|Pyrrophycophyta|||Dinophyceae|Gonyaulacales|Calciodinellaceae|Scrippsiella|faeroense|||Algae|
+671|Dinoflagellate|Prorocentrum micans|Chromista|Pyrrophycophyta|||Dinophyceae|Prorocentrales|Prorocentraceae|Prorocentrum|micans|||Algae|2945
+672|Dinoflagellate|Gymnodinium splendens|Chromista|Pyrrophycophyta|||Dinophyceae|Gymnodiniales|Gymnodiniaceae|Gymnodinium|splendens|||Algae|
+673|Largescale Stoneroller|Campostoma oligolepis|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Cypriniformes|Cyprinidae|Campostoma|oligolepis|||Fish|364065
+674|Mayfly|Ephemerella sp.|Animalia|Arthropoda|Hexapoda||Insecta|Ephemeroptera|Ephemerellidae|Ephemerella|sp.|||Insects/SpidersStandard Test Species|50634
+675|Mud Fish|Labeo umbratus|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Cypriniformes|Cyprinidae|Labeo|umbratus|||Fish|2135816
+676|Mayfly Family|Heptageniidae|Animalia|Arthropoda|Hexapoda||Insecta|Ephemeroptera|Heptageniidae|||||Insects/Spiders|178295
+677|Stonefly|Pteronarcys sp.|Animalia|Arthropoda|Hexapoda||Insecta|Plecoptera|Pteronarcyidae|Pteronarcys|sp.|||Insects/SpidersStandard Test Species|143752
+678|Stonefly|Agnetina sp.|Animalia|Arthropoda|Hexapoda||Insecta|Plecoptera|Perlidae|Agnetina|sp.|||Insects/Spiders|178278
+679|Stonefly|Isogenus sp.|Animalia|Arthropoda|Hexapoda||Insecta|Plecoptera|Perlodidae|Isogenus|sp.|||Insects/Spiders|
+680|Stonefly Family|Chloroperlidae|Animalia|Arthropoda|Hexapoda||Insecta|Plecoptera|Chloroperlidae|||||Insects/Spiders|143748
+681|Dragonfly|Aeshna sp.|Animalia|Arthropoda|Hexapoda||Insecta|Odonata|Aeshnidae|Aeshna|sp.|||Insects/Spiders|12920
+682|Nematode|Chromadorita sp.|Animalia|Nematoda|||Adenophorea|Desmodorida|Chromadoridae|Chromadorita|sp.|||Worms|320054
+683|Caddisfly|Rhyacophila sp.|Animalia|Arthropoda|Hexapoda||Insecta|Trichoptera|Rhyacophilidae|Rhyacophila|sp.|||Insects/Spiders|177632
+684|Caddisfly|Glossosoma sp.|Animalia|Arthropoda|Hexapoda||Insecta|Trichoptera|Glossosomatidae|Glossosoma|sp.|||Insects/Spiders|177619
+685|Caddisfly Family|Philopotamidae|Animalia|Arthropoda|Hexapoda||Insecta|Trichoptera|Philopotamidae|||||Insects/Spiders|93876
+686|Caddisfly|Psychomyia sp.|Animalia|Arthropoda|Hexapoda||Insecta|Trichoptera|Psychomyiidae|Psychomyia|sp.|||Insects/Spiders|177920
+687|Caddisfly|Brachycentrus sp.|Animalia|Arthropoda|Hexapoda||Insecta|Trichoptera|Brachycentridae|Brachycentrus|sp.|||Insects/Spiders|41035
+688|Caddisfly|Psilotreta sp.|Animalia|Arthropoda|Hexapoda||Insecta|Trichoptera|Odontoceridae|Psilotreta|sp.|||Insects/Spiders|177845
+689|Riffle Beetle|Limnius sp.|Animalia|Arthropoda|Hexapoda||Insecta|Coleoptera|Elmidae|Limnius|sp.|||Insects/Spiders|195216
+691|Cranefly|Antocha sp.|Animalia|Arthropoda|Hexapoda||Insecta|Diptera|Tipulidae|Antocha|sp.|||Insects/Spiders|454619
+692|Blackfly Family|Simuliidae|Animalia|Arthropoda|Hexapoda||Insecta|Diptera|Simuliidae|||||Insects/Spiders|7190
+693|Midge|Pentaneura sp.|Animalia|Arthropoda|Hexapoda||Insecta|Diptera|Chironomidae|Pentaneura|sp.|||Insects/Spiders|891922
+694|Nematode|Diplolaimella sp.|Animalia|Nematoda|||Adenophorea|Monhysterida|Monhysteridae|Diplolaimella|sp.|||Worms|327436
+695|Caddisfly|Pycnopsyche sp.|Animalia|Arthropoda|Hexapoda||Insecta|Trichoptera|Limnephilidae|Pycnopsyche|sp.|||Insects/Spiders|50646
+696|Crayfish|Austropotamobius pallipes ssp. pallipes|Animalia|Arthropoda|Crustacea||Malacostraca|Decapoda|Astacidae|Austropotamobius|pallipes|ssp. pallipes||Crustaceans|
+697|Snail|Indoplanorbis exustus|Animalia|Mollusca|||Gastropoda|Cephalaspidea|Bullinidae|Indoplanorbis|exustus|||Molluscs|191797
+698|Toad|Bufo bufo ssp. japonicus|Animalia|Chordata|Vertebrata||Amphibia|Anura|Bufonidae|Bufo|bufo|ssp. japonicus||Amphibians|
+699|Green Algae|Stigeoclonium pachydermum|Plantae|Chlorophyta|||Chlorophyceae|Chaetophorales|Chaetophoraceae|Stigeoclonium|pachydermum|||Algae|
+700|Little Skate|Leucoraja erinacea|Animalia|Chordata|Vertebrata||Chondrichthyes|Rajiformes|Rajidae|Leucoraja|erinacea|||Fish|7782
+701|Speckled Sanddab|Citharichthys stigmaeus|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Pleuronectiformes|Paralichthyidae|Citharichthys|stigmaeus|||FishStandard Test Species|319775
+702|Dobsonfly|Corydalus cornutus|Animalia|Arthropoda|Hexapoda||Insecta|Megaloptera|Corydalidae|Corydalus|cornutus|||Insects/Spiders|559164
+703|Calanoid Copepod|Tortanus forcipatus|Animalia|Arthropoda|Crustacea||Maxillopoda|Calanoida|Tortanidae|Tortanus|forcipatus|||Crustaceans|197020
+704|Salamander|Notophthalmus viridescens|Animalia|Chordata|Vertebrata||Amphibia|Caudata|Salamandridae|Notophthalmus|viridescens|||Amphibians|8316
+705|Mud Snail|Cipangopaludina japonica|Animalia|Mollusca|||Gastropoda|Architaenioglossa|Viviparidae|Cipangopaludina|japonica|||Molluscs|57624
+706|Plankton|Plankton|Community|||||||Plankton||||Miscellaneous|
+707|Gulf Toadfish|Opsanus beta|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Batrachoidiformes|Batrachoididae|Opsanus|beta|||Fish|95145
+708|Spined Loach|Cobitis taenia|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Cypriniformes|Cobitidae|Cobitis|taenia|||Fish|98395
+709|Mosquito|Anopheles albimanus|Animalia|Arthropoda|Hexapoda||Insecta|Diptera|Culicidae|Anopheles|albimanus|||Insects/Spiders|7167
+710|Bay Scallop|Argopecten irradians|Animalia|Mollusca|||Bivalvia|Ostreoida|Pectinidae|Argopecten|irradians|||Molluscs|31199
+711|Scud, Amphipod|Gammarus oceanicus|Animalia|Arthropoda|Crustacea||Malacostraca|Amphipoda|Gammaridae|Gammarus|oceanicus|||Crustaceans|314080
+712|Scud|Gammarus locusta|Animalia|Arthropoda|Crustacea||Malacostraca|Amphipoda|Gammaridae|Gammarus|locusta|||Crustaceans|65426
+713|Catfish|Sperata seenghala|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Siluriformes|Bagridae|Sperata|seenghala|||Fish|209114
+714|Grass Or Atlantic Ditch Shrimp|Palaemonetes varians|Animalia|Arthropoda|Crustacea||Malacostraca|Decapoda|Palaemonidae|Palaemonetes|varians|||Crustaceans|647170
+715|Sunbleak|Leucaspius delineatus|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Cypriniformes|Cyprinidae|Leucaspius|delineatus|||Fish|58323
+716|Spionid Polychaete|Scolelepis fulginosa|Animalia|Annelida|Polychaeta|||Canalipalpata|Spionidae|Scolelepis|fulginosa|||Worms|
+717|Marsh Fly|Sepedon fuscipennis|Animalia|Arthropoda|Hexapoda||Insecta|Diptera|Sciomyzidae|Sepedon|fuscipennis|||Insects/Spiders|320956
+718|Shrimp|Penaeus californiensis|Animalia|Arthropoda|Crustacea||Malacostraca|Decapoda|Penaeidae|Penaeus|californiensis|||Crustaceans|
+719|Pond Snail|Lymnaea emarginata ssp. angulata|Animalia|Mollusca|||Gastropoda|Basommatophora|Lymnaeidae|Lymnaea|emarginata|ssp. angulata||Molluscs|
+720|Mayfly|Ephemerella lata|Animalia|Arthropoda|Hexapoda||Insecta|Ephemeroptera|Ephemerellidae|Ephemerella|lata|||Insects/Spiders|
+721|Calanoid Copepod|Eudiaptomus padanus ssp. padanus|Animalia|Arthropoda|Crustacea||Maxillopoda|Calanoida|Diaptomidae|Eudiaptomus|padanus|ssp. padanus||Crustaceans|
+722|Cyclopoid Copepod|Cyclops abyssorum ssp. prealpinus|Animalia|Arthropoda|Crustacea||Maxillopoda|Cyclopoida|Cyclopidae|Cyclops|abyssorum|ssp. prealpinus||Crustaceans|595358
+723|Mangrove Oyster|Crassostrea rhizophorae|Animalia|Mollusca|||Bivalvia|Ostreoida|Ostreidae|Crassostrea|rhizophorae|||Molluscs|37643
+726|Water Hyacinth|Eichhornia sp.|Plantae|Magnoliophyta|||Liliopsida|Liliales|Pontederiaceae|Eichhornia|sp.|||Flowers, Trees, Shrubs, Ferns|44945
+727|Slender Rasbora|Rasbora daniconius|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Cypriniformes|Cyprinidae|Rasbora|daniconius|||Fish|244133
+728|Ostracod|Cypridopsis sp.|Animalia|Arthropoda|Crustacea||Ostracoda|Podocopa|Cypridopsidae|Cypridopsis|sp.|||Crustaceans|178841
+729|Clam|Corbicula leana|Animalia|Mollusca|||Bivalvia|Veneroida|Corbiculidae|Corbicula|leana|||Molluscs|61343
+730|Pink Shrimp|Palaemon serratus|Animalia|Arthropoda|Crustacea||Malacostraca|Decapoda|Palaemonidae|Palaemon|serratus|||Crustaceans|645159
+731|Shanny|Lipophrys pholis|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Perciformes|Blenniidae|Lipophrys|pholis|||Fish|56720
+732|Rockpool Prawn|Palaemon elegans|Animalia|Arthropoda|Crustacea||Malacostraca|Decapoda|Palaemonidae|Palaemon|elegans|||Crustaceans|338212
+733|Blue Lobster|Homarus vulgaris|Animalia|Arthropoda|Crustacea||Malacostraca|Decapoda|Nephropidae|Homarus|vulgaris|||Crustaceans|
+734|Spinous Spider Crab|Maia squinado|Animalia|Arthropoda|Crustacea||Malacostraca|Decapoda|Majidae|Maia|squinado|||Crustaceans|99391
+735|Opossum Shrimp|Neomysis awatschensis|Animalia|Arthropoda|Crustacea||Malacostraca|Mysida|Mysidae|Neomysis|awatschensis|||Crustaceans|1049545
+736|Chum Salmon|Oncorhynchus keta|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Salmoniformes|Salmonidae|Oncorhynchus|keta|||FishU.S. Threatened and Endangered Species|8018
+737|Coon Stripe Shrimp|Pandalus danae|Animalia|Arthropoda|Crustacea||Malacostraca|Decapoda|Pandalidae|Pandalus|danae|||CrustaceansStandard Test Species|397975
+738|Littleneck Clam|Protothaca staminea|Animalia|Mollusca|||Bivalvia|Veneroida|Veneridae|Protothaca|staminea|||Molluscs|462889
+739|Bent-Nosed Clam|Macoma inquinata|Animalia|Mollusca|||Bivalvia|Veneroida|Tellinidae|Macoma|inquinata|||Molluscs|
+740|Calanoid Copepod|Pseudodiaptomus coronatus|Animalia|Arthropoda|Crustacea||Maxillopoda|Calanoida|Pseudodiaptomidae|Pseudodiaptomus|coronatus|||Crustaceans|163476
+741|Dragonfly|Basiaeschna janata|Animalia|Arthropoda|Hexapoda||Insecta|Odonata|Aeshnidae|Basiaeschna|janata|||Insects/Spiders|1081945
+742|Dragonfly|Libellula sp.|Animalia|Arthropoda|Hexapoda||Insecta|Odonata|Libellulidae|Libellula|sp.|||Insects/Spiders|6965
+743|Comber|Serranus cabrilla|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Perciformes|Serranidae|Serranus|cabrilla|||Fish|94953
+744|Polychaete Worm|Nereis diversicolor|Animalia|Annelida|Polychaeta||Errantia|Aciculata|Nereididae|Nereis|diversicolor|||Worms|126592
+745|Fiddler Crab|Uca pugilator|Animalia|Arthropoda|Crustacea||Malacostraca|Decapoda|Ocypodidae|Uca|pugilator|||Crustaceans|6772
+746|Sea Urchin|Strongylocentrotus nudus|Animalia|Echinodermata|Echinozoa||Echinoidea|Echinoida|Strongylocentrotidae|Strongylocentrotus|nudus|||Invertebrates|
+747|Lugworm, Polychaete Worm|Arenicola marina|Animalia|Annelida|Polychaeta|||Capitellida|Arenicolidae|Arenicola|marina|||Worms|6344
+748|Mysid|Gastrosaccus psammodytes|Animalia|Arthropoda|Crustacea||Malacostraca|Mysida|Mysidae|Gastrosaccus|psammodytes|||Crustaceans|236547
+749|Leaping Grey Mullet|Mugil saliens|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Mugiliformes|Mugilidae|Mugil|saliens|||Fish|48192
+751|Mayfly|Isonychia sp.|Animalia|Arthropoda|Hexapoda||Insecta|Ephemeroptera|Isonychiidae|Isonychia|sp.|||Insects/Spiders|219470
+752|River Horn Snail|Elimia catenaria|Animalia|Mollusca|||Gastropoda|Neotaenioglossa|Pleuroceridae|Elimia|catenaria|||Molluscs|584722
+753|Florida Leopard Frog|Lithobates sphenocephalus ssp. sphenocephalus|Animalia|Chordata|Vertebrata||Amphibia|Anura|Ranidae|Lithobates|sphenocephalus|ssp. sphenocephalus||Amphibians|146672
+754|Fresh-Water Mussel|Popenaias buckleyi|Animalia|Mollusca|||Bivalvia|Unionoida|Unionidae|Popenaias|buckleyi|||Molluscs|
+755|Backswimmer|Buenoa sp.|Animalia|Arthropoda|Hexapoda||Insecta|Heteroptera|Notonectidae|Buenoa|sp.|||Insects/Spiders|50617
+756|Dragonfly|Didymops sp.|Animalia|Arthropoda|Hexapoda||Insecta|Odonata|Corduliidae|Didymops|sp.|||Insects/Spiders|447886
+757|Turbellarian, Flatworm|Dugesia sp.|Animalia|Platyhelminthes|||Turbellaria|Tricladida|Planariidae|Dugesia|sp.|||Worms|6160
+758|Cyclopoid Copepod|Cyclops sp.|Animalia|Arthropoda|Crustacea||Maxillopoda|Cyclopoida|Cyclopidae|Cyclops|sp.|||Crustaceans|263416
+759|Bleak|Alburnus albidus|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Cypriniformes|Cyprinidae|Alburnus|albidus|||Fish|317898
+760|Marsh Fly|Dictya sp.|Animalia|Arthropoda|Hexapoda||Insecta|Diptera|Sciomyzidae|Dictya|sp.|||Insects/Spiders|1096051
+761|Cunner|Tautogolabrus adspersus|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Perciformes|Labridae|Tautogolabrus|adspersus|||Fish|34787
+762|Turbellarian, Flatworm|Phagocata gracilis|Animalia|Platyhelminthes|||Turbellaria|Tricladida|Planariidae|Phagocata|gracilis|||Worms|1354672
+763|Fiddler Crab|Uca pugnax|Animalia|Arthropoda|Crustacea||Malacostraca|Decapoda|Ocypodidae|Uca|pugnax|||Crustaceans|53306
+764|Fowler's Toad|Bufo woodhousei ssp. fowleri|Animalia|Chordata|Vertebrata||Amphibia|Anura|Bufonidae|Bufo|woodhousei|ssp. fowleri||Amphibians|
+765|American Toad|Bufo americanus|Animalia|Chordata|Vertebrata||Amphibia|Anura|Bufonidae|Bufo|americanus|||AmphibiansStandard Test Species|8389
+766|Common Or Round Goby|Neogobius melanostomus|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Perciformes|Gobiidae|Neogobius|melanostomus|||FishU.S. Invasive Species|47308
+767|Babka Goby|Neogobius fluviatilis|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Perciformes|Gobiidae|Neogobius|fluviatilis|||Fish|320562
+768|Jackknife Clam|Ensis minor|Animalia|Mollusca|||Bivalvia|Veneroida|Pharidae|Ensis|minor|||Molluscs|6587
+769|Common Atlantic Abra|Abra aequalis|Animalia|Mollusca|||Bivalvia|Veneroida|Semelidae|Abra|aequalis|||Molluscs|2175524
+770|Milk Moon Shell|Polinices lacteus|Animalia|Mollusca|||Gastropoda|Neotaenioglossa|Naticidae|Polinices|lacteus|||Molluscs|1096455
+771|Barnacle|Balanus improvisus|Animalia|Arthropoda|Crustacea||Maxillopoda|Sessilia|Balanidae|Balanus|improvisus|||Crustaceans|1220549
+772|Scud|Corophium acherusicum|Animalia|Arthropoda|Crustacea||Malacostraca|Amphipoda|Corophiidae|Corophium|acherusicum|||Crustaceans|
+773|Polychaete|Polydora ligni|Animalia|Annelida|Polychaeta|||Canalipalpata|Spionidae|Polydora|ligni|||Worms|
+774|Spionid Polychaete|Spiophanes bombyx|Animalia|Annelida|Polychaeta|||Canalipalpata|Spionidae|Spiophanes|bombyx|||Worms|696728
+775|Proboscis Worm Phylum|Nemertea|Animalia|Nemertea||||||||||Worms|6217
+777|Caddisfly|Diplectrona modesta|Animalia|Arthropoda|Hexapoda||Insecta|Trichoptera|Hydropsychidae|Diplectrona|modesta|||Insects/Spiders|177861
+778|Caddisfly|Pycnopsyche guttifera|Animalia|Arthropoda|Hexapoda||Insecta|Trichoptera|Limnephilidae|Pycnopsyche|guttifera|||Insects/Spiders|761618
+779|Caddisfly|Neophylax concinnus|Animalia|Arthropoda|Hexapoda||Insecta|Trichoptera|Uenoidae|Neophylax|concinnus|||Insects/Spiders|177663
+780|Caddisfly|Brachycentrus occidentalis|Animalia|Arthropoda|Hexapoda||Insecta|Trichoptera|Brachycentridae|Brachycentrus|occidentalis|||Insects/Spiders|1188089
+781|Caddisfly|Micrasema rusticum|Animalia|Arthropoda|Hexapoda||Insecta|Trichoptera|Brachycentridae|Micrasema|rusticum|||Insects/Spiders|763322
+782|Caddisfly|Lepidostoma griseum|Animalia|Arthropoda|Hexapoda||Insecta|Trichoptera|Lepidostomatidae|Lepidostoma|griseum|||Insects/Spiders|763313
+783|Caddisfly|Helicopsyche borealis|Animalia|Arthropoda|Hexapoda||Insecta|Trichoptera|Helicopsychidae|Helicopsyche|borealis|||Insects/Spiders|177803
+784|Japanese Oyster|Ostrea gigas|Animalia|Mollusca|||Bivalvia|Ostreoida|Ostreidae|Ostrea|gigas|||Molluscs|
+785|Stonefly|Perlesta placida|Animalia|Arthropoda|Hexapoda||Insecta|Plecoptera|Perlidae|Perlesta|placida|||Insects/Spiders|
+786|Stonefly|Pteronarcys pictetii|Animalia|Arthropoda|Hexapoda||Insecta|Plecoptera|Pteronarcyidae|Pteronarcys|pictetii|||Insects/Spiders|1485931
+787|Stonefly|Paracapnia angulata|Animalia|Arthropoda|Hexapoda||Insecta|Plecoptera|Capniidae|Paracapnia|angulata|||Insects/Spiders|143701
+788|Stonefly|Nemoura trispinosa|Animalia|Arthropoda|Hexapoda||Insecta|Plecoptera|Nemouridae|Nemoura|trispinosa|||Insects/Spiders|466572
+789|Stonefly|Isoperla signata|Animalia|Arthropoda|Hexapoda||Insecta|Plecoptera|Perlodidae|Isoperla|signata|||Insects/Spiders|910621
+790|Green Algae|Acrosiphonia centralis|Plantae|Chlorophyta|||Chlorophyceae|Acrosiphoniales|Acrosiphoniaceae|Acrosiphonia|centralis|||Algae|
+791|Mayfly|Anthopotamus myops|Animalia|Arthropoda|Hexapoda||Insecta|Ephemeroptera|Potamanthidae|Anthopotamus|myops|||Insects/Spiders|
+792|Mayfly|Heptagenia hebe|Animalia|Arthropoda|Hexapoda||Insecta|Ephemeroptera|Heptageniidae|Heptagenia|hebe|||Insects/Spiders|
+793|Mayfly|Maccaffertium vicarium|Animalia|Arthropoda|Hexapoda||Insecta|Ephemeroptera|Heptageniidae|Maccaffertium|vicarium|||Insects/Spiders|603977
+794|Mayfly|Baetisca lacustris|Animalia|Arthropoda|Hexapoda||Insecta|Ephemeroptera|Baetiscidae|Baetisca|lacustris|||Insects/Spiders|248216
+795|Mayfly|Leptophlebia cupida|Animalia|Arthropoda|Hexapoda||Insecta|Ephemeroptera|Leptophlebiidae|Leptophlebia|cupida|||Insects/Spiders|219488
+796|Mayfly|Ephemerella invaria|Animalia|Arthropoda|Hexapoda||Insecta|Ephemeroptera|Ephemerellidae|Ephemerella|invaria|||Insects/Spiders|219339
+797|Riffle Beetle|Optioservus fastiditus|Animalia|Arthropoda|Hexapoda||Insecta|Coleoptera|Elmidae|Optioservus|fastiditus|||Insects/Spiders|1277695
+798|Beetle|Stenelmis crenata|Animalia|Arthropoda|Hexapoda||Insecta|Coleoptera|Elmidae|Stenelmis|crenata|||Insects/Spiders|994760
+799|Long-Toe Water Beetle|Helichus striatus|Animalia|Arthropoda|Hexapoda||Insecta|Coleoptera|Dryopidae|Helichus|striatus|||Insects/Spiders|
+800|Beetle|Agabus seriatus|Animalia|Arthropoda|Hexapoda||Insecta|Coleoptera|Dytiscidae|Agabus|seriatus|||Insects/Spiders|
+801|Water Penny Beetle|Psephenus herricki|Animalia|Arthropoda|Hexapoda||Insecta|Coleoptera|Psephenidae|Psephenus|herricki|||Insects/Spiders|219455
+802|Dragonfly|Neurocordulia molesta|Animalia|Arthropoda|Hexapoda||Insecta|Odonata|Corduliidae|Neurocordulia|molesta|||Insects/Spiders|
+803|Dragonfly|Gomphus vastus|Animalia|Arthropoda|Hexapoda||Insecta|Odonata|Gomphidae|Gomphus|vastus|||Insects/Spiders|1904501
+804|Damselfly|Argia apicalis|Animalia|Arthropoda|Hexapoda||Insecta|Odonata|Coenagrionidae|Argia|apicalis|||Insects/Spiders|500499
+805|Hellgrammite|Nigronia serricornis|Animalia|Arthropoda|Hexapoda||Insecta|Megaloptera|Corydalidae|Nigronia|serricornis|||Insects/Spiders|307478
+806|Cranefly|Tipula sp.|Animalia|Arthropoda|Hexapoda||Insecta|Diptera|Tipulidae|Tipula|sp.|||Insects/Spiders|41043
+807|Snipefly|Atherix variegata|Animalia|Arthropoda|Hexapoda||Insecta|Diptera|Athericidae|Atherix|variegata|||Insects/Spiders|124300
+808|Oikawa|Zacco platypus|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Cypriniformes|Cyprinidae|Zacco|platypus|||Fish|80810
+809|Bivalve|Glebula rotundata|Animalia|Mollusca|||Bivalvia|Unionoida|Unionidae|Glebula|rotundata|||Molluscs|152244
+810|Dogfish|Scyliorhinus canicula|Animalia|Chordata|Vertebrata||Chondrichthyes|Carcharhiniformes|Scyliorhinidae|Scyliorhinus|canicula|||Fish|7830
+811|Blue Or 3-Spot Gourami|Trichogaster trichopterus|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Perciformes|Osphronemidae|Trichogaster|trichopterus|||Fish|96903
+812|Bullfrog|Rana catesbeiana|Animalia|Chordata|Vertebrata||Amphibia|Anura|Ranidae|Rana|catesbeiana|||AmphibiansStandard Test Species|8400
+813|Crayfish/Crab Order|Decapoda|Animalia|Arthropoda|Crustacea||Malacostraca|Decapoda||||||Crustaceans|6683
+814|Foraminifera|Marginopora vertebralis|Animalia|Protozoa|Sarcodina|Rhizopoda|Granuloreticulosea|Foraminiferida|Soritidae|Marginopora|vertebralis|||Invertebrates|126667
+815|Green Algae|Caulerpa sp.|Plantae|Chlorophyta|||Chlorophyceae|Caulerpales|Caulerpaceae|Caulerpa|sp.|||Algae|76312
+816|Green Algae|Halimeda sp.|Plantae|Chlorophyta|||Chlorophyceae|Caulerpales|Codiaceae|Halimeda|sp.|||Algae|
+817|Warasubo|Odontamblyopus rubicundus|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Perciformes|Gobiidae|Odontamblyopus|rubicundus|||Fish|166754
+819|Sea Squirt|Didemnum ternatanum|Animalia|Chordata|Tunicata||Ascidiacea|Aplousobranchia|Didemnidae|Didemnum|ternatanum|||Invertebrates|
+820|Sea Squirt|Pyura praeputialis|Animalia|Chordata|Tunicata||Ascidiacea|Stolidobranchia|Pyuridae|Pyura|praeputialis|||Invertebrates|388589
+821|Sea Squirt|Polycitor gelatinosa|Animalia|Chordata|Tunicata||Ascidiacea|Aplousobranchia|Clavelinidae|Polycitor|gelatinosa|||Invertebrates|
+822|Sea Squirt, Tunicate|Phallusia depressiuscula|Animalia|Chordata|Tunicata||Ascidiacea|Stolidobranchia|Styelidae|Phallusia|depressiuscula|||Invertebrates|
+823|Rock Oyster|Saccostrea sp.|Animalia|Mollusca|||Bivalvia|Ostreoida|Ostreidae|Saccostrea|sp.|||Molluscs|33508
+824|Clam|Hippopus hippopus|Animalia|Mollusca|||Bivalvia|Veneroida|Tridacnidae|Hippopus|hippopus|||Molluscs|80818
+826|Clam|Tridacna derasa|Animalia|Mollusca|||Bivalvia|Veneroida|Tridacnidae|Tridacna|derasa|||Molluscs|80831
+827|Pearl Oyster|Pinctada margaritifera|Animalia|Mollusca|||Bivalvia|Pterioida|Pteriidae|Pinctada|margaritifera|||Molluscs|102329
+828|Oyster|Ostrea angasi|Animalia|Mollusca|||Bivalvia|Ostreoida|Ostreidae|Ostrea|angasi|||Molluscs|74431
+829|Rock Oyster|Saccostrea glomerata|Animalia|Mollusca|||Bivalvia|Ostreoida|Ostreidae|Saccostrea|glomerata|||Molluscs|157728
+830|Pondweed|Potamogeton coloratus|Plantae|Magnoliophyta|||Liliopsida|Najadales|Potamogetonaceae|Potamogeton|coloratus|||Flowers, Trees, Shrubs, Ferns|934801
+831|Prickly Scallop|Chlamys asperrimus|Animalia|Mollusca|||Bivalvia|Ostreoida|Pectinidae|Chlamys|asperrimus|||Molluscs|
+832|Mussel|Mytilus sp.|Animalia|Mollusca|||Bivalvia|Mytiloida|Mytilidae|Mytilus|sp.|||Molluscs|61855
+833|Polychaete|Nephtys cirrosa|Animalia|Annelida|Polychaeta||Errantia|Aciculata|Nephtyidae|Nephtys|cirrosa|||Worms|714606
+834|Polychaete|Nephtys hombergi|Animalia|Annelida|Polychaeta||Errantia|Aciculata|Nephtyidae|Nephtys|hombergi|||Worms|
+835|Polychaete|Pectinaria koreni|Animalia|Annelida|Polychaeta|||Canalipalpata|Pectinariidae|Pectinaria|koreni|||Worms|363721
+836|Water Flea|Daphnia cucullata|Animalia|Arthropoda|Crustacea||Branchiopoda|Diplostraca|Daphniidae|Daphnia|cucullata|||Crustaceans|42851
+837|Stone Crab|Menippe mercenaria|Animalia|Arthropoda|Crustacea||Malacostraca|Decapoda|Menippidae|Menippe|mercenaria|||Crustaceans|6781
+838|Cryptomonad|Rhodomonas sp.|Plantae|Cryptophycophyta|||Cryptophyceae|Cryptomonadales|Cryptomonadaceae|Rhodomonas|sp.|||Algae|77929
+839|Bass|Micropterus sp.|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Perciformes|Centrarchidae|Micropterus|sp.|||Fish|27705
+840|Spionid Polychaete|Scolelepis squamata|Animalia|Annelida|Polychaeta|||Canalipalpata|Spionidae|Scolelepis|squamata|||Worms|95536
+841|Polychaete|Owenia fusiformis|Animalia|Annelida|Polychaeta|||Canalipalpata|Oweniidae|Owenia|fusiformis|||Worms|6347
+842|Mosquito|Anopheles freeborni|Animalia|Arthropoda|Hexapoda||Insecta|Diptera|Culicidae|Anopheles|freeborni|||Insects/Spiders|7170
+843|Beetle|Tropisternus lateralis|Animalia|Arthropoda|Hexapoda||Insecta|Coleoptera|Hydrophilidae|Tropisternus|lateralis|||Insects/Spiders|1397809
+844|Giant Water Bug|Belostoma sp.|Animalia|Arthropoda|Hexapoda||Insecta|Heteroptera|Belostomatidae|Belostoma|sp.|||Insects/Spiders|107883
+845|Beetle|Hygrotus sp.|Animalia|Arthropoda|Hexapoda||Insecta|Coleoptera|Dytiscidae|Hygrotus|sp.|||Insects/Spiders|
+846|Beetle|Hydrophilus triangularis|Animalia|Arthropoda|Hexapoda||Insecta|Coleoptera|Hydrophilidae|Hydrophilus|triangularis|||Insects/Spiders|1542160
+847|Predaceous Beetle|Thermonectus basillaris|Animalia|Arthropoda|Hexapoda||Insecta|Coleoptera|Dytiscidae|Thermonectus|basillaris|||Insects/Spiders|376833
+848|Beetle|Laccophilus maculosus ssp. maculosus|Animalia|Arthropoda|Hexapoda||Insecta|Coleoptera|Dytiscidae|Laccophilus|maculosus|ssp. maculosus||Insects/Spiders|183374
+849|Beetle|Berosus styliferus|Animalia|Arthropoda|Hexapoda||Insecta|Coleoptera|Hydrophilidae|Berosus|styliferus|||Insects/Spiders|
+850|Yellow Bass|Morone mississippiensis|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Perciformes|Moronidae|Morone|mississippiensis|||Fish|46261
+851|Aquatic Sowbug|Idotea balthica ssp. basteri|Animalia|Arthropoda|Crustacea||Malacostraca|Isopoda|Idoteidae|Idotea|balthica|ssp. basteri||Crustaceans|
+852|Two Spot African Barb|Barbus dorsalis|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Cypriniformes|Cyprinidae|Barbus|dorsalis|||Fish|
+853|Lugworm|Arenicola cristata|Animalia|Annelida|Polychaeta|||Capitellida|Arenicolidae|Arenicola|cristata|||Worms|273048
+854|Marsh Killifish|Fundulus confluentus|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Cyprinodontiformes|Cyprinodontidae|Fundulus|confluentus|||Fish|151022
+856|Prasinophyte|Tetraselmis suecica|Plantae|Chlorophyta|||Chlorodendrophyceae|Chlorodendrales|Chlorodendraceae|Tetraselmis|suecica|||Algae|270643
+857|Water Bug|Sigara dorsalis|Animalia|Arthropoda|Hexapoda||Insecta|Heteroptera|Corixidae|Sigara|dorsalis|||Insects/Spiders|1983464
+858|Water Boatman|Corixa punctata|Animalia|Arthropoda|Hexapoda||Insecta|Heteroptera|Corixidae|Corixa|punctata|||Insects/Spiders|1545103
+859|Mayfly|Ephemerella walkeri|Animalia|Arthropoda|Hexapoda||Insecta|Ephemeroptera|Ephemerellidae|Ephemerella|walkeri|||Insects/Spiders|
+860|Fish|Labeo bata|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Cypriniformes|Cyprinidae|Labeo|bata|||Fish|295399
+861|Cyclopoid Copepod|Thermocyclops crassus|Animalia|Arthropoda|Crustacea||Maxillopoda|Cyclopoida|Cyclopidae|Thermocyclops|crassus|||Crustaceans|669472
+862|Sea Urchin, Echinoderm|Paracentrotus lividus|Animalia|Echinodermata|Echinozoa||Echinoidea|Echinoida|Echinidae|Paracentrotus|lividus|||InvertebratesStandard Test Species|7656
+864|Freshwater Prawn|Caridina rajadhari|Animalia|Arthropoda|Crustacea||Malacostraca|Decapoda|Atyidae|Caridina|rajadhari|||Crustaceans|
+865|Nematode|Chromadora nudicapitata|Animalia|Nematoda|||Adenophorea|Desmodorida|Chromadoridae|Chromadora|nudicapitata|||Worms|129854
+866|Paddlefish|Polyodon spathula|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Acipenseriformes|Polyodontidae|Polyodon|spathula|||Fish|7913
+867|Green Fish|Girella punctata|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Perciformes|Kyphosidae|Girella|punctata|||Fish|163149
+868|Anchovy|Engraulis encrasicolus|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Clupeiformes|Engraulidae|Engraulis|encrasicolus|||Fish|184585
+869|Oligochaete Family|Tubificidae|Animalia|Annelida|||Oligochaeta|Haplotaxida|Tubificidae|||||Worms|41692
+870|Carp|Carassius sp.|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Cypriniformes|Cyprinidae|Carassius|sp.|||Fish|7956
+871|Rotifer|Asplanchna girodi|Animalia|Rotifera|||Monogononta|Ploima|Asplanchnidae|Asplanchna|girodi|||Invertebrates|
+872|Ciliate|Euplotes vannus|Animalia|Ciliophora|||Ciliatea|Hypotrichida|Euplotidae|Euplotes|vannus|||Invertebrates|5939
+873|Blackfly|Simulium ornatipes|Animalia|Arthropoda|Hexapoda||Insecta|Diptera|Simuliidae|Simulium|ornatipes|||Insects/Spiders|
+874|Ostracod|Cypretta kawatai|Animalia|Arthropoda|Crustacea||Ostracoda|Podocopida|Cyprididae|Cypretta|kawatai|||Crustaceans|
+875|Echinoderm|Sphaerechinus granularis|Animalia|Echinodermata|Echinozoa||Echinoidea|Temnopleuroida|Toxopneustidae|Sphaerechinus|granularis|||Invertebrates|39374
+876|Bryozoa|Pectinatella magnifica|Animalia|Bryozoa|||Phylactolaemata|Plumatellida|Pectinatellidae|Pectinatella|magnifica|||Invertebrates|350071
+877|Bryozoan|Plumatella emarginata|Animalia|Bryozoa|||Phylactolaemata|Plumatellida|Plumatellidae|Plumatella|emarginata|||Invertebrates|56620
+878|Floating Fern|Ceratopteris thalictroides|Plantae|Polypodiophyta|||Filicopsida|Salviniales|Salviniaceae|Ceratopteris|thalictroides|||Flowers, Trees, Shrubs, Ferns|29596
+879|Mollusk Phylum|Mollusca|Animalia|Mollusca||||||||||Molluscs|6447
+880|Arthropod Phylum|Arthropoda|Animalia|Arthropoda||||||||||Invertebrates|6656
+881|Polychaete|Haploscoloplos foliosus|Animalia|Annelida|Polychaeta||Sedentaria|Scolecida|Orbiniidae|Haploscoloplos|foliosus|||Worms|8254
+882|Atlantic Croaker|Micropogonias undulatus|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Perciformes|Sciaenidae|Micropogonias|undulatus|||Fish|29154
+883|Gulf Menhaden|Brevoortia patronus|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Clupeiformes|Clupeidae|Brevoortia|patronus|||Fish|224707
+884|Flounder|Paralichthys sp.|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Pleuronectiformes|Bothidae|Paralichthys|sp.|||Fish|
+885|Shortjaw Cisco|Coregonus zenithicus|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Salmoniformes|Salmonidae|Coregonus|zenithicus|||Fish|56554
+886|Polychaete Worm|Capitella capitata|Animalia|Annelida|Polychaeta||Sedentaria|Scolecida|Capitellidae|Capitella|capitata|||WormsStandard Test Species|51294
+887|Freshwater Crab|Barytelphusa guerini|Animalia|Arthropoda|Crustacea||Malacostraca|Decapoda|Potamidae|Barytelphusa|guerini|||Crustaceans|2116170
+888|Russian Sturgeon|Acipenser gueldenstaedtii|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Acipenseriformes|Acipenseridae|Acipenser|gueldenstaedtii|||Fish|7902
+889|Sevruga, Stellate Sturgeon|Acipenser stellatus|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Acipenseriformes|Acipenseridae|Acipenser|stellatus|||Fish|7903
+890|Ship Sturgeon|Acipenser nudiventris|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Acipenseriformes|Acipenseridae|Acipenser|nudiventris|||Fish|61967
+891|Iowa Darter|Etheostoma exile|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Perciformes|Percidae|Etheostoma|exile|||Fish|54329
+892|Yellow Bullhead|Ameiurus natalis|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Siluriformes|Ictaluridae|Ameiurus|natalis|||Fish|66912
+893|Tiger Salamander|Ambystoma tigrinum|Animalia|Chordata|Vertebrata||Amphibia|Caudata|Ambystomatidae|Ambystoma|tigrinum|||Amphibians|8305
+894|Pacific Herring|Clupea pallasii|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Clupeiformes|Clupeidae|Clupea|pallasii|||Fish|30724
+895|Horse Clam|Tresus capax|Animalia|Mollusca|||Bivalvia|Veneroida|Mactridae|Tresus|capax|||Molluscs|31208
+896|Crayfish|Cambarus sp.|Animalia|Arthropoda|Crustacea||Malacostraca|Decapoda|Cambaridae|Cambarus|sp.|||CrustaceansStandard Test Species|
+897|Ciliate|Vorticella nebulifera|Animalia|Ciliophora|||Ciliatea|Peritrichida|Vorticellidae|Vorticella|nebulifera|||Invertebrates|
+898|Marsh Snail|Semisulcospira libertina|Animalia|Mollusca|||Gastropoda|Neotaenioglossa|Pleuroceridae|Semisulcospira|libertina|||Molluscs|145882
+899|European Physa|Physella acuta|Animalia|Mollusca|||Gastropoda|Basommatophora|Physidae|Physella|acuta|||Molluscs|109671
+900|Ruffe|Gymnocephalus cernuus|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Perciformes|Percidae|Gymnocephalus|cernuus|||FishU.S. Invasive Species|57865
+901|Water Flea|Moina macrocopa|Animalia|Arthropoda|Crustacea||Branchiopoda|Cladocera|Moinidae|Moina|macrocopa|||Crustaceans|150844
+902|Ostracod|Cypria ophthalmica|Animalia|Arthropoda|Crustacea||Ostracoda|Podocopida|Cyprididae|Cypria|ophthalmica|||Crustaceans|1822467
+903|Snail|Marisa cornuarietis|Animalia|Mollusca|||Gastropoda|Architaenioglossa|Ampullariidae|Marisa|cornuarietis|||Molluscs|75126
+904|Frog|Rana temporaria|Animalia|Chordata|Vertebrata||Amphibia|Anura|Ranidae|Rana|temporaria|||Amphibians|8407
+905|Ramshorn Snail|Planorbis corneus|Animalia|Mollusca|||Gastropoda|Basommatophora|Planorbidae|Planorbis|corneus|||Molluscs|240818
+906|Diatom|Amphora coffeaeformis|Chromista|Bacillariophyta|||Bacillariophyceae|Thalassiophysales|Catenulaceae|Amphora|coffeaeformis|||Algae|265554
+907|Big Cordgrass|Spartina cynosuroides|Plantae|Magnoliophyta|||Magnoliopsida|Poales|Poaceae|Spartina|cynosuroides|||Flowers, Trees, Shrubs, Ferns|180097
+908|Crab|Portunus sp.|Animalia|Arthropoda|Crustacea||Malacostraca|Decapoda|Portunidae|Portunus|sp.|||Crustaceans|80835
+909|Waterweed|Elodea canadensis|Plantae|Magnoliophyta|||Liliopsida|Hydrocharitales|Hydrocharitaceae|Elodea|canadensis|||Flowers, Trees, Shrubs, FernsU.S. Invasive Species|100364
+910|Pondweed|Potamogeton illinoensis|Plantae|Magnoliophyta|||Liliopsida|Najadales|Potamogetonaceae|Potamogeton|illinoensis|||Flowers, Trees, Shrubs, Ferns|397070
+911|Pondweed|Groenlandia densa|Plantae|Magnoliophyta|||Liliopsida|Najadales|Potamogetonaceae|Groenlandia|densa|||Flowers, Trees, Shrubs, Ferns|55457
+912|Stonefly|Acroneuria sp.|Animalia|Arthropoda|Hexapoda||Insecta|Plecoptera|Perlidae|Acroneuria|sp.|||Insects/Spiders|466807
+913|Stonefly|Skwala sp.|Animalia|Arthropoda|Hexapoda||Insecta|Plecoptera|Perlodidae|Skwala|sp.|||Insects/Spiders|107922
+914|Green Algae|Prototheca zopfii|Plantae|Chlorophyta|||Chlorophyceae|Chlorococcales|Oocystaceae|Prototheca|zopfii|||Algae|3112
+915|Shortfin Molly|Poecilia mexicana|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Cyprinodontiformes|Poeciliidae|Poecilia|mexicana|||Fish|48701
+917|Beetle|Peltodytes sp.|Animalia|Arthropoda|Hexapoda||Insecta|Coleoptera|Haliplidae|Peltodytes|sp.|||Insects/Spiders|107922
+918|Backswimmer|Notonecta undulata|Animalia|Arthropoda|Hexapoda||Insecta|Heteroptera|Notonectidae|Notonecta|undulata|||Insects/Spiders|881685
+919|Damselfly|Lestes congener|Animalia|Arthropoda|Hexapoda||Insecta|Zygoptera|Lestidae|Lestes|congener|||Insects/Spiders|273679
+920|Nematode|Diplolaimelloides sp.|Animalia|Nematoda|||Adenophorea|Monhysterida|Monhysteridae|Diplolaimelloides|sp.|||Worms|70220
+921|Harpacticoid Copepod|Microlaophonte trisetosa|Animalia|Arthropoda|Crustacea||Maxillopoda|Harpacticoida|Laophontidae|Microlaophonte|trisetosa|||Crustaceans|236412
+922|Yellowtail|Seriola quinqueradiata|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Perciformes|Carangidae|Seriola|quinqueradiata|||Fish|8161
+923|Backswimmer|Notonecta sp.|Animalia|Arthropoda|Hexapoda||Insecta|Heteroptera|Notonectidae|Notonecta|sp.|||Insects/Spiders|45948
+924|Clam|Corbicula sp.|Animalia|Mollusca|||Bivalvia|Veneroida|Corbiculidae|Corbicula|sp.|||Molluscs|45948
+925|Whitefish|Coregonus fera|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Salmoniformes|Salmonidae|Coregonus|fera|||Fish|
+926|River Limpet|Ancylus fluviatilis|Animalia|Mollusca|||Gastropoda|Basommatophora|Ancylidae|Ancylus|fluviatilis|||Molluscs|153587
+927|Oligochaete|Nais variabilis|Animalia|Annelida|||Oligochaeta|Haplotaxida|Naididae|Nais|variabilis|||Worms|212334
+928|Midge|Cricotopus trifasciatus|Animalia|Arthropoda|Hexapoda||Insecta|Diptera|Chironomidae|Cricotopus|trifasciatus|||Insects/Spiders|1042861
+929|Caddisfly|Hydroptila angusta|Animalia|Arthropoda|Hexapoda||Insecta|Trichoptera|Hydroptilidae|Hydroptila|angusta|||Insects/Spiders|1771389
+930|Dinoflagellate|Amphidinium klebsii|Chromista|Pyrrophycophyta|||Dinophyceae|Gymnodiniales|Gymnodiniaceae|Amphidinium|klebsii|||Algae|142105
+931|Dinoflagellate|Gymnodinium microadriaticum|Chromista|Pyrrophycophyta|||Dinophyceae|Gymnodiniales|Gymnodiniaceae|Gymnodinium|microadriaticum|||Algae|
+932|Aquatic Sowbug|Asellus hilgendorfii|Animalia|Arthropoda|Crustacea||Malacostraca|Isopoda|Asellidae|Asellus|hilgendorfii|||Crustaceans|272817
+933|Diatom|Navicula gracilis|Chromista|Bacillariophyta|||Bacillariophyceae|Pennales|Naviculaceae|Navicula|gracilis|||Algae|
+934|Blue-Green Algae|Anacystis cyanea|Monera|Cyanophycota|||Cyanophyceae|Chroococcales|Chroococcaceae|Anacystis|cyanea|||Algae|31269
+935|Caddisfly|Stenopsyche griseipennis|Animalia|Arthropoda|Hexapoda||Insecta|Trichoptera|Stenopsychidae|Stenopsyche|griseipennis|||Insects/Spiders|1876104
+936|Turbellarian|Macrostomum sp.|Animalia|Platyhelminthes|||Turbellaria|Macrostomida|Macrostomidae|Macrostomum|sp.|||Worms|39217
+937|Turbellarian|Convoluta sp.|Animalia|Platyhelminthes|||Turbellaria|Acoela|Convolutidae|Convoluta|sp.|||Worms|31269
+938|Turbellarian|Archiloa wilsoni|Animalia|Platyhelminthes|||Turbellaria|Proseriata|Monocelididae|Archiloa|wilsoni|||Worms|1525059
+939|Turbellarian|Prognathorhynchus sp.|Animalia|Platyhelminthes|||Turbellaria|Rhabdocoela|Gnathorhynchidae|Prognathorhynchus|sp.|||Worms|1525059
+940|Turbellarian|Solenofilomorpha funilis|Animalia|Platyhelminthes|||Turbellaria|||Solenofilomorpha|funilis|||Worms|
+941|Turbellarian|Adenorhynchus sp.|Animalia|Platyhelminthes|||Turbellaria|Rhabdocoela|Promesostomidae|Adenorhynchus|sp.|||Worms|
+942|Turbellarian|Archimonotresis sp.|Animalia|Platyhelminthes|||Turbellaria|Prolecithophora|Protomonotresidae|Archimonotresis|sp.|||Worms|
+943|Turbellarian|Myopea crassula|Animalia|Platyhelminthes|||Turbellaria|Acoela|Solenofilomorphidae|Myopea|crassula|||Worms|
+944|Turbellarian|Parahaploposthia thiophilus|Animalia|Platyhelminthes|||Turbellaria|Acoela|Haploposthiidae|Parahaploposthia|thiophilus|||Worms|
+945|Turbellarian Order|Proseriata|Animalia|Platyhelminthes|||Turbellaria|Proseriata||||||Worms|39226
+946|Green Algae|Ankistrodesmus braunii|Plantae|Chlorophyta|||Chlorophyceae|Chlorococcales|Oocystaceae|Ankistrodesmus|braunii|||Algae|233119
+947|Leech|Glossiphonia complanata|Animalia|Annelida|||Clitellata|Rhynchobdellida|Glossiphoniidae|Glossiphonia|complanata|||Worms|60927
+948|Leech|Helobdella stagnalis|Animalia|Annelida|||Clitellata|Rhynchobdellida|Glossiphoniidae|Helobdella|stagnalis|||Worms|34588
+949|Midge|Prodiamesa olivacea|Animalia|Arthropoda|Hexapoda||Insecta|Diptera|Chironomidae|Prodiamesa|olivacea|||Insects/Spiders|288840
+950|Ocean Quahog|Arctica islandica|Animalia|Mollusca|||Bivalvia|Veneroida|Arcticidae|Arctica|islandica|||Molluscs|59239
+951|Gastrotrich|Neodasys sp.|Animalia|Gastrotricha||||Chaetonotida|Neodasyidae|Neodasys|sp.|||Invertebrates|233119
+952|Gastrotrich|Macrodasys sp.|Animalia|Gastrotricha||||Macrodasyida|Macrodasyidae|Macrodasys|sp.|||Invertebrates|241703
+953|Gastrotrich|Turbanella mustela|Animalia|Gastrotricha||||Macrodasyida|Turbanellidae|Turbanella|mustela|||Invertebrates|1052003
+954|Gastrotrich|Dolichodasys carolinensis|Animalia|Gastrotricha||||Macrodasyida|Lepidodasyidae|Dolichodasys|carolinensis|||Invertebrates|
+955|Gnasthostomulid|Gnathostomula tuckeri|Animalia|Gnathostomulida||||Bursovaginoidea|Gnathostomulidae|Gnathostomula|tuckeri|||Invertebrates|
+956|Gnathostomulid|Gnathostomula microstyla|Animalia|Gnathostomulida||||Bursovaginoidea|Gnathostomulidae|Gnathostomula|microstyla|||Invertebrates|
+957|Gnathostomulid Turbellarian|Labidognathia longicolis|Animalia|Gnathostomulida||||Bursovaginoidea|Mesognathariidae|Labidognathia|longicolis|||Invertebrates|
+958|Gnathostomulid|Austrognathia christianae|Animalia|Gnathostomulida||||Bursovaginoidea|Austrognathiidae|Austrognathia|christianae|||Invertebrates|338289
+959|Nematode|Eubostrichus dianeae|Animalia|Nematoda|||Adenophorea|Desmodorida|Desmodoridae|Eubostrichus|dianeae|||Worms|1348164
+960|Buttercup|Ranunculus penicillatus|Plantae|Magnoliophyta|||Magnoliopsida|Ranunculales|Ranunculaceae|Ranunculus|penicillatus|||Flowers, Trees, Shrubs, Ferns|286966
+961|Water-Milfoil|Myriophyllum alterniflorum|Plantae|Magnoliophyta|||Magnoliopsida|Haloragales|Haloragaceae|Myriophyllum|alterniflorum|||Flowers, Trees, Shrubs, Ferns|434553
+962|Green Algae|Chlorella fusca|Plantae|Chlorophyta|||Chlorophyceae|Chlorococcales|Oocystaceae|Chlorella|fusca|||Algae|
+963|Water Flea|Ceriodaphnia reticulata|Animalia|Arthropoda|Crustacea||Branchiopoda|Diplostraca|Daphniidae|Ceriodaphnia|reticulata|||Crustaceans|302197
+964|Midge|Chironomus riparius|Animalia|Arthropoda|Hexapoda||Insecta|Diptera|Chironomidae|Chironomus|riparius|||Insects/SpidersStandard Test Species|315576
+965|White Catfish|Ameiurus catus|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Siluriformes|Ictaluridae|Ameiurus|catus|||Fish|66911
+966|Northern Puffer|Sphoeroides maculatus|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Tetraodontiformes|Tetraodontidae|Sphoeroides|maculatus|||Fish|482916
+967|Bigmouth Buffalo|Ictiobus cyprinellus|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Cypriniformes|Catostomidae|Ictiobus|cyprinellus|||Fish|143398
+968|Shortnose Gar|Lepisosteus platostomus|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Semionotiformes|Lepisosteidae|Lepisosteus|platostomus|||Fish|572540
+969|Flathead Catfish|Pylodictis olivaris|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Siluriformes|Ictaluridae|Pylodictis|olivaris|||FishU.S. Invasive Species|75288
+970|Marbled Salamander|Ambystoma opacum|Animalia|Chordata|Vertebrata||Amphibia|Caudata|Ambystomatidae|Ambystoma|opacum|||Amphibians|43115
+971|Spotted Salamander|Ambystoma maculatum|Animalia|Chordata|Vertebrata||Amphibia|Caudata|Ambystomatidae|Ambystoma|maculatum|||Amphibians|43114
+973|Water Flea|Simocephalus vetulus|Animalia|Arthropoda|Crustacea||Branchiopoda|Diplostraca|Daphniidae|Simocephalus|vetulus|||Crustaceans|77651
+974|Insect Class|Insecta|Animalia|Arthropoda|Hexapoda||Insecta|||||||Insects/Spiders|50557
+975|Annelid Worm Class|Oligochaeta|Animalia|Annelida|||Oligochaeta|||||||Worms|6381
+977|Calico Clam|Callista maculata|Animalia|Mollusca|||Bivalvia|Veneroida|Veneridae|Callista|maculata|||Molluscs|
+978|Parrot Feather Watermilfoil|Myriophyllum aquaticum|Plantae|Magnoliophyta|||Magnoliopsida|Haloragales|Haloragaceae|Myriophyllum|aquaticum|||Flowers, Trees, Shrubs, FernsU.S. Invasive Species|208863
+979|Blue-Green Algae|Anabaena cylindrica|Monera|Cyanophycota|||Cyanophyceae|Nostocales|Nostocaceae|Anabaena|cylindrica|||Algae|1165
+980|Green Algae|Chlamydomonas nivalis|Plantae|Chlorophyta|||Chlorophyceae|Volvocales|Chlamydomonadaceae|Chlamydomonas|nivalis|||Algae|47906
+981|Green Algae|Scenedesmus acuminatus|Plantae|Chlorophyta|||Chlorophyceae|Chlorococcales|Scenedesmaceae|Scenedesmus|acuminatus|||Algae|91191
+983|Harpacticoid Copepod|Tigriopus californicus|Animalia|Arthropoda|Crustacea||Maxillopoda|Harpacticoida|Harpacticidae|Tigriopus|californicus|||CrustaceansStandard Test Species|6832
+984|Yellow Cowlily|Nuphar sp.|Plantae|Magnoliophyta|||Magnoliopsida|Nymphaeales|Nymphaeaceae|Nuphar|sp.|||Flowers, Trees, Shrubs, Ferns|4415
+985|Fresh-Water Mussel|Anodonta sp.|Animalia|Mollusca|||Bivalvia|Unionoida|Unionidae|Anodonta|sp.|||Molluscs|52363
+986|Diatom|Amphiprora sp.|Chromista|Bacillariophyta|||Bacillariophyceae|Pennales|Naviculaceae|Amphiprora|sp.|||Algae|3052
+987|Conger Eel|Conger conger|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Anguilliformes|Congridae|Conger|conger|||Fish|82655
+988|Large Whelk|Buccinum undatum|Animalia|Mollusca|||Gastropoda|Neogastropoda|Buccinidae|Buccinum|undatum|||Molluscs|37541
+989|Horse Mussel|Modiolus modiolus|Animalia|Mollusca|||Bivalvia|Mytiloida|Mytilidae|Modiolus|modiolus|||Molluscs|40256
+990|Great Scallop|Pecten maximus|Animalia|Mollusca|||Bivalvia|Ostreoida|Pectinidae|Pecten|maximus|||Molluscs|6579
+991|Coalfish Or Saithe|Pollachius virens|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Gadiformes|Gadidae|Pollachius|virens|||Fish|8060
+992|Bib|Trisopterus luscus|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Gadiformes|Gadidae|Trisopterus|luscus|||Fish|27722
+993|Sponge|Geodia cydonium|Animalia|Porifera|||Demospongiae|Choristida|Geodiidae|Geodia|cydonium|||Invertebrates|6047
+994|Shrimp|Metapenaeopsis barbata|Animalia|Arthropoda|Crustacea||Malacostraca|Decapoda|Penaeidae|Metapenaeopsis|barbata|||Crustaceans|84688
+995|Green Sea Urchin|Strongylocentrotus droebachiensis|Animalia|Echinodermata|Echinozoa||Echinoidea|Echinoida|Strongylocentrotidae|Strongylocentrotus|droebachiensis|||InvertebratesStandard Test Species|7671
+996|Barnacle|Balanus sp.|Animalia|Arthropoda|Crustacea||Maxillopoda|Sessilia|Balanidae|Balanus|sp.|||Crustaceans|6677
+997|Oriental Weatherfish|Misgurnus anguillicaudatus|Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Cypriniformes|Cobitidae|Misgurnus|anguillicaudatus|||Fish|75329
+998|Stonefly Family|Perlidae|Animalia|Arthropoda|Hexapoda||Insecta|Plecoptera|Perlidae|||||Insects/Spiders|
+999|Cranefly Family|Tipulidae|Animalia|Arthropoda|Hexapoda||Insecta|Diptera|Tipulidae|||||Insects/Spiders|41042
+1000|Green Algae|Chlamydomonas sp.|Plantae|Chlorophyta|||Chlorophyceae|Volvocales|Chlamydomonadaceae|Chlamydomonas|sp.|||Algae|3052

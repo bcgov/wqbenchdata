@@ -1,0 +1,7 @@
+code|description
+--|Unspecified
+B|Both
+F|Female
+M|Male
+NC|Not coded
+NR|Not reported

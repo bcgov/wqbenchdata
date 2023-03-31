@@ -1,0 +1,89 @@
+code|description
+--|Unspecified
+AE|Acid equivalent
+AI|Active ingredient
+AQ|Aqueous solution
+ARST|Analytical reference standard
+AS|Aqueous suspension
+ASL|Aerosol
+BT|Bait
+C|Commercial
+CES|Capsule suspension
+CG|Concentrate granules
+CL|Clinical
+CO|Concentrate
+COL|Colloidal suspension
+CP|Chemically pure
+CR|Controlled release
+CRY|Crystal
+D|Dust
+DC|Detached crystals
+DG|Dispersable granule (also known as dry flowable)
+DP|Dispersable powder
+DSC|Dispersible concentrate
+E|Emulsion
+EC|Emulsifiable concentrate
+EF|Emulsifiable formulation
+EG|Emulsified granular
+EN|Encapsulated
+ES|Emulsifiable solution, agent
+FF|Flowable formulation
+FFO|Field formulated
+FG|Finely ground
+FO|Formulated
+FS|Flowable concentrate for seed treatment
+G|Granule, granular
+GL|Gel
+GS|Gaseous
+GU|Guaranteed
+HG|Heavy granular
+LD|Liquid
+LDCO|Liquid concentrate
+LFR|Liquid Fertilizer Ready
+LIB*|LIB-UNKNOWN FORM
+ME|Microemulsion
+MO|Miscible oil
+N|Nanograde
+NC|Not coded
+NF|Nonionized form
+NR|Not reported
+NSD*|NSD-UNKNOWN FORM
+OCO|Oil concentrate
+OD|Oil dispersion
+OS|Oil soluble
+PEL|Pellet
+PF|Purified
+PO|Powder
+PRE|Prepared in lab
+PU|Pure
+RC|Recrystallized
+RF|Registered formulation
+RST|Reference standard
+S|Solution
+SC|Suspension concentrate (also known as Flowable concentrate)
+SD|Solid
+SE|Suspoemulsion
+SF|Sand formulated
+SG|Soluble granule
+SO|Soluble concentrate
+SP|Soluble powder
+SPCO|Spray concentrate
+SPL|Spray liquid
+SPO|Spray powder
+SRF|Slow release formulation
+ST|Standard
+SUR*|SUR-UNKNOWN FORM
+TB|Tablet
+TC|Technical product
+ULV|Ultra-low volume, also ultra-low volume concentrate or liquid
+V/V|Volume per volume
+W/V|Weight per volume
+W/W|Weight per weight
+WG|Water Dispersible Granule (also known as wettable granule)
+WMC|Water miscible concentrate
+WP|Wettable Powder or Water Dispersible Powder
+WS|Water soluble
+WSC|Water soluble concentrate
+WSP|Water soluble powder
+WSS|Wettable solid
+ZC|A mixed formulation of capsule suspension and suspension concentrate.

@@ -1,0 +1,56 @@
+code|description
+--|Unspecified
+ABC|Analytical BioChemistry Laboratories, Inc. Protocol
+ABNT|Brazilian National Standards Organization
+AFNOR|French Association for Standardization
+AFNORISO|AFNOR and ISO methods
+AFNOROECD|AFNOR and OECD methods
+ASISOEEP|ASTM, ISO, OECD, and USEPA methods
+ASTM|American Society for Testing and Materials
+ASTMOECD|ASTM and OECD methods
+BSI|British Standard
+CCME|Canadian Council of Ministers of the Environment
+CEN|European Committee for Standardization
+CETESB|Technology Centre for Environment Conservation
+ECAN|Environment Canada
+EEC|European Economic Community
+ENSC|Enseco Incorporated Environmental Testing Laboratory
+EPAASTM|USEPA and ASTM methods
+EPAECCE|USEPA, ECAN, and CETESB methods
+EPAOECD|USEPA and OECD methods
+EPAOM|USEPA and Other Methods
+EPASTD|USEPA and STDMETH methods
+EPPO|European and Mediterranean Plant Protection Organization
+FAO|Food and Agriculture Organization of the United Nations
+GLP|Good Laboratory Practices
+GLPUK|Department of Health's United Kingdom Compliance Programme good laboratory practice
+IOBC|International Organisation for Biological Control of noxious animals and plants
+IRAC|Insecticide Resistance Action Committee
+IRSA|Water Research Institute
+ISEPOE|ISO, USEPA, and OECD methods
+ISO|International Standard Organisation
+ISOOECD|ISO and OECD methods
+ISOOECDCCME|ISO, OECD, and CCME methods
+ISTA|International Seed Testing Association
+MFE|New Zealand Minister for the Environment
+MON|Monsanto Method for Conducting 96-h Algal Toxicity Tests with Selenastrum capricornutum
+NC|Not coded
+NR|Not reported
+OECD|Organization for Economic Cooperation and Development
+OECDMFE|OECD and MFE methods
+OEEPAS|OECD, USEPA and ASTM methods
+OM|Other Method
+OPPTS|Office of Prevention, Pesticides and Toxic Substances Harmonized Test Guidelines
+SS|Swedish Standard
+STDASTM|STDMETH and ASTM methods
+STDASTMABNT|STDMETH, ASTM, and ABNT methods
+STDASTUS|STDMETH, ASTM, and USEPA methods 
+STDMETH|Standard Methods for the Examination of Water and Wastewater
+STDOECD|STDMETH and OECD methods
+STOEGL|STDMETH, OECD, and GLP methods
+TEPA|Taiwan Environmental Protection Agency
+TEPAOECD|TEPA and OECD methods
+TSCA|Toxic Substances Control Act Test Standard
+UNEP|United Nations Environment Programme
+USEPA|United States Environmental Protection Agency
+WHO|World Health Organization

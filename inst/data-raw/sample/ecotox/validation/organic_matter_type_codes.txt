@@ -1,0 +1,18 @@
+code|description
+--|Unspecified
+ASH|Ash free dry mass
+C|Carbon
+C:N|Carbon to nitrogen ratio
+CPOM|Carbon particulate organic matter
+Cox|Oxidized carbon
+DOC|Dissolved organic carbon
+HUM|Humus
+LOI|Loss on ignition
+N|Nitrogen
+NR|Not reported
+OC|Organic carbon
+OM|Organic matter
+POC|Particulate organic carbon
+POM|Particulate organic matter
+TOC|Total organic carbon
+peat|Peat

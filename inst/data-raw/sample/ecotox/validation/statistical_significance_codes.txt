@@ -1,0 +1,9 @@
+code|description
+--|Unspecified
+ANOSIG|Not significant at all concentrations
+ASIG|Significant at all concentrations
+MULT|Multiple significance
+NA|Not applicable
+NOSIG|No significance
+NR|Not reported
+SIG|Significant

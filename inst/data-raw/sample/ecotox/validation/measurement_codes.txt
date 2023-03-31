@@ -1,0 +1,17 @@
+code|description
+--|Unspecified
+08DM|Acyl-Coenzyme A dehydrogenase family, member 8 mRNA
+09DM|Acyl-Coenzyme A dehydrogenase family, member 9 mRNA
+0RSM|No resorbed embryos
+10BM|Fatty acid-binding protein 10b mRNA
+10CM|Caspase 10, apoptosis-related cysteine peptidase mRNA
+10DM|Acyl-Coenzyme A dehydrogenase family, member 10 mRNA
+10FM|Fatty acid-binding protein 10-A, liver basic mRNA
+10HC|10-Hydroxycamptothecin
+10XM|HMG-box transcription factor Sox10 mRNA
+11AM|Fatty acid binding protein 11a mRNA
+11AR|Interleukin 11a mRNA
+11BA|11 beta-Hydroxyandrostenedione
+11BH|11 beta-hydroxylase
+11BM|Cytochrome P450 family 11 subfamily B member 2 mRNA
+11BR|CYP11beta mRNA

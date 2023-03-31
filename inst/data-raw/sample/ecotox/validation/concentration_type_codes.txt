@@ -1,0 +1,11 @@
+code|description
+--|Unspecified
+A|Active ingredient
+D|Dissolved
+F|Formulation
+L|Labile (free metal ion)
+NA|Not applicable
+NC|Not coded
+NR|Not reported
+T|Total
+U|Unionized

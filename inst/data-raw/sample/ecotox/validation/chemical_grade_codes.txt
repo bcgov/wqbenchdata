@@ -1,0 +1,112 @@
+code|description
+--|Unspecified
+A|Analytical grade
+A OR R|Analytical or reagent grade
+A OR S|Analytical or spectrophotometric grade
+A OR T|Analytical or technical grade
+A or GU|Analytical or guaranteed grade
+A or HPLC|Analytical or HPLC Grade
+AAPS|Atomic Absorption Primary Standard
+AASG|Atomic absorbtion spectrometry grade
+AB|Absolute grade
+ACG|Agrochemical grade
+ACS|American chemical society grade
+AG|Agricultural grade
+AL|Analysis grade
+AN|Analar grade
+AN OR R|Analar or reagent grade
+AR|A.R. grade (Analytical Reagent grade)
+ARST|Analytical Reference Standard
+B|Biological grade
+BC|BioChemika Grade
+BK|Baker grade
+BP|British pharmacopeia grade
+C|Commercial grade
+C OR AN|Commercial or analar grade
+C or T|Commercial or technical grade
+CCG|Cell Culture Grade
+CG|Chemical grade
+CH|Chromatographic grade
+CL|Clinical grade
+CPG|Chemically pure grade
+CT|Certified grade
+DIG|Distilled in Glass Grade
+DIS|Distol grade
+DS|Dry standard grade
+EL|Electrophoresis Grade
+EM|Eastman grade
+ER|ExcelaR grade
+EX|Experimental grade
+EXT|Extra grade
+F|Field grade
+FCASS|Fisher Certified Atomic Absorption Standard 
+FD|Food grade
+FFL|Free flowing grade
+FG|Feed grade
+FOG|Formulated grade
+FUG|Fungicide grade
+GC|Gas chromatography grade
+GCR|Gas chromatograph standard 
+GR|Gr grade
+GU|Guaranteed grade
+GUR|Guaranteed Reagant Grade
+HG|Histological grade
+HP|High Purity Grade
+HPLC|High Performance Liquid Chromatography Grade
+I|Industrial grade
+L|Laboratory Grade
+LC|LC-MS Grade
+MBG|Molecular Biology Grade or Molecular Grade
+MD|Medical grade
+ME|Monsanto electrical grade
+MK|Merck grade
+MLT|Military Grade
+NAF|National Formulary Grade
+NC|Not coded
+NG|Nanograde
+NP|Normapur grade
+NR|Not reported
+OG|Other Grade
+OP|Optima
+PA|Pro analysis grade, pro analysis quality, p.a. grade
+PAG|Pesticide analysis grade
+PAN|Pestanal grade
+PFG|Purified Grade
+PG|Pure grade
+PH|Pharmaceutical Grade
+PR|Production grade
+PRA|Practical Grade
+PRG|Pesticide Residue Grade
+PRM|Premium grade
+PS|Primary Standard
+PST|Pesticide Grade
+PT|Photographic Grade
+R|Reagent Grade, Purissium, Purum, Puriss, Puris, Reinst
+R OR PRA|Reagent or practical grade
+RE|Research grade
+RE or A|Research or analytical grade
+RE or CP|Research or Chemically Pure Grade
+RFG|Reference grade
+RS|Residue Grade
+RST|Reference Standard
+S|Spectrophotometric grade
+SC|Scintillation Grade
+SO|Solvent grade
+SPC|Spectrochemical Grade
+SPG|Special Grade
+SSG|Super special grade (highest quality standard guaranteed for which specification parameters and specification values of JIS special grade or higher are specified)
+ST|Standard
+STD|Standard Solution for AA
+SYG|Synthesis Grade
+T|Technical grade, technical product, technical formulation
+T OR P|Technical or purified grade
+T OR PU|Technical grade or pure
+TA|Technical acid grade
+TAR|Technical or analytical or reagent grade
+TIS|Tissue culture grade
+ULV|ULV grade
+UP|Ultrapure Grade
+USP|United States Pharmacopeia Grade
+UV|Ultraviolet Grade
+UVS|Uvasol grade
+WS|Water soluble grade

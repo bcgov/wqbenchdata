@@ -1,0 +1,27 @@
+species_number|latin_name
+2|Lepomotis nephelus
+2|Eupomotis macrochirus
+4|Salmo gairdneri ssp. irideus
+4|Onchorynchus mykiss
+4|Salmo irideus
+4|Salmo mykiss
+4|Oncorhynchus mykiss ssp. gibbsi
+4|Salmo gairdneri
+4|Salmo gibbsii
+10|Carcinides maenas
+11|Crangon crangon ssp. mediterranea
+11|Steiracrangon orientalis
+11|Crangon maculosa ssp. brevirostris
+11|Crangon maculosa ssp. suchumica
+11|Crangon maculosa ssp. typica
+11|Steiracrangon orientalis ssp. brevicauda
+11|Steiracrangon orientalis ssp. intermedia
+11|Steiracrangon orientalis ssp. longicauda
+11|Astacus crangon
+11|Cancer crangon
+11|Crago vulgaris
+11|Crangon maculatus
+11|Crangon maculosa
+11|Crangon rubropunctatus
+11|Crangon vulgaris
+11|Crangon crangon ssp. typicus

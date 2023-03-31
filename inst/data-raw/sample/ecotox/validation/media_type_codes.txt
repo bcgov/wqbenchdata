@@ -1,0 +1,25 @@
+code|description
+--|Unspecified
+AGR|Agar
+AQU|Aqueous
+ART|Artificial soil
+CUL|Culture
+FAB|Fabric or similar material
+FLT|Filter paper
+FW|Fresh water
+HUM|Humus
+HYP|Hydroponic
+LIT|Litter
+MAN|Manure
+MIN|Mineral soil
+MIX|Media mixture (with comment)
+NAT|Natural soil
+NC|Not coded
+NONE|No substrate
+NR|Not reported
+POP|Plaster of paris
+SED|Sediment
+SLG|Sludge
+SW|Salt water
+UKN|Unknown media
+UKS|Unknown soil

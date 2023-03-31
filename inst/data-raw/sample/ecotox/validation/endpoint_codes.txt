@@ -1,0 +1,266 @@
+code|description
+(log)EC50|Log transformed effective concentration to 50% of test organisms
+(log)LC50 |Log transformed lethal concentration to 50% of test organisms
+--|Unspecified
+AC50|The concentration corresponding to 50% maximal activity. Used in in vitro testing.
+ATCN|Asymptotic threshold concentration
+BAF|Bioaccumulation factor
+BCF|Bioconcentration factor
+BCFD|Bioconcentration factor calculated using dry weight tissue conc
+BMC02.5|Benchmark concentration at 2.5% level of response above background
+BMC04|Benchmark concentration at 4% level of response above background
+BMC05|Benchmark concentration at 5% level of response above background
+BMC06|Benchmark concentration at 6% level of response above background
+BMC08|Benchmark concentration at 8% level of response above background
+BMC10|Benchmark concentration at 10% level of response above background
+BMC11|Benchmark concentration at 11% level of response above background
+BMC20|Benchmark concentration at 20% level of response above background
+BMC50|Benchmark concentration at 50% level of response above background
+BMD02.5|Benchmark dose at 2.5% level of response above background
+BMD05|Benchmark dose at 5% level of response above background
+BMD10|Benchmark dose at 10% level of response above background
+BMD50|Benchmark dose at 50% level of response above background
+BMD90|Benchmark dose at 90% level of response above background
+BMRS10|Benchmark residue at 10% level of response above background
+EC0|Effective concentration to 0% of test organisms
+EC0.01|Effective concentration to 0.01% of test organisms
+EC0.1|Effective concentration to 0.1% of test organisms
+EC01|Effective concentration to 1% of test organisms
+EC02|Effective concentration to 2% of test organisms
+EC03|Effective concentration to 3% of test organisms
+EC04|Effective concentration to 4% of test organisms
+EC05|Effective concentration to 5% of test organisms
+EC08|Effective concentration to 8% of test organisms
+EC10|Effective concentration to 10% of test organisms
+EC100|Effective concentration to 100% of test organisms
+EC12.5|Effective concentration to 12.5% of test organisms
+EC13|Effective concentration to 13% of test organisms
+EC15|Effective concentration to 15% of test organisms
+EC16|Effective concentration to 16% of test organisms
+EC18|Effective concentration to 18% of test organisms
+EC20|Effective concentration to 20% of test organisms
+EC22|Effective concentration to 22% of test organisms
+EC23|Effective concentration to 23% of test organisms
+EC24|Effective concentration to 24% of test organisms
+EC25|Effective concentration to 25% of test organisms
+EC30|Effective concentration to 30% of test organisms
+EC31|Effective concentration to 31% of test organisms
+EC32|Effective concentration to 32% of test organisms
+EC34|Effective concentration to 34% of test organisms
+EC35|Effective concentration to 35% of test organisms
+EC37|Effective concentration to 37% of test organisms
+EC38|Effective concentration to 38% of test organisms
+EC40|Effective concentration to 40% of test organisms
+EC41|Effective concentration to 41% of test organisms
+EC45|Effective concentration to 45% of test organisms
+EC46|Effective concentration to 46% of test organisms
+EC50|Effective concentration to 50% of test organisms
+EC50*|Effective concentration to 50% of test organisms
+EC52|Effective concentration to 52% of test organisms
+EC55|Effective concentration to 55% of test organisms
+EC58|Effective concentration to 58% of test organisms
+EC60|Effective concentration to 60% of test organisms
+EC64|Effective concentration to 64% of test organisms
+EC65|Effective concentration to 65% of test organisms
+EC66|Effective concentration to 66% of test organisms
+EC67|Effective concentration to 67% of test organisms
+EC69|Effective concentration to 69% of test organisms
+EC70|Effective concentration to 70% of test organisms
+EC72|Effective concentration to 72% of test organisms
+EC75|Effective concentration to 75% of test organisms
+EC80|Effective concentration to 80% of test organisms
+EC81|Effective concentration to 81% of test organisms
+EC84|Effective concentration to 84% of test organisms
+EC85|Effective concentration to 85% of test organisms
+EC89|Effective concentration to 89% of test organisms
+EC90|Effective concentration to 90% of test organisms
+EC92|Effective concentration to 92% of test organisms
+EC94|Effective concentration to 94% of test organisms
+EC95|Effective concentration to 95% of test organisms
+EC96|Effective concentration to 96% of test organisms
+EC97|Effective concentration to 97% of test organisms
+EC98|Effective concentration to 98% of test organisms
+EC99|Effective concentration to 99% of test organisms
+ED01|Effective dose to 1% of test organisms
+ED05|Effective dose to 5% of test organisms
+ED10|Effective dose to 10% of test organisms
+ED100|Effective dose to 100% of test organisms
+ED15|Effective dose to 15% of test organisms
+ED20|Effective dose to 20% of test organisms
+ED200|Effective dose to 200% of test organisms
+ED25|Effective dose to 25% of test organisms
+ED30|Effective dose to 30% of test organisms
+ED50|Effective dose to 50% of test organisms
+ED73|Effective dose to 73% of test organisms
+ED80|Effective dose to 80% of test organisms
+ED85|Effective dose to 85% of test organisms
+ED90|Effective dose to 90% of test organisms
+ED95|Effective dose to 95% of test organisms
+ED99|Effective dose to 99% of test organisms
+EL10|Effective Load 10
+EL50|Effective Load 50
+ER01|Effective residue concentration to 1% of test organisms
+ER05|Effective residue concentration to 5% of test organisms
+ER10|Effective residue concentration to 10% of test organisms
+ER20|Effective residue concentration to 20% of test organisms
+ER25|Effective residue concentration to 25% of test organisms
+ER50|Effective residue concentration to 50% of test organisms
+ER90|Effective residue concentration to 90% of test organisms
+ET0|Effective response time to 0% of test organisms
+ET10|Effective response time to 10% of test organisms
+ET100|Effective response time to 100% of test organisms
+ET15|Effective response time to 15% of test organisms
+ET20|Effective response time to 20% of test organisms
+ET25|Effective response time to 25% of test organisms
+ET30|Effective response time to 30% of test organisms
+ET50|Effective response time to 50% of test organisms
+ET50*|Effective response time to 50% of test organisms
+ET75|Effective response time to 75% of test organisms
+ET80|Effective response time to 80% of test organisms
+ET85|Effective response time to 85% of test organisms
+ET90|Effective response time to 90% of test organisms
+ET95|Effective response time to 95% of test organisms
+ET99|Effective response time to 99% of test organisms
+IC01|Inhibition concentration to 1% of test organisms
+IC05|Inhibition concentration to 5% of test organisms
+IC07|Inhibition concentration to 7% of test organisms
+IC10|Inhibition concentration to 10% of test organisms
+IC100|Inhibition concentration to 100% of test organisms
+IC15|Inhibition concentration to 15% of test organisms
+IC16|Inhibition concentration to 16% of test organisms
+IC20|Inhibition concentration to 20% of test organisms
+IC25|Inhibition concentration to 25% of test organisms
+IC27|Inhibition concentration to 27% of test organisms
+IC30|Inhibition concentration to 30% of test organisms
+IC40|Inhibition concentration to 40% of test organisms
+IC50|Inhibition concentration to 50% of test organisms
+IC60|Inhibition concentration to 60% of test organisms
+IC63|Inhibition concentration to 63% of test organisms
+IC70|Inhibition concentration to 70% of test organisms
+IC75|Inhibition concentration to 75% of test organisms
+IC78|Inhibition concentration to 78% of test organisms
+IC80|Inhibition concentration to 80% of test organisms
+IC85|Inhibition concentration to 85% of test organisms
+IC90|Inhibition concentration to 90% of test organisms
+IC95|Inhibition concentration to 95% of test organisms
+IC99|Inhibition concentration to 99% of test organisms
+ID10|Inhibition dose to 10% of test organisms
+ID30|Inhibition dose to 30% of test organisms
+ID50|Inhibition dose to 50% of test organisms
+LC0|Lethal concentration to 0% of test organisms
+LC0*|Lethal concentration to 0% of test organisms
+LC0.01|Lethal concentration to 0.01% of test organisms
+LC0.1|Lethal concentration to 0.1% of test organisms
+LC01|Lethal concentration to 1% of test organisms
+LC05|Lethal concentration to 5% of test organisms
+LC08|Lethal concentration to 8% of test organisms
+LC10|Lethal concentration to 10% of test organisms
+LC10*|Lethal concentration to 10% of test organisms
+LC100|Lethal concentration to 100% of test organisms
+LC100*|Lethal concentration to 100% of test organisms
+LC15|Lethal concentration to 15% of test organisms
+LC16|Lethal concentration to 16% of test organisms
+LC20|Lethal concentration to 20% of test organisms
+LC25|Lethal concentration to 25% of test organisms
+LC30|Lethal concentration to 30% of test organisms
+LC31|Lethal concentration to 31% of test organisms
+LC34|Lethal concentration to 34% of test organisms
+LC35|Lethal concentration to 35% of test organisms
+LC38|Lethal concentration to 38% of test organisms
+LC40|Lethal concentration to 40% of test organisms
+LC45|Lethal concentration to 45% of test organisms
+LC50|Lethal concentration to 50% of test organisms
+LC50*|Lethal concentration to 50% of test organisms
+LC51|Lethal concentration to 51% of test organisms
+LC60|Lethal concentration to 60% of test organisms
+LC65|Lethal concentration to 65% of test organisms
+LC69|Lethal concentration to 69% of test organisms
+LC70|Lethal concentration to 70% of test organisms
+LC75|Lethal concentration to 75% of test organisms
+LC80|Lethal concentration to 80% of test organisms
+LC80*|Lethal concentration to 80% of test organisms
+LC84|Lethal concentration to 84% of test organisms
+LC85|Lethal concentration to 85% of test organisms
+LC90|Lethal concentration to 90% of test organisms
+LC94|Lethal concentration to 94% of test organisms
+LC95|Lethal concentration to 95% of test organisms
+LC96|Lethal concentration to 96% of test organisms
+LC97.5|Lethal concentration to 97.5% of test organisms
+LC99|Lethal concentration to 99% of test organisms
+LC99.5|Lethal concentration to 99.5% of test organisms
+LC99.9|Lethal concentration to 99.9% of test organisms
+LD0|Lethal dose to 0% of test organisms
+LD0.1|Lethal dose to 0.1% of test organisms
+LD01|Lethal dose to 1% of test organisms
+LD02|Lethal dose to 2% of test organisms
+LD05|Lethal dose to 5% of test organisms
+LD10|Lethal dose to 10% of test organisms
+LD100|Lethal dose to 100% of test organisms
+LD11|Lethal dose to 11% of test organisms
+LD15|Lethal dose to 15% of test organisms
+LD16|Lethal dose to 16% of test organisms
+LD20|Lethal dose to 20% of test organisms
+LD25|Lethal dose to 25% of test organisms
+LD28|Lethal dose to 28% of test organisms
+LD30|Lethal dose to 30% of test organisms
+LD35|Lethal dose to 35% of test organisms
+LD37|Lethal dose to 37% of test organisms
+LD40|Lethal dose to 40% of test organisms
+LD50|Lethal dose to 50% of test organisms
+LD60|Lethal dose to 60% of test organisms
+LD62|Lethal dose to 62% of test organisms
+LD63|Lethal dose to 63% of test organisms
+LD70|Lethal dose to 70% of test organisms
+LD75|Lethal dose to 75% of test organisms
+LD80|Lethal dose to 80% of test organisms
+LD84|Lethal dose to 84% of test organisms
+LD90|Lethal dose to 90% of test organisms
+LD95|Lethal dose to 95% of test organisms
+LD97|Lethal dose to 97% of test organisms
+LD99|Lethal dose to 99% of test organisms
+LD99.9|Lethal dose to 99.9% of test organisms
+LD99.99|Lethal dose to 99.99% of test organisms
+LD99.99683|Lethal dose to 99.99683% of test organisms
+LETC|Lethal threshold concentration
+LL10|Lethal Load 10
+LL50|Lethal Load 50
+LOEC|Lowest observable effect concentration
+LOEL|Lowest-observable-effect-level
+LOELR|Lowest Observed Effect Loading Rate
+LOER|Lowest observed effects residue
+LR10|Lethal residue concentration to 10% of test organisms
+LR100|Lethal residue concentration to 100% of test organisms
+LR20|Lethal residue concentration to 20% of test organisms
+LR25|Lethal residue concentration to 25% of test organisms
+LR50|Lethal residue concentration to 50% of test organisms
+LR90|Lethal residue concentration to 90% of test organisms
+LT00|Time to 0% mortality of organisms
+LT10|Time to 10% mortality of organisms
+LT100|Time to 100% mortality of organisms
+LT15|Time to 15% mortality of organisms
+LT20|Time to 20% mortality of organisms
+LT25|Time to 25% mortality of organisms
+LT30|Time to 30% mortality of organisms
+LT40|Time to 40% mortality of organisms
+LT50|Time to 50% mortality of organisms
+LT50*|Time to 50% mortality of organisms
+LT60|Time to 60% mortality of organisms
+LT70|Time to 70% mortality of organisms
+LT75|Time to 75% mortality of organisms
+LT80|Time to 80% mortality of organisms
+LT90|Time to 90% mortality of organisms
+LT95|Time to 95% mortality of organisms
+LT97|Time to 97% mortality of organisms
+LT99|Time to 99% mortality of organisms
+LT99.9|Lethal dose to 99.9% of test organisms
+MATC|Maximum acceptable toxicant concentration
+MATC*|Maximum Acceptable Toxicant Concentration
+MATR|Maximum allowable toxicant residue
+MCIG|Minimum concentration to inhibit growth.
+NOEC|No-observable-effect-concentration
+NOEL|No-observable-effect-level
+NOELR|No Observed Effect Loading Rate
+NOER|No observed effects residue
+NR|Not reported
+NR-LETH|100% mortality or 0% survival of organism
+NR-ZERO|0% mortality or 100% survival of organisms

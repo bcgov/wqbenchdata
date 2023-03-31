@@ -1,0 +1,111 @@
+code|description
+--|Unspecified
+AD*|AD* - PTOX Unspecified
+AE|Aerial, unspecified
+AG|Aerial, granular 
+AQ|Aqueous
+AQUA - NR|Aquatic - not reported
+AS|Spray, aerial
+B|Tidal
+CH|Choice
+CM|Culture medium
+CM*|CM* - PTOX Unspecified  
+D*|D* - PTOX Unspecified  
+DA|Direct application
+DM|Dermal
+DO*|DO* - PTOX Unspecified
+DR|Drinking water
+DT|Diet, unspecified
+DU|Dusted
+DW|Dropwise
+E|Lentic 
+EN|Environmental, unspecified
+F|Flow-through
+FC|Filmcoating
+FD|Food
+FS|Spray, foliar
+FU|Fumigation
+FV*|FV* - PTOX Unspecified
+GE|Gestational
+GG|Ground, granular 
+GI|Ground, injection
+GM|Growth medium
+GM*|GM* - PTOX Unspecified  
+GS|Spray, ground
+GS*|GS* - PTOX Unspecified  
+GV|Gavage
+HP|Hydroponic
+HP*|HP* - PTOX Unspecified  
+HS|Spray, hand
+IA|Intra-arterial 
+IAC|Intra-abdominal cavity
+IB|Albumin injection
+IC|Air sac injection
+ICL|Intra-coelom
+ID|Intradermal
+IE|Intratesticular
+IF|Intramedial forebrain bundle
+IG|Intragastrical 
+IH|Intrahemocoel
+II|Intrastriatal
+IJ|Injection, unspecified
+IK|Intracranial 
+IL|Intra placental
+ILP|Intralymphatic
+IM|Intramuscular
+IN|In situ
+IN*|IN* - PTOX Unspecified  
+IO|Intra-amniotic
+IP|Intraperitoneal
+IQ|Intraduodenal
+IR|Intraprostomial
+IS|Intrasegmentally
+IU|Intraaccumbens
+IV|Intravenous
+IVT|In Vitro
+IW|Intraesophageal
+IY|Intracardiac
+IZ|Intra-spinal cord
+L|Leaching 
+LC|Lactation (exposed via mothers milk)
+LF*|LF* - PTOX Unspecified
+MI|Misted
+MM|Immersion
+MT|Multiple routes within environmental exposures
+MU|Multiple routes between application groups
+NC|Not coded
+NR|Not reported
+O|Lotic 
+OC|Ocular
+OM|Multiple routes within the oral exposure type group
+OP|Osmotic pump
+OR|Oral via capsule
+P|Pulse
+PC|Percutaneous
+PR|Present in soil
+PS*|PS* - PTOX Unspecified
+PT|Painted
+PU|Pump
+PU*|PU* - PTOX Unspecified  
+R|Renewal
+RA|RA - unknown
+RA*|RA* - PTOX Unspecified
+RT*|RT* - PTOX Unspecified
+S|Static
+SA|Surface area dose
+SC|Subcutaneous
+SD|Subdermal
+SH|Eggshell
+SL*|SL* - PTOX Unspecified
+SO|Dipped or soaked
+SO*|SO* - PTOX Unspecified  
+SP|Spray, unspecified
+SP*|SP* - PTOX Unspecified  
+SR*|SR* - PTOX Unspecified
+SS|Soil slurry
+ST*|ST* - PTOX Unspecified
+TER-NR|Terrestrial Not Reported
+TP|Topical, general
+TU*|TU* - PTOX Unspecified
+WA|Watered
+YK|Yolk

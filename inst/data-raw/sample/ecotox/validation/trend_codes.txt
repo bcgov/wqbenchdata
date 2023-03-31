@@ -1,0 +1,8 @@
+code|description
+--|Unspecified
+CHG|Change
+DEC|Decreasing
+INC|Increasing
+NC|Not coded
+NEF|No effect
+NR|Not reported

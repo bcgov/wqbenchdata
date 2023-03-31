@@ -1,0 +1,1000 @@
+cas_number|chemical_name|ecotox_group|dtxsid
+50000|Formaldehyde||DTXSID7020637
+50011|Guanidine monohydrochloride||DTXSID7058757
+50022|11beta,16alpha-9-Fluoro-11,17,21-Trihydroxy-16-methyl-pregna-1,4-diene-3,20-dione|Pharmaceutical Personal Care Products (PPCPs)|DTXSID3020384
+50033|(11beta)-21-Acetyloxy)-11,17-dihydroxypregn-4-ene-3,20-dione||DTXSID0048686
+50044|17-Hydroxy-3,11,20-trioxopregn-4-en-21-yl acetate||DTXSID0022858
+50066|5-Ethyl-5-phenyl-2,4,6(1H,3H,5H)-pyrimidinetrione|Pharmaceutical Personal Care Products (PPCPs)|DTXSID5021122
+50077|(1aS,8S,8aR,8bS)-6-Amino-8-[[(aminocarbonyl)oxy]methyl]-1,1a,2,8,8a,8b-hexahydro-8a-methoxy-5-methyl-azirino[2',3':3,4]pyrrolo[1,2-a]indole-4,7-dione||DTXSID2020898
+50099|5-(1-Cyclohexen-1-yl)-1,5-dimethyl-2,4,6(1H,3H,5H)-pyrimidinetrione, Sodium salt||DTXSID301018906
+50135|1-Methyl-4-phenyl-4-piperidinecarboxylic acid ethyl ester hydrochloride (1:1)||DTXSID30950620
+50146|(1S,3Z)-[(1R,2E,4R)-1,4,5-Trimethyl-2-hexen-1-yl]-4H-inden-4-ylidene]ethylidene]-4-methylene-3-[(2E)-2-[(1R,3aS,7aR)-octahydro-7a-methyl-1-cyclohexanol||DTXSID5020233
+50180|N,N-Bis(2-chloroethyl)tetrahydro-2H-1,3,2-oxazaphosphorin-2-amine 2-oxide||DTXSID5020364
+50215|2-Hydropropanoic acid||DTXSID7023192
+50226|(11 beta)-11,21-Dihydroxypregn-4-ene-3,20-dione||DTXSID6022474
+50237|(11B)-11,17,21-Trihydroxypregna-4-ene-3,20-dione|Pharmaceutical Personal Care Products (PPCPs)|DTXSID7020714
+50248|(11beta)-11,17,21-Trihydroxypregna-1,4-diene-3,20-dione|Pharmaceutical Personal Care Products (PPCPs)|DTXSID9021184
+50271|(16 alpha, 17 beta)-Estra-1,3,5(10)-triene-3,16,17-triol||DTXSID9022366
+50282|(17beta)Estra-1,3,5(10)triene-3,17-diol|Pharmaceutical Personal Care Products (PPCPs)|DTXSID0020573
+50293|1,1'-(2,2,2-Trichloroethylidene)bis[4-chlorobenzene]|DDT and metabolites|DTXSID4020375
+50306|2,6-Dichlorobenzoic acid||DTXSID0024979
+50317|2,3,6-Trichlorobenzoic acid||DTXSID6040296
+50328|Benzo[a]pyrene|Endocrine Disrupting Chemicals (EDCs)Polyaromatic Hydrocarbons (PAHs)|DTXSID2020139
+50339|4-Butyl-1,2-diphenyl-3,5-pyrazolidinedione||DTXSID9021136
+50340|N-Methyl-N-(1-methylethyl)-N-[2-[(9H-xanthen-9-ylcarbonyl)oxy]ethyl]-2-propanaminium bromide (1:1)||DTXSID2023519
+50351|2-(2,6-Dioxo-3-piperidinyl)-1H-isoindole-1,3(2H)dione|Pharmaceutical Personal Care Products (PPCPs)|DTXSID9022524
+50362|(1R,2R,3S,5S)-3-(Benzoyloxy)-8-methyl-8-azabicyclo[3.2.1]octane-2-carboxylic acid methyl ester||
+50373|(8 beta)-9,10-Didehydro-N,N-diethyl-6-methylergoline-8-carboxamide||DTXSID1023231
+50419|2-Hydroxypropane-1,2,3-tricarboxylic acid--2-[4-(2-chloro-1,2-diphenylethenyl)phenoxy]-N,N-diethylethan-1-amine (1/1)||DTXSID8020337
+50431|2,4,6-Trichlorobenzoic acid||DTXSID9075329
+50442|1,7-Dihydro-6H-purine-6-thione|Pharmaceutical Personal Care Products (PPCPs)|DTXSID0020810
+50453|2,3-Dichlorobenzoic acid||DTXSID5024976
+50486|3-(10,11-Dihydro-5H-dibenzo[a,d]cyclohepten-5-ylidene)-N,N-dimethyl-1-propanamine|Pharmaceutical Personal Care Products (PPCPs)|DTXSID7022594
+50497|Imipramine|Pharmaceutical Personal Care Products (PPCPs)|DTXSID1043881
+50500|(17beta)Estra-1,3,5(10)triene-3,17-diol-3-benzoate||DTXSID9022998
+50522|10-[2-(1-Methyl-2-piperidinyl)ethyl]-2-(methylthio)-10H-phenothiazine||
+50533|2-Chloro-N,N-dimethyl-10H-phenothiazine-10-propanamine||DTXSID0022808
+50544|Sulfuric acid--(9S)-6'-methoxycinchonan-9-ol (1/2)||DTXSID50883224
+50555|Reserpine||DTXSID7021237
+50566|Oxytocin||DTXSID8048361
+50599|(6R-trans)-1-[[2-Carboxy-8-oxo-7-[(2-thienylacetyl)amino]-5-thia-1-azabicyclo[4.2.0]oct-2-en-3-yl]methyl]pyridinium, Hydrochloride, Inner salt||
+50602|3-[[(4,5-Dihydro-1H-imidazol-2-yl)methyl](4-methylphenyl)amino]phenol||DTXSID4023462
+50635|N4-(7-Chloro-4-quinolinyl)-N',N'-diethyl-1,4-pentanediamine, Phosphate (1:2)||DTXSID7044681
+50657|5-Chloro-N-(2-chloro-4-nitrophenyl)-2-hydroxybenzamide||DTXSID7040362
+50668|6-Methylmercaptopurine||DTXSID50901654
+50679|3-(2-Aminoethyl)-1H-indol-5-ol||DTXSID8075330
+50691|D-Ribose||
+50704|D-Glucitol||DTXSID5023588
+50715|Alloxan||DTXSID5044946
+50737|2,3,5-Trichlorobenzoic acid||DTXSID8074285
+50759|2,3,4-Trichlorobenzoic acid||DTXSID3075331
+50760|1H-Pyrrolo[2,1-i][1,4,7,10,13]oxatetraazacyclohexadecine, cyclic peptide deriv.||DTXSID9020031
+50782|2-(Acetyloxy)benzoic acid||DTXSID5020108
+50793|2,5-Dichlorobenzoic acid||DTXSID5024978
+50817|L-Ascorbic acid||DTXSID5020106
+50828|2,4,5-Trichlorobenzoic acid||DTXSID8075332
+50840|2,4-Dichlorobenzoic acid||DTXSID0024977
+50895|Thymidine||DTXSID5023661
+50919|2'-Deoxy-5-fluorouridine||DTXSID3023057
+50997|D-Glucose||DTXSID7022910
+51036|5-[[2-(2-Butoxyethoxy)ethoxy]methyl]-6-propyl-1,3-benzodioxole|Endocrine Disrupting Chemicals (EDCs)|DTXSID1021166
+51058|4-Aminobenzoic acid 2-(diethylamino)ethyl ester hydrochloride (1:1)||DTXSID1044435
+51149|5-[1-[2-(2-Ethoxyethoxy)ethoxy]ethoxy]-1,3-benzodioxole||DTXSID5042376
+51150|2-[(Hydroxyimino)methyl]-1-methylpyridinium chloride||DTXSID1023495
+51172|1H-Benzimidazole||DTXSID8024573
+51183|2,4,6-Tris(1-aziridinyl)-1,3,5-Triazine||DTXSID3026225
+51207|5-Bromo-2,4(1H,3H)-pyrimidinedione||DTXSID2058758
+51218|5-Fluoro-2,4(1H,3H)pyrionidinedione||DTXSID2020634
+51241|4-(4-Hydroxy-3-iodophenoxy)-3,5-diiodobenzeneacetic acid||DTXSID2045232
+51285|2,4-Dinitrophenol||DTXSID0020523
+51309|4-[1-Hydroxy-2-[(1-methylethyl)amino]ethyl]1,2-benzenediol hydrochloride (1:1)||DTXSID6025486
+51343|(1R,2R,4S,5S,7s)-9-Methyl-3-oxa-9-azatricyclo[3.3.1.0~2,4~]nonan-7-yl (2S)-3-hydroxy-2-phenylpropanoate||DTXSID6023573
+51354|trans-4-Hydroxy-L-proline||
+51365|3,5-Dichlorobenzoic acid||DTXSID4024981
+51398|3,4,5-Trichlorobenzoic acid||DTXSID3075333
+51401|3,4-[(1R)-2-Amino-1-hydroxyethyl]-1,2-benzenediol, (2R,3R)-2,3-Dihydroxybutanedioate (1:1)||DTXSID50148507
+51412|4-[(1R)-2-Amino-1-hydroxyethyl]-1,2-benzenediol||DTXSID5023378
+51423|4-[(1R)-1-Hydroxy-2-(methylamino)ethyl]-1,2-benzenediol (2R,3R)-2,3-dihydroxybutanedioate (1:1)||DTXSID3049415
+51434|4-[(1R)-1-Hydroxy-2-(methylamino)ethyl]-1,2-benzenediol||DTXSID5022986
+51445|3,4-Dichlorobenzoic acid||DTXSID9024980
+51456|1H-Imidazole-5-ethanamine||DTXSID4023125
+51489|O-(4-Hydroxy-3,5-diiodophenyl)-3,5-diiodo-L-tyrosine|Pharmaceutical Personal Care Products (PPCPs)|DTXSID8023214
+51490|O-(4-Hydroxy-3,5-diiodophenyl)-3,5-diiodo-D-tyrosine||
+51503|N-(2-Chloroethyl)-N-(phenylmethyl)benzenemethanamine||DTXSID20199001
+51525|2,3-Dihydro-6-propyl-2-thioxo-4(1H)pyrimidinone||DTXSID5021209
+51558|endo(+-)-alpha-(Hydroxymethyl)-8-methyl-8-azabicyclo[3.2.1]oct-3-yl ester  benzeneacetic acid||DTXSID4020113
+51570|N,alpha-Dimethyl-d-phenethylamine hydrochloride||DTXSID8048864
+51616|Dopamine||DTXSID6022420
+51638|(alphaS)-alpha-Methylbenzeneethanamine sulfate (2:1)||DTXSID2057865
+51649|(alphaS)-alpha-Methylbenzeneethanamine||DTXSID8022907
+51650|4-Fluoro-DL-phenylalanine||DTXSID3025332
+51672|4-(2-Aminoethyl)phenol||DTXSID2043874
+51718|(2-Phenylethyl)hydrazine||DTXSID2041094
+51752|2-Chloro-N-(2-chloroethyl)-N-methylethanamine||DTXSID2020975
+51785|4-Aminophenol hydrochloride||DTXSID6058760
+51796|Carbamic acid, Ethyl ester|Endocrine Disrupting Chemicals (EDCs)|DTXSID9021427
+51832|2-[(Aminocarbonyl)oxy]-N,N,N-trimethylethanaminium chloride||DTXSID9022730
+51843|2-(Acetyloxy)-N,N,N-trimethylethanaminium||DTXSID8075334
+51923|N,N,N-Trimethylmethanaminium||DTXSID3048071
+52017|(7alpha,17alpha)-7-(Acetylthio)-17-hydroxy-3-oxopregn-4-ene-21-carboxylic acid, gamma-Lactone|Pharmaceutical Personal Care Products (PPCPs)|DTXSID6034186
+52211|(11beta)-21-(Acetyloxy)-11,17-dihydroxypregna-1,4-diene-3,20-dione||
+52244|1,1',1''-Phosphinothioylidynetrisaziridine||DTXSID0021339
+52266|(5alpha,6alpha)-7,8-Didehydro-4,5-epoxy-17-methyl-morphinan-3,6-diol, Hydrochloride (1:1)|Pharmaceutical Personal Care Products (PPCPs)|DTXSID10110023
+52288|(5alpha,6alpha)-7,8-Didehydro-4,5-epoxy-3-methoxy-17-methylMorphinan-6-ol phosphate (1:1)||DTXSID0024844
+52391|(11Beta)-11,21-Dihydroxy-3,20-dioxo-pregn-4-en-18-al||DTXSID7022419
+52460|2,2,4,4,6,6-Hexahydro-2,2,4,4,6,6-hexakis(1-aziridinyl)-1,3,5,2,4,6-triazatriphosphorine||DTXSID7073149
+52517|2-Bromo-2-nitro-1,3-propanediol||DTXSID8024652
+52539|alpha-[3-[[2-(3,4-Dimethoxyphenyl)ethyl]methylamino]propyl]-3,4-dimethoxy-alpha-(1-methylethyl)benzeneacetonitrile|Pharmaceutical Personal Care Products (PPCPs)|DTXSID9041152
+52608|Phosphorothioic acid O-[3,5-dimethyl-4-(methylthio)phenyl] O,O-diethyl ester||DTXSID3075335
+52664|3-Mercaptovaline||DTXSID7044687
+52675|3-Mercapto-D-valine||DTXSID6037069
+52686|P-(2,2,2-Trichloro-1-hydroxyethyl)phosphonic acid dimethyl ester||DTXSID0021389
+52857|O-[4[(Dimethylamino)sulfonyl]phenyl]O,O-dimethylester phosphorothioic acid||DTXSID7041966
+52868|4-[4-(4-Chlorophenyl)-4-hydroxy-1-piperidinyl]-1-(4-fluorophenyl)-1-butanone||DTXSID4034150
+52891|L-Cysteine hydrochloride||DTXSID0020367
+52904|L-Cysteine||DTXSID8022876
+53032|17,21-Dihydroxypregna-1,4-diene-3,11,20-trione|Pharmaceutical Personal Care Products (PPCPs)|DTXSID4021185
+53065|17,21-Dihydroxy-pregn-4-ene-3,11,20-trione||DTXSID5022857
+53167|3-Hydroxyestra-1,3,5(10)trien-17-one||DTXSID4022367
+53190|1-Chloro-2-[2,2-dichloro-1-(4-chlorophenyl)ethyl]benzene|DDT and metabolites|DTXSID9020372
+53214|(1R,2R,3S,5S)-3-(Benzoyloxy)-8-methyl-8-azabicyclo[3.2.1]octane-2-carboxylic acid methyl ester hydrochloride (1:1)||DTXSID2048903
+53418|(3 alpha,5 alpha)-3-Hydroxyandrostan-17-one||DTXSID3036525
+53430|(3beta)-3-Hydroxyandrost-5-en-17-one||DTXSID4020379
+53598|2'-(Dihydrogen phosphate)adenosine 5'-(trihydrogen diphosphate)P'-5'-ester with 3-(aminocarbonyl)-1-beta-D-ribofuranosylpyridinium, inner salt||
+53601|N,N-Dimethyl-10H-phenothiazine-10-propanamine hydrochloride (1:1)||DTXSID4046949
+53703|Dibenz(a,h)anthracene|Polyaromatic Hydrocarbons (PAHs)|DTXSID9020409
+53792|3'-[[(2S)-2-Amino-3-(4-methoxyphenyl)-1-oxopropyl]amino]-3'-deoxy-N,N-dimethyladenosine ||DTXSID8036788
+53849|Nadide||DTXSID2045236
+53861|1-(4-Chlorobenzoyl)-5-methoxy-2-methyl-1H-indole-3-acetic acid|Pharmaceutical Personal Care Products (PPCPs)|DTXSID9020740
+53952|N-9H-Fluoren-2-yl-N-hydroxyacetamide||
+53963|N-9H-Fluoren-2-ylacetamide||DTXSID0039227
+54057|N4-(7-Chloro-4-quinolinyl)-N1,N1-diethyl-1,4-pentanediamine||DTXSID2040446
+54115|3-[(2S)-1-Methyl-2-pyrrolidinyl]pyridine||DTXSID1020930
+54126|Tryptophan (Generic)||DTXSID0021418
+54217|2-Hydroxybenzoic acid, Sodium salt (1:1)||DTXSID5021708
+54251|2-beta-D-Ribofuranosyl-1,2,4-triaine-3,5(2H,4H)-dione||DTXSID20960091
+54284|[2R-[2R*(4R*,8R*)]]-3,4-Dihydro-2,7,8-trimethyl-2-(4,8,12-trimethyltridecyl)-2H-1-benzopyran-6-ol||DTXSID9049031
+54319|5-(Aminosulfonyl)-4-chloro-2-[(2-furanylmethyl)amino]benzoic acid|Pharmaceutical Personal Care Products (PPCPs)|DTXSID6020648
+54353|(2S,5R,6R)-3,3-Dimethyl-7-oxo-6-[(2-phenylacetyl)amino]-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid compd. with 2-(diethylamino)ethyl 4-aminobenzoate (1:1)||
+54364|2-Methyl-1,2-di-3-pyridinyl-1-propanone||DTXSID1023314
+54626|N-[4-[[(2,4-Diamino-6-pteridinyl)methyl]amino]benzoyl]-L-glutamic acid||DTXSID3022588
+54648|Sodium ethyl[2-(sulfanyl-kappaS)benzoato(2-)]mercurate(1-)|Mercury|DTXSID3025540
+54717|(3S-cis)-3[Ethyldihydro-4-[(1-methyl-1H-imidazo1-5-yl)methyl]-2(3H)-furanone monohydrochloride||DTXSID2041096
+54853|4-Pyridine carboxylic acid, Hydrazide||DTXSID8020755
+54875|1-[[(5-Nitro-2-furanyl)methylene]amino]-2,4-imidazolidinedione sodium salt||
+54922|N'-(Propan-2-yl)pyridine-4-carbohydrazide||
+54955|6,7,8,9-Tetrahydro-5H-tetrazolo[1,5-a]azepine||DTXSID7041091
+55038|O-(4-Hydroxy-3,5-diiodophenyl)-3,5-diiodo-L-tyrosine, Monosodium salt||DTXSID90883228
+55061|O-(4-Hydroxy-3-iodophenyl)-3,5-diiodo-L-tyrosine sodium salt (1:1)||DTXSID8047505
+55163|alpha-(Hydroxymethyl)benzeneacetic acid, (alphaS)-(1alpha,2beta,4beta,5alpha,7beta)-9-Methyl-3-oxa-9-azatricyclo[3.3.1.02,4]non-7-yl ester, Hydrochloride (1:1)||
+55185|N-Ethyl-N-nitrosoethanamine|Nitrosamines|DTXSID2021028
+55210|Benzamide||DTXSID0021709
+55221|4-Pyridinecarboxylic acid||DTXSID8020757
+55276|dL-Noradrenaline hydrochloride||
+55312|4-[(1R)-1-Hydroxy-2-(methylamino)ethyl]-1,2-benzenediol hydrochloride (1:1)||DTXSID1020568
+55378|Phosphorothioic acid O-[3,5-dimethyl-4-(methylthio)phenyl] O,O-dimethylester||DTXSID8075336
+55389|O,O-Dimethyl O-[3-methyl-4-(methylthio)phenyl]ester phosphorothioic acid||DTXSID8020620
+55436|N-(2-Chloroethyl)-N-(phenylmethyl)benzenemethanamine hydrochloride (1:1)||DTXSID3075337
+55481|Benzeneacetic acid alpha-(hydroxymethyl)-(3-endo)-8-methyl-8-azabicyclo[3.2.1]oct-3-yl ester sulfate (2:1) (salt)||DTXSID3049419
+55550|4-Methylaminophenol sulfate||DTXSID6025565
+55561|N,N''-Bis(4-chlorophenyl)-3,12-diimino-2,4,11,13-tetraazatetradecanediimidamide||DTXSID2033314
+55630|1,2,3-Propanetriol, 1,2,3-Trinitrate|Endocrine Disrupting Chemicals (EDCs)Pharmaceutical Personal Care Products (PPCPs)|DTXSID1021407
+55685|(Nitrato-kappaO)phenylmercury|Mercury|DTXSID6044569
+55812|4-Methoxybenzeneethanamine||DTXSID6058764
+55867|2-Chloro-N-(2-chloroethyl)-N-methylethanamine hydrochloride||DTXSID8025757
+55914|Phosphorofluoridic acid bis(1-methylethyl)ester||DTXSID1040667
+55936|2,5-Hexanediol, Dimethyl sulfonate||
+55970|N1,N1,N1,N6,N6,N6-Hexamethyl-1,6-hexanediaminium bromide (1:2)||DTXSID50883229
+55981|1,4-Butanediol, 1,4-Dimethanesulfonate||DTXSID3020910
+56031|Imidodicarbonimidic diamide||
+56042|2,3-Dihydro-6-methyl-2-thioxo-4(1H)-pyrimidinone||DTXSID2020890
+56064|2,6-Diaminopyrimidin-4(1H)-one||DTXSID4049038
+56100|2-Aminoethyl ester carbamimidothioic acid dihydrobromide||DTXSID1058765
+56122|4-Aminobutanoic acid||DTXSID6035106
+56144|Butanedioic acid, Ion(2-)||
+56177|2,2'-Dithiobisethanamine dihydrochloride||DTXSID6058766
+56235|Tetrachloromethane|Endocrine Disrupting Chemicals (EDCs)|DTXSID8020250
+56246|Trimethyltin hydroxide|Organotin|DTXSID9032240
+56257|(3aR,4S,7R,7aS)-rel-Hexahydro-3a,7a-dimethyl-4,7-epoxyisobenzofuran-1,3-dione||DTXSID7041752
+56291|5-(1-Cyclohexen-1-yl)-1,5-dimethyl-2,4,6(1H,3H,5H)-pyrimidinetrione||DTXSID9023122
+56348|N,N,N-Triethylethanaminium chloride||DTXSID6041137
+56359|1,1,1,3,3,3-Hexabutyldistannoxane|Organotin|DTXSID9020166
+56360|(Acetyloxy)tributylstannane|Organotin|DTXSID7043954
+56371|N-Benzyl-N,N-diethylethanaminium chloride||DTXSID9021710
+56382|Phosphorothioic acid, O,O-Diethyl-O-(4-nitrophenyl)ester||DTXSID7021100
+56406|Glycine||DTXSID9020667
+56417|L-Alanine||DTXSID20873899
+56451|L-Serine||DTXSID60883230
+56495|1,2-Dihydro-3-methylbenz[j]aceanthrylene||DTXSID0020862
+56531|4,4'-[(1E)-1,2-Diethyl-1,2-ethenediyl]bisphenol||DTXSID3020465
+56542|(9S)-6'-Methoxycinchonan-9-ol||DTXSID4023549
+56553|Benz[a]anthracene|Polyaromatic Hydrocarbons (PAHs)|DTXSID5023902
+56575|4-Nitroquinoline 1-oxide||DTXSID5025780
+56655|Adenosine-5'-(tetrahydrogen triphosphate)||DTXSID6022559
+56699|5-Hydroxytryptophan||DTXSID50859863
+56724|Phosphorothioic acid O-(3-chloro-4-methyl-2-oxo-2H-1-benzopyran-7-yl) O,O-diethyl ester|Endocrine Disrupting Chemicals (EDCs)|DTXSID2020347
+56757|2,2-Dichloro-N-[(1R,2R)-2-hydroxy-1-(hydroxymethyl)-2-(4-nitrophenyl)ethyl]acetamide||DTXSID7020265
+56815|1,2,3-Propanetriol||DTXSID9020663
+56826|2,3-Dihydroxypropanal||DTXSID90861586
+56848|L-Aspartic acid||DTXSID7022621
+56859|L-Glutamine||DTXSID1023100
+56860|L-Glutamic acid||DTXSID5020659
+56871|L-Lysine||DTXSID6023232
+56893|L-Cystine||DTXSID2046418
+56928|2-(1H-Imidazol-4-yl)ethan-1-amine--hydrogen chloride (1/2) ||DTXSID1058767
+56939|N,N,N-Trimethylbenzenemethanaminium, Chloride||DTXSID8024600
+56951|N,N''-Bis(4-chlorophenyl)-3,12-diimino-2,4,11,13-tetraazatetradecanediimidamide, Diacetate||DTXSID7032345
+56973|1,1'-(1,3-Propanediyl)bis[4-[(hydroxyimino)methyl]pyridinium dibromide||DTXSID101036063
+57001|N-Aminoimino methyl)N-methylglycine||
+57067|3-Isothiocyanato-1-propene||DTXSID3020047
+57090|N,N,N-Trimethylhexadecan-1-aminium bromide||DTXSID5037028
+57103|Hexadecanoic acid||DTXSID2021602
+57114|Stearic acid||DTXSID8021642
+57125|Cyanide||DTXSID6023991
+57136|Urea||DTXSID4021426
+57147|1,1-Dimethylhydrazine||DTXSID1020516
+57158|1,1,1-Trichloro-2-methyl-2-propanol||DTXSID1041217
+57227|22-Oxovincaleukoblatine||DTXSID1032278
+57249|Strychnidin-10-one||DTXSID6023600
+57272|(5alpha,6alpha)-7,8-Didehydro-4,5-epoxy-17-methylmorphinan-3,6-diol|Pharmaceutical Personal Care Products (PPCPs)|DTXSID9023336
+57294|(5 alpha, 6 alpha)-7,8-Didehydro-4,5-epoxy-17-(2-propenyl)morphinan-3,6-diol hydrochloride||
+57307|5-Ethyl-5-phenyl-2,4,6(1H,3H,5H)-pyrimidinetrione sodium salt (1:1)||DTXSID0021123
+57330|5-Ethyl-5-(1-methylbutyl)-2,4,6(1H,3H,5H)-pyrimidinetrione sodium salt (1:1)||DTXSID9021712
+57396|1,1',1''-Phosphinylidynetris[2-methyl]aziridine||DTXSID5020815
+57410|5,5-Diphenyl-2,4-imidazolidinedione||DTXSID8020541
+57432|Amobarbital||DTXSID9020081
+57443|5,5-Diethyl-2,4,6(1H,3H,5H)-pyrimidinetrione||DTXSID5022643
+57476|(3aS,8aR)-1,2,3,3a,8,8a-Hexahydro-1,3a,8-trimethylpyrrolo[2,3-b]indol-5-ol methylcarbamate (ester)||DTXSID3023471
+57487|D-Fructose||DTXSID5023081
+57501|alpha-D-Glucopyranoside, beta-D-Fructofuranosyl||DTXSID2021288
+57523|3,3,7,7-Tetraethyl-4,6-dioxa-5-thia-3,7-distannanonane, 5,5-Dioxide||DTXSID8075338
+57534|2-Methyl-2-propyl-1,3-propanediol dicarbamate||DTXSID3023261
+57556|1,2-Propanediol|Glycol Ethers|DTXSID0021206
+57567|Semicarbazide||DTXSID7043823
+57578|2-Oxetanone||DTXSID8021197
+57603|2-Oxopropanoic acid, Ion(1-)||DTXSID50205604
+57625|(4S,4aS,5aS,6S,12aS)-7-Chloro-4-(dimethylamino)-1,4,4a,5,5a,6,11,12a-octahydro-3,6,10,12,12a-pentahydroxy-6-methyl-1,11-dioxo-2-naphthacenecarboxamide||DTXSID9022811
+57636|(17alpha)-19-Norpregna-1,3,5(10)-trien-20-yne-3,17-diol|Pharmaceutical Personal Care Products (PPCPs)|DTXSID5020576
+57647|2-Hydroxybenzoic acid compd. with (3aS-cis)-1,2,3,3a,8,8a-Hexahydro-1,3a,8-trimethylpyrrolo[2,3-b]indol-5-yl methylcambamate (1:1)||DTXSID80883232
+57669|4-[(Dipropylamino)sulfonyl]benzoic acid||DTXSID9021188
+57670|4-Amino-N-(aminoiminomethyl)benzenesulfonamide||DTXSID1023609
+57681|4-Amino-N-(4,6-dimethyl-2-pyrimidinyl)benzenesulfonamide||DTXSID6021290
+57716|2,3-Butanedione, Monooxime||DTXSID7024669
+57749|1,2,4,5,6,7,8,8-Octachloro-2,3,3a,4,7,7a-hexahydro-4,7-methano-1H-indene||DTXSID7020267
+57830|Pregn-4-ene-3,20-dione|Pharmaceutical Personal Care Products (PPCPs)|DTXSID3022370
+57852|(17beta)-17-(1-Oxopropoxy)androst-4-en-3-one||DTXSID9036515
+57874|(3beta,22E)-Ergosta-5,7,22-trien-3-ol||DTXSID90878679
+57885|3 beta-Cholest-5-en-3-ol||DTXSID3022401
+57910|(17alpha.)-Estra-1,3,5(10)-triene-3,17-diol ||DTXSID8022377
+57921|O-2-Deoxy-2-(methylamino)-alpha-L-glucopyranosyl-(1->2)-O-5-deoxy-3-C-formyl-alpha-L-lyxofuranosyl-(1->4)-N1,N3-bis(aminoiminomethyl)-D-streptamine||DTXSID4023597
+57943|(13aR,25aS)-2,3,13a,14,15,16,25,25a-Octahydro-9,19-dihydroxy-18,29-dimethoxy-1,14,14-trimethyl-13H-4,6:21,24-dietheno-8,12-metheno-1H-pyrido[3',2':14,15][1,11]dioxacycloeicosino[2,3,4-ij]isoquinolinium chloride, Hydrochloride||
+57954|(13aR,25aS)-2,3,13a,14,15,16,25,25a-Octahydro-9,19-dihydroxy-18,29-dimethoxy-1,14,14-trimethyl-13H-4,6:21,24-Dietheno-8,12-metheno-1H-pyrido[3',2':14,15][1,11]dioxacycloeicosino[2,3,4-ij]isoquinolinium||DTXSID0048393
+57976|7,12-Dimethylbenz[a]anthracene||DTXSID1020510
+58004|(6aR)-5,6,6a,7-Tetrahydro-6-methyl-4H-dibenzo[de,g]quinoline-10,11-diol||DTXSID8022614
+58082|3,7-Dihydro-1,3,7-trimethyl-1H-purine-2,6-dione||DTXSID0020232
+58140|Pyrimethamine||DTXSID9021217
+58151|4-(Dimethylamino)-1,2-dihydro-1,5-dimethyl-2-phenyl-3H-pyrazol-3-one||DTXSID7020504
+58184|(17beta)-17-Hydroxy-17-methylandrost-4-en-3-one||DTXSID1033664
+58220|(17beta)-17-Hydroxyandrost-4-en-3-one|Pharmaceutical Personal Care Products (PPCPs)|DTXSID8022371
+58253|7-Chloro-N-methyl-5-phenyl-3H-1, 4-benzodiazepin-2-amine 4-oxide|Pharmaceutical Personal Care Products (PPCPs)|
+58275|2-Methyl-1,4-naphthalenedione||DTXSID4021715
+58286|10,11-Dihydro-N-methyl-5H-dibenz[b,f]azepine-5-propanamine monohydrochloride||DTXSID9046942
+58366|10,10'-Oxybis-10H-phenoxarsine||DTXSID0032443
+58402| N,N-Dimethyl-10H-phenothiazine-10-propanamine||
+58548|2-[2,3-Dichloro-4-(2-methylene-1-oxobutyl)phenoxy]acetic acid||DTXSID3025257
+58559|3,7-Dihydro-1,3-dimethyl-1H-purine-2,6-dione|Pharmaceutical Personal Care Products (PPCPs)|DTXSID5021336
+58560|5-Hydroxy-6-methyl-3,4-pyridinedimethanol, Hydrochloride||DTXSID1040792
+58582|3'-[[(2S)-2-Amino-3-(4-methoxyphenyl)-1-oxopropyl]amino]-3'-deoxy-N,N-dimethyladenosine, Hydrochloride (1:2)||
+58617|Adenosine||DTXSID1022558
+58639|Inosine||DTXSID2045993
+58640|Adenosine 5'-(trihydrogen diphosphate)||DTXSID60883210
+58719|(6Rtrans)-3-[(Acetylyloxy)methyl]-8-oxo-7-[(2-thienylacetyl)amino]-5-thia-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylic acid monosodium salt||
+58731|2-(Diphenylmethoxy)-N,N-dimethylethanamine|Pharmaceutical Personal Care Products (PPCPs)|DTXSID4022949
+58742|1-[(3,4-Dimethoxyphenyl)methyl]-6,7-dimethoxyisoquinoline||
+58855|(3aS,4S,6aR)-Hexahydro-2-oxo-1H-thieno[3,4-d]imidazole-4-pentanoic acid||DTXSID7022679
+58866|D-Xylose||DTXSID0023745
+58899|(1alpha,2alpha,3beta,4alpha,5alpha,6beta)-1,2,3,4,5,6-Hexachlorocyclohexane|Pharmaceutical Personal Care Products (PPCPs)Endocrine Disrupting Chemicals (EDCs)|DTXSID2020686
+58902|2,3,4,6-Tetrachlorophenol||DTXSID9021716
+58935|6-Chloro-3,4-dihydro-2H-1,2,4-benzothiadiazine-7-sulfonamide 1,1-dioxide|Pharmaceutical Personal Care Products (PPCPs)|DTXSID2020713
+58957|[2R-[2R*(4R*,8R*)]]-3,4-Dihydro-2,5,7,8-tetramethyl-2-(4,8,12-trimethyltridecyl)-2H-1-benzopyran-6-ol, Acetate||DTXSID1031096
+58968|Uridine||DTXSID40891555
+58979|5'-Uridylic acid||
+59007|4,8-Dihydroxy-2-quinolinecarboxylic acid||DTXSID90207728
+59029|(2R)-3,4-Dihydro-2,5,7,8-tetramethyl-2-[(4R,8R)-4,8,12-trimethyltridecyl]-2H-1-benzopyran-6-ol||DTXSID0026339
+59052|N-[4-[[(2,4-Diamino-6-pteridinyl)methyl]methylamino]benzoyl]-L-glutamic acid|Pharmaceutical Personal Care Products (PPCPs)|DTXSID4020822
+59063|Ethopabate||DTXSID6046264
+59143|5-Bromo-2'-deoxyuridine||DTXSID7033105
+59234|D-Galactose||DTXSID0023088
+59267|N,N-Diethyl-3-pyridinecarboxamide||
+59303|N-[4-[[(2-Amino-1,4-dihydro-4-oxo-6-pteridinyl)methyl]amino]benzoyl]-L-glutamic acid||DTXSID0022519
+59314|2(1H)-Quinolinone||DTXSID1058769
+59336|N1-[(4-Methoxyphenyl)methyl]-N2,N2-dimethyl-N1-2-pyridinyl-1,2-ethanediamine (2Z)-2-butenedioate (1:1)||
+59405|4-Amino-N-2-quinoxalinylbenzenesulfonamide||DTXSID8042424
+59427|(alphaR)-3-Hydroxy-alpha-[(methylamino)methyl]benzenemethanol||DTXSID9023465
+59438|3-[(4-Amino-2-methyl-5-pyrimidinyl)methyl]-5-(2-hydroxyethyl)-4-methylthiazolium chloride||DTXSID2023648
+59461|2-(Diethylamino)ethyl 4-aminobenzoate||DTXSID7045021
+59472|3-(2-Methylphenoxy)-1,2-propanediol||
+59483|1,3-Dihydro-2H-indol-2-one||DTXSID80870389
+59494|2(3H)-Benzoxazolone||DTXSID9049324
+59507|4-Chloro-3-methylphenol||DTXSID4021717
+59518|DL-Methionine||DTXSID9020821
+59529|2,3-Dimercapto-1-propanol||
+59665|Acetazolamide||DTXSID7022544
+59676|3-Pyridinecarboxylic acid||DTXSID1020932
+59858|(4-Carboxylatophenyl)chloromercurate(1-) hydrogen|Mercury|DTXSID8040725
+59870|2-((5-Nitro-2-furanyl)methylene)hydrazine carboxamide||DTXSID5020944
+59881|Phenylhydrazine, Monohydrochloride||DTXSID3021148
+59892|4-Nitrosomorpholine|Nitrosamines|DTXSID4021056
+59927|3-Hydroxy-L-tyrosine|Pharmaceutical Personal Care Products (PPCPs)|DTXSID9023209
+59972|Tolazoline hydrochloride||DTXSID9021718
+59983|4,5-Dihydro-2-(phenylmethyl)-1H-imidazole||DTXSID3023683
+59994|3-[(Dimethylcarbamoyl)oxy]-N,N,N-trimethylanilinium||DTXSID1023360
+60004|N,N'-1,2-Ethanediylbis[N-(carboxymethyl)glycine||DTXSID6022977
+60015|1,2,3-Propanetriyl ester butanoic acid||DTXSID4052267
+60093|4-(Phenylazo)benzenamine||DTXSID6024460
+60106|2-Phenyldiazenecarbothioic acid 2-phenylhydrazide||DTXSID0058770
+60117|4-Dimethylaminoazobenzene||DTXSID5020491
+60128|Benzeneethanol||DTXSID9026342
+60139|(+-)-alpha-Methylbenzeneethanamine sulfate (2:1)||DTXSID4020082
+60184|L-Tyrosine||DTXSID1023730
+60195|4-(2-Aminoethyl)phenol hydrochloride (1:1)||
+60231|2-Aminoethanethiol||DTXSID3022875
+60242|2-Mercaptoethanol||DTXSID4026343
+60297|Ethoxyethane||DTXSID3021720
+60311|2-(Acetoyloxy)-N,N,N-trimethylethanaminium chloride||DTXSID5048978
+60322|6-Aminohexanoic acid||DTXSID0020070
+60333|(Z,Z)-9,12-Octadecadienoic acid||DTXSID2025505
+60344|Monomethylhydrazine||DTXSID4020874
+60355|Acetamide|Endocrine Disrupting Chemicals (EDCs)|DTXSID7020005
+60402|N,2,3,3-Tetramethylbicyclo[2.2.1]heptan-2-amine||
+60413|Strychnidin-10-one, Sulfate (2:1)||DTXSID8021721
+60515|O,O-Dimethyl S-[2-(methylamino)-2-oxoethyl]phosphorodithioic acid ester|Endocrine Disrupting Chemicals (EDCs)|DTXSID7020479
+60548|(4S,4aS,5aS,6S,12aS)-4-(Dimethylamino)-1,4,4a,5,5a,6,11,12a-octahydro-3,6,10,12,12a-pentahydroxy-6-methyl-1,11-dioxo-2-naphthacenecarboxamide|Pharmaceutical Personal Care Products (PPCPs)|DTXSID7023645
+60560|1,3-Dihydro-1-methyl-2H-imidazoline-2-thione|Pharmaceutical Personal Care Products (PPCPs)|DTXSID4020820
+60571|(1aR,2R,2aS,3S,6R,6aR,7S,7aS)-rel-3,4,5,6,9,9-Hexachloro-1a,2,2a,3,6,6a,7,7a-octahydro-2,7:3,6-dimethanonaphth[2,3-b]oxirene ||DTXSID9020453
+60708|(23R)-14,15,16,17-Tetradehydroveratraman-3beta,23-diol||DTXSID40871534
+60800|1,2-Dihydro-1,5-dimethyl-2-phenyl-3H-pyrazol-3-one||DTXSID6021117
+60811|1-[2-(beta-D-Glucopyranosyloxy)-4,6-dihydroxyphenyl]-3-(4-hydroxyphenyl)-1-propanone||DTXSID3075339
+60822|3-(4-Hydroxyphenyl)-1-(2,4,6-trihydroxyphenyl)-1-propanone||DTXSID6022393
+60877|N,N,alpha-Trimethyl-10H-phenothiazine-10-ethanamine|Pharmaceutical Personal Care Products (PPCPs)|
+60924|Cyclic 3',5'-(hydrogen phosphate)adenosine||DTXSID8040436
+60935|(8alpha,9R)-6'-Methoxycinchonan-9-ol hydrochloride (1:2)||DTXSID00975421
+61018|2-Methoxy-N,N-dimethyl-10H-phenothiazine-10-propanamine||
+61165|alpha-(1-Aminoethyl)-2,5-dimethoxybenzenemethanol hydrochloride (1:1)||DTXSID7045782
+61198|5'-Adenylic acid||DTXSID5022560
+61256|1-[(3,4-Dimethoxyphenyl)methyl]-6,7-dimethoxyisoquinoline hydrochloride||
+61289|1-Ethyl-1,3-dinitro-2H-indol-2-one||DTXSID5058771
+61314|1-Naphthaleneacetic acid, Sodium salt||DTXSID6034897
+61336|(2S,5R,6R)-3,3-Dimethyl-7-oxo-6-[(phenylacetyl)amino]-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid||DTXSID5046934
+61507|N,N-Dimethyl-1H-indole-3-ethanamine||DTXSID60110053
+61541|1H-Indole-3-ethanamine||DTXSID2075340
+61574|1-(5-Nitro-2-thiazolyl)-2-imidazolidinone||DTXSID6045244
+61687|2-[(2,3-Dimethylphenyl)amino]benzoic acid||DTXSID5023243
+61723|(2S,5R,6R)-6-[[[3-(2-Chlorophenyl)-5-methyl-4-isoxazolyl]carbonyl]amino]-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid||DTXSID5022853
+61734|7-(Dimethylamino)-3-(methylimino)-3H-phenothiazine, 3-Methochloride||DTXSID0023296
+61756|2-Bromo-N-ethyl-N,N-dimethylbenzene methanaminium-4-methylbenzene sulfonate||
+61767|(alphaR)-3-Hydroxy-alpha-[(methylamino)methyl]-benzenemethanol hydrochloride (1:1)||
+61789|N-(4-Aminobenzoyl)glycine||
+61803|5-Chloro-2-benzoxazolamine||DTXSID1045245
+61825|1H-1,2,4-Triazol-3-amine||DTXSID0020076
+61905|L-Leucine||DTXSID9023203
+61949|1,2,5,6-Tetrahydro-1-methyl-3-pyridinecarboxylic acid methyl ester hydrochloride (1:1)||
+62135|1-(3,4-Dihydroxyphenyl)-2-(methylamino)ethanone hydrochloride (1:1)||DTXSID30211026
+62237|4-Nitrobenzoic acid||DTXSID3020966
+62317|4-(2-Aminoethyl)-1,2-benzenediol hydrochloride (1:1)||DTXSID7020550
+62339|(OC-6-21)-Disodium[[N,N'-1,2-ethanediylbis[N-[(carboxy-kappaO)methyl]glycinato-kappaN,kappaO]](4-)]calciate(2-)||DTXSID2036409
+62373|[3-[(Aminocarbonyl-kappaO)amino]-2-methoxypropyl-kappaC]chloromercury|Mercury|
+62384|(Acetato-kappaO)phenylmercury|Mercury|DTXSID7021150
+62442|N-(4-Ethoxyphenyl)acetamide||DTXSID1021116
+62497|2-Hydroxy-N,N,N-trimethylethanaminium||DTXSID8043789
+62500|Methanesulfonic acid, Ethyl ester||DTXSID6025309
+62511|2-(Acetyloxy)-N,N,N-trimethyl-1-propanaminium chloride (1:1)||
+62533|Benzenamine|Endocrine Disrupting Chemicals (EDCs)|DTXSID8020090
+62544|Acetic acid, Calcium salt (2:1)||
+62555|Thioacetamide||DTXSID9021340
+62566|Thiourea||DTXSID9021348
+62577|2-Methylalanine||DTXSID0058772
+62599|(3beta,4alpha,16beta)-4,9-Epoxycevane-3,4,12,14,16,17,20-heptol 3-[(2Z)-2-methyl-2-butenoate]||DTXSID4058237
+62680|alpha-Phenyl-alpha-propylbenzeneacetic acid 2-(diethylamino)ethyl ester hydrochloride (1:!)||DTXSID1045792
+62737|Phosphoric acid 2,2-dichloroethenyl dimethyl ester||DTXSID5020449
+62748|2-Fluoroacetic acid sodium salt (1:1)||DTXSID8024311
+62759|N-Methyl-N-nitrosomethanamine|Endocrine Disrupting Chemicals (EDCs)Nitrosamines|DTXSID7021029
+62760|Ethanedioic acid, Disodium salt||DTXSID1037018
+63058|Androst-4-ene-3,17-dione||DTXSID8024523
+63252|1-Naphthalenol methylcarbamate|Endocrine Disrupting Chemicals (EDCs)|DTXSID9020247
+63398|Uridine 5'-(tetrahydrogen triphosphate)||DTXSID0041147
+63423|4-O-beta-D-Galactopyranosyl-D-glucose||DTXSID2023193
+63456|Phosphoric acid--N~4~-(6-methoxyquinolin-8-yl)pentane-1,4-diamine||DTXSID6045248
+63683|L-Methionine||DTXSID5040548
+63741|4-Aminobenzenesulfonamide||DTXSID4023622
+63752|Methyl 1-methyl-1,2,5,6-tetrahydropyridine-3-carboxylate||DTXSID3022617
+63912|L-Phenylalanine||DTXSID4040763
+63990|N-3-Tolylurea||DTXSID1075351
+64006|3-(1-Methylethyl)phenol, 1-(N-Methylcarbamate)||DTXSID1040324
+64028|N,N'-1,2-Ethanediyl bis[N-(carboxymethyl)glycine, sodium salt (1:4) ||DTXSID3026350
+64040|Benzeneethanamine||DTXSID5058773
+64108|N-Phenylurea||DTXSID8042507
+64175|Ethanol||DTXSID9020584
+64186|Formic acid||DTXSID2024115
+64197|Acetic acid||DTXSID5024394
+64200|N,N,N-Trimethylmethanaminium bromide (1:1)||DTXSID80883212
+64313|(5alpha,6alpha)-7,8-Didehydro-4,5-epoxy-17-methylmorphinan-3,6-diol, Sulfate (2:1)|Pharmaceutical Personal Care Products (PPCPs)|DTXSID4023830
+64471|(3as-cis)-1,2,3,3a,8,8a-Hexahydro-1,3a,8-trimethylpyrrolo[2,3-b]indol-5-ol, Methylcarbanate(ester), Sulfate(2:1)||DTXSID10889323
+64675|Sulfuric acid diethyl ester||DTXSID1024045
+64697|2-Iodoacetic acid||DTXSID5025445
+64722|(4S,4aS,5aS,6S,12aS)-7-Chloro-4-(dimethylamino)-1,4,4a,5,5a,6,11,12a-octahydro-3,6,10,12,12a-pentahydroxy-6-methyl-1,11-dioxo-2-naphthacenecarboxamide hydrochloride (1:1)||DTXSID2045076
+64733|(4S,4aS,5aS,6S,12aS)-7-Chloro-4-(dimethylamino)-1,4,4a,5,5a,6,11,12a-octahydro-3,6,10,12,12a-pentahydroxy-1,11-dioxo-2-naphthacenecarboxamide hydrochloride (1:1)||
+64755|(4S,4aS,5aS,6S,12aS)-4-(dimethylamino)-1,4,4a,5,5a,6,11,12a-octahydro-3,6,10,12,12a-pentahydroxy-6-methyl-1,11-dioxo-2-Naphthacenecarboxamide,Hydrochloride (1:1)|Pharmaceutical Personal Care Products (PPCPs)|DTXSID6021321
+64777|N-[(Butylamino)carbonyl]-4-methylbenzenesulfonamide||DTXSID8021359
+64857|21-Hydroxypregn-4-ene-3,20-dione||DTXSID0045254
+64868|(S)-N-(5,6,7,9-Tetrahydro-1,2,3,10-tetramethoxy-9-oxobenzo[1]heptalen-7-yl)acetamide|Pharmaceutical Personal Care Products (PPCPs)|DTXSID5024845
+65190|(16alpha,17alpha)-17-Hydroxyyohimban-16-carboxylic acid methyl ester hydrochloride (1:1)||DTXSID40891272
+65225|3-Hydroxy-5-(hydroxymethyl)-2-methyl-4-pyridinecarboxaldehyde hydrochloride (1:1)||DTXSID0058774
+65236|5-Hydroxy-6-methyl-3,4-pyridinedimethanol||
+65281|3-[[(4,5-Dihydro-1H-imidazol-2-yl)methyl](4-methylphenyl)amino]-phenol methanesulfonate (1:1)||
+65305|3-[(2S)-1-Methyl-2-pyrrolidinyl]pyridine sulfate (2:1)||DTXSID8021725
+65316|(S)-3-(1-Methyl-2-pyrrolidinyl)pyridine, [R-(R*,R*)]-2,3-Dihydroxybutanedioate (1:2)||DTXSID401017270
+65452|2-Hydroxybenzamide||DTXSID3021726
+65463|4-Amino-1-beta-D-ribofuranosyl-2(1H)-pyrimidinone||
+65496|4-Aminosalicylic acid||DTXSID2022591
+65612|N,N,N',N'-Tetramethyl-3,6-acridinediamine, Monohydrochloride||DTXSID40883213
+65714|Thymine||DTXSID4052342
+65850|Benzoic acid||DTXSID6020143
+65861|Orotic acid||DTXSID0025814
+66228|Uracil||DTXSID4021424
+66251|Hexanal||DTXSID2021604
+66273|Methanesulfonic acid methyl ester||DTXSID7020845
+66320|Strychnidin-10-one, Mononitrate||DTXSID80873370
+66400|N,N,N-Triethylethanaminium||DTXSID2045024
+66568|2,3-Dinitrophenol||DTXSID2075261
+66717|1,10-Phenanthroline||DTXSID1025857
+66728|3-Hydroxy-5-(hydroxymethyl)-2-methyl-4-pyridine carboxaldehyde||DTXSID4046020
+66762|3,3'-Methylenebis[4-hydroxy]-2H-1-benzopyran-2-one||DTXSID8021729
+66773|1-Naphthalene carboxaldehyde||DTXSID5058775
+66819|4-[(2R)-2-[(1S,3S,5S)-3,5-Dimethyl-2-oxocyclohexyl]-2-hydroxyethyl]-2,6-piperidinedione||DTXSID6024882
+66977|7H-Furo[3,2-g][1]benzopyran-7-one||DTXSID00216205
+66999|2-Naphthalenecarboxaldehyde||DTXSID6075352
+67038|3-[(4-Amino-2-methyl-5-pyrimidinyl)methyl]-5-(2-hydroxyethyl)-4-methylthiazolium chloride (1:1), hydrochloride (1:1)||DTXSID0040622
+67072|N-[Imino(phosphonoamino)methyl]-N-methylglycine||
+67209|1-[[(5-Nitro-2-furanyl)methylene]amino]-2,4-imidazolidinedione|Pharmaceutical Personal Care Products (PPCPs)|DTXSID7020972
+67210|S-Ethyl-DL-homocysteine||DTXSID0020579
+67301|[4-(4-Hydroxy-3,5-diiodophenoxy)-3,5-diiodophenyl]acetic acid||DTXSID5048186
+67367|4-Phenoxybenzaldehyde||DTXSID7021730
+67425|Ethyleneglycolbis-aminoethyl ether tetraacetic acid|Glycol Ethers|DTXSID2045151
+67436|N,N-Bis[2-[bis(carboxymethyl)amino]ethyl]glycine||DTXSID2023434
+67458|3-[[(5-Nitro-2-furanyl)methylene]amino]-2-oxazolidinone||DTXSID4041997
+67470|5-(Hydroxymethyl)-2-furancarboxaldehyde||DTXSID3030428
+67481|2-Hydroxy-N,N,N-trimethylethan-1-aminium chloride||DTXSID4020325
+67516|3,5-Dimethyl-1H-pyrazole||DTXSID5058777
+67527|Barbituric acid||DTXSID8020129
+67561|Methanol|Endocrine Disrupting Chemicals (EDCs)|DTXSID2021731
+67630|2-Propanol||DTXSID7020762
+67641|Propan-2-one|Endocrine Disrupting Chemicals (EDCs)|DTXSID8021482
+67663|Trichloromethane||DTXSID1020306
+67685|Sulfinyl bis(methane)||DTXSID2021735
+67721|1,1,1,2,2,2-Hexachloroethane||DTXSID7020689
+67787|(11beta,16alpha)-16,21-Bis(acetyloxy)-9-fluoro-11,17-dihydroxypregna-1,4-diene-3,20-dione||
+67925|Bicyclohexyl-1-carboxylic acid,2-diethylaminoethyl ester, HCl||DTXSID0058778
+67970|(1S,3Z)-3-[(2E)-2-[(1R,3aS,7aR)-1-[(1R)-1,5-Dimethylhexyl]octahydro-7a-methyl-4H-inden-4-ylidene]ethylidene]-4-methylenecyclohexanol||DTXSID6026294
+67981|alpha-[4-[2-(Diethylamino)ethoxy]phenyl]-4-methoxy-alpha-phenylbenzeneethanol||DTXSID6020806
+67992|2,3,5a,6-Tetrahydro-6-hydroxy-3-(hydroxymethyl)-2-methyl-10H-3,10a-epidithiopyrazino[1,2-a]indole-1,4 dione||DTXSID60877179
+68042|Trisodium 2-hydroxypropane-1,2,3-tricarboxylate||DTXSID2026363
+68111|Mercaptoacetic acid||DTXSID8026141
+68122|N,N-Dimethylformamide||DTXSID6020515
+68199|Vitamin B12||DTXSID7044346
+68224|(17alpha)-17-Hydroxy-19-norpregn-4-en-20-yn-3-one|Pharmaceutical Personal Care Products (PPCPs)|DTXSID9023380
+68268|Retinol||DTXSID3023556
+68348|4-Methyl-N-phenylbenzenesulfonamide||DTXSID40883218
+68359|4-Amino-N-2-pyrimidinylbenzenesulfonamide||DTXSID7044130
+68360|1,4-bis(trichloromethyl)benzene||DTXSID7026366
+68417|(R)-4-Amino-3-isoxazolidinone||
+68768|2,3,5-Tris(1-aziridinyl)-2,5-cyclohexadiene-1,4-dione||DTXSID1021370
+68893|1-[(2,3-Dihydro-1,5-dimethyl-3-oxo-2-phenyl-1H-pyrazol-4-yl)methylamino]methanesulfonic acid sodium salt (1:1)||DTXSID8020543
+68940|1,7-Dihydro-6H-purin-6-one||
+68962|17-Hydroxypregn-4-ene-3,20-dione||DTXSID6040747
+69056|N4-(6-Chloro-2-methoxy-9-acridinyl)-N1,N1-diethyl-1,4-pentanediamine hydrochloride (1:2)||DTXSID6025985
+69090|2-Chloro-N,N-dimethyl-10H-phenothiazine-10-propanamine monohydrochloride||DTXSID7024827
+69330|7-beta-D-Ribofuranosyl-7H-pyrrolo[2,3-d]pyrimidin-4-amine||DTXSID701018946
+69432|2-Hydroxypropanoic acid compd. with N-(1-methyl-2-phenylethyl)-gamma-phenylbenzenepropanamine (1:1)||DTXSID5045544
+69523|(2S,5R,6R)-6-[[(2R)-2-Amino-2-phenylacetyl]amino]-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid, sodium salt (1:1)|Pharmaceutical Personal Care Products (PPCPs)|DTXSID60988759
+69534|(2S,5R,6R)-6-[[(2R)-2-Amino-2-phenylacetyl]amino]-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid|Pharmaceutical Personal Care Products (PPCPs)|DTXSID4022602
+69578|(2S,5R,6R)-3,3-Dimethyl-7-oxo-6-[(2-phenylacetyl)amino]-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid sodium salt (1:1)||DTXSID6040581
+69658|D-Mannitol||DTXSID1023235
+69727|2-Hydroxybenzoic acid||DTXSID7026368
+69783|3,3'-Dithiobis[6-nitrobenzoic acid]||
+69794|4-O-alpha-D-Glucopyranosyl-D-glucose||DTXSID1023233
+69896|3,7-Dihydro-1H-purine-2,6-dione||
+69932|7,9-Dihydro-1H-purine-2,6,8(3H)-trione||DTXSID3042508
+70008|2'-Deoxy-5-(trifluoromethyl)uridine||DTXSID4046602
+70075|5-[(2-Methoxyphenoxy)methyl]-2-oxazolidinone||DTXSID9023255
+70111|2-Bromo-1-phenylethanone||DTXSID2049426
+70188|L-gamma-Glutamyl-L-cysteinylglycine||DTXSID6023101
+70224|1-[4-(1-Pyrrolidinyl)-2-butyn-1-yl]-2-pyrrolidinone||
+70257|N-Methyl-N'-nitro-N-nitrosoguanidine|Nitrosamines|DTXSID2020846
+70268|L-Ornithine||
+70304|2,2'-Methylenebis[3,4,6-trichlorophenol]||DTXSID6020690
+70348|1-Fluoro-2,4-dinitrobenzene||DTXSID8025331
+70382|2,2-Dimethyl-3-(2-methyl-1-propenyl)cyclopropanecarboxylic acid, (2,4-Diemethylphenyl)methyl ester||DTXSID8040305
+70473|L-Asparagine||DTXSID10883220
+70495|Mercaptobutanedioic acid||DTXSID20861615
+70519|N4-[5-[[4-[[5-(Acetylhydroxyamino)pentyl]amino]-1,4-dioxobutyl]hydroxyamino]pentyl]-N1-(5-aminopentyl)-N1-hydroxybutanediamide||DTXSID7022887
+70542|Lysine||DTXSID90859004
+70553|4-Methylbenzenesulfonamide||DTXSID8029105
+70699|1-(4-Aminophenyl)-1-propanone||DTXSID7021738
+70702|4'-Hydroxypropiophenone||DTXSID8023426
+70780|3-Iodo-L-tyrosine||DTXSID1075353
+71001|L-Histidine||DTXSID9023126
+71238|Propan-1-ol||DTXSID2021739
+71272|Succinylcholine chloride||
+71307|4-Amino-2(1H)-pyrimidinone||
+71363|1-Butanol|Endocrine Disrupting Chemicals (EDCs)|DTXSID1021740
+71410|1-Pentanol||DTXSID6021741
+71432|Benzene|Endocrine Disrupting Chemicals (EDCs)|DTXSID3039242
+71443|N1,N4-Bis(3-aminopropyl)-1,4-butanediamine||DTXSID9058781
+71487|Cobalt acetate|Cobalt|DTXSID6026373
+71501|Acetic acid, Ion (1-)||
+71556|1,1,1-Trichloroethane|Endocrine Disrupting Chemicals (EDCs)|DTXSID0021381
+71589|(6alpha)-17-(Acetyloxy)-6-methylpregn-4-ene-3,20-dione||DTXSID0025527
+71625|(3beta,4alpha,16beta)-4,9-Epoxycevane-3,4,12,14,16,17,20-heptol 3-(3,4-dimethoxybenzoate)||DTXSID2058467
+71636|(3 beta, 5 beta)-3-[(O-2,6-Dideoxy-beta-D-ribo-hexopyranosyl-(1->4)-O-2,6-dideoxy-beta-D-ribo-hexopyranosyl-(1->4)-2,6-dideoxy-beta-D-ribo-hexopyranosyl)oxy]-14-hydroxycard-20(22)-enolide||
+71670|3,3'-(4,5,6,7-Tetrabromo-3-oxo-1(3H)-isobenzofuranylidene)bis[6-hydroxybenzenesulfonic acid disodium salt||DTXSID9023621
+71738|5-Ethyldihydro-5-(1-methylbutyl)-2-thioxo-4,6(1H,5H)-pyrimidinedione, Monosodium salt||DTXSID1021744
+71909|DL-2-Methylglutamic acid||DTXSID101018948
+71910|N,N,N-Triethylethanaminium bromide||DTXSID9044457
+71965|Phosphoric acid, 2,2-Dichloroethenyl bis(1-methylethyl) ester||
+71987|DDVP, Propyl homolog||DTXSID9075169
+72004|Phosphoric acid 2,2-dichlororethenyl diethyl ester||DTXSID8075170
+72140|4-Amino-N-2-thiazolybenzenesulfonamide||DTXSID8026068
+72173|2-Hydroxy propanoic acid, Monosodium salt||DTXSID6052829
+72184|L-Valine||DTXSID40883233
+72195|L-Threonine||DTXSID2046412
+72208|3,4,5,6,9,9-Hexachloro-1a,2,2a,3,6,6a,7,7a-octahydro-[2,7:3,6-dimethanonaphth[2,3-b]oxirene,[1a alpha,2 beta,2a beta,3 alpha,6 alpha,6a beta,7 beta,7a alpha]||DTXSID6020561
+72333|(17alpha)-3-Methoxy-19-norpregna-1,3,5(10)-trien-20-yn-17-ol||DTXSID0020814
+72435|1,1'-(2,2,2-Trichloroethylidene)bis[4-methoxybenzene]||DTXSID9020827
+72446|2-Methyl-3-(2-methylphenyl)-4(3H)-quinazdinone||
+72480|1,2-Dihydroxy-9,10-anthracenedione||DTXSID5045960
+72548|1,1'-(2,2-Dichloroethylidene)bis[4-chlorobenzene]|DDT and metabolites|DTXSID4020373
+72559|1,1'-(2,2-Dichloroethenylidene)bis[4-chlorobenzene]|DDT and metabolites|DTXSID9020374
+72560|1,1'-(2,2-Dichloroethylidene)bis[4-ethylbenzene|DDT and metabolites|DTXSID4020589
+72571|3,3'-[(3,3'-Dimethyl[1,1'-biphenyl]-4,4'-diyl)bis(aso)]bis-5-amino-4-hydroxy-2,7-naphthalenedisulfonic acid, Tetrasodium salt||DTXSID4026268
+72695|3-(10,11-Dihydro-5H-dibenzo[a,d][7]annulen-5-ylidene)-N-methylpropan-1-amine|Pharmaceutical Personal Care Products (PPCPs)|DTXSID9023384
+73030|Cordycepin 3'-deoxyadenosine||DTXSID1041007
+73052|3-[[(4,5-Dihydro-1H-imidazol-2-yl)methyl](4-methylphenyl)amino]phenol hydrochloride (1:1)||DTXSID40223271
+73223|L-Tryptophan||DTXSID5021419
+73245|9H-Purin-6-amine||DTXSID6022557
+73314|N-[2-(5-Methoxy-1H-indol-3-yl)ethyl]acetamide||DTXSID1022421
+73325|L-Isoleucine||DTXSID1047441
+73405|2-Amino-1,7-dihydro-6H-purine-6-one||DTXSID9052476
+73483|3,4-Dihydro-3-(phenylmethyl)-6-(trifluoromethyl)-2H-1,2,4-benzothiadiazine-7-sulfonamide 1,1-dioxide||DTXSID5022647
+73676|4-Amino-2-methyl-5-pyrimidinemethanol||
+73789|2-(Diethylamino)-N-(2,6-dimethylphenyl)acetamide hydrochloride (1:1)||DTXSID4058782
+74113|4-Chlorobenzoic acid||DTXSID9024772
+74317|N1,N4-Diphenyl-1,4-benzenediamine||DTXSID9020538
+74395|4-[-(4-Nitrophenyl)azo]-1,3-benzenediol||DTXSID30861621
+74599|O,O-Bis(1-methylethyl) O-(4-nitrophenyl) ester||DTXSID6075354
+74613|2,3-Dimercapto-1-propanesulfonic acid||DTXSID5048344
+74793|L-Arginine||DTXSID6041056
+74828|Methane||
+74839|Bromomethane||DTXSID8020832
+74840|Ethane||DTXSID6026377
+74851|Ethene||DTXSID1026378
+74862|Ethyne||
+74873|Chloromethane||DTXSID0021541
+74884|Iodomethane||DTXSID0024187
+74895|Methanamine||DTXSID7025683
+74908|Hydrocyanic acid||DTXSID9024148
+74931|Methanethiol||DTXSID5026382
+74953|Dibromomethane||DTXSID4021557
+74964|Bromoethane||DTXSID6020199
+74975|Bromochloromethane||DTXSID4021503
+74986|Propane||
+75003|Chloroethane||DTXSID1020302
+75014|Chloroethene||DTXSID8021434
+75036|Iodoethane||DTXSID9058783
+75047|Ethanamine||DTXSID8025678
+75058|Acetonitrile||DTXSID7020009
+75070|Acetaldehyde|Endocrine Disrupting Chemicals (EDCs)|DTXSID5039224
+75081|Ethyl mercaptan||DTXSID9026394
+75092|Methylene chloride|Endocrine Disrupting Chemicals (EDCs)|DTXSID0020868
+75105|Difluoromethane||
+75127|Formamide||DTXSID8025337
+75150|Carbon disulfide||DTXSID6023947
+75183|1,1'-Thiobismethane||DTXSID9026398
+75194|Cyclopropane||
+75207|Calcium carbide||
+75218|Ethylene oxide||DTXSID0020600
+75252|Tribromomethane||DTXSID1021374
+75274|Bromodichloromethane||DTXSID1020198
+75285|2-Methylpropane||DTXSID1026401
+75296|2-Chloropropane||DTXSID6047739
+75309|SEC-Propyliodide||
+75310|Isopropyl amine||DTXSID2025682
+75343|1,1-Dichloroethane|Endocrine Disrupting Chemicals (EDCs)|DTXSID1020437
+75354|1,1-Dichloroethene|Endocrine Disrupting Chemicals (EDCs)|DTXSID8021438
+75365|Acetyl chloride||DTXSID2023852
+75376|1,1-Difluoroethane|Per- and Polyfluoroalkyl Substances (PFAS)|DTXSID0024050
+75398|1-Aminoethanol||DTXSID60996495
+75445|Carbonic dichloride||
+75456|Chloro(difluoro)methane|Per- and Polyfluoroalkyl Substances (PFAS)|
+75467|Trifluoromethane||DTXSID0026410
+75478|Iodoform||DTXSID4020743
+75503|Trimethylamine||DTXSID2026238
+75525|Nitromethane||DTXSID2020977
+75558|2-Methylaziridine||DTXSID8024286
+75569|2-Methyloxirane||DTXSID5021207
+75570|N,N,N-Trimethylmethanaminium, Chloride||DTXSID6021749
+75605|As,As-Dimethylarsinic acid||DTXSID7020508
+75627|Bromotrichloromethane||DTXSID7023930
+75649|tert-Butylamine||DTXSID5024681
+75650|2-Methylpropan-2-ol||DTXSID8020204
+75730|Tetrafluoromethane||DTXSID2041757
+75741|Tetramethyl lead||DTXSID0026123
+75774|Chlorotrimethylsilane||
+75785|Dichlorodimethylsilane||
+75796|Trichloromethysilane||
+75843|2,2-Dimethyl-1-propanol||DTXSID9052501
+75854|2-Methyl-2-butanol||DTXSID0041436
+75865|Acetone cyanohydrin||DTXSID7025427
+75876|Trichloroacetaldehyde||DTXSID7024744
+75898|2,2,2-Trifluoroethanol||DTXSID0021751
+75912|1,1-Dimethylethyl hydroperoxide||DTXSID9024693
+75967|2,2,2-Tribromoacetic acid||DTXSID6021668
+75978|3,3-Dimethyl-2-butanone||DTXSID5021752
+75989|2,2-Dimethylpropionic acid||DTXSID8026432
+75990|2,2-Dichloropropanoic acid||DTXSID2021575
+76017|1,1,1,2,2-Pentachloroethane||DTXSID7021104
+76028|2,2,2-Trichloroacetyl chloride||DTXSID9034070
+76039|Trichloroacetic acid||DTXSID1021378
+76040|2-Chloro-2,2-difluoroacetic acid||DTXSID8058792
+76051|2,2,2-Trifluoroacetic acid|Per- and Polyfluoroalkyl Substances (PFAS)|DTXSID9041578
+76062|Trichloronitromethane||DTXSID0020315
+76084|2-Methyl-1,1,1-tribromo-2-propanol||DTXSID50870396
+76095|2,3-Dimethyl-2,3-butanediol||DTXSID3058793
+76119|1,1,1,2-Tetrachloro-2,2-difluoroethane||DTXSID90861622
+76120|1,1,2,2-Tetrachloro-1,2-difluoroethane||DTXSID5026091
+76131|1,1,2-Trichloro-1,2,2-trifluoroethane||DTXSID6021377
+76142|1,2-Dichloro-1,1,2,2-tetrafluoroethane|Per- and Polyfluoroalkyl Substances (PFAS)|DTXSID8026434
+76211|2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9-Hexadecafluorononanoic acid|Per- and Polyfluoroalkyl Substances (PFAS)|DTXSID50226894
+76222|1,7,7-Trimethylbicyclo[2.2.1]heptan-2-one||DTXSID5030955
+76244|Alloxantin||
+76299|3-Bromo-1,7,7-trimethylbicyclo[2.2.1]heptan-2-one||
+76357|2,2-Dimethyl-1,3-butanediol||DTXSID10870397
+76380|2,2-Dichloro-1,1-difluoro-1-methoxyethane||DTXSID7025556
+76448|1,4,5,6,7,8,8-Heptachloro-3a,4,7,7a-tetrahydro-4,7-methano-1H-indene||DTXSID3020679
+76493|(1R,2S,4R)-rel-1,7,7-Trimethylbicyclo[2.2.1]heptan-2-ol acetate||DTXSID7041675
+76540|2',7'-Dichloro-3',6'-dihydroxyspiro[isobenzofuran-1(3H),9'- 9H xanthen]-3-one||
+76573|(5alpha,6alpha)-7,8-Didehydro-4,5-epoxy-3-methoxy-17-methylmorphinan-6-ol|Pharmaceutical Personal Care Products (PPCPs)|
+76595|4,4'-(1,1-Dioxido-3H-2,1-benzoxathiol-3-ylidene)bis[2-bromo-3-methyl-6-(1-methylethyl)-phenol||DTXSID3058799
+76608|4,4'-(3H-2,1-Benzoxathiol-3-ylidene)bis(2,6-dibromo-3-methyl)phenol, S,S-dioxide||DTXSID9044459
+76675|Ethylphenylpropanedioic acid, Diethyl ester||DTXSID5058802
+76722|Ethyl (1-methylbutyl)propanedioic acid, Diethyl ester||DTXSID601018955
+76744|5-Ethyl-5-(1-methylbutyl)-2,4,6(1H,3H,5H)-pyrimidinetrione||DTXSID7023435
+76755|5-Ethyldihydro-5-(1-methylbutyl)-2-thioxo-4,6(1H,5H)-pyrimidinedione||DTXSID1023653
+76788|2,12-Dimethoxypicrasa-2,12-diene-1,11,16-trione||
+76846|alpha,alpha-Diphenylbenzenemethanol||DTXSID0058803
+76879|Hydroxytriphenylstannane|OrganotinEndocrine Disrupting Chemicals (EDCs)|DTXSID1021409
+76904|3-[(Hydroxydiphenylacetyl)oxy]-1,1-dimethylpiperidinium bromide||
+76937|Benzilic acid||DTXSID0058805
+76993|6-(Dimethylamino)-4,4-diphenyl-3-heptanone|Pharmaceutical Personal Care Products (PPCPs)|DTXSID7023273
+77065|(1alpha,2beta,4aalpha,4bbeta,10beta)-2,4a,7-Trihydroxy-1-methyl-8-methylenegibb-3-ene-1,10-dicarboxylic acid 1,4a-lactone||DTXSID0020656
+77076|17-Methylmorphinan-3-ol||
+77098|3,3-Bis(4-hydroxyphenyl)-1(3H)-isobenzofuranone||DTXSID0021125
+77269|5-(2-Methylpropyl)-5-(2-propen-1-yl)-2,4,6(1H,3H,5H)-pyrimidinetrione|Pharmaceutical Personal Care Products (PPCPs)|DTXSID6022711
+77361|2-Chloro-5-(2,3-dihydro-1-hydroxy-3-oxo-1H-isoindol-1-yl)benzenesulfonamide|Pharmaceutical Personal Care Products (PPCPs)|DTXSID4022812
+77407|4,4'-(1-Methylpropylidene)bis[phenol]||DTXSID4022442
+77474|1,2,3,4,5,5-Hexachloro-1,3-cyclopentadiene|Endocrine Disrupting Chemicals (EDCs)|DTXSID2020688
+77485|1,3-Dibromo-5,5-dimethyl-2,4-imidazolidinedione||DTXSID3035341
+77521|(3beta)-3-Hydroxyurs-12-en-28-oic acid||DTXSID70883221
+77587|Dibutylbis[(1-oxododecyl)oxy]stannane|Organotin|DTXSID6024961
+77656|N-(Aminocarbonyl)-2-bromo-2-ethylbutanamide||DTXSID8020252
+77678|3-Ethyl-3-methyl-2,5-pyrrolidinedione||DTXSID7023019
+77714|5,5-Dimethyl-2,4-imidazolidinedione||DTXSID5021754
+77736|3a,4,7,7a-Tetrahydro-4,7-methano-1H-indene||DTXSID5025023
+77747|3-Methyl-3-pentanol||DTXSID0021755
+77758|3-Methyl-1-pentyn-3-ol||DTXSID5021756
+77770|Vinyl sulfone||
+77781|Dimethyl sulfate||DTXSID5024055
+77805|Hexaphenyldistannathiane|Organotin|DTXSID1075355
+77816|N,N-Dimethylphosphoramidocyanidic acid ethyl ester||
+77838|3-Methyl-3-phenyloxiranecarboxylic acid ethyl ester||DTXSID8020591
+77861|2-Amino-2-(hydroxymethyl)propane-1,3-diol||DTXSID2023723
+77894|2-(Acetyloxy)-1,2,3-propanetricarboxylic acid 1,2,3-triethyl ester||DTXSID5044576
+77907|2-(Acetyloxy)-1,2,3-propanetricarboxylic acid 1,2,3-tributyl ester||DTXSID2026446
+77929|2-Hydroxy-1,2,3-propanetricarboxylic acid||DTXSID3020332
+77930|2-Hydroxy-1,2,3-propanetricarboxylic acid, 1,2,3-Triethyl ester||DTXSID0040701
+77952|[1R-(1 alpha, 3 alpha, 4 alpha, 5 beta]-1,3,4,5-Tetrahydroxycyclohexanecarboxylic acid||
+77996|2-Ethyl-2-hydroxymethyl-1,3-propanediol||DTXSID2026448
+78002|Tetraethyl lead||DTXSID7023801
+78046|2,2-Dibutyl-1,3,2-dioxastannepin-4,7-dione|Organotin|DTXSID6029599
+78057|N,N-Diethyl-N-[2-[4-(1,1,3,3-tetramethylbutyl)phenoxy]ethyl]benzene methanaminium chloride||DTXSID50878675
+78080|Triethoxyvinylsilane||
+78104|Silicic acid (H4SiO4) tetraethyl ester||DTXSID6026450
+78115|Pentaerythritol tetranitrate||DTXSID2023430
+78273|1-Ethynyl cyclohexanol||DTXSID0021757
+78308|Phosphoric acid, Tris(2-methylphenyl) ester||DTXSID6032192
+78320|Phosphoric acid, Tris(4-methylphenyl)ester||DTXSID5052676
+78342|Delnav||DTXSID9020534
+78386|Ethylphosphonic acid, Diethyl ester||DTXSID7025051
+78400|Triethyl phosphate||DTXSID8026228
+78411|alpha-(4-Methylphenyl)-4-chloro-alpha-[4-[2-(diethylamino)ethoxy]phenyl]-benzeneethanol||DTXSID6046507
+78422|Phosphoric acid, Tris(2-ethylhexyl) ester||DTXSID0021414
+78444|N-(1-Methylethyl)carbamic acid 2-[[(aminocarbonyl)oxy]methyl]-2-methylpentyl ester|Pharmaceutical Personal Care Products (PPCPs)|DTXSID8024733
+78488|Phosphorotrithioic acid S,S,S-tributyl ester||DTXSID1024174
+78513|2-Butoxyethanol, 1,1',1''-Phosphate||DTXSID5021758
+78524|American Cyanamid 12008||DTXSID6075356
+78535|Phosphorothioic acid, S-[2-(Diethylamino)ethyl] O,O-diethyl ester||
+78579|S-[(4,6-Diamino-1,3,5-triazin-2-yl)methyl]O,O-dimethyl ester phosphorodithioic acid||DTXSID9042120
+78591|3,5,5-trimethyl-2-cyclohexen-1-one|Endocrine Disrupting Chemicals (EDCs)|DTXSID8020759
+78626|Dimethyldiethoxy silane||DTXSID6052538
+78660|3,6-Dimethyl-4-octyne-3,6-diol||DTXSID1041475
+78706|3-7-Dimethyl-1,6-octadien-3-ol||DTXSID7025502
+78751|1,2-Dibromopropane||DTXSID60870403
+78762|2-Bromobutane||DTXSID7021499
+78773|1-Bromo-2-methylpropane||DTXSID1052539
+78784|2-Methylbutane||
+78795|Isoprene||DTXSID2020761
+78819|Monoisobutylamine||DTXSID9025459
+78820|Isobutyronitrile||DTXSID5026461
+78831|2-Methyl-1-propanol||DTXSID0021759
+78842|2-Methylpropanal||DTXSID9021635
+78853|2-Methyl-2-propenal||
+78864|2-Chlorobutane||DTXSID9023966
+78875|1,2-Dichloropropane|Endocrine Disrupting Chemicals (EDCs)|DTXSID0020448
+78886|2,3-Dichloro-1-propene||DTXSID6025012
+78900|1,2-Propanediamine||DTXSID4021761
+78911|2-Amino-1-propanol||
+78922|2-Butanol||DTXSID9021762
+78933|2-Butanone|Endocrine Disrupting Chemicals (EDCs)|DTXSID3021516
+78944|3-Buten-2-one||DTXSID3025671
+78955|1-Chloro-2-propanone||DTXSID0021547
+78966|1-Amino-2-propanol||DTXSID9021764
+78977|Lactonitrile||DTXSID6025432
+78988|2-Oxopropanal||
+78999|1,1-Dichloropropane||DTXSID9058818
+79005|1,1,2-Trichloroethane|Endocrine Disrupting Chemicals (EDCs)|DTXSID5021380
+79016|1,1,2-Trichloroethene|Endocrine Disrupting Chemicals (EDCs)|DTXSID0021383
+79027|2,2-Dichloroacetaldehyde||DTXSID3021560
+79049|Chloroacetyl chloride||DTXSID4026472
+79050|Propionamide||DTXSID3058820
+79061|2-Propenamide|Endocrine Disrupting Chemicals (EDCs)|DTXSID5020027
+79072|2-Chloroacetamide||DTXSID9041570
+79083|Bromoacetic acid||DTXSID7021495
+79094|Propanoic acid|Endocrine Disrupting Chemicals (EDCs)|DTXSID8025961
+79107|2-Propenoic acid||DTXSID0039229
+79118|2-Chloroacetic acid||DTXSID4020901
+79141|2-Hydroxyacetic acid|Glycol Ethers|DTXSID0025363
+79152|N-Bromoacetamide||DTXSID5024633
+79163|N-Methylacetamide||DTXSID0047167
+79196|Thiosemicarbazide||DTXSID9021346
+79209|Methyl acetate||DTXSID4021767
+79210|Ethaneperoxoic acid||DTXSID1025853
+79221|Carbonochloridic acid, methyl ester||DTXSID0024185
+79243|Nitroethane||DTXSID8020969
+79276|1,1,2,2-Tetrabromoethane||DTXSID1026083
+79287|Tetrabromoethane||DTXSID8058821
+79312|2-Methylpropanoic acid||DTXSID4021636
+79334|(2S)-2-Hydroxypropanoic acid||DTXSID6034689
+79345|1,1,2,2-Tetrachloroethane||DTXSID7021318
+79367|Dichloroacetyl chloride||
+79390|2-Methyl-2-propenamide||DTXSID8029600
+79403|Ethanedithioamide||DTXSID3020546
+79414|2-Methyl-2-propenoic acid||DTXSID3025542
+79425|2-Mercaptopropanoic acid||DTXSID80861636
+79436|2,2-Dichloroacetic acid||DTXSID2020428
+79447|N,N-Dimethylcarbamic chloride||DTXSID1020512
+79458|N,N-Dimethylcarbamodithioic acid||
+79469|2-Nitropropane||DTXSID6020981
+79572|(4S,4aR,5S,5aR,6S,12aS)-4-(Dimethylamino)-1,4,4a,5,5a,6,11,12a-octahydro-3,5,6,10,12,12a-hexahydroxy-6-methyl-1,11-dioxo-2-naphthacenecarboxamide||DTXSID1034260
+79630|(3beta)-Lanosta-8,24-dien-3-ol||DTXSID1040744
+79776|beta-Ionone||DTXSID4021769
+79834|N-[(2R)-2,4-Dihydroxy-3,3-dimethyl-1-oxobutyl]-beta-alanine||
+79925|Camphene||DTXSID8026488
+79947|4,4'-(1-Methylethylidene)bis[2,6-dibromophenol]||DTXSID1026081
+79958|4,4'-(1-Methylethylidene)bis[2,6-dichlorophenol]||DTXSID3021770
+79970|4,4'-(1-Methylethylidene)bis[2-methylphenol]||DTXSID8047890
+80002|p-Chlorophenyl phenyl sulfone||DTXSID9042259
+80057|4,4'-(1-Methylethylidene)bisphenol||DTXSID7020182
+80068|4-Chloro-alpha-(4-chlorophenyl)-alpha-methylbenzenemethanol||DTXSID7040283
+80079|1,1'-Sulfonylbis[4-chlorobenzene]||DTXSID9024986
+80080|4,4'-Sulfonylbisbenzenamine||DTXSID4020371
+80091|4,4'-Sulfonylbisphenol||DTXSID3022409
+80115|N,4-Dimethyl-N-nitrosobenzenesulfonamide,||DTXSID8058827
+80126|Tetramethylenedisulfotetramine||DTXSID8040307
+80137|4-[(Dichloroamino)sulfonyl]benzoic acid||DTXSID9025370
+80159|1-Methyl-1-phenylethyl hydroperoxide||DTXSID3024869
+80171|Benzenesulfonic acid hydrazide||DTXSID0052548
+80182|Benzenesulfonic acid, Methyl ester||DTXSID5052549
+80262|alpha,alpha,4-Trimethyl-3-cyclohexene-1-methanol 1-acetate||DTXSID2026496
+80320|4-Amino-N-(6-chloro-3-pyridazinyl)benzenesulfonamide||DTXSID9045265
+80331|4-Chlorobenzenesulfonic acid 4-chlorophenyl ester||DTXSID5020310
+80353|4-Amino-N-(6-methoxy-3-pyridazinyl)benzenesulfonamide||DTXSID5023611
+80386|Benzenesulfonic acid, p-Chlorophenyl ester||DTXSID6041973
+80422|Benzenesulfonic acid, Propyl ester||DTXSID7058834
+80433|Bis(1-methyl-1-phenylethyl)peroxide||DTXSID1025017
+80444|Benzenesulfonic acid, Butyl ester||DTXSID1075357
+80466|4-(1,1-Dimethylpropyl)phenol||DTXSID8021771
+80499|(3-Endo)-3-[(2-hydroxy-2-phenylacetyl)oxy]-8,8-dimethyl-8-azoniabicyclo[3.2.1]octane bromide (1:1)||
+80513|4,4'-Oxybisbenzenesulfonic acid 1,1'-dihydrazide||
+80524|1,8-Diamino-p-menthane||DTXSID3021772
+80535|Terpin||DTXSID7023643
+80568|alpha-Pinene||DTXSID4026501
+80579|4,6,6-Trimethylbicyclo[3.1.1]hept-3-en-2-one||DTXSID2048115
+80626|2-Methyl-2-propenoic acid, Methyl ester||DTXSID2020844
+80682|DL-Threonine||DTXSID70893087
+80693|Tartronic acid||DTXSID6075358
+80739|1,3-Dimethyl-2-imidazolidinone||DTXSID1073153
+80977|(3beta,5alpha)-Cholestan-3-ol||DTXSID40883258
+80999|(3beta,5alpha)-Cholest-7-en-3-ol||DTXSID501015889
+81049|1,5-Naphthalenedisulfonic acid||DTXSID5046982
+81072|1,2-Benzisothiazol-3(2H)-one 1,1-dioxide||DTXSID5021251
+81118|2,2'-(1,2-Ethenediyl)bis[5-aminobenzenesulfonic acid]||
+81141|1-[4-(1,1-Dimethylethyl)-2,6-dimethyl-3,5-dinitrophenyl]ethanone||DTXSID6025690
+81152|Trinitro-t-butyl xylene||DTXSID1021405
+81196|1,3-Dichloro-2-(dichloromethyl)benzene||DTXSID8021773
+81232|(5beta)-3,7,12-Trioxocholan-24-oic acid||
+81254|(3 alpha, 5 beta, 7 alpha, 12 alpha)-3,7,12-Trihydroxycholan-24-oic acid||DTXSID6040660
+81334|Anthra [2,1,9-def:6,5,10-d'e'f']diisoquinoline-1,3,8,10(2H,9H)-tetrone||
+81492|1-Amino-2,4-dibromo-9,10-anthracenedione||DTXSID4039235
+81505|1-Amino-4-bromo-2-methyl-9,10-anthracenedione||DTXSID1058848
+81549|1,2,4-Trihydroxy-9,10-anthracenedione||DTXSID4021214
+81550|1,8-Dihydroxy-4,5-dinitro-9,10-anthracenedione||DTXSID0025076
+81618|1,2,5,8-Tetrahydroxy-9,10-anthracenedione||DTXSID4052558
+81641|1,4-Dihydroxy-9,10-anthracenedione||DTXSID8044464
+81776|6,15-Dihydro-5,9,14,18-anthrazinetetrone||DTXSID2026280
+81812|4-Hydroxy-3-(3-oxo-1-phenylbutyl)-2H-1-benzopyran-2-one|Pharmaceutical Personal Care Products (PPCPs)|DTXSID5023742
+81823|Coumachlor||DTXSID8041797
+81845|1H,3H-Naphtho[1,8-cd]pyran-1,3-dione||DTXSID4026505
+81889|N-[9-(2-Carboxypheny)-6-(diethylamino)-3H-xanthen-3-ylidene]-N-ethylethanaminium, Chloride||DTXSID6042369
+82020|4,9-Dimethoxy-7-methyl-5H-furo[3,2-g][1]benzopyran-5-one||DTXSID9045267
+82053|Benzanthrone||DTXSID8052566
+82122|1,2,3,5,6,7-Hexahydroxy-9,10-anthracenedione||DTXSID1075359
+82439|1,8-Dichloro-9,10-anthracenedione||DTXSID8058873
+82440|1-Chloroanthraquinone||DTXSID7052571
+82451|1-Amino-9,10-anthracenedione||DTXSID2052572
+82462|1,5-Dichloro-9,10-anthracenedione||DTXSID3058874
+82622|3,4,6-Trichloro-2-nitrophenol||DTXSID0026206
+82666|2-(Diphenylacetyl)-1H-indene-1,3(2H)-dione||DTXSID4032378
+82688|1,2,3,4,5-Pentachloro-6-nitrobenzene|Endocrine Disrupting Chemicals (EDCs)|DTXSID2021105
+82713|2,4,6-Trinitroresorcinol||DTXSID7058880
+82768|8-Anilinonaphthalene-1-sulfonic acid||DTXSID7058882
+82860|1,2-Acenaphthylenedione||DTXSID7049429
+82939|1-[(4-Chlorophenyl)phenylmethyl]-4-methylpiperazine||DTXSID9048011
+82940|4-[[4-(Dimethylamino)phenyl][4-(dimethylimino)-2,5-cyclohexadien-1-ylidene]methyl]-N,N,N-trimethylbenzenaminium, Dichloride||DTXSID60889419
+83012|Diphenylcarbamoyl chloride||DTXSID2058885
+83056|4-Chloro-alpha-(4-chlorophenyl)benzeneacetic acid||DTXSID3040699
+83078|4-Aminoantipyrene|Polyaromatic Hydrocarbons (PAHs)|DTXSID8048860
+83136|Phenylpropanedioic acid, Diethyl ester||DTXSID7058886
+83250|N-Phenyl succinimide||DTXSID60232108
+83261|2-(2,2-Dimethyl-1-oxopropyl)1H-idene-1,3(2H)dione||DTXSID1025930
+83283|2-Isovaleryl-1,3-indandione||DTXSID8042509
+83307|2,4,6-Trihydroxybenzoic acid||DTXSID1058890
+83329|Acenaphthene|Polyaromatic Hydrocarbons (PAHs)|DTXSID3021774
+83330|2,3-Dihydro-1H-inden-1-one||DTXSID1058892
+83341|3-Methylindole||DTXSID8021775
+83385|2,6-Dichlorobenzaldehyde||DTXSID5024970
+83396|1H-Imidazole-4,5-dicarboxamide||
+83410|1,2-Dimethyl-3-nitrobenzene||DTXSID7025132
+83421|2-Chloro-6-nitrotoluene||DTXSID1041263
+83454|(3beta,5alpha)-Stigmastan-3-ol||
+83465|(3beta)-Stigmast-5-en-3-ol||DTXSID5022481
+83487|(3-beta, 22E)-Stigmasta-5,22-dien-3-ol||DTXSID801015733
+83567|1,5-Dihydroxynaphthalene||DTXSID2052574
+83590|5,6,7,8-Tetrahydro-7- methylnaphtho[2,3-d]-1,3-dioxole-5,6-dicarboxylic acid, Dipropyl ester||DTXSID0021202
+83647|4-Amino-5-hydroxy-1-naphthalenesulfonic acid||DTXSID1058896
+83669|6-tert-Butyl-2,4-dinitro-3-methylanisole||DTXSID7025689
+83670|Theobromine||DTXSID9026132
+83727|2-Hydroxy-1,4-naphthalenedione||DTXSID2025428
+83738|5,7-Diiodo-8-quinolinol||DTXSID6023155
+83749|Ibogaine||DTXSID20894069
+83794|[2R-(2-alpha, 6a-alpha, 12a-alpha)]-1,2,12,12a-Tetrahydro-8,9-dimethoxy-2-(1-methylethenyl)-[1]-benzopyrano[3,4-b]furo[2,3-h][1]benzopyran-6(6aH)-one||DTXSID6021248
+83885|(-)-Riboflavin||DTXSID8021777
+83896|N~4~-(6-Chloro-2-methoxyacridin-9-yl)-N~1~,N~1~-diethylpentane-1,4-diamine||DTXSID7022627
+84117|9,10-Phenanthrenedione||DTXSID3058901
+84162|(R*,S*)-4,4'-(1,2-Diethyl-1,2-ethanediyl)bisphenol||DTXSID2022381
+84173|4,4'-(1,2-Diethylidene-1,2-ethanediyl)bisphenol||DTXSID7022382
+84219|Adenosine-3'-monophosphate||
+84515|2-Ethylanthraquinone||DTXSID5044994
+84526|Cytidylic acid||
+84548|2-Methyl-9,10-anthracenedione||DTXSID5041439
+84606|2,6-Dihydroxy-9,10-anthracenedione||DTXSID6036546
+84617|1,2-Benzenedicarboxylic acid, 1,2-Dicyclohexyl ester|Phthalate Esters|DTXSID5025021
+84628|1,2-Benzenedicarboxylic acid, 1,2-Diphenyl ester||DTXSID3021778
+84651|9,10-Anthracenedione||DTXSID3020095
+84662|1,2-Benzenedicarboxylic acid, 1,2-Diethyl ester|Endocrine Disrupting Chemicals (EDCs)Phthalate Esters|DTXSID7021780
+84695|1,2-Benzenedicarboxylic acid, 1,2-bis(2-methylpropyl) ester|Phthalate Esters|DTXSID9022522
+84742|1,2-Benzenedicarboxylic acid, 1,2-Dibutyl ester|Phthalate EstersEndocrine Disrupting Chemicals (EDCs)|DTXSID2021781
+84753|1,2-Benzenedicarboxylic acid, 1,2-Dihexyl ester|Phthalate Esters|DTXSID6025068
+84764|1,2-Benzenedicarboxylic acid, 1,2-Dinonyl ester|Phthalate Esters|DTXSID9047966
+84775|1,2-Benzenedicarboxylic acid, 1,2-Didecyl ester||DTXSID3026512
+84797|2-Hydroxy-3-(3-methyl-2-buten-1-yl)-1,4-naphthalenedione||DTXSID6049430
+84800|[R-[R*,R*-(E)]]-2-Methyl-3-(3,7,11,15-tetramethyl-2-hexadecenyl)-1,4-naphthalenedione||DTXSID8023472
+84866|4-Amino-1-naphthalenesulfonic acid||DTXSID3058909
+84968|N,N,beta-Trimethyl-10H-phenothiazine-10-propanamine||
+85007|6,7-Dihydrodipyrido[1,2-a:2',1'-c]pyrazinediium bromide (1:2)||DTXSID3024075
+85018|Phenanthrene|Polyaromatic Hydrocarbons (PAHs)|DTXSID6024254
+85029|Benzo(f)quinoline||DTXSID2024585
+85085|Methyl-A-naphthylacetate||DTXSID5041435
+85198|(5-Chloro-2-hydroxyphenyl)phenylmethanone||DTXSID8047894
+85223|Pentabromoethylbenzene||DTXSID7021782
+85290|2,4'-Dichlorobenzophenone||DTXSID6058920
+85314|6-Thioguanine riboside||
+85347|2,3,6-Trichlorobenzeneacetic acid||DTXSID2040284
+85405|3a,4,7,7a-Tetrahydro-1H-isoindole-1,3(2H)-dione||DTXSID8026513
+85416|1H-Isoindole-1,3(2H)-dione||DTXSID3026514
+85427|1,2-Cyclohexanedicarboxylic anhydride||DTXSID8026515
+85438|Tetrahydrophthalic anhydride||DTXSID3026516
+85449|1,3-Isobenzofurandione||DTXSID2021159
+85472|1-Naphthalenesulfonic acid||DTXSID7048033
+85529|O-Benzoylbenzoic acid||DTXSID6058924
+85563|O-(4-Chlorobenzoyl)benzoic acid||DTXSID1058927
+85574|2-(4-Hydroxybenzoyl)benzoic acid||DTXSID0075360
+85596|2,2'-Terephthaloyldibenzoic acid||
+85687|1,2-Benzenedicarboxylic acid, 1-Butyl 2-(phenylmethyl) ester|Phthalate EstersEndocrine Disrupting Chemicals (EDCs)|DTXSID3020205
+85698|Butyl 2-ethylhexylester 1,2-benzenedicarboxylic acid|Phthalate Esters|DTXSID8026519
+85701|2-Butoxy-2-oxoethylbutylester-1,2-benzenedicarboxylic acid|Phthalate Esters|DTXSID7023938
+85723|2-[[(3-Methylphenyl)amino]carbonyl]benzoic acid||
+85790|2-Butoxy-N-[2-(diethylamino)ethyl]quinoline-4-carboxamide||DTXSID3045271
+85836|1-[2-[2-Methyl-4-[2-(2-methylphenyl)diazenyl]phenyl]diazenyl]-2-naphthalenol||DTXSID8041743
+85847|1-(Phenylazo)-2-naphthylamine||DTXSID0058932
+85858|1-[2-(2-Pyridinyl)diazenyl]-2-naphthalenol||DTXSID5058933
+85869|1-((4-(Phenylazo)phenyl)azo)-2-naphthalenol||
+85916|2-(Methylamino)benzoic acid methyl ester||DTXSID1052581
+85983|N,N'-Diethyl-N,N'-diphenylurea||DTXSID8025040
+86293|Diphenylacetonitrile||DTXSID4020539
+86306|N-Nitroso-N-phenylbenzenamine|Nitrosamines|DTXSID6021030
+86351|3-Ethyl-5-phenyl-2,4-imidazolidinedione||DTXSID6023020
+86408|3,6-Diamino-10-methylacridinium, Chloride (1:1)||DTXSID60273975
+86420|4-[(7-Chloro-4-quinolinyl)amino]-2-[(diethylamino)methyl]phenol||DTXSID2022597
+86442|3-Benzyl-4-methyl-7-hydroxycoumarin||DTXSID5075361
+86500|O,O-Dimethyl S-[(4-oxo-1,2,3-benzotriazin-3(4H)-yl)methyl] ester, Phosphorodithioic acid||DTXSID3020122
+86533|1-Cyanonaphthalene||DTXSID4058940
+86577|1-Nitronaphthalene||DTXSID7020978
+86737|9H-Fluorene|Polyaromatic Hydrocarbons (PAHs)|DTXSID8024105
+86748|Carbazole||DTXSID4020248
+86817|3,4,5-Trimethoxybenzaldehyde||DTXSID4058948
+86862|1-Naphthaleneacetamide||DTXSID3020914
+86873|1-Naphthaleneacetic acid||DTXSID8020915
+86884|1-Naphthalenylthiourea||DTXSID8020919
+86953|4-Hydroxy-2(1H)-quinolinone||
+86986|4,7-Dichloroquinoline||DTXSID0052590
+87058|7-Ethoxy-4-methyl-2H-1-benzopyran-2-one||DTXSID3058953
+87081|(2S,5R,6R)-3,3-Dimethyl-7-oxo-6-[(2-phenoxyacetyl)amino]-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid|Pharmaceutical Personal Care Products (PPCPs)|
+87105|3,5-Dibromo-N-(4-bromophenyl)-2-hydroxybenzamide||
+87116|Thiolutin||DTXSID0040624
+87138|(Ethoxymethylene)malonic acid, Diethyl ester||DTXSID5052591
+87172|2-Hydroxy-N-phenylbenzamide||DTXSID7021784
+87207|2-Hydroxybenzoic acid, 3-Methylbutyl ester||
+87252|2-Aminobenzoic acid ethyl ester||DTXSID6025272
+87296|3-Phenyl-2-propen-1-ol 1-(2-aminobenzoate)||DTXSID3020330
+87401|1,3,5-Trichloro-2-methoxybenzene||DTXSID9073886
+87412|1(3H)-Isobenzofuranone||DTXSID0052594
+87423|6-Chloro-1H-purine||
+87445|(1R,4E,9S)-4,11,11-Trimethyl-8-methylenebicyclo[7.2.0]undec-4-ene||DTXSID8024739
+87478|3-Methyl-1-phenyl-1H-pyrazol -5-yl ester dimethylcarbamic acid||DTXSID6042361
+87514|1H-Indole-3-acetic acid||DTXSID5020738
+87525|N,N-Dimethyl-1H-indole-3-methanamine||DTXSID3058955
+87569|(Z)-2,3-Dichloro-4-oxo-2-butenoic acid||
+87592|2,3-Dimethylbenzenamine||DTXSID3026304
+87616|1,2,3-Trichlorobenzene||DTXSID8026193
+87627|2,6-Dimethylbenzenamine||DTXSID8026307
+87638|2-Chloro-6-methylbenzenamine||DTXSID8058956
+87649|2-Methyl-6-chlorophenol||DTXSID0075362
+87650|2,6-Dichlorophenol||DTXSID2025004
+87661|1,2,3-Benzenetriol||DTXSID6025983
+87683|1,1,2,3,4,4-Hexachloro-1,3-butadiene||DTXSID7020683
+87694|(2R,3R)-2,3-Dihydroxybutanedioic acid||DTXSID8023632
+87729|L-Arabinopyranose||DTXSID5052836
+87785|Mannitol||DTXSID30858955
+87796|L-Sorbose||DTXSID1048704
+87821|Hexabromobenzene||DTXSID1024128
+87832|Pentabromomethylbenzene||DTXSID3025833
+87843|1,2,3,4,5-Pentabromo-6-chlorocyclohexane||DTXSID4025828
+87865|2,3,4,5,6-Pentachlorophenol|Endocrine Disrupting Chemicals (EDCs)|DTXSID7021106
+87876|2,3,5,6-Tetrachloro-1,4-benzenediol||DTXSID8058958
+87887|2,5-Dichloro-3,6-dihydroxy-p-benzoquinone||DTXSID3058959
+87898|myo-Inositol||DTXSID7023146
+87901|1,3,5-Trichloro-1,3,5-triazine-2,4,6(1H,3H,5H)-trione||DTXSID2026523
+87912|[R-(R*,R*)]-2,3-Dihydroxybutanedioic acid, Diethyl ester||DTXSID5052597
+87990|Xylitol||DTXSID7042514
+88039|Methylphloroglucinol||DTXSID5075363
+88040|4-Chloro-3,5-dimethylphenol||DTXSID0032316
+88051|2,4,6-Trimethylaniline||DTXSID5043847
+88062|2,4,6-Trichlorophenol||DTXSID5021386
+88095|2-Ethylbutanoic acid||DTXSID2041418
+88119|Diethylthiocarbamoyl chloride||DTXSID0075364
+88142|2-Furancarboxylic acid||
+88186|2-(1,1-Dimethylethyl)phenol||DTXSID2026525
+88197|2-Methylbenzenesulfonamide||
+88299|Versalide||DTXSID3041582
+88302|4-Nitro-3-(trifluoromethyl)phenol||DTXSID7021788
+88448|2-Amino-5-methylbenzenesulfonic acid||
+88459|2,5-Diaminobenzenesulfonic acid||DTXSID7058969
+88619|2,4-Dimethylbenzenesulfonic acid||
+88653|2-Bromobenzoic acid||DTXSID3038690
+88675|2-Iodobenzoic acid||DTXSID6058976
+88686|2-Aminobenzamide||DTXSID2021789
+88697|2-(1-Methylethyl)phenol||DTXSID2044391
+88722|1-Methyl-2-nitrobenzene||DTXSID4025791
+88733|1-Chloro-2-nitrobenzene||DTXSID0020280
+88744|2-Nitrobenzenamine||DTXSID1025726
+88755|2-Nitrophenol||DTXSID1021790

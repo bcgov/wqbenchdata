@@ -1,0 +1,12 @@
+carrier_id| test_id| cas_number| chem_name| purpose| grade| grade_comments| formulation| formulation_comments| radiolabel| radiolabel_comments| purity_mean_op| purity_mean| purity_min_op| purity_min| purity_max_op| purity_max| purity_comments| characteristics
+342653|1000060|67641|Propan-2-one|Carrier|NR||NR||NR|||NR||NR||NR||0.5 ML
+342654|1000061|67641|Propan-2-one|Carrier|NR||NR||NR|||NR||NR||NR||0.5 ML
+342655|1000062|67641|Propan-2-one|Carrier|NR||NR||NR|||NR||NR||NR||0.5 ML
+342656|1000063|67641|Propan-2-one|Carrier|NR||NR||NR|||NR||NR||NR||0.5 ML
+342657|1000064|67641|Propan-2-one|Carrier|NR||NR||NR|||NR||NR||NR||NR
+342658|1000093|64197|Acetic acid|Carrier|NR||NR||NR|||NR||NR||NR||GLACIAL
+342659|1000094|64197|Acetic acid|Carrier|NR||NR||NR|||NR||NR||NR||GLACIAL
+342660|1000095|64197|Acetic acid|Carrier|NR||NR||NR|||NR||NR||NR||GLACIAL
+342661|1000096|64197|Acetic acid|Carrier|NR||NR||NR|||NR||NR||NR||GLACIAL
+342662|1000097|64197|Acetic acid|Carrier|NR||NR||NR|||NR||NR||NR||GLACIAL
+342663|1000098|64197|Acetic acid|Carrier|NR||NR||NR|||NR||NR||NR||GLACIAL

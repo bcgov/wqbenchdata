@@ -1,0 +1,134 @@
+code|description
+--|Unspecified
+AB|Aboveground portion [plant]
+AD|Adult
+AL|Alevin
+BH|Both male and female
+BR|Brood
+C1|First clutch, brood or litter
+C2|Second clutch, brood or litter
+C3|Third clutch, brood or litter
+CB|Combs
+CC|Cocoons
+CL|Cells
+CO|Colony
+CT|Containers
+DC|Deceased organism
+EG|Egg
+EM|Embryo
+EU|Experimental unit
+F0|F0 generation
+F1|F1 generation
+F10|F10 generation
+F12|F12 generation
+F16|F16 generation
+F2|F2 generation
+F3|F3 generation
+F4|F4 generation
+F5|F5 generation
+F6|F6 generation
+F7|F7 generation
+F8|F8 generation
+F9|F9 generation
+FB|Mature, full-bloom (fruit trees)
+FD|Frond
+FE1|1st leaf
+FET|Fetus
+FF|Fields (agricultural)
+FFE|Female fetus
+FG|Female gametophyte
+FI|Fingerling
+FL|Flower
+FM|Female organisms
+FR|Fruit
+FT|Froglet
+FX|Multiple generations
+FY|Fry
+G1|female, 1st generation
+G10|female, 10th generation
+G2|female, 2nd generation
+G3|female, 3rd generation
+G4|female, 4th generation
+G5|female, 5th generation
+G6|female, 6th generation
+G7|female, 7th generation
+G8|female, 8th generation
+G9|female, 9th generation
+GR|Grains
+GS|Germinated seed
+HC|Honey comb
+HM|Hermaphrodite
+HT|Hatchling
+IM|Immature
+JV|Juvenile
+KR|Kernel
+LE|Leaf
+LE1|1st leaf
+LE2|2nd leaf
+LE3|3rd leaf
+LE4|4th leaf
+LE5|5th leaf
+LE6|6th leaf
+LE7|7th leaf
+LE8|8th leaf
+LT|Litters
+LV|Larvae
+M1|male, 1st generation
+M10|male, 10th generation
+M2|male, 2nd generation
+M3|male, 3rd generation
+M4|male, 4th generation
+M5|male, 5th generation
+M6|male, 6th generation
+M7|male, 7th generation
+M8|male, 8th generation
+M9|male, 9th generation
+MD|Mature dormant
+MFE|Male fetus
+MG|Male gametophyte
+ML|Male organisms
+MT|Mature (no specified age)
+MU|Multiple
+MULT|Multiple response sites
+MX|Male, multiple generations
+NC|Not coded
+NF|Non-pregnant female
+NR|Not reported
+NT|Nest
+NU|Nauplii
+NY|Nymph
+OR|Organism
+P1|Parent, 1st generation
+PA|Parr
+PB|Mature, post-bloom (fruit trees)
+PC|Plant cutting (unspecified)
+PF|Pregnant female
+PH|Mature, pit-hardening (fruit trees)
+PL|Plots
+PO|Pollen, pollen grains
+PR|Pair
+PT|Petioles
+PU|Pupae
+PV|Post-larva
+RB|Mature reproductive, 2nd generation
+RC|Mature reproductive, 3rd generation
+RO|Root
+RP|Mature reproductive
+RS|Root segments
+SA|Subadult
+SC|Second generation (m2), no specific stage
+SD|Seed
+SF|Sac fry, yolk sac fry
+SG|Mature, side-green (fruit trees)
+SHL|Shell
+SL|Seedling
+SM|Samples
+SO|Shoot
+SOT|Shoot tip
+SPR|Spore
+SV|Survivor
+TA|Tadpole
+TC|Tissue culture callus
+TU|Tubers
+VC|Vegetative clone
+VG|Mature vegetative

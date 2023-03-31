@@ -1,0 +1,11 @@
+dose_resp_id|test_id|sample_size_unit|sample_size_comments|effect_code|measurement_code|measurement_comments|response_site|response_site_comments|obs_duration_mean_op|obs_duration_mean|obs_duration_min_op|obs_duration_min|obs_duration_max_op|obs_duration_max|obs_duration_unit|obs_duration_comments|response_unit|response_comments|additional_comments
+1|1|ML||ENZ|ATRP||PL|||15||NR||NR|d||IU/L||
+2|1|ML||ENZ|GGTR||PL|||15||NR||NR|d||IU/L||
+3|1|ML||HRM|TSTR||PL|||15||NR||NR|d||ng/ml||
+4|2|ML||ENZ|BCOD||LI|||4||NR||NR|d||umol/mg/mi||
+5|2|ML||ENZ|BROD||LI|||4||NR||NR|d||pmol/mg/mi||
+6|2|ML||ENZ|ECOD||LI|||4||NR||NR|d||umol/mg/mi||
+7|2|ML||ENZ|EROD||LI|||4||NR||NR|d||pmol/mg/mi||
+8|2|ML||ENZ|MCOD||LI|||4||NR||NR|d||umol/mg/mi||
+9|2|ML||BCM|MCPR||LI|||4||NR||NR|d||mg/g||
+10|2|ML||ENZ|PCOD||LI|||4||NR||NR|d||umol/mg/mi||

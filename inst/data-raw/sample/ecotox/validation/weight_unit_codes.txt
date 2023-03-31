@@ -1,0 +1,9 @@
+code|description
+--|Unspecified
+NC|Not Coded
+NR|Not Reported
+g|Grams
+kg|kilograms
+lb|pounds
+mg|milligrams
+ug|micrograms

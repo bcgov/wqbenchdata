@@ -1,0 +1,7 @@
+code|description
+M|Multiple values
+NC|Not Coded
+NR|Not Reported
+P|Publication reported endpoint
+R|Reviewer assigned endpoint
+X|Unknown

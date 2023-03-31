@@ -1,0 +1,12 @@
+code|description
+--|Unspecified
+CL|Clay
+GR|Gravel
+M|Mineral
+MU|Mud
+MX|Mixture
+NC|Not coded
+NR|Not reported
+O|Organic
+SA|Sand
+SI|Silt
