@@ -63,10 +63,10 @@ for more info.
 
 ## Code of Conduct
 
-Please note that the wqbench project is released with a [Contributor
-Code of
-Conduct](https://contributor-covenant.org/version/2/1/CODE_OF_CONDUCT.html).
-By contributing to this project, you agree to abide by its terms.
+Please note that the shinywqbench project is released with a
+[Contributor Code of
+Conduct](https://github.com/bcgov/wqbenchdata/CODE_OF_CONDUCT.md). By
+contributing to this project, you agree to abide by its terms.
 
 ## License
 
