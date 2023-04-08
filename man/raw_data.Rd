@@ -5,17 +5,15 @@
 \alias{raw_data}
 \title{Sample of Raw Data}
 \format{
-An object of class \code{tbl_df} (inherits from \code{tbl},
-\code{data.frame})
+An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame})
 }
 \usage{
 raw_data
 }
 \description{
-Sample of raw set used for testing.
+Sample of raw data used for testing.
 }
 \examples{
 head(raw_data)
-
 }
 \keyword{datasets}

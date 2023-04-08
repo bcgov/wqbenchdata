@@ -14,10 +14,9 @@
 
 #' Sample of Aquatic Concentration Data
 #' 
-#' Sample of data set used for testing and examples. 
+#' Sample data set used for examples. 
 #' 
-#' @format An object of class `tbl_df` (inherits from `tbl`,
-#' `data.frame`) 
+#' @format An object of class `tbl_df` (inherits from `tbl`, `data.frame`) 
 #' @examples
 #' head(aquatic_data)
 "aquatic_data"

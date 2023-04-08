@@ -5,14 +5,13 @@
 \alias{aquatic_data}
 \title{Sample of Aquatic Concentration Data}
 \format{
-An object of class \code{tbl_df} (inherits from \code{tbl},
-\code{data.frame})
+An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame})
 }
 \usage{
 aquatic_data
 }
 \description{
-Sample of data set used for testing and examples.
+Sample data set used for examples.
 }
 \examples{
 head(aquatic_data)

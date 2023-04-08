@@ -14,11 +14,9 @@
 
 #' Sample of Raw Data
 #' 
-#' Sample of raw set used for testing. 
+#' Sample of raw data used for testing. 
 #' 
-#' @format An object of class `tbl_df` (inherits from `tbl`,
-#' `data.frame`) 
+#' @format An object of class `tbl_df` (inherits from `tbl`, `data.frame`) 
 #' @examples
 #' head(raw_data)
-#' 
 "raw_data"
