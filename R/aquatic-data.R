@@ -20,5 +20,4 @@
 #' `data.frame`) 
 #' @examples
 #' head(aquatic_data)
-#' 
 "aquatic_data"

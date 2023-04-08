@@ -16,6 +16,5 @@ Sample of data set used for testing and examples.
 }
 \examples{
 head(aquatic_data)
-
 }
 \keyword{datasets}
