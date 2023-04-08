@@ -24,10 +24,10 @@
 #' data <- get_wqbenchdata("raw_data")
 get_wqbenchdata <- function(dataset) {
   if (dataset == "aquatic_data") {
-    return(eval(parse(text = "aquatic_data")))
+    return(wqbenchdata::aquatic_data)
   }
   
   if (dataset == "raw_data") {
-    return(eval(parse(text = "raw_data")))
+    return(wqbenchdata::raw_data)
   }
 }
