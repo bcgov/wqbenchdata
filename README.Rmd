@@ -1,16 +1,26 @@
+---
+output: github_document
+---
 
 # wqbenchdata
 
 <!-- badges: start -->
+[![img](https://img.shields.io/badge/Lifecycle-Experimental-339999)](https://github.com/bcgov/repomountie/blob/master/doc/lifecycle-badges.md)
 <!-- badges: end -->
 
-The goal of wqbenchdata is to ...
+This package contains sample data and test data for the `wqbench` suite of tools.
 
 ## Installation
 
-``` r
+```{r, eval=FALSE}
 # install.packages("remotes")
 remotes::install_github("bcgov/wqbenchdata")
+```
+
+## Usage
+
+```{r, rows.print = 10}
+wqbenchdata::aquatic_data
 ```
 
 ## Getting Help or Reporting an Issue
@@ -40,7 +50,3 @@ The code is released under the Apache License 2.0
 > WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 > See the License for the specific language governing permissions and
 > limitations under the License.
-
-## Reference
-
-1. Olker, J. H., Elonen, C. M., Pilli, A., Anderson, A., Kinziger, B., Erickson, S., Skopinski, M., Pomplun, A., LaLone, C. A., Russom, C. L., & Hoff, D. (2022). The ECOTOXicology Knowledgebase: A Curated Database of Ecologically Relevant Toxicity Tests to Support Environmental Research and Risk Assessment. Environmental Toxicology and Chemistry, 41(6):1520-1539. https://doi.org/10.1002/etc.5324
