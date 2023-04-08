@@ -19,8 +19,14 @@ remotes::install_github("bcgov/wqbenchdata")
 
 ## Usage
 
+```{r}
+library(wqbenchdata)
+```
+
+Use the sample data set called `aquatic_data` which contains 100 rows.
+
 ```{r, rows.print = 10}
-wqbenchdata::aquatic_data
+str(aquatic_data)
 ```
 
 ## Getting Help or Reporting an Issue
