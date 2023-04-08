@@ -21,12 +21,13 @@
 #'
 #' @examples
 #' data <- get_wqbenchdata("aquatic_data")
+#' data <- get_wqbenchdata("raw_data")
 get_wqbenchdata <- function(dataset) {
   if (dataset == "aquatic_data") {
-    return(aquatic_data)
+    return(eval(parse(text = "aquatic_data")))
   }
   
   if (dataset == "raw_data") {
-    return(raw_data)
+    return(eval(parse(text = "raw_data")))
   }
 }

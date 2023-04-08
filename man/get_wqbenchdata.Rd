@@ -17,4 +17,5 @@ Get wqbench data set
 }
 \examples{
 data <- get_wqbenchdata("aquatic_data")
+data <- get_wqbenchdata("raw_data")
 }
