@@ -1,5 +1,5 @@
 Package: wqbenchdata
-Title: Water Quality Benchmark Data
+Title: Water Quality Benchmark Testing Data
 Version: 0.0.1
 Authors@R: c(
   person("Ayla", "Pearson", , "ayla@poissonconsulting.ca", role = c("aut"),

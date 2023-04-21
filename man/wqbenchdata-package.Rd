@@ -4,7 +4,7 @@
 \name{wqbenchdata-package}
 \alias{wqbenchdata}
 \alias{wqbenchdata-package}
-\title{wqbenchdata: Water Quality Benchmark Data}
+\title{wqbenchdata: Water Quality Benchmark Testing Data}
 \description{
 Reference data from the ecotox database used for examples and testing in the wqbench package.
 }
