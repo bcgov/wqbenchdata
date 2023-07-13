@@ -1,6 +1,6 @@
 Package: wqbenchdata
 Title: Water Quality Benchmark Testing Data
-Version: 0.0.1
+Version: 0.1.0
 Authors@R: c(
   person("Ayla", "Pearson", , "ayla@poissonconsulting.ca", role = c("aut"),
              comment = c(ORCID = "0000-0001-7388-1222")),
