@@ -4,6 +4,7 @@
 <!-- badges: start -->
 
 [![img](https://img.shields.io/badge/Lifecycle-Experimental-339999)](https://github.com/bcgov/repomountie/blob/master/doc/lifecycle-badges.md)
+[![R-CMD-check](https://github.com/poissonconsulting/wqbenchdata/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/poissonconsulting/wqbenchdata/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 This package contains sample data and test data for the `wqbench` suite
